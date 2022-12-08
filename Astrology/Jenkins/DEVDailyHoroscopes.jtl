@@ -136,4 +136,602 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1670460836100,257,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73311,167,1,1,https://dev.astrology.com/horoscope/daily-dating/tomorrow/sagittarius.html,252,0,0
 1670460836357,303,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73471,326,1,1,https://dev.astrology.com/horoscope/daily-dating/tomorrow/scorpio.html,92,0,0
 1670460836357,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,466,163,1,1,http://dev.astrology.com/horoscope/daily-dating/tomorrow/scorpio.html,92,0,0
-1670460836449,211,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73005,163,1,1,https://dev.astrology.com/horoscope/daily-dating/tomorrow/scorpio.h
+1670460836449,211,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73005,163,1,1,https://dev.astrology.com/horoscope/daily-dating/tomorrow/scorpio.html,209,0,0
+1670460836661,307,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73508,324,1,1,https://dev.astrology.com/horoscope/daily-dating/tomorrow/taurus.html,94,0,0
+1670460836661,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,465,162,1,1,http://dev.astrology.com/horoscope/daily-dating/tomorrow/taurus.html,94,0,0
+1670460836755,213,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73043,162,1,1,https://dev.astrology.com/horoscope/daily-dating/tomorrow/taurus.html,210,0,0
+1670460836969,308,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73398,322,1,1,https://dev.astrology.com/horoscope/daily-dating/tomorrow/virgo.html,92,0,0
+1670460836969,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,161,1,1,http://dev.astrology.com/horoscope/daily-dating/tomorrow/virgo.html,92,0,0
+1670460837061,216,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,72934,161,1,1,https://dev.astrology.com/horoscope/daily-dating/tomorrow/virgo.html,214,0,0
+1670460837278,304,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73308,304,1,1,https://dev.astrology.com/horoscope/daily-dating/virgo.html,91,0,0
+1670460837278,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/daily-dating/virgo.html,91,0,0
+1670460837369,213,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,72853,152,1,1,https://dev.astrology.com/horoscope/daily-dating/virgo.html,211,0,0
+1670460837582,304,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73537,330,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/aquarius.html,91,0,0
+1670460837582,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,468,165,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/aquarius.html,91,0,0
+1670460837674,212,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73069,165,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/aquarius.html,210,0,0
+1670460837887,304,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73432,324,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/aries.html,90,0,0
+1670460837887,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,465,162,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/aries.html,90,0,0
+1670460837978,213,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,72967,162,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/aries.html,211,0,0
+1670460838191,305,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73496,326,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/cancer.html,92,0,0
+1670460838191,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,466,163,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/cancer.html,92,0,0
+1670460838283,213,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73030,163,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/cancer.html,212,0,0
+1670460838497,309,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73530,332,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/capricorn.html,91,0,0
+1670460838497,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,469,166,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/capricorn.html,91,0,0
+1670460838588,218,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73061,166,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/capricorn.html,212,0,0
+1670460838806,303,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73467,326,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/gemini.html,92,0,0
+1670460838806,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,466,163,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/gemini.html,92,0,0
+1670460838898,211,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73001,163,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/gemini.html,210,0,0
+1670460839109,317,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73297,320,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/leo.html,104,0,0
+1670460839109,104,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/leo.html,104,0,0
+1670460839214,212,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,72834,160,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/leo.html,209,0,0
+1670460839426,303,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73384,324,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/libra.html,91,0,0
+1670460839426,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,465,162,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/libra.html,91,0,0
+1670460839517,212,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,72919,162,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/libra.html,210,0,0
+1670460839729,303,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73465,326,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/pisces.html,92,0,0
+1670460839729,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,466,163,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/pisces.html,92,0,0
+1670460839821,211,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,72999,163,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/pisces.html,209,0,0
+1670460840056,304,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73732,336,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/sagittarius.html,92,0,0
+1670460840056,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,471,168,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/sagittarius.html,92,0,0
+1670460840149,211,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73261,168,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/sagittarius.html,209,0,0
+1670460840360,306,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73541,328,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/scorpio.html,92,0,0
+1670460840360,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,467,164,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/scorpio.html,92,0,0
+1670460840452,214,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73074,164,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/scorpio.html,211,0,0
+1670460840666,266,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73534,326,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/taurus.html,91,0,0
+1670460840666,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,466,163,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/taurus.html,91,0,0
+1670460840757,175,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73068,163,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/taurus.html,173,0,0
+1670460840932,303,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73415,324,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/virgo.html,91,0,0
+1670460840932,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,465,162,1,1,http://dev.astrology.com/horoscope/daily-dating/yesterday/virgo.html,91,0,0
+1670460841023,212,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,72950,162,1,1,https://dev.astrology.com/horoscope/daily-dating/yesterday/virgo.html,210,0,0
+1670460841235,866,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74097,306,1,1,https://dev.astrology.com/horoscope/daily-love/aquarius.html,90,0,0
+1670460841235,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/daily-love/aquarius.html,90,0,0
+1670460841325,776,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73641,153,1,1,https://dev.astrology.com/horoscope/daily-love/aquarius.html,674,0,0
+1670460842101,760,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74094,300,1,1,https://dev.astrology.com/horoscope/daily-love/aries.html,91,0,0
+1670460842101,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,453,150,1,1,http://dev.astrology.com/horoscope/daily-love/aries.html,91,0,0
+1670460842192,669,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73641,150,1,1,https://dev.astrology.com/horoscope/daily-love/aries.html,567,0,0
+1670460842861,744,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74052,302,1,1,https://dev.astrology.com/horoscope/daily-love/cancer.html,93,0,0
+1670460842861,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/daily-love/cancer.html,93,0,0
+1670460842954,651,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73598,151,1,1,https://dev.astrology.com/horoscope/daily-love/cancer.html,549,0,0
+1670460843606,625,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74141,308,1,1,https://dev.astrology.com/horoscope/daily-love/capricorn.html,90,0,0
+1670460843606,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/daily-love/capricorn.html,90,0,0
+1670460843697,534,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73684,154,1,1,https://dev.astrology.com/horoscope/daily-love/capricorn.html,430,0,0
+1670460844231,740,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74027,302,1,1,https://dev.astrology.com/horoscope/daily-love/gemini.html,91,0,0
+1670460844231,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/daily-love/gemini.html,91,0,0
+1670460844322,649,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73573,151,1,1,https://dev.astrology.com/horoscope/daily-love/gemini.html,547,0,0
+1670460844971,666,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73897,296,1,1,https://dev.astrology.com/horoscope/daily-love/leo.html,91,0,0
+1670460844971,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,451,148,1,1,http://dev.astrology.com/horoscope/daily-love/leo.html,91,0,0
+1670460845062,575,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73446,148,1,1,https://dev.astrology.com/horoscope/daily-love/leo.html,472,0,0
+1670460845637,792,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73948,300,1,1,https://dev.astrology.com/horoscope/daily-love/libra.html,92,0,0
+1670460845637,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,453,150,1,1,http://dev.astrology.com/horoscope/daily-love/libra.html,92,0,0
+1670460845730,699,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73495,150,1,1,https://dev.astrology.com/horoscope/daily-love/libra.html,597,0,0
+1670460846429,760,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73968,302,1,1,https://dev.astrology.com/horoscope/daily-love/pisces.html,91,0,0
+1670460846429,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/daily-love/pisces.html,91,0,0
+1670460846520,669,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73514,151,1,1,https://dev.astrology.com/horoscope/daily-love/pisces.html,566,0,0
+1670460847190,754,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74265,312,1,1,https://dev.astrology.com/horoscope/daily-love/sagittarius.html,93,0,0
+1670460847190,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/daily-love/sagittarius.html,93,0,0
+1670460847283,661,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73806,156,1,1,https://dev.astrology.com/horoscope/daily-love/sagittarius.html,558,0,0
+1670460847944,614,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74111,304,1,1,https://dev.astrology.com/horoscope/daily-love/scorpio.html,91,0,0
+1670460847944,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/daily-love/scorpio.html,91,0,0
+1670460848036,522,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73656,152,1,1,https://dev.astrology.com/horoscope/daily-love/scorpio.html,419,0,0
+1670460848558,597,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74037,302,1,1,https://dev.astrology.com/horoscope/daily-love/taurus.html,92,0,0
+1670460848558,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/daily-love/taurus.html,92,0,0
+1670460848650,505,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73583,151,1,1,https://dev.astrology.com/horoscope/daily-love/taurus.html,404,0,0
+1670460849154,759,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74262,324,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/aquarius.html,90,0,0
+1670460849154,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,465,162,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/aquarius.html,90,0,0
+1670460849245,668,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73797,162,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/aquarius.html,564,0,0
+1670460849914,762,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74088,318,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/aries.html,90,0,0
+1670460849914,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,462,159,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/aries.html,90,0,0
+1670460850004,672,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73626,159,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/aries.html,569,0,0
+1670460850676,759,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74100,320,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/cancer.html,90,0,0
+1670460850676,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/cancer.html,90,0,0
+1670460850766,669,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73637,160,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/cancer.html,567,0,0
+1670460851435,719,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74159,326,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/capricorn.html,91,0,0
+1670460851435,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,466,163,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/capricorn.html,91,0,0
+1670460851526,628,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73693,163,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/capricorn.html,527,0,0
+1670460852155,746,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74131,320,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/gemini.html,91,0,0
+1670460852155,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/gemini.html,91,0,0
+1670460852246,655,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73668,160,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/gemini.html,553,0,0
+1670460852901,598,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73953,314,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/leo.html,91,0,0
+1670460852901,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,460,157,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/leo.html,91,0,0
+1670460852992,507,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73493,157,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/leo.html,404,0,0
+1670460853500,761,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73940,318,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/libra.html,92,0,0
+1670460853500,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,462,159,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/libra.html,92,0,0
+1670460853592,669,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73478,159,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/libra.html,567,0,0
+1670460854262,1168,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74169,320,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/pisces.html,201,0,4
+1670460854262,201,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/pisces.html,201,0,4
+1670460854463,967,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73706,160,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/pisces.html,866,0,231
+1670460855431,769,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74539,330,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/sagittarius.html,93,0,0
+1670460855431,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,468,165,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/sagittarius.html,93,0,0
+1670460855524,676,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,74071,165,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/sagittarius.html,573,0,0
+1670460856200,731,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74330,322,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/scorpio.html,94,0,0
+1670460856200,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,161,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/scorpio.html,94,0,0
+1670460856295,636,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73866,161,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/scorpio.html,534,0,0
+1670460856932,787,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74191,320,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/taurus.html,93,0,0
+1670460856932,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/taurus.html,93,0,0
+1670460857025,694,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73728,160,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/taurus.html,592,0,0
+1670460857719,644,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73990,318,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/virgo.html,93,0,0
+1670460857719,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,462,159,1,1,http://dev.astrology.com/horoscope/daily-love/tomorrow/virgo.html,93,0,0
+1670460857812,551,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73528,159,1,1,https://dev.astrology.com/horoscope/daily-love/tomorrow/virgo.html,402,0,0
+1670460858364,631,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73942,300,1,1,https://dev.astrology.com/horoscope/daily-love/virgo.html,93,0,0
+1670460858364,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,453,150,1,1,http://dev.astrology.com/horoscope/daily-love/virgo.html,93,0,0
+1670460858457,538,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73489,150,1,1,https://dev.astrology.com/horoscope/daily-love/virgo.html,437,0,0
+1670460858996,608,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74254,326,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/aquarius.html,94,0,0
+1670460858996,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,466,163,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/aquarius.html,94,0,0
+1670460859091,513,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73788,163,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/aquarius.html,412,0,0
+1670460859605,840,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74032,320,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/aries.html,95,0,0
+1670460859605,95,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/aries.html,95,0,0
+1670460859700,745,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73569,160,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/aries.html,644,0,0
+1670460860446,742,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74173,322,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/cancer.html,96,0,0
+1670460860446,96,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,161,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/cancer.html,96,0,0
+1670460860542,646,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73709,161,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/cancer.html,544,0,0
+1670460861188,770,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74197,328,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/capricorn.html,93,0,0
+1670460861188,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,467,164,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/capricorn.html,93,0,0
+1670460861282,676,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73730,164,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/capricorn.html,569,0,0
+1670460861958,625,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74100,322,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/gemini.html,93,0,0
+1670460861958,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,161,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/gemini.html,93,0,0
+1670460862051,532,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73636,161,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/gemini.html,430,0,0
+1670460862583,733,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73957,316,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/leo.html,93,0,0
+1670460862583,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,461,158,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/leo.html,93,0,0
+1670460862676,640,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73496,158,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/leo.html,536,0,0
+1670460863316,599,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74078,320,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/libra.html,92,0,0
+1670460863316,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/libra.html,92,0,0
+1670460863408,507,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73615,160,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/libra.html,405,0,0
+1670460863915,757,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74222,322,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/pisces.html,94,0,0
+1670460863915,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,161,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/pisces.html,94,0,0
+1670460864009,663,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73758,161,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/pisces.html,561,0,0
+1670460864671,725,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74461,332,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/sagittarius.html,92,0,0
+1670460864671,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,469,166,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/sagittarius.html,92,0,0
+1670460864763,633,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73992,166,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/sagittarius.html,531,0,0
+1670460865397,759,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74190,324,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/scorpio.html,93,0,0
+1670460865397,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,465,162,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/scorpio.html,93,0,0
+1670460865490,666,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73725,162,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/scorpio.html,565,0,0
+1670460866157,648,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74094,322,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/taurus.html,93,0,0
+1670460866157,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,161,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/taurus.html,93,0,0
+1670460866250,555,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73630,161,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/taurus.html,405,0,0
+1670460866806,809,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73833,320,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/virgo.html,93,0,0
+1670460866806,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-love/yesterday/virgo.html,93,0,0
+1670460866899,716,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73370,160,1,1,https://dev.astrology.com/horoscope/daily-love/yesterday/virgo.html,614,0,0
+1670460867615,690,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73691,306,1,1,https://dev.astrology.com/horoscope/daily-work/aquarius.html,93,0,0
+1670460867615,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/daily-work/aquarius.html,93,0,0
+1670460867708,597,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73235,153,1,1,https://dev.astrology.com/horoscope/daily-work/aquarius.html,495,0,0
+1670460868306,758,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73671,300,1,1,https://dev.astrology.com/horoscope/daily-work/aries.html,93,0,0
+1670460868306,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,453,150,1,1,http://dev.astrology.com/horoscope/daily-work/aries.html,93,0,0
+1670460868399,665,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73218,150,1,1,https://dev.astrology.com/horoscope/daily-work/aries.html,559,0,0
+1670460869065,741,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73706,302,1,1,https://dev.astrology.com/horoscope/daily-work/cancer.html,92,0,0
+1670460869065,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,473,151,1,1,http://dev.astrology.com/horoscope/daily-work/cancer.html,92,0,0
+1670460869157,649,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73233,151,1,1,https://dev.astrology.com/horoscope/daily-work/cancer.html,547,0,0
+1670460869806,976,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73697,308,1,1,https://dev.astrology.com/horoscope/daily-work/capricorn.html,132,0,0
+1670460869806,132,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/daily-work/capricorn.html,132,0,0
+1670460869938,844,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73240,154,1,1,https://dev.astrology.com/horoscope/daily-work/capricorn.html,742,0,0
+1670460870784,748,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73730,302,1,1,https://dev.astrology.com/horoscope/daily-work/gemini.html,91,0,0
+1670460870784,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/daily-work/gemini.html,91,0,0
+1670460870876,656,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73276,151,1,1,https://dev.astrology.com/horoscope/daily-work/gemini.html,554,0,0
+1670460871533,603,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73511,296,1,1,https://dev.astrology.com/horoscope/daily-work/leo.html,92,0,0
+1670460871533,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,451,148,1,1,http://dev.astrology.com/horoscope/daily-work/leo.html,92,0,0
+1670460871625,511,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73060,148,1,1,https://dev.astrology.com/horoscope/daily-work/leo.html,408,0,0
+1670460872136,776,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73576,300,1,1,https://dev.astrology.com/horoscope/daily-work/libra.html,93,0,0
+1670460872136,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,453,150,1,1,http://dev.astrology.com/horoscope/daily-work/libra.html,93,0,0
+1670460872230,682,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73123,150,1,1,https://dev.astrology.com/horoscope/daily-work/libra.html,578,0,0
+1670460872912,769,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73587,302,1,1,https://dev.astrology.com/horoscope/daily-work/pisces.html,92,0,0
+1670460872912,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/daily-work/pisces.html,92,0,0
+1670460873005,676,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73133,151,1,1,https://dev.astrology.com/horoscope/daily-work/pisces.html,573,0,0
+1670460873681,826,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74000,312,1,1,https://dev.astrology.com/horoscope/daily-work/sagittarius.html,170,0,0
+1670460873681,170,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/daily-work/sagittarius.html,170,0,0
+1670460873851,656,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73541,156,1,1,https://dev.astrology.com/horoscope/daily-work/sagittarius.html,555,0,0
+1670460874508,605,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73738,304,1,1,https://dev.astrology.com/horoscope/daily-work/scorpio.html,92,0,0
+1670460874508,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/daily-work/scorpio.html,92,0,0
+1670460874600,513,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73283,152,1,1,https://dev.astrology.com/horoscope/daily-work/scorpio.html,410,0,0
+1670460875114,755,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73707,302,1,1,https://dev.astrology.com/horoscope/daily-work/taurus.html,92,0,0
+1670460875114,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/daily-work/taurus.html,92,0,0
+1670460875206,663,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73253,151,1,1,https://dev.astrology.com/horoscope/daily-work/taurus.html,557,0,0
+1670460875869,605,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73830,324,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/aquarius.html,93,0,0
+1670460875869,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,465,162,1,1,http://dev.astrology.com/horoscope/daily-work/tomorrow/aquarius.html,93,0,0
+1670460875962,512,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73365,162,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/aquarius.html,405,0,0
+1670460876474,730,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73807,318,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/aries.html,94,0,0
+1670460876474,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,462,159,1,1,http://dev.astrology.com/horoscope/daily-work/tomorrow/aries.html,94,0,0
+1670460876568,636,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73345,159,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/aries.html,533,0,0
+1670460877204,665,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73901,326,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/capricorn.html,93,0,0
+1670460877204,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,466,163,1,1,http://dev.astrology.com/horoscope/daily-work/tomorrow/capricorn.html,93,0,0
+1670460877297,572,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73435,163,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/capricorn.html,421,0,0
+1670460877869,744,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73789,320,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/gemini.html,92,0,0
+1670460877869,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-work/tomorrow/gemini.html,92,0,0
+1670460877962,651,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73326,160,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/gemini.html,548,0,0
+1670460878614,596,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73647,314,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/leo.html,91,0,0
+1670460878614,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,460,157,1,1,http://dev.astrology.com/horoscope/daily-work/tomorrow/leo.html,91,0,0
+1670460878705,505,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73187,157,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/leo.html,403,0,0
+1670460879211,794,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73640,318,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/libra.html,92,0,0
+1670460879211,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,462,159,1,1,http://dev.astrology.com/horoscope/daily-work/tomorrow/libra.html,92,0,0
+1670460879303,702,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73178,159,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/libra.html,599,0,0
+1670460880005,640,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73852,320,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/pisces.html,92,0,0
+1670460880005,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-work/tomorrow/pisces.html,92,0,0
+1670460880098,547,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73389,160,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/pisces.html,445,0,0
+1670460880645,754,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74049,330,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/sagittarius.html,93,0,0
+1670460880645,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,468,165,1,1,http://dev.astrology.com/horoscope/daily-work/tomorrow/sagittarius.html,93,0,0
+1670460880738,661,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73581,165,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/sagittarius.html,558,0,0
+1670460881399,763,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73855,322,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/scorpio.html,94,0,0
+1670460881399,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,161,1,1,http://dev.astrology.com/horoscope/daily-work/tomorrow/scorpio.html,94,0,0
+1670460881494,668,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73391,161,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/scorpio.html,564,0,0
+1670460882162,801,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73875,320,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/taurus.html,93,0,0
+1670460882162,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-work/tomorrow/taurus.html,93,0,0
+1670460882255,708,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73412,160,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/taurus.html,558,0,0
+1670460882964,596,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73694,318,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/virgo.html,92,0,0
+1670460882964,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,462,159,1,1,http://dev.astrology.com/horoscope/daily-work/tomorrow/virgo.html,92,0,0
+1670460883056,504,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73232,159,1,1,https://dev.astrology.com/horoscope/daily-work/tomorrow/virgo.html,403,0,0
+1670460883561,602,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73549,300,1,1,https://dev.astrology.com/horoscope/daily-work/virgo.html,92,0,0
+1670460883561,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,453,150,1,1,http://dev.astrology.com/horoscope/daily-work/virgo.html,92,0,0
+1670460883653,510,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73096,150,1,1,https://dev.astrology.com/horoscope/daily-work/virgo.html,408,0,0
+1670460884163,953,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73882,326,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/aquarius.html,93,0,0
+1670460884163,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,466,163,1,1,http://dev.astrology.com/horoscope/daily-work/yesterday/aquarius.html,93,0,0
+1670460884256,860,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73416,163,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/aquarius.html,509,0,0
+1670460885116,900,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73827,320,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/aries.html,92,0,0
+1670460885116,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-work/yesterday/aries.html,92,0,0
+1670460885208,808,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73364,160,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/aries.html,556,0,0
+1670460886016,769,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73840,328,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/capricorn.html,92,0,0
+1670460886016,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,467,164,1,1,http://dev.astrology.com/horoscope/daily-work/yesterday/capricorn.html,92,0,0
+1670460886109,676,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73373,164,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/capricorn.html,423,0,0
+1670460886786,895,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73810,322,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/gemini.html,92,0,0
+1670460886786,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,161,1,1,http://dev.astrology.com/horoscope/daily-work/yesterday/gemini.html,92,0,0
+1670460886878,803,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73346,161,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/gemini.html,552,0,0
+1670460887682,543,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73592,316,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/leo.html,92,0,0
+1670460887682,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,461,158,1,1,http://dev.astrology.com/horoscope/daily-work/yesterday/leo.html,92,0,0
+1670460887774,451,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73131,158,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/leo.html,300,0,0
+1670460888226,808,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73651,320,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/libra.html,92,0,0
+1670460888226,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-work/yesterday/libra.html,92,0,0
+1670460888318,716,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73188,160,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/libra.html,465,0,0
+1670460889035,879,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73815,322,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/pisces.html,93,0,0
+1670460889035,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,161,1,1,http://dev.astrology.com/horoscope/daily-work/yesterday/pisces.html,93,0,0
+1670460889129,785,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73351,161,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/pisces.html,535,0,0
+1670460889915,971,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,74100,332,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/sagittarius.html,93,0,0
+1670460889915,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,469,166,1,1,http://dev.astrology.com/horoscope/daily-work/yesterday/sagittarius.html,93,0,0
+1670460890009,877,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73631,166,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/sagittarius.html,627,0,0
+1670460890886,953,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73873,324,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/scorpio.html,93,0,0
+1670460890886,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,465,162,1,1,http://dev.astrology.com/horoscope/daily-work/yesterday/scorpio.html,93,0,0
+1670460890980,859,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73408,162,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/scorpio.html,609,0,0
+1670460891839,595,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73796,322,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/taurus.html,93,0,0
+1670460891839,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,161,1,1,http://dev.astrology.com/horoscope/daily-work/yesterday/taurus.html,93,0,0
+1670460891932,502,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73332,161,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/taurus.html,353,0,0
+1670460892435,495,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,73685,320,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/virgo.html,92,0,0
+1670460892435,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily-work/yesterday/virgo.html,92,0,0
+1670460892527,403,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,73222,160,1,1,https://dev.astrology.com/horoscope/daily-work/yesterday/virgo.html,302,0,0
+1670460892930,420,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,93628,278,1,1,https://dev.astrology.com/horoscope/daily.html,92,0,0
+1670460892930,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,442,139,1,1,http://dev.astrology.com/horoscope/daily.html,92,0,0
+1670460893023,327,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,93186,139,1,1,https://dev.astrology.com/horoscope/daily.html,224,0,0
+1670460893350,362,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79266,296,1,1,https://dev.astrology.com/horoscope/daily/aquarius.html,93,0,0
+1670460893350,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,451,148,1,1,http://dev.astrology.com/horoscope/daily/aquarius.html,93,0,0
+1670460893443,269,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78815,148,1,1,https://dev.astrology.com/horoscope/daily/aquarius.html,217,0,0
+1670460893713,360,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79043,290,1,1,https://dev.astrology.com/horoscope/daily/aries.html,93,0,0
+1670460893713,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,448,145,1,1,http://dev.astrology.com/horoscope/daily/aries.html,93,0,0
+1670460893806,267,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78595,145,1,1,https://dev.astrology.com/horoscope/daily/aries.html,215,0,0
+1670460894073,359,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79113,292,1,1,https://dev.astrology.com/horoscope/daily/cancer.html,93,0,0
+1670460894073,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,449,146,1,1,http://dev.astrology.com/horoscope/daily/cancer.html,93,0,0
+1670460894166,266,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78664,146,1,1,https://dev.astrology.com/horoscope/daily/cancer.html,215,0,0
+1670460894432,361,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79316,298,1,1,https://dev.astrology.com/horoscope/daily/capricorn.html,93,0,0
+1670460894432,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,452,149,1,1,http://dev.astrology.com/horoscope/daily/capricorn.html,93,0,0
+1670460894525,268,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78864,149,1,1,https://dev.astrology.com/horoscope/daily/capricorn.html,216,0,0
+1670460894793,358,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79079,292,1,1,https://dev.astrology.com/horoscope/daily/gemini.html,94,0,0
+1670460894793,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,449,146,1,1,http://dev.astrology.com/horoscope/daily/gemini.html,94,0,0
+1670460894887,264,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78630,146,1,1,https://dev.astrology.com/horoscope/daily/gemini.html,213,0,0
+1670460895152,358,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79358,286,1,1,https://dev.astrology.com/horoscope/daily/leo.html,93,0,0
+1670460895152,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,446,143,1,1,http://dev.astrology.com/horoscope/daily/leo.html,93,0,0
+1670460895245,265,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78912,143,1,1,https://dev.astrology.com/horoscope/daily/leo.html,213,0,0
+1670460895510,356,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,78960,290,1,1,https://dev.astrology.com/horoscope/daily/libra.html,94,0,0
+1670460895510,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,448,145,1,1,http://dev.astrology.com/horoscope/daily/libra.html,94,0,0
+1670460895604,262,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78512,145,1,1,https://dev.astrology.com/horoscope/daily/libra.html,211,0,0
+1670460895866,324,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79082,292,1,1,https://dev.astrology.com/horoscope/daily/pisces.html,93,0,0
+1670460895866,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,449,146,1,1,http://dev.astrology.com/horoscope/daily/pisces.html,93,0,0
+1670460895959,231,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78633,146,1,1,https://dev.astrology.com/horoscope/daily/pisces.html,180,0,0
+1670460896190,320,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79348,302,1,1,https://dev.astrology.com/horoscope/daily/sagittarius.html,95,0,0
+1670460896190,95,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/daily/sagittarius.html,95,0,0
+1670460896285,225,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78894,151,1,1,https://dev.astrology.com/horoscope/daily/sagittarius.html,175,0,0
+1670460896511,357,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79112,294,1,1,https://dev.astrology.com/horoscope/daily/scorpio.html,93,0,0
+1670460896511,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,450,147,1,1,http://dev.astrology.com/horoscope/daily/scorpio.html,93,0,0
+1670460896604,264,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78662,147,1,1,https://dev.astrology.com/horoscope/daily/scorpio.html,215,0,0
+1670460896869,356,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79108,292,1,1,https://dev.astrology.com/horoscope/daily/taurus.html,91,0,0
+1670460896869,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,449,146,1,1,http://dev.astrology.com/horoscope/daily/taurus.html,91,0,0
+1670460896960,265,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78659,146,1,1,https://dev.astrology.com/horoscope/daily/taurus.html,216,0,0
+1670460897226,749,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79219,314,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/aquarius.html,94,0,0
+1670460897226,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,460,157,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/aquarius.html,94,0,0
+1670460897320,655,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78759,157,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/aquarius.html,452,0,0
+1670460897976,1021,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79081,308,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/aries.html,93,0,0
+1670460897976,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/aries.html,93,0,0
+1670460898069,928,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78624,154,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/aries.html,675,0,0
+1670460898997,909,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79047,310,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/cancer.html,94,0,0
+1670460898997,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/cancer.html,94,0,0
+1670460899091,815,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78589,155,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/cancer.html,608,0,0
+1670460899906,933,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79290,316,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/capricorn.html,91,0,0
+1670460899906,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,461,158,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/capricorn.html,91,0,0
+1670460899997,842,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78829,158,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/capricorn.html,588,0,0
+1670460900840,906,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79186,310,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/gemini.html,92,0,0
+1670460900840,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/gemini.html,92,0,0
+1670460900933,813,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78728,155,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/gemini.html,563,0,0
+1670460901746,804,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79374,304,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/leo.html,94,0,0
+1670460901746,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/leo.html,94,0,0
+1670460901840,710,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78919,152,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/leo.html,456,0,0
+1670460902551,901,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79089,308,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/libra.html,91,0,0
+1670460902551,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/libra.html,91,0,0
+1670460902642,810,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78632,154,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/libra.html,558,0,0
+1670460903452,907,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79160,310,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/pisces.html,94,0,0
+1670460903452,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/pisces.html,94,0,0
+1670460903546,813,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78702,155,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/pisces.html,557,0,0
+1670460904359,896,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79434,320,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/sagittarius.html,93,0,0
+1670460904359,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/sagittarius.html,93,0,0
+1670460904452,803,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78971,160,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/sagittarius.html,551,0,0
+1670460905255,932,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79215,312,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/scorpio.html,93,0,0
+1670460905255,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/scorpio.html,93,0,0
+1670460905348,839,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78756,156,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/scorpio.html,588,0,0
+1670460906187,898,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79162,310,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/taurus.html,92,0,0
+1670460906187,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/taurus.html,92,0,0
+1670460906279,806,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78704,155,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/taurus.html,550,0,0
+1670460907086,553,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79159,308,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/virgo.html,93,0,0
+1670460907086,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/daily/tomorrow/virgo.html,93,0,0
+1670460907179,460,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78702,154,1,1,https://dev.astrology.com/horoscope/daily/tomorrow/virgo.html,308,0,0
+1670460907640,411,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79106,290,1,1,https://dev.astrology.com/horoscope/daily/virgo.html,93,0,0
+1670460907640,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,448,145,1,1,http://dev.astrology.com/horoscope/daily/virgo.html,93,0,0
+1670460907733,318,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78658,145,1,1,https://dev.astrology.com/horoscope/daily/virgo.html,215,0,0
+1670460908051,461,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79275,316,1,1,https://dev.astrology.com/horoscope/daily/yesterday/aquarius.html,93,0,0
+1670460908051,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,461,158,1,1,http://dev.astrology.com/horoscope/daily/yesterday/aquarius.html,93,0,0
+1670460908145,367,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78814,158,1,1,https://dev.astrology.com/horoscope/daily/yesterday/aquarius.html,267,0,0
+1670460908513,888,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79090,310,1,1,https://dev.astrology.com/horoscope/daily/yesterday/aries.html,92,0,0
+1670460908513,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/daily/yesterday/aries.html,92,0,0
+1670460908605,796,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78632,155,1,1,https://dev.astrology.com/horoscope/daily/yesterday/aries.html,588,0,0
+1670460909402,764,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79129,312,1,1,https://dev.astrology.com/horoscope/daily/yesterday/cancer.html,93,0,0
+1670460909402,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/daily/yesterday/cancer.html,93,0,0
+1670460909495,671,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78670,156,1,1,https://dev.astrology.com/horoscope/daily/yesterday/cancer.html,418,0,0
+1670460910165,787,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79348,318,1,1,https://dev.astrology.com/horoscope/daily/yesterday/capricorn.html,92,0,0
+1670460910165,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,462,159,1,1,http://dev.astrology.com/horoscope/daily/yesterday/capricorn.html,92,0,0
+1670460910257,695,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78886,159,1,1,https://dev.astrology.com/horoscope/daily/yesterday/capricorn.html,440,0,0
+1670460910953,951,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79191,312,1,1,https://dev.astrology.com/horoscope/daily/yesterday/gemini.html,91,0,0
+1670460910953,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/daily/yesterday/gemini.html,91,0,0
+1670460911044,860,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78732,156,1,1,https://dev.astrology.com/horoscope/daily/yesterday/gemini.html,610,0,0
+1670460911905,555,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79366,306,1,1,https://dev.astrology.com/horoscope/daily/yesterday/leo.html,94,0,0
+1670460911905,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/daily/yesterday/leo.html,94,0,0
+1670460911999,461,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78910,153,1,1,https://dev.astrology.com/horoscope/daily/yesterday/leo.html,309,0,0
+1670460912460,467,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79109,310,1,1,https://dev.astrology.com/horoscope/daily/yesterday/libra.html,94,0,0
+1670460912460,94,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/daily/yesterday/libra.html,94,0,0
+1670460912554,373,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78651,155,1,1,https://dev.astrology.com/horoscope/daily/yesterday/libra.html,270,0,0
+1670460912927,877,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79106,312,1,1,https://dev.astrology.com/horoscope/daily/yesterday/pisces.html,92,0,0
+1670460912927,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/daily/yesterday/pisces.html,92,0,0
+1670460913019,785,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78647,156,1,1,https://dev.astrology.com/horoscope/daily/yesterday/pisces.html,581,0,0
+1670460913804,896,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79409,322,1,1,https://dev.astrology.com/horoscope/daily/yesterday/sagittarius.html,93,0,0
+1670460913804,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,161,1,1,http://dev.astrology.com/horoscope/daily/yesterday/sagittarius.html,93,0,0
+1670460913897,803,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78945,161,1,1,https://dev.astrology.com/horoscope/daily/yesterday/sagittarius.html,548,0,0
+1670460914701,1125,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79191,314,1,1,https://dev.astrology.com/horoscope/daily/yesterday/scorpio.html,190,0,2
+1670460914701,190,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,460,157,1,1,http://dev.astrology.com/horoscope/daily/yesterday/scorpio.html,190,0,2
+1670460914891,935,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78731,157,1,1,https://dev.astrology.com/horoscope/daily/yesterday/scorpio.html,837,0,213
+1670460915827,636,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79146,312,1,1,https://dev.astrology.com/horoscope/daily/yesterday/taurus.html,89,0,0
+1670460915827,89,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/daily/yesterday/taurus.html,89,0,0
+1670460915916,547,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78687,156,1,1,https://dev.astrology.com/horoscope/daily/yesterday/taurus.html,403,0,0
+1670460916464,637,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,79157,310,1,1,https://dev.astrology.com/horoscope/daily/yesterday/virgo.html,90,0,0
+1670460916464,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/daily/yesterday/virgo.html,90,0,0
+1670460916554,547,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,78699,155,1,1,https://dev.astrology.com/horoscope/daily/yesterday/virgo.html,434,0,0
+1670460917101,791,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69390,314,1,1,https://dev.astrology.com/horoscope/monthly-dating/aquarius.html,91,0,0
+1670460917101,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,460,157,1,1,http://dev.astrology.com/horoscope/monthly-dating/aquarius.html,91,0,0
+1670460917192,700,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68930,157,1,1,https://dev.astrology.com/horoscope/monthly-dating/aquarius.html,601,0,0
+1670460917893,623,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69379,308,1,1,https://dev.astrology.com/horoscope/monthly-dating/aries.html,91,0,0
+1670460917893,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/monthly-dating/aries.html,91,0,0
+1670460917984,532,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68922,154,1,1,https://dev.astrology.com/horoscope/monthly-dating/aries.html,433,0,0
+1670460918517,728,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69404,310,1,1,https://dev.astrology.com/horoscope/monthly-dating/cancer.html,90,0,0
+1670460918517,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/monthly-dating/cancer.html,90,0,0
+1670460918607,638,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68946,155,1,1,https://dev.astrology.com/horoscope/monthly-dating/cancer.html,541,0,0
+1670460919246,598,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69398,316,1,1,https://dev.astrology.com/horoscope/monthly-dating/capricorn.html,91,0,0
+1670460919246,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,461,158,1,1,http://dev.astrology.com/horoscope/monthly-dating/capricorn.html,91,0,0
+1670460919337,507,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68937,158,1,1,https://dev.astrology.com/horoscope/monthly-dating/capricorn.html,410,0,0
+1670460919844,603,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69432,310,1,1,https://dev.astrology.com/horoscope/monthly-dating/gemini.html,90,0,0
+1670460919844,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/monthly-dating/gemini.html,90,0,0
+1670460919935,512,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68974,155,1,1,https://dev.astrology.com/horoscope/monthly-dating/gemini.html,411,0,0
+1670460920447,742,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69273,304,1,1,https://dev.astrology.com/horoscope/monthly-dating/leo.html,91,0,0
+1670460920447,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/monthly-dating/leo.html,91,0,0
+1670460920538,651,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68818,152,1,1,https://dev.astrology.com/horoscope/monthly-dating/leo.html,551,0,0
+1670460921190,736,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69338,308,1,1,https://dev.astrology.com/horoscope/monthly-dating/libra.html,103,0,0
+1670460921190,103,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/monthly-dating/libra.html,103,0,0
+1670460921293,633,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68881,154,1,1,https://dev.astrology.com/horoscope/monthly-dating/libra.html,535,0,0
+1670460921926,756,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69476,310,1,1,https://dev.astrology.com/horoscope/monthly-dating/pisces.html,91,0,0
+1670460921926,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/monthly-dating/pisces.html,91,0,0
+1670460922017,665,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69018,155,1,1,https://dev.astrology.com/horoscope/monthly-dating/pisces.html,568,0,0
+1670460922683,720,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69584,320,1,1,https://dev.astrology.com/horoscope/monthly-dating/sagittarius.html,90,0,0
+1670460922683,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/monthly-dating/sagittarius.html,90,0,0
+1670460922773,630,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69121,160,1,1,https://dev.astrology.com/horoscope/monthly-dating/sagittarius.html,534,0,0
+1670460923403,734,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69486,312,1,1,https://dev.astrology.com/horoscope/monthly-dating/scorpio.html,91,0,0
+1670460923403,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/monthly-dating/scorpio.html,91,0,0
+1670460923494,643,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69027,156,1,1,https://dev.astrology.com/horoscope/monthly-dating/scorpio.html,545,0,0
+1670460924138,716,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69474,310,1,1,https://dev.astrology.com/horoscope/monthly-dating/taurus.html,89,0,0
+1670460924138,89,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/monthly-dating/taurus.html,89,0,0
+1670460924228,626,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69016,155,1,1,https://dev.astrology.com/horoscope/monthly-dating/taurus.html,527,0,0
+1670460924854,775,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69306,308,1,1,https://dev.astrology.com/horoscope/monthly-dating/virgo.html,90,0,0
+1670460924854,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/monthly-dating/virgo.html,90,0,0
+1670460924944,685,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68849,154,1,1,https://dev.astrology.com/horoscope/monthly-dating/virgo.html,587,0,0
+1670460925629,816,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69848,310,1,1,https://dev.astrology.com/horoscope/monthly-love/aquarius.html,90,0,0
+1670460925629,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/monthly-love/aquarius.html,90,0,0
+1670460925720,725,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69390,155,1,1,https://dev.astrology.com/horoscope/monthly-love/aquarius.html,625,0,0
+1670460926445,615,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69875,304,1,1,https://dev.astrology.com/horoscope/monthly-love/aries.html,89,0,0
+1670460926445,89,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/monthly-love/aries.html,89,0,0
+1670460926535,525,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69420,152,1,1,https://dev.astrology.com/horoscope/monthly-love/aries.html,428,0,0
+1670460927060,773,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69850,306,1,1,https://dev.astrology.com/horoscope/monthly-love/cancer.html,90,0,0
+1670460927060,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/monthly-love/cancer.html,90,0,0
+1670460927150,683,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69394,153,1,1,https://dev.astrology.com/horoscope/monthly-love/cancer.html,541,0,0
+1670460927833,389,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69895,312,1,1,https://dev.astrology.com/horoscope/monthly-love/capricorn.html,90,0,0
+1670460927833,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/monthly-love/capricorn.html,90,0,0
+1670460927923,299,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69436,156,1,1,https://dev.astrology.com/horoscope/monthly-love/capricorn.html,298,0,0
+1670460928223,717,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69875,306,1,1,https://dev.astrology.com/horoscope/monthly-love/gemini.html,88,0,0
+1670460928223,88,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/monthly-love/gemini.html,88,0,0
+1670460928311,629,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69419,153,1,1,https://dev.astrology.com/horoscope/monthly-love/gemini.html,529,0,0
+1670460928940,727,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69650,300,1,1,https://dev.astrology.com/horoscope/monthly-love/leo.html,90,0,0
+1670460928940,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,453,150,1,1,http://dev.astrology.com/horoscope/monthly-love/leo.html,90,0,0
+1670460929030,637,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69197,150,1,1,https://dev.astrology.com/horoscope/monthly-love/leo.html,540,0,0
+1670460929668,712,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69663,304,1,1,https://dev.astrology.com/horoscope/monthly-love/libra.html,90,0,0
+1670460929668,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/monthly-love/libra.html,90,0,0
+1670460929758,622,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69208,152,1,1,https://dev.astrology.com/horoscope/monthly-love/libra.html,525,0,0
+1670460930383,730,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,70028,306,1,1,https://dev.astrology.com/horoscope/monthly-love/pisces.html,90,0,0
+1670460930383,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/monthly-love/pisces.html,90,0,0
+1670460930473,640,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69572,153,1,1,https://dev.astrology.com/horoscope/monthly-love/pisces.html,542,0,0
+1670460931114,723,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69846,316,1,1,https://dev.astrology.com/horoscope/monthly-love/sagittarius.html,90,0,0
+1670460931114,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,461,158,1,1,http://dev.astrology.com/horoscope/monthly-love/sagittarius.html,90,0,0
+1670460931204,633,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69385,158,1,1,https://dev.astrology.com/horoscope/monthly-love/sagittarius.html,536,0,0
+1670460931837,769,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69917,308,1,1,https://dev.astrology.com/horoscope/monthly-love/scorpio.html,91,0,0
+1670460931837,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/monthly-love/scorpio.html,91,0,0
+1670460931928,678,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69460,154,1,1,https://dev.astrology.com/horoscope/monthly-love/scorpio.html,581,0,0
+1670460932607,735,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69788,306,1,1,https://dev.astrology.com/horoscope/monthly-love/taurus.html,90,0,0
+1670460932607,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/monthly-love/taurus.html,90,0,0
+1670460932697,645,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69332,153,1,1,https://dev.astrology.com/horoscope/monthly-love/taurus.html,547,0,0
+1670460933342,818,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69689,304,1,1,https://dev.astrology.com/horoscope/monthly-love/virgo.html,91,0,0
+1670460933342,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/monthly-love/virgo.html,91,0,0
+1670460933434,726,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69234,152,1,1,https://dev.astrology.com/horoscope/monthly-love/virgo.html,629,0,0
+1670460934161,642,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,83873,300,1,1,https://dev.astrology.com/horoscope/monthly-overview.html,91,0,0
+1670460934161,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,453,150,1,1,http://dev.astrology.com/horoscope/monthly-overview.html,91,0,0
+1670460934252,551,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,83420,150,1,1,https://dev.astrology.com/horoscope/monthly-overview.html,452,0,0
+1670460934804,951,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80379,318,1,1,https://dev.astrology.com/horoscope/monthly-overview/aquarius.html,90,0,0
+1670460934804,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,462,159,1,1,http://dev.astrology.com/horoscope/monthly-overview/aquarius.html,90,0,0
+1670460934894,861,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,79917,159,1,1,https://dev.astrology.com/horoscope/monthly-overview/aquarius.html,761,0,0
+1670460935755,1144,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80498,312,1,1,https://dev.astrology.com/horoscope/monthly-overview/aries.html,90,0,0
+1670460935755,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/monthly-overview/aries.html,90,0,0
+1670460935845,1054,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,80039,156,1,1,https://dev.astrology.com/horoscope/monthly-overview/aries.html,955,0,0
+1670460936900,1152,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80341,314,1,1,https://dev.astrology.com/horoscope/monthly-overview/cancer.html,91,0,0
+1670460936900,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,460,157,1,1,http://dev.astrology.com/horoscope/monthly-overview/cancer.html,91,0,0
+1670460936991,1061,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,79881,157,1,1,https://dev.astrology.com/horoscope/monthly-overview/cancer.html,963,0,0
+1670460938052,1148,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80456,320,1,1,https://dev.astrology.com/horoscope/monthly-overview/capricorn.html,91,0,0
+1670460938052,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,463,160,1,1,http://dev.astrology.com/horoscope/monthly-overview/capricorn.html,91,0,0
+1670460938144,1056,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,79993,160,1,1,https://dev.astrology.com/horoscope/monthly-overview/capricorn.html,934,0,0
+1670460939201,1052,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80512,314,1,1,https://dev.astrology.com/horoscope/monthly-overview/gemini.html,90,0,0
+1670460939201,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,460,157,1,1,http://dev.astrology.com/horoscope/monthly-overview/gemini.html,90,0,0
+1670460939292,961,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,80052,157,1,1,https://dev.astrology.com/horoscope/monthly-overview/gemini.html,862,0,0
+1670460940253,1006,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80330,308,1,1,https://dev.astrology.com/horoscope/monthly-overview/leo.html,89,0,0
+1670460940253,89,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/monthly-overview/leo.html,89,0,0
+1670460940342,917,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,79873,154,1,1,https://dev.astrology.com/horoscope/monthly-overview/leo.html,819,0,0
+1670460941259,1120,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80490,312,1,1,https://dev.astrology.com/horoscope/monthly-overview/libra.html,90,0,0
+1670460941259,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,478,156,1,1,http://dev.astrology.com/horoscope/monthly-overview/libra.html,90,0,0
+1670460941349,1030,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,80012,156,1,1,https://dev.astrology.com/horoscope/monthly-overview/libra.html,882,0,0
+1670460942379,1248,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80311,314,1,1,https://dev.astrology.com/horoscope/monthly-overview/pisces.html,130,0,0
+1670460942379,130,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,460,157,1,1,http://dev.astrology.com/horoscope/monthly-overview/pisces.html,130,0,0
+1670460942510,1117,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,79851,157,1,1,https://dev.astrology.com/horoscope/monthly-overview/pisces.html,1019,0,0
+1670460943628,955,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80524,324,1,1,https://dev.astrology.com/horoscope/monthly-overview/sagittarius.html,90,0,0
+1670460943628,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,465,162,1,1,http://dev.astrology.com/horoscope/monthly-overview/sagittarius.html,90,0,0
+1670460943719,864,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,80059,162,1,1,https://dev.astrology.com/horoscope/monthly-overview/sagittarius.html,767,0,0
+1670460944583,1131,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80471,316,1,1,https://dev.astrology.com/horoscope/monthly-overview/scorpio.html,93,0,0
+1670460944583,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,461,158,1,1,http://dev.astrology.com/horoscope/monthly-overview/scorpio.html,93,0,0
+1670460944676,1038,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,80010,158,1,1,https://dev.astrology.com/horoscope/monthly-overview/scorpio.html,701,0,0
+1670460945714,1143,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80510,314,1,1,https://dev.astrology.com/horoscope/monthly-overview/taurus.html,93,0,0
+1670460945714,93,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,460,157,1,1,http://dev.astrology.com/horoscope/monthly-overview/taurus.html,93,0,0
+1670460945807,1050,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,80050,157,1,1,https://dev.astrology.com/horoscope/monthly-overview/taurus.html,904,0,0
+1670460946857,1053,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80488,312,1,1,https://dev.astrology.com/horoscope/monthly-overview/virgo.html,91,0,0
+1670460946857,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/monthly-overview/virgo.html,91,0,0
+1670460946948,962,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,80029,156,1,1,https://dev.astrology.com/horoscope/monthly-overview/virgo.html,817,0,0
+1670460947910,713,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69726,310,1,1,https://dev.astrology.com/horoscope/monthly-work/aquarius.html,92,0,0
+1670460947910,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/monthly-work/aquarius.html,92,0,0
+1670460948002,621,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69268,155,1,1,https://dev.astrology.com/horoscope/monthly-work/aquarius.html,473,0,0
+1670460948623,646,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69686,304,1,1,https://dev.astrology.com/horoscope/monthly-work/aries.html,91,0,0
+1670460948623,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/monthly-work/aries.html,91,0,0
+1670460948714,555,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69231,152,1,1,https://dev.astrology.com/horoscope/monthly-work/aries.html,411,0,0
+1670460949269,630,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69495,306,1,1,https://dev.astrology.com/horoscope/monthly-work/cancer.html,91,0,0
+1670460949269,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/monthly-work/cancer.html,91,0,0
+1670460949361,538,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69039,153,1,1,https://dev.astrology.com/horoscope/monthly-work/cancer.html,394,0,0
+1670460949899,680,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69589,312,1,1,https://dev.astrology.com/horoscope/monthly-work/capricorn.html,92,0,0
+1670460949899,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/monthly-work/capricorn.html,92,0,0
+1670460949991,588,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69130,156,1,1,https://dev.astrology.com/horoscope/monthly-work/capricorn.html,397,0,0
+1670460950579,651,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69559,306,1,1,https://dev.astrology.com/horoscope/monthly-work/gemini.html,91,0,0
+1670460950579,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/monthly-work/gemini.html,91,0,0
+1670460950670,560,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69103,153,1,1,https://dev.astrology.com/horoscope/monthly-work/gemini.html,415,0,0
+1670460951231,627,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69561,300,1,1,https://dev.astrology.com/horoscope/monthly-work/leo.html,90,0,0
+1670460951231,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,453,150,1,1,http://dev.astrology.com/horoscope/monthly-work/leo.html,90,0,0
+1670460951321,537,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69108,150,1,1,https://dev.astrology.com/horoscope/monthly-work/leo.html,394,0,0
+1670460951858,683,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69607,304,1,1,https://dev.astrology.com/horoscope/monthly-work/libra.html,91,0,0
+1670460951858,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/monthly-work/libra.html,91,0,0
+1670460951949,592,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69152,152,1,1,https://dev.astrology.com/horoscope/monthly-work/libra.html,447,0,0
+1670460952541,667,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69760,306,1,1,https://dev.astrology.com/horoscope/monthly-work/pisces.html,92,0,0
+1670460952541,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/monthly-work/pisces.html,92,0,0
+1670460952633,575,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69304,153,1,1,https://dev.astrology.com/horoscope/monthly-work/pisces.html,431,0,0
+1670460953208,434,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69742,316,1,1,https://dev.astrology.com/horoscope/monthly-work/sagittarius.html,90,0,0
+1670460953208,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,461,158,1,1,http://dev.astrology.com/horoscope/monthly-work/sagittarius.html,90,0,0
+1670460953298,344,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69281,158,1,1,https://dev.astrology.com/horoscope/monthly-work/sagittarius.html,295,0,0
+1670460953643,351,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69616,308,1,1,https://dev.astrology.com/horoscope/monthly-work/scorpio.html,90,0,0
+1670460953643,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/monthly-work/scorpio.html,90,0,0
+1670460953733,261,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69159,154,1,1,https://dev.astrology.com/horoscope/monthly-work/scorpio.html,260,0,0
+1670460953995,351,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69591,306,1,1,https://dev.astrology.com/horoscope/monthly-work/taurus.html,90,0,0
+1670460953995,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/monthly-work/taurus.html,90,0,0
+1670460954085,261,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69135,153,1,1,https://dev.astrology.com/horoscope/monthly-work/taurus.html,259,0,0
+1670460954346,383,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69442,304,1,1,https://dev.astrology.com/horoscope/monthly-work/virgo.html,90,0,0
+1670460954346,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/monthly-work/virgo.html,90,0,0
+1670460954436,293,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68987,152,1,1,https://dev.astrology.com/horoscope/monthly-work/virgo.html,292,0,0
+1670460954729,353,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,68872,312,1,1,https://dev.astrology.com/horoscope/weekly-dating/aquarius.html,91,0,0
+1670460954729,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/weekly-dating/aquarius.html,91,0,0
+1670460954820,262,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68413,156,1,1,https://dev.astrology.com/horoscope/weekly-dating/aquarius.html,261,0,0
+1670460955082,299,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69013,306,1,1,https://dev.astrology.com/horoscope/weekly-dating/aries.html,90,0,0
+1670460955082,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/weekly-dating/aries.html,90,0,0
+1670460955172,209,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68557,153,1,1,https://dev.astrology.com/horoscope/weekly-dating/aries.html,207,0,0
+1670460955381,298,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,68905,308,1,1,https://dev.astrology.com/horoscope/weekly-dating/cancer.html,91,0,0
+1670460955381,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/weekly-dating/cancer.html,91,0,0
+1670460955472,207,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68448,154,1,1,https://dev.astrology.com/horoscope/weekly-dating/cancer.html,206,0,0
+1670460955679,299,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,68905,314,1,1,https://dev.astrology.com/horoscope/weekly-dating/capricorn.html,90,0,0
+1670460955679,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,460,157,1,1,http://dev.astrology.com/horoscope/weekly-dating/capricorn.html,90,0,0
+1670460955769,209,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68445,157,1,1,https://dev.astrology.com/horoscope/weekly-dating/capricorn.html,209,0,0
+1670460955979,300,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,68994,308,1,1,https://dev.astrology.com/horoscope/weekly-dating/gemini.html,90,0,0
+1670460955979,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/weekly-dating/gemini.html,90,0,0
+1670460956069,210,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68537,154,1,1,https://dev.astrology.com/horoscope/weekly-dating/gemini.html,209,0,0
+1670460956280,301,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,68777,302,1,1,https://dev.astrology.com/horoscope/weekly-dating/leo.html,91,0,0
+1670460956280,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/weekly-dating/leo.html,91,0,0
+1670460956371,210,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68323,151,1,1,https://dev.astrology.com/horoscope/weekly-dating/leo.html,208,0,0
+1670460956581,298,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,68776,306,1,1,https://dev.astrology.com/horoscope/weekly-dating/libra.html,92,0,0
+1670460956581,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/weekly-dating/libra.html,92,0,0
+1670460956673,206,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68320,153,1,1,https://dev.astrology.com/horoscope/weekly-dating/libra.html,205,0,0
+1670460956880,297,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,68880,308,1,1,https://dev.astrology.com/horoscope/weekly-dating/pisces.html,89,0,0
+1670460956880,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/weekly-dating/pisces.html,89,0,0
+1670460956970,207,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68423,154,1,1,https://dev.astrology.com/horoscope/weekly-dating/pisces.html,205,0,0
+1670460957178,298,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69131,318,1,1,https://dev.astrology.com/horoscope/weekly-dating/sagittarius.html,90,0,0
+1670460957178,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,462,159,1,1,http://dev.astrology.com/horoscope/weekly-dating/sagittarius.html,90,0,0
+1670460957268,208,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68669,159,1,1,https://dev.astrology.com/horoscope/weekly-dating/sagittarius.html,207,0,0
+1670460957476,297,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,68963,310,1,1,https://dev.astrology.com/horoscope/weekly-dating/scorpio.html,90,0,0
+1670460957476,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/weekly-dating/scorpio.html,90,0,0
+1670460957566,207,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68505,155,1,1,https://dev.astrology.com/horoscope/weekly-dating/scorpio.html,206,0,0
+1670460957773,299,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,68980,308,1,1,https://dev.astrology.com/horoscope/weekly-dating/taurus.html,90,0,0
+1670460957773,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/weekly-dating/taurus.html,90,0,0
+1670460957863,209,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68523,154,1,1,https://dev.astrology.com/horoscope/weekly-dating/taurus.html,207,0,0
+1670460958073,297,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,68799,306,1,1,https://dev.astrology.com/horoscope/weekly-dating/virgo.html,90,0,0
+1670460958073,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/weekly-dating/virgo.html,90,0,0
+1670460958163,207,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,68343,153,1,1,https://dev.astrology.com/horoscope/weekly-dating/virgo.html,206,0,0
+1670460958371,775,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69685,308,1,1,https://dev.astrology.com/horoscope/weekly-love/aquarius.html,90,0,0
+1670460958371,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,457,154,1,1,http://dev.astrology.com/horoscope/weekly-love/aquarius.html,90,0,0
+1670460958461,685,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69228,154,1,1,https://dev.astrology.com/horoscope/weekly-love/aquarius.html,541,0,0
+1670460959146,750,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69780,302,1,1,https://dev.astrology.com/horoscope/weekly-love/aries.html,91,0,0
+1670460959146,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/weekly-love/aries.html,91,0,0
+1670460959238,658,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69326,151,1,1,https://dev.astrology.com/horoscope/weekly-love/aries.html,512,0,0
+1670460959897,880,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69612,304,1,1,https://dev.astrology.com/horoscope/weekly-love/cancer.html,91,0,0
+1670460959897,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/weekly-love/cancer.html,91,0,0
+1670460959988,789,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69157,152,1,1,https://dev.astrology.com/horoscope/weekly-love/cancer.html,597,0,0
+1670460960778,660,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69652,310,1,1,https://dev.astrology.com/horoscope/weekly-love/capricorn.html,91,0,0
+1670460960778,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/weekly-love/capricorn.html,91,0,0
+1670460960869,569,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69194,155,1,1,https://dev.astrology.com/horoscope/weekly-love/capricorn.html,424,0,0
+1670460961438,439,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69648,304,1,1,https://dev.astrology.com/horoscope/weekly-love/gemini.html,90,0,0
+1670460961438,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/weekly-love/gemini.html,90,0,0
+1670460961529,348,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69193,152,1,1,https://dev.astrology.com/horoscope/weekly-love/gemini.html,298,0,0
+1670460961877,654,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69535,298,1,1,https://dev.astrology.com/horoscope/weekly-love/leo.html,91,0,0
+1670460961877,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,452,149,1,1,http://dev.astrology.com/horoscope/weekly-love/leo.html,91,0,0
+1670460961968,563,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69083,149,1,1,https://dev.astrology.com/horoscope/weekly-love/leo.html,418,0,0
+1670460962532,746,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69605,302,1,1,https://dev.astrology.com/horoscope/weekly-love/libra.html,91,0,0
+1670460962532,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/weekly-love/libra.html,91,0,0
+1670460962623,655,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69151,151,1,1,https://dev.astrology.com/horoscope/weekly-love/libra.html,508,0,0
+1670460963279,813,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69798,304,1,1,https://dev.astrology.com/horoscope/weekly-love/pisces.html,90,0,0
+1670460963279,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/weekly-love/pisces.html,90,0,0
+1670460963369,723,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69343,152,1,1,https://dev.astrology.com/horoscope/weekly-love/pisces.html,579,0,0
+1670460964093,754,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69777,314,1,1,https://dev.astrology.com/horoscope/weekly-love/sagittarius.html,90,0,0
+1670460964093,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,460,157,1,1,http://dev.astrology.com/horoscope/weekly-love/sagittarius.html,90,0,0
+1670460964184,663,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69317,157,1,1,https://dev.astrology.com/horoscope/weekly-love/sagittarius.html,564,0,0
+1670460964847,420,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69496,306,1,1,https://dev.astrology.com/horoscope/weekly-love/scorpio.html,92,0,0
+1670460964847,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,456,153,1,1,http://dev.astrology.com/horoscope/weekly-love/scorpio.html,92,0,0
+1670460964939,328,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69040,153,1,1,https://dev.astrology.com/horoscope/weekly-love/scorpio.html,280,0,0
+1670460965267,374,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69710,304,1,1,https://dev.astrology.com/horoscope/weekly-love/taurus.html,91,0,0
+1670460965267,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,455,152,1,1,http://dev.astrology.com/horoscope/weekly-love/taurus.html,91,0,0
+1670460965359,282,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69255,152,1,1,https://dev.astrology.com/horoscope/weekly-love/taurus.html,281,0,0
+1670460965642,758,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,69743,302,1,1,https://dev.astrology.com/horoscope/weekly-love/virgo.html,90,0,0
+1670460965642,90,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,454,151,1,1,http://dev.astrology.com/horoscope/weekly-love/virgo.html,90,0,0
+1670460965732,668,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,69289,151,1,1,https://dev.astrology.com/horoscope/weekly-love/virgo.html,523,0,0
+1670460966400,668,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80400,298,1,1,https://dev.astrology.com/horoscope/weekly-overview.html,91,0,0
+1670460966400,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,452,149,1,1,http://dev.astrology.com/horoscope/weekly-overview.html,91,0,0
+1670460966492,576,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,79948,149,1,1,https://dev.astrology.com/horoscope/weekly-overview.html,431,0,0
+1670460967069,807,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80470,316,1,1,https://dev.astrology.com/horoscope/weekly-overview/aquarius.html,91,0,0
+1670460967069,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,461,158,1,1,http://dev.astrology.com/horoscope/weekly-overview/aquarius.html,91,0,0
+1670460967160,716,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,80009,158,1,1,https://dev.astrology.com/horoscope/weekly-overview/aquarius.html,570,0,0
+1670460967876,1059,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80330,310,1,1,https://dev.astrology.com/horoscope/weekly-overview/aries.html,92,0,0
+1670460967876,92,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,458,155,1,1,http://dev.astrology.com/horoscope/weekly-overview/aries.html,92,0,0
+1670460967968,967,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,79872,155,1,1,https://dev.astrology.com/horoscope/weekly-overview/aries.html,870,0,0
+1670460968935,810,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,,80408,312,1,1,https://dev.astrology.com/horoscope/weekly-overview/cancer.html,91,0,0
+1670460968935,91,Daily Horoscopes Check up-0,301,Moved Permanently,Thread Group 1-1,text,true,,459,156,1,1,http://dev.astrology.com/horoscope/weekly-overview/cancer.html,91,0,0
+1670460969026,719,Daily Horoscopes Check up-1,200,OK,Thread Group 1-1,text,true,,79949,156,1,1,https://dev.astrology.com/horoscope/weekly-overview/cancer.html,574,0,0
+1670460969745,816,Daily Horoscopes Check up,200,OK,Thread Group 1-1,text,true,
