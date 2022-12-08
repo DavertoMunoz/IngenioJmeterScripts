@@ -1,0 +1,1084 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1668529484225,824,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70087,299,1,1,https://www.astrology.com/articles/horoscopes/tomorrow-horoscope,449,0,411
+1668529484225,449,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,231,142,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope,449,0,411
+1668529484675,374,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,69856,157,1,1,https://www.astrology.com/articles/horoscopes/tomorrow-horoscope,332,0,207
+1668529485052,182,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,77518,278,1,1,https://www.astrology.com/horoscope/daily.html,33,0,0
+1668529485052,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,213,139,1,1,https://horoscopefriends.co.uk/daily-horoscope,33,0,0
+1668529485085,149,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,77305,139,1,1,https://www.astrology.com/horoscope/daily.html,129,0,0
+1668529485236,12213,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,125268,306,1,1,https://shop.astrology.com/product/love-compatibility-report/,32,0,0
+1668529485236,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,152,1,1,https://horoscopefriends.co.uk/love-horoscope-compatibility,32,0,0
+1668529485269,12180,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,125040,154,1,1,https://shop.astrology.com/product/love-compatibility-report/,11815,0,200
+1668529497452,381,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70676,289,1,1,https://www.astrology.com/horoscope/weekly-overview.html,33,0,0
+1668529497452,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,223,140,1,1,https://horoscopefriends.co.uk/weekly-horoscope,33,0,0
+1668529497485,348,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70453,149,1,1,https://www.astrology.com/horoscope/weekly-overview.html,118,0,0
+1668529497836,163,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70864,302,1,1,https://www.astrology.com/horoscope/daily/tomorrow/libra.html,32,0,0
+1668529497836,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,148,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/libra,32,0,0
+1668529497868,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70636,154,1,1,https://www.astrology.com/horoscope/daily/tomorrow/libra.html,118,0,0
+1668529498002,222,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70875,302,1,1,https://www.astrology.com/horoscope/daily/tomorrow/virgo.html,31,0,0
+1668529498002,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,148,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/virgo,31,0,0
+1668529498033,191,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70647,154,1,1,https://www.astrology.com/horoscope/daily/tomorrow/virgo.html,190,0,0
+1668529498227,348,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70985,306,1,1,https://www.astrology.com/horoscope/daily/tomorrow/scorpio.html,42,0,0
+1668529498227,42,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,150,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/scorpio,42,0,0
+1668529498270,305,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70755,156,1,1,https://www.astrology.com/horoscope/daily/tomorrow/scorpio.html,290,0,0
+1668529498577,199,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70899,304,1,1,https://www.astrology.com/horoscope/daily/tomorrow/pisces.html,31,0,0
+1668529498577,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,149,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/pisces,31,0,0
+1668529498608,168,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70670,155,1,1,https://www.astrology.com/horoscope/daily/tomorrow/pisces.html,155,0,0
+1668529498779,164,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65363,280,1,1,https://www.astrology.com/tarot/daily-love.html,31,0,0
+1668529498779,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,140,1,1,https://horoscopefriends.co.uk/tarot/love-tarot,31,0,0
+1668529498810,133,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65149,140,1,1,https://www.astrology.com/tarot/daily-love.html,122,0,0
+1668529498945,167,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70891,294,1,1,https://www.astrology.com/horoscope/daily/scorpio.html,31,0,0
+1668529498945,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,221,147,1,1,https://horoscopefriends.co.uk/daily-horoscope/scorpio,31,0,0
+1668529498976,136,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70670,147,1,1,https://www.astrology.com/horoscope/daily/scorpio.html,122,0,0
+1668529499114,166,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70825,290,1,1,https://www.astrology.com/horoscope/daily/libra.html,32,0,0
+1668529499114,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,145,1,1,https://horoscopefriends.co.uk/daily-horoscope/libra,32,0,0
+1668529499146,134,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70606,145,1,1,https://www.astrology.com/horoscope/daily/libra.html,119,0,0
+1668529499282,341,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70945,304,1,1,https://www.astrology.com/horoscope/daily/tomorrow/cancer.html,32,0,0
+1668529499282,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,149,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/cancer,32,0,0
+1668529499314,309,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70716,155,1,1,https://www.astrology.com/horoscope/daily/tomorrow/cancer.html,295,0,0
+1668529499624,196,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70947,304,1,1,https://www.astrology.com/horoscope/daily/tomorrow/gemini.html,32,0,0
+1668529499624,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,149,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/gemini,32,0,0
+1668529499656,164,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70718,155,1,1,https://www.astrology.com/horoscope/daily/tomorrow/gemini.html,148,0,0
+1668529499822,187,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71067,310,1,1,https://www.astrology.com/horoscope/daily/tomorrow/capricorn.html,32,0,0
+1668529499822,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,232,152,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/capricorn,32,0,0
+1668529499854,155,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70835,158,1,1,https://www.astrology.com/horoscope/daily/tomorrow/capricorn.html,141,0,0
+1668529500012,168,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71166,302,1,1,https://www.astrology.com/horoscope/daily/sagittarius.html,31,0,0
+1668529500012,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,225,151,1,1,https://horoscopefriends.co.uk/daily-horoscope/sagittarius,31,0,0
+1668529500044,136,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70941,151,1,1,https://www.astrology.com/horoscope/daily/sagittarius.html,122,0,0
+1668529500183,156,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70940,292,1,1,https://www.astrology.com/horoscope/daily/cancer.html,31,0,0
+1668529500183,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,220,146,1,1,https://horoscopefriends.co.uk/daily-horoscope/cancer,31,0,0
+1668529500214,125,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70720,146,1,1,https://www.astrology.com/horoscope/daily/cancer.html,107,0,0
+1668529500342,161,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71057,298,1,1,https://www.astrology.com/horoscope/daily/capricorn.html,31,0,0
+1668529500342,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,223,149,1,1,https://horoscopefriends.co.uk/daily-horoscope/capricorn,31,0,0
+1668529500373,130,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70834,149,1,1,https://www.astrology.com/horoscope/daily/capricorn.html,116,0,0
+1668529500507,165,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71221,298,1,1,https://www.astrology.com/horoscope/daily/tomorrow/leo.html,32,0,0
+1668529500507,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,226,146,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/leo,32,0,0
+1668529500539,133,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70995,152,1,1,https://www.astrology.com/horoscope/daily/tomorrow/leo.html,116,0,0
+1668529500674,194,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71227,314,1,1,https://www.astrology.com/horoscope/daily/tomorrow/sagittarius.html,32,0,0
+1668529500674,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,234,154,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/sagittarius,32,0,0
+1668529500706,162,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70993,160,1,1,https://www.astrology.com/horoscope/daily/tomorrow/sagittarius.html,147,0,0
+1668529500870,293,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71035,308,1,1,https://www.astrology.com/horoscope/daily/tomorrow/aquarius.html,31,0,0
+1668529500870,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,231,151,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/aquarius,31,0,0
+1668529500901,262,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70804,157,1,1,https://www.astrology.com/horoscope/daily/tomorrow/aquarius.html,248,0,0
+1668529501165,201,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70946,304,1,1,https://www.astrology.com/horoscope/daily/tomorrow/taurus.html,31,0,0
+1668529501165,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,149,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/taurus,31,0,0
+1668529501196,170,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70717,155,1,1,https://www.astrology.com/horoscope/daily/tomorrow/taurus.html,156,0,0
+1668529501368,181,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70988,296,1,1,https://www.astrology.com/horoscope/daily/aquarius.html,31,0,0
+1668529501368,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,222,148,1,1,https://horoscopefriends.co.uk/daily-horoscope/aquarius,31,0,0
+1668529501399,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70766,148,1,1,https://www.astrology.com/horoscope/daily/aquarius.html,134,0,0
+1668529501551,166,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70871,292,1,1,https://www.astrology.com/horoscope/daily/gemini.html,32,0,0
+1668529501551,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,220,146,1,1,https://horoscopefriends.co.uk/daily-horoscope/gemini,32,0,0
+1668529501583,134,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70651,146,1,1,https://www.astrology.com/horoscope/daily/gemini.html,120,0,0
+1668529501719,186,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71187,286,1,1,https://www.astrology.com/horoscope/daily/leo.html,32,0,0
+1668529501719,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,217,143,1,1,https://horoscopefriends.co.uk/daily-horoscope/leo,32,0,0
+1668529501751,154,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70970,143,1,1,https://www.astrology.com/horoscope/daily/leo.html,140,0,0
+1668529501908,206,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70881,290,1,1,https://www.astrology.com/horoscope/daily/virgo.html,31,0,0
+1668529501908,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,145,1,1,https://horoscopefriends.co.uk/daily-horoscope/virgo,31,0,0
+1668529501940,174,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70662,145,1,1,https://www.astrology.com/horoscope/daily/virgo.html,160,0,0
+1668529502116,205,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70867,292,1,1,https://www.astrology.com/horoscope/daily/taurus.html,51,0,0
+1668529502116,51,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,220,146,1,1,https://horoscopefriends.co.uk/daily-horoscope/taurus,51,0,0
+1668529502169,152,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70647,146,1,1,https://www.astrology.com/horoscope/daily/taurus.html,138,0,0
+1668529502323,167,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70858,292,1,1,https://www.astrology.com/horoscope/daily/pisces.html,31,0,0
+1668529502323,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,220,146,1,1,https://horoscopefriends.co.uk/daily-horoscope/pisces,31,0,0
+1668529502354,136,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70638,146,1,1,https://www.astrology.com/horoscope/daily/pisces.html,122,0,0
+1668529502492,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72619,279,1,1,https://www.astrology.com/numerology,41,0,0
+1668529502492,41,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,203,150,1,1,https://horoscopefriends.co.uk/numerology/love-numerology,41,0,0
+1668529502533,157,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72416,129,1,1,https://www.astrology.com/numerology,143,0,0
+1668529502692,166,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70881,290,1,1,https://www.astrology.com/horoscope/daily/aries.html,31,0,0
+1668529502692,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,145,1,1,https://horoscopefriends.co.uk/daily-horoscope/aries,31,0,0
+1668529502723,135,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70662,145,1,1,https://www.astrology.com/horoscope/daily/aries.html,121,0,0
+1668529502860,210,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70892,302,1,1,https://www.astrology.com/horoscope/daily/tomorrow/aries.html,31,0,0
+1668529502860,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,148,1,1,https://horoscopefriends.co.uk/tomorrow-horoscope/aries,31,0,0
+1668529502891,179,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70664,154,1,1,https://www.astrology.com/horoscope/daily/tomorrow/aries.html,165,0,0
+1668529503072,1171,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,90431,266,1,1,https://www.astrology.com/birth-chart/,31,0,0
+1668529503072,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,205,135,1,1,https://horoscopefriends.co.uk/birth-chart,31,0,0
+1668529503103,1140,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,90226,131,1,1,https://www.astrology.com/birth-chart/,821,0,0
+1668529504245,175,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73025,255,1,1,https://www.astrology.com/us/home.aspx,41,0,0
+1668529504245,41,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,249,124,1,1,https://horoscopefriends.co.uk/,41,0,0
+1668529504287,133,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72776,131,1,1,https://www.astrology.com/us/home.aspx,118,0,0
+1668529504422,221,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,81044,345,1,1,https://www.astrology.com/article/whats-my-lilith-sign/,32,0,0
+1668529504422,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,222,197,1,1,https://horoscopefriends.co.uk/astrology-library/lilith-in-the-zodiac-signs-black-moon-astrology-meaning,32,0,0
+1668529504454,189,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,80822,148,1,1,https://www.astrology.com/article/whats-my-lilith-sign/,174,0,0
+1668529504645,180,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71924,305,1,1,https://www.astrology.com/horoscope/weekly-overview/scorpio.html,31,0,0
+1668529504645,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,231,148,1,1,https://horoscopefriends.co.uk/weekly-horoscope/scorpio,31,0,0
+1668529504676,149,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71693,157,1,1,https://www.astrology.com/horoscope/weekly-overview/scorpio.html,136,0,0
+1668529504827,293,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71880,303,1,1,https://www.astrology.com/horoscope/weekly-overview/cancer.html,32,0,0
+1668529504827,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,147,1,1,https://horoscopefriends.co.uk/weekly-horoscope/cancer,32,0,0
+1668529504859,261,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71650,156,1,1,https://www.astrology.com/horoscope/weekly-overview/cancer.html,248,0,0
+1668529505121,163,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71846,301,1,1,https://www.astrology.com/horoscope/weekly-overview/virgo.html,31,0,0
+1668529505121,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,146,1,1,https://horoscopefriends.co.uk/weekly-horoscope/virgo,31,0,0
+1668529505153,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71617,155,1,1,https://www.astrology.com/horoscope/weekly-overview/virgo.html,116,0,0
+1668529505286,162,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68943,284,1,1,https://www.astrology.com/tarot/daily.html,31,0,0
+1668529505286,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,149,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading,31,0,0
+1668529505317,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68734,135,1,1,https://www.astrology.com/tarot/daily.html,119,0,0
+1668529505450,395,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71899,303,1,1,https://www.astrology.com/horoscope/weekly-overview/taurus.html,31,0,0
+1668529505450,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,147,1,1,https://horoscopefriends.co.uk/weekly-horoscope/taurus,31,0,0
+1668529505482,363,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71669,156,1,1,https://www.astrology.com/horoscope/weekly-overview/taurus.html,351,0,0
+1668529505847,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72616,290,1,1,https://www.astrology.com/numerology,31,0,0
+1668529505847,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,203,161,1,1,https://horoscopefriends.co.uk/numerology/numerology-maturity-number,31,0,0
+1668529505879,138,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72413,129,1,1,https://www.astrology.com/numerology,125,0,0
+1668529506019,158,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71874,309,1,1,https://www.astrology.com/horoscope/weekly-overview/capricorn.html,32,0,0
+1668529506019,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,233,150,1,1,https://horoscopefriends.co.uk/weekly-horoscope/capricorn,32,0,0
+1668529506051,126,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71641,159,1,1,https://www.astrology.com/horoscope/weekly-overview/capricorn.html,114,0,0
+1668529506179,171,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71887,313,1,1,https://www.astrology.com/horoscope/weekly-overview/sagittarius.html,32,0,0
+1668529506179,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,235,152,1,1,https://horoscopefriends.co.uk/weekly-horoscope/sagittarius,32,0,0
+1668529506211,139,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71652,161,1,1,https://www.astrology.com/horoscope/weekly-overview/sagittarius.html,125,0,0
+1668529506352,181,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71931,307,1,1,https://www.astrology.com/horoscope/weekly-overview/aquarius.html,31,0,0
+1668529506352,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,232,149,1,1,https://horoscopefriends.co.uk/weekly-horoscope/aquarius,31,0,0
+1668529506383,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71699,158,1,1,https://www.astrology.com/horoscope/weekly-overview/aquarius.html,137,0,0
+1668529506535,257,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68944,290,1,1,https://www.astrology.com/tarot/daily.html,41,0,0
+1668529506535,41,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,155,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/aries,41,0,0
+1668529506577,215,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68735,135,1,1,https://www.astrology.com/tarot/daily.html,204,0,0
+1668529506795,183,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72014,303,1,1,https://www.astrology.com/horoscope/weekly-overview/gemini.html,31,0,0
+1668529506795,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,147,1,1,https://horoscopefriends.co.uk/weekly-horoscope/gemini,31,0,0
+1668529506826,152,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71784,156,1,1,https://www.astrology.com/horoscope/weekly-overview/gemini.html,133,0,0
+1668529506980,179,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68943,290,1,1,https://www.astrology.com/tarot/daily.html,31,0,0
+1668529506980,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,155,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/libra,31,0,0
+1668529507011,148,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68734,135,1,1,https://www.astrology.com/tarot/daily.html,135,0,0
+1668529507161,166,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71788,297,1,1,https://www.astrology.com/horoscope/weekly-overview/leo.html,31,0,0
+1668529507161,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,227,144,1,1,https://horoscopefriends.co.uk/weekly-horoscope/leo,31,0,0
+1668529507192,135,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71561,153,1,1,https://www.astrology.com/horoscope/weekly-overview/leo.html,122,0,0
+1668529507329,162,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68945,291,1,1,https://www.astrology.com/tarot/daily.html,32,0,0
+1668529507329,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,156,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/cancer,32,0,0
+1668529507361,130,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68736,135,1,1,https://www.astrology.com/tarot/daily.html,119,0,0
+1668529507493,179,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,67578,271,1,1,https://www.astrology.com/tarot.html,31,0,0
+1668529507493,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,203,142,1,1,https://horoscopefriends.co.uk/tarot/tarot-gratis,31,0,0
+1668529507524,148,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,67375,129,1,1,https://www.astrology.com/tarot.html,135,0,0
+1668529507674,625,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71597,301,1,1,https://www.astrology.com/horoscope/weekly-overview/libra.html,33,0,0
+1668529507674,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,146,1,1,https://horoscopefriends.co.uk/weekly-horoscope/libra,33,0,0
+1668529507707,592,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71368,155,1,1,https://www.astrology.com/horoscope/weekly-overview/libra.html,557,0,0
+1668529508301,272,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71876,303,1,1,https://www.astrology.com/horoscope/weekly-overview/pisces.html,32,0,0
+1668529508301,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,147,1,1,https://horoscopefriends.co.uk/weekly-horoscope/pisces,32,0,0
+1668529508333,240,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71646,156,1,1,https://www.astrology.com/horoscope/weekly-overview/pisces.html,229,0,0
+1668529508574,167,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,296,1,1,https://www.astrology.com/articles,32,0,0
+1668529508574,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,169,1,1,https://horoscopefriends.co.uk/astrology-library/the-star-signs-and-cheating,32,0,0
+1668529508606,135,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,121,0,0
+1668529508743,151,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68946,290,1,1,https://www.astrology.com/tarot/daily.html,31,0,0
+1668529508743,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,155,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/virgo,31,0,0
+1668529508774,120,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68737,135,1,1,https://www.astrology.com/tarot/daily.html,110,0,0
+1668529508897,163,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65374,297,1,1,https://www.astrology.com/tarot/daily-love.html,31,0,0
+1668529508897,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,157,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day,31,0,0
+1668529508928,132,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65160,140,1,1,https://www.astrology.com/tarot/daily-love.html,122,0,0
+1668529509062,167,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68947,291,1,1,https://www.astrology.com/tarot/daily.html,31,0,0
+1668529509062,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,156,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/gemini,31,0,0
+1668529509093,136,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68738,135,1,1,https://www.astrology.com/tarot/daily.html,126,0,0
+1668529509231,165,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73132,291,1,1,https://www.astrology.com/horoscope/monthly-overview.html,31,0,0
+1668529509231,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,224,141,1,1,https://horoscopefriends.co.uk/monthly-horoscope,31,0,0
+1668529509262,134,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72908,150,1,1,https://www.astrology.com/horoscope/monthly-overview.html,123,0,0
+1668529509398,199,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68943,292,1,1,https://www.astrology.com/tarot/daily.html,32,0,0
+1668529509398,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,157,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/scorpio,32,0,0
+1668529509430,167,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68734,135,1,1,https://www.astrology.com/tarot/daily.html,123,0,0
+1668529509599,167,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68945,291,1,1,https://www.astrology.com/tarot/daily.html,30,0,0
+1668529509599,30,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,156,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/pisces,30,0,0
+1668529509631,135,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68736,135,1,1,https://www.astrology.com/tarot/daily.html,118,0,0
+1668529509768,249,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70407,292,1,1,https://www.astrology.com/rising-sign-calculator/aquarius,41,0,0
+1668529509768,41,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,224,142,1,1,https://horoscopefriends.co.uk/ascendant/aquarius,41,0,0
+1668529509809,208,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70183,150,1,1,https://www.astrology.com/rising-sign-calculator/aquarius,197,0,0
+1668529510019,181,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,303,1,1,https://www.astrology.com/articles,31,0,0
+1668529510019,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,176,1,1,https://horoscopefriends.co.uk/astrology-library/12-ways-to-take-revenge-on-your-ex,31,0,0
+1668529510051,149,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,135,0,0
+1668529510202,221,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,67578,258,1,1,https://www.astrology.com/tarot.html,31,0,0
+1668529510202,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,203,129,1,1,https://horoscopefriends.co.uk/tarot,31,0,0
+1668529510233,190,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,67375,129,1,1,https://www.astrology.com/tarot.html,179,0,0
+1668529510425,194,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71806,301,1,1,https://www.astrology.com/horoscope/weekly-overview/aries.html,32,0,0
+1668529510425,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,146,1,1,https://horoscopefriends.co.uk/weekly-horoscope/aries,32,0,0
+1668529510457,162,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71577,155,1,1,https://www.astrology.com/horoscope/weekly-overview/aries.html,152,0,0
+1668529510621,182,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68949,293,1,1,https://www.astrology.com/tarot/daily.html,31,0,0
+1668529510621,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,158,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/aquarius,31,0,0
+1668529510652,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68740,135,1,1,https://www.astrology.com/tarot/daily.html,141,0,0
+1668529510805,168,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68945,288,1,1,https://www.astrology.com/tarot/daily.html,31,0,0
+1668529510805,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,153,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/leo,31,0,0
+1668529510837,136,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68736,135,1,1,https://www.astrology.com/tarot/daily.html,126,0,0
+1668529510975,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,77522,284,1,1,https://www.astrology.com/horoscope/daily.html,32,0,0
+1668529510975,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,213,145,1,1,https://horoscopefriends.co.uk/daily-natal-horoscope,32,0,0
+1668529511007,138,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,77309,139,1,1,https://www.astrology.com/horoscope/daily.html,126,0,0
+1668529511148,168,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68946,296,1,1,https://www.astrology.com/tarot/daily.html,31,0,0
+1668529511148,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,161,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/sagittarius,31,0,0
+1668529511179,137,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68737,135,1,1,https://www.astrology.com/tarot/daily.html,127,0,0
+1668529511319,178,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,300,1,1,https://www.astrology.com/articles,31,0,0
+1668529511319,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,173,1,1,https://horoscopefriends.co.uk/astrology-library/win-back-your-ex-or-get-closure,31,0,0
+1668529511350,147,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,133,0,0
+1668529511499,396,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71963,307,1,1,https://www.astrology.com/horoscope/monthly-overview/scorpio.html,41,0,0
+1668529511499,41,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,232,149,1,1,https://horoscopefriends.co.uk/monthly-horoscope/scorpio,41,0,0
+1668529511540,355,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71731,158,1,1,https://www.astrology.com/horoscope/monthly-overview/scorpio.html,344,0,0
+1668529511898,161,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68963,294,1,1,https://www.astrology.com/tarot/daily.html,31,0,0
+1668529511898,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,159,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/capricorn,31,0,0
+1668529511929,130,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68754,135,1,1,https://www.astrology.com/tarot/daily.html,120,0,0
+1668529512061,222,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65364,304,1,1,https://www.astrology.com/tarot/daily-love.html,42,0,0
+1668529512061,42,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,164,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/gemini,42,0,0
+1668529512103,180,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65150,140,1,1,https://www.astrology.com/tarot/daily-love.html,170,0,0
+1668529512285,156,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72019,303,1,1,https://www.astrology.com/horoscope/monthly-overview/virgo.html,31,0,0
+1668529512285,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,147,1,1,https://horoscopefriends.co.uk/monthly-horoscope/virgo,31,0,0
+1668529512316,125,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71789,156,1,1,https://www.astrology.com/horoscope/monthly-overview/virgo.html,114,0,0
+1668529512443,155,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70021,298,1,1,https://www.astrology.com/rising-sign-calculator/sagittarius,31,0,0
+1668529512443,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,227,145,1,1,https://horoscopefriends.co.uk/ascendant/sagittarius,31,0,0
+1668529512474,124,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,69794,153,1,1,https://www.astrology.com/rising-sign-calculator/sagittarius,114,0,0
+1668529512601,162,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,327,1,1,https://www.astrology.com/articles,31,0,0
+1668529512601,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,200,1,1,https://horoscopefriends.co.uk/astrology-library/spot-my-star-sign-how-to-tell-someones-sign-by-their-looks,31,0,0
+1668529512632,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,118,0,0
+1668529512765,181,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65368,301,1,1,https://www.astrology.com/tarot/daily-love.html,31,0,0
+1668529512765,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,161,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/leo,31,0,0
+1668529512796,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65154,140,1,1,https://www.astrology.com/tarot/daily-love.html,141,0,0
+1668529512948,168,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65378,304,1,1,https://www.astrology.com/tarot/daily-love.html,31,0,0
+1668529512948,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,164,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/taurus,31,0,0
+1668529512980,136,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65164,140,1,1,https://www.astrology.com/tarot/daily-love.html,125,0,0
+1668529513118,161,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70138,290,1,1,https://www.astrology.com/rising-sign-calculator/scorpio,31,0,0
+1668529513118,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,223,141,1,1,https://horoscopefriends.co.uk/ascendant/scorpio,31,0,0
+1668529513149,130,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,69915,149,1,1,https://www.astrology.com/rising-sign-calculator/scorpio,119,0,0
+1668529513280,179,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65367,304,1,1,https://www.astrology.com/tarot/daily-love.html,31,0,0
+1668529513280,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,164,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/cancer,31,0,0
+1668529513312,147,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65153,140,1,1,https://www.astrology.com/tarot/daily-love.html,137,0,0
+1668529513460,175,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86057,312,1,1,https://www.astrology.com/articles,32,0,0
+1668529513460,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,185,1,1,https://horoscopefriends.co.uk/astrology-library/tips-and-tricks-to-calm-down-each-star-sign,32,0,0
+1668529513492,143,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85856,127,1,1,https://www.astrology.com/articles,129,0,0
+1668529513636,207,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,313,1,1,https://www.astrology.com/articles,31,0,0
+1668529513636,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,186,1,1,https://horoscopefriends.co.uk/astrology-library/from-the-least-to-most-romantic-zodiac-signs,31,0,0
+1668529513668,175,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,161,0,0
+1668529513845,183,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65372,305,1,1,https://www.astrology.com/tarot/daily-love.html,31,0,0
+1668529513845,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,165,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/scorpio,31,0,0
+1668529513876,152,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65158,140,1,1,https://www.astrology.com/tarot/daily-love.html,140,0,0
+1668529514030,163,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65385,306,1,1,https://www.astrology.com/tarot/daily-love.html,31,0,0
+1668529514030,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,166,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/aquarius,31,0,0
+1668529514061,132,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65171,140,1,1,https://www.astrology.com/tarot/daily-love.html,122,0,0
+1668529514195,165,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65363,303,1,1,https://www.astrology.com/tarot/daily-love.html,31,0,0
+1668529514195,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,163,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/aries,31,0,0
+1668529514226,134,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65149,140,1,1,https://www.astrology.com/tarot/daily-love.html,124,0,0
+1668529514362,171,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71987,299,1,1,https://www.astrology.com/horoscope/monthly-overview/leo.html,31,0,0
+1668529514362,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,145,1,1,https://horoscopefriends.co.uk/monthly-horoscope/leo,31,0,0
+1668529514393,140,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71759,154,1,1,https://www.astrology.com/horoscope/monthly-overview/leo.html,129,0,0
+1668529514535,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,305,1,1,https://www.astrology.com/articles,31,0,0
+1668529514535,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,178,1,1,https://horoscopefriends.co.uk/astrology-library/the-midheaven-and-the-ic-and-mc-axis,31,0,0
+1668529514566,139,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,125,0,0
+1668529514706,196,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,305,1,1,https://www.astrology.com/articles,32,0,0
+1668529514706,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,178,1,1,https://horoscopefriends.co.uk/astrology-library/the-zodiac-signs-and-unrequited-love,32,0,0
+1668529514738,164,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,151,0,0
+1668529514904,179,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72093,303,1,1,https://www.astrology.com/horoscope/monthly-overview/aries.html,31,0,0
+1668529514904,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,147,1,1,https://horoscopefriends.co.uk/monthly-horoscope/aries,31,0,0
+1668529514935,148,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71863,156,1,1,https://www.astrology.com/horoscope/monthly-overview/aries.html,134,0,0
+1668529515085,158,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72615,291,1,1,https://www.astrology.com/numerology,31,0,0
+1668529515085,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,203,162,1,1,https://horoscopefriends.co.uk/numerology/numerology-life-path-number,31,0,0
+1668529515117,126,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72412,129,1,1,https://www.astrology.com/numerology,115,0,0
+1668529515245,159,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65364,307,1,1,https://www.astrology.com/tarot/daily-love.html,32,0,0
+1668529515245,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,167,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/capricorn,32,0,0
+1668529515277,127,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65150,140,1,1,https://www.astrology.com/tarot/daily-love.html,116,0,0
+1668529515406,159,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65367,304,1,1,https://www.astrology.com/tarot/daily-love.html,31,0,0
+1668529515406,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,164,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/pisces,31,0,0
+1668529515437,128,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65153,140,1,1,https://www.astrology.com/tarot/daily-love.html,119,0,0
+1668529515567,210,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70372,286,1,1,https://www.astrology.com/rising-sign-calculator/aries,31,0,0
+1668529515567,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,221,139,1,1,https://horoscopefriends.co.uk/ascendant/aries,31,0,0
+1668529515598,179,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70151,147,1,1,https://www.astrology.com/rising-sign-calculator/aries,169,0,0
+1668529515778,224,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,67478,317,1,1,https://www.astrology.com/chinese-zodiac,31,0,0
+1668529515778,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,207,184,1,1,https://horoscopefriends.co.uk/astrology-library/chinese-horoscope-versus-western-astrology,31,0,0
+1668529515809,193,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,67271,133,1,1,https://www.astrology.com/chinese-zodiac,182,0,0
+1668529516004,158,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72048,305,1,1,https://www.astrology.com/horoscope/monthly-overview/taurus.html,31,0,0
+1668529516004,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,231,148,1,1,https://horoscopefriends.co.uk/monthly-horoscope/taurus,31,0,0
+1668529516035,127,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71817,157,1,1,https://www.astrology.com/horoscope/monthly-overview/taurus.html,116,0,0
+1668529516164,467,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71976,303,1,1,https://www.astrology.com/horoscope/monthly-overview/libra.html,30,0,0
+1668529516164,30,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,147,1,1,https://horoscopefriends.co.uk/monthly-horoscope/libra,30,0,0
+1668529516195,436,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71746,156,1,1,https://www.astrology.com/horoscope/monthly-overview/libra.html,424,0,0
+1668529516632,161,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65367,309,1,1,https://www.astrology.com/tarot/daily-love.html,32,0,0
+1668529516632,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,169,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/sagittarius,32,0,0
+1668529516664,129,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65153,140,1,1,https://www.astrology.com/tarot/daily-love.html,119,0,0
+1668529516794,171,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72155,315,1,1,https://www.astrology.com/horoscope/monthly-overview/sagittarius.html,32,0,0
+1668529516794,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,236,153,1,1,https://horoscopefriends.co.uk/monthly-horoscope/sagittarius,32,0,0
+1668529516826,139,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71919,162,1,1,https://www.astrology.com/horoscope/monthly-overview/sagittarius.html,128,0,0
+1668529516967,357,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70030,282,1,1,https://www.astrology.com/rising-sign-calculator/leo,31,0,0
+1668529516967,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,137,1,1,https://horoscopefriends.co.uk/ascendant/leo,31,0,0
+1668529516998,326,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,69811,145,1,1,https://www.astrology.com/rising-sign-calculator/leo,315,0,0
+1668529517325,173,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72078,305,1,1,https://www.astrology.com/horoscope/monthly-overview/gemini.html,31,0,0
+1668529517325,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,231,148,1,1,https://horoscopefriends.co.uk/monthly-horoscope/gemini,31,0,0
+1668529517356,142,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71847,157,1,1,https://www.astrology.com/horoscope/monthly-overview/gemini.html,123,0,0
+1668529517500,152,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65367,303,1,1,https://www.astrology.com/tarot/daily-love.html,32,0,0
+1668529517500,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,163,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/virgo,32,0,0
+1668529517532,120,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65153,140,1,1,https://www.astrology.com/tarot/daily-love.html,110,0,0
+1668529517653,234,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,69893,288,1,1,https://www.astrology.com/rising-sign-calculator/cancer,32,0,0
+1668529517653,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,222,140,1,1,https://horoscopefriends.co.uk/ascendant/cancer,32,0,0
+1668529517685,202,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,69671,148,1,1,https://www.astrology.com/rising-sign-calculator/cancer,192,0,0
+1668529517889,435,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72044,311,1,1,https://www.astrology.com/horoscope/monthly-overview/capricorn.html,31,0,0
+1668529517889,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,234,151,1,1,https://horoscopefriends.co.uk/monthly-horoscope/capricorn,31,0,0
+1668529517921,403,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71810,160,1,1,https://www.astrology.com/horoscope/monthly-overview/capricorn.html,391,0,0
+1668529518329,159,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72113,305,1,1,https://www.astrology.com/horoscope/monthly-overview/cancer.html,31,0,0
+1668529518329,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,231,148,1,1,https://horoscopefriends.co.uk/monthly-horoscope/cancer,31,0,0
+1668529518361,127,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71882,157,1,1,https://www.astrology.com/horoscope/monthly-overview/cancer.html,116,0,0
+1668529518491,160,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65367,303,1,1,https://www.astrology.com/tarot/daily-love.html,32,0,0
+1668529518491,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,163,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-card-for-the-day/libra,32,0,0
+1668529518523,128,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65153,140,1,1,https://www.astrology.com/tarot/daily-love.html,118,0,0
+1668529518652,155,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65506,298,1,1,https://www.astrology.com/tarot/love-potential.html,31,0,0
+1668529518652,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,218,154,1,1,https://horoscopefriends.co.uk/tarot/love-tarot-compatibility,31,0,0
+1668529518683,124,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65288,144,1,1,https://www.astrology.com/tarot/love-potential.html,113,0,0
+1668529518809,158,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72095,309,1,1,https://www.astrology.com/horoscope/monthly-overview/aquarius.html,31,0,0
+1668529518809,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,233,150,1,1,https://horoscopefriends.co.uk/monthly-horoscope/aquarius,31,0,0
+1668529518840,127,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71862,159,1,1,https://www.astrology.com/horoscope/monthly-overview/aquarius.html,117,0,0
+1668529518969,160,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71977,305,1,1,https://www.astrology.com/horoscope/monthly-overview/pisces.html,32,0,0
+1668529518969,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,231,148,1,1,https://horoscopefriends.co.uk/monthly-horoscope/pisces,32,0,0
+1668529519001,128,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71746,157,1,1,https://www.astrology.com/horoscope/monthly-overview/pisces.html,117,0,0
+1668529519131,180,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72613,287,1,1,https://www.astrology.com/numerology,33,0,0
+1668529519131,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,203,158,1,1,https://horoscopefriends.co.uk/numerology/ex-come-back-numerology,33,0,0
+1668529519164,147,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72410,129,1,1,https://www.astrology.com/numerology,136,0,0
+1668529519313,167,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68946,291,1,1,https://www.astrology.com/tarot/daily.html,33,0,0
+1668529519313,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,156,1,1,https://horoscopefriends.co.uk/tarot/daily-tarot-reading/taurus,33,0,0
+1668529519346,134,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68737,135,1,1,https://www.astrology.com/tarot/daily.html,125,0,0
+1668529519482,163,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65494,302,1,1,https://www.astrology.com/tarot/love-potential.html,31,0,0
+1668529519482,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,218,158,1,1,https://horoscopefriends.co.uk/tarot/love-potential-tarot-reading,31,0,0
+1668529519513,132,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65276,144,1,1,https://www.astrology.com/tarot/love-potential.html,122,0,0
+1668529519647,177,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86076,302,1,1,https://www.astrology.com/articles,31,0,0
+1668529519647,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,175,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/Star-Sign-Groups-Beatles,31,0,0
+1668529519678,146,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85875,127,1,1,https://www.astrology.com/articles,121,0,0
+1668529519825,165,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86070,311,1,1,https://www.astrology.com/articles,32,0,0
+1668529519825,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,184,1,1,https://horoscopefriends.co.uk/astrology-library/the-zodiac-signs-and-making-the-first-move,32,0,0
+1668529519857,133,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85869,127,1,1,https://www.astrology.com/articles,119,0,0
+1668529519992,174,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76617,338,1,1,https://www.astrology.com/article/lunar-eclipse-solar-eclipse/,31,0,0
+1668529519992,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,183,1,1,https://horoscopefriends.co.uk/astrology-library/solar-and-lunar-eclipses-in-the-12-houses,31,0,0
+1668529520023,143,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76388,155,1,1,https://www.astrology.com/article/lunar-eclipse-solar-eclipse/,132,0,0
+1668529520168,158,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,66086,364,1,1,https://www.astrology.com/compatibility/zodiac-signs/love.html,33,0,0
+1668529520168,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,209,1,1,https://horoscopefriends.co.uk/astrology-library/in-love-with-a-friend-from-friends-to-lovers-based-on-his-star-sign,33,0,0
+1668529520201,125,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65857,155,1,1,https://www.astrology.com/compatibility/zodiac-signs/love.html,115,0,0
+1668529520328,156,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72613,263,1,1,https://www.astrology.com/numerology,33,0,0
+1668529520328,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,203,134,1,1,https://horoscopefriends.co.uk/numerology,33,0,0
+1668529520361,123,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72410,129,1,1,https://www.astrology.com/numerology,111,0,0
+1668529520486,187,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70048,288,1,1,https://www.astrology.com/rising-sign-calculator/gemini,31,0,0
+1668529520486,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,222,140,1,1,https://horoscopefriends.co.uk/ascendant/gemini,31,0,0
+1668529520517,156,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,69826,148,1,1,https://www.astrology.com/rising-sign-calculator/gemini,145,0,0
+1668529520674,169,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,81227,291,1,1,https://www.astrology.com/article/what-is-planetary-magick/,31,0,0
+1668529520674,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,226,139,1,1,https://horoscopefriends.co.uk/planetary-hours,31,0,0
+1668529520706,137,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,81001,152,1,1,https://www.astrology.com/article/what-is-planetary-magick/,124,0,0
+1668529520845,162,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,302,1,1,https://www.astrology.com/articles,31,0,0
+1668529520845,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,175,1,1,https://horoscopefriends.co.uk/astrology-library/the-star-signs-and-one-sided-love,31,0,0
+1668529520876,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,118,0,0
+1668529521009,219,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70121,286,1,1,https://www.astrology.com/rising-sign-calculator/libra,31,0,0
+1668529521009,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,221,139,1,1,https://horoscopefriends.co.uk/ascendant/libra,31,0,0
+1668529521040,188,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,69900,147,1,1,https://www.astrology.com/rising-sign-calculator/libra,173,0,0
+1668529521231,162,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,311,1,1,https://www.astrology.com/articles,31,0,0
+1668529521231,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,184,1,1,https://horoscopefriends.co.uk/astrology-library/5-funny-facts-about-each-of-the-star-signs,31,0,0
+1668529521262,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,118,0,0
+1668529521395,192,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,297,1,1,https://www.astrology.com/articles,31,0,0
+1668529521395,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,170,1,1,https://horoscopefriends.co.uk/astrology-library/the-star-signs-and-rejection,31,0,0
+1668529521426,161,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,147,0,0
+1668529521589,174,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70112,288,1,1,https://www.astrology.com/rising-sign-calculator/pisces,31,0,0
+1668529521589,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,222,140,1,1,https://horoscopefriends.co.uk/ascendant/pisces,31,0,0
+1668529521620,143,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,69890,148,1,1,https://www.astrology.com/rising-sign-calculator/pisces,133,0,0
+1668529521765,401,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71810,343,1,1,https://www.astrology.com/aspects-transits/saturn-conjunct-saturn/,31,0,0
+1668529521765,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,233,184,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/sun-conjunct-saturn-reality-check,31,0,0
+1668529521796,370,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71577,159,1,1,https://www.astrology.com/aspects-transits/saturn-conjunct-saturn/,359,0,0
+1668529522168,206,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70208,288,1,1,https://www.astrology.com/rising-sign-calculator/taurus,32,0,0
+1668529522168,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,222,140,1,1,https://horoscopefriends.co.uk/ascendant/taurus,32,0,0
+1668529522200,174,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,69986,148,1,1,https://www.astrology.com/rising-sign-calculator/taurus,164,0,0
+1668529522377,162,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70174,286,1,1,https://www.astrology.com/rising-sign-calculator/virgo,31,0,0
+1668529522377,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,221,139,1,1,https://horoscopefriends.co.uk/ascendant/virgo,31,0,0
+1668529522408,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,69953,147,1,1,https://www.astrology.com/rising-sign-calculator/virgo,115,0,0
+1668529522542,180,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76880,352,1,1,https://www.astrology.com/article/saturn-aquarius-may-2020-astrology-prediction/,31,0,0
+1668529522542,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,247,179,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/saturn-in-aquarius-2020-2023,31,0,0
+1668529522573,149,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76633,173,1,1,https://www.astrology.com/article/saturn-aquarius-may-2020-astrology-prediction/,137,0,0
+1668529522724,281,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71270,276,1,1,https://www.astrology.com/planets,31,0,0
+1668529522724,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,200,150,1,1,https://horoscopefriends.co.uk/astrology-articles/planets,31,0,0
+1668529522755,250,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71070,126,1,1,https://www.astrology.com/planets,239,0,0
+1668529523007,160,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,70230,294,1,1,https://www.astrology.com/rising-sign-calculator/capricorn,31,0,0
+1668529523007,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,225,143,1,1,https://horoscopefriends.co.uk/ascendant/capricorn,31,0,0
+1668529523039,128,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,70005,151,1,1,https://www.astrology.com/rising-sign-calculator/capricorn,117,0,0
+1668529523169,179,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73751,296,1,1,https://www.astrology.com/planets/pluto,32,0,0
+1668529523169,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,206,164,1,1,https://horoscopefriends.co.uk/astrology-library/pluto-in-the-12-houses,32,0,0
+1668529523201,147,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73545,132,1,1,https://www.astrology.com/planets/pluto,136,0,0
+1668529523350,6323,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,112590,309,1,1,https://shop.astrology.com/product/numerology-forecast/,32,0,0
+1668529523350,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,222,161,1,1,https://horoscopefriends.co.uk/numerology/weekly-numerology-forecast,32,0,0
+1668529523382,6291,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,112368,148,1,1,https://shop.astrology.com/product/numerology-forecast/,6248,0,0
+1668529529676,163,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,64875,298,1,1,https://www.astrology.com/tarot/daily-career.html,33,0,0
+1668529529676,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,216,156,1,1,https://horoscopefriends.co.uk/tarot/daily-career-tarot-reading,33,0,0
+1668529529709,130,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,64659,142,1,1,https://www.astrology.com/tarot/daily-career.html,121,0,0
+1668529529841,160,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,307,1,1,https://www.astrology.com/articles,32,0,0
+1668529529841,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,180,1,1,https://horoscopefriends.co.uk/astrology-library/the-most-and-least-tolerant-star-signs,32,0,0
+1668529529873,128,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,112,0,0
+1668529530005,220,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76388,330,1,1,https://www.astrology.com/us/horoscope/index-daily-love.aspx,31,0,0
+1668529530005,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,227,177,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/single-love-horoscope-2019,31,0,0
+1668529530036,189,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76161,153,1,1,https://www.astrology.com/us/horoscope/index-daily-love.aspx,178,0,0
+1668529530227,377,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68347,280,1,1,https://www.astrology.com/psychic-readings,31,0,0
+1668529530227,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,145,1,1,https://horoscopefriends.co.uk/psychics/all-psychics,31,0,0
+1668529530258,346,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68138,135,1,1,https://www.astrology.com/psychic-readings,336,0,0
+1668529530607,197,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,270,1,1,https://www.astrology.com/articles,30,0,0
+1668529530607,30,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,143,1,1,https://horoscopefriends.co.uk/celebrity-horoscope,30,0,0
+1668529530638,166,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,154,0,0
+1668529530820,349,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79284,341,1,1,https://www.astrology.com/aspects-transits/mars-conjunct-saturn/,31,0,0
+1668529530820,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,231,184,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mars-conjunct-saturn-stay-focused,31,0,0
+1668529530851,318,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79053,157,1,1,https://www.astrology.com/aspects-transits/mars-conjunct-saturn/,307,0,0
+1668529531171,190,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,84187,288,1,1,https://www.astrology.com/article/ascendant-meaning-astrology/,31,0,0
+1668529531171,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,133,1,1,https://horoscopefriends.co.uk/ascendant,31,0,0
+1668529531202,159,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,83958,155,1,1,https://www.astrology.com/article/ascendant-meaning-astrology/,149,0,0
+1668529531363,176,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,317,1,1,https://www.astrology.com/articles,31,0,0
+1668529531363,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,190,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/10-Astrology-Facts-About-Marilyn-Monroe,31,0,0
+1668529531394,145,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,132,0,0
+1668529531541,177,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,80769,377,1,1,https://www.astrology.com/article/the-6-most-commitment-phobic-signs-and-6-that-are-in-it-for-the-long-haul/,31,0,0
+1668529531541,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,275,176,1,1,https://horoscopefriends.co.uk/astrology-library/commitment-and-the-12-zodiac-signs,31,0,0
+1668529531572,146,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,80494,201,1,1,https://www.astrology.com/article/the-6-most-commitment-phobic-signs-and-6-that-are-in-it-for-the-long-haul/,125,0,0
+1668529531720,165,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,77366,300,1,1,https://www.astrology.com/article/love-tarot-spread-singles/,31,0,0
+1668529531720,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,227,147,1,1,https://horoscopefriends.co.uk/tarot/single-love-tarot,31,0,0
+1668529531751,134,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,77139,153,1,1,https://www.astrology.com/article/love-tarot-spread-singles/,122,0,0
+1668529531887,179,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73510,329,1,1,https://www.astrology.com/planets/mars,31,0,0
+1668529531887,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,205,198,1,1,https://horoscopefriends.co.uk/astrology-library/Mars-in-the-12-zodiac-signs-and-its-meaning-in-Astrology,31,0,0
+1668529531918,148,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73305,131,1,1,https://www.astrology.com/planets/mars,137,0,0
+1668529532068,167,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86068,311,1,1,https://www.astrology.com/articles,33,0,0
+1668529532068,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,184,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/ryan-reynolds-and-blake-lively-horoscope,33,0,0
+1668529532101,134,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85867,127,1,1,https://www.astrology.com/articles,121,0,0
+1668529532237,201,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79364,356,1,1,https://www.astrology.com/aspects-transits/venus-trine-pluto/,31,0,0
+1668529532237,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,202,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-trine-pluto-sudden-romance-or-win-the-lottery,31,0,0
+1668529532268,170,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79136,154,1,1,https://www.astrology.com/aspects-transits/venus-trine-pluto/,157,0,0
+1668529532439,183,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,81874,277,1,1,https://www.astrology.com/zodiac-signs,32,0,0
+1668529532439,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,205,146,1,1,https://horoscopefriends.co.uk/zodiac-characteristics,32,0,0
+1668529532471,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,81669,131,1,1,https://www.astrology.com/zodiac-signs,137,0,0
+1668529532624,212,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,80381,302,1,1,https://www.astrology.com/numerology/name-numerology,31,0,0
+1668529532624,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,157,1,1,https://horoscopefriends.co.uk/numerology/numerology-soul-number,31,0,0
+1668529532655,181,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,80162,145,1,1,https://www.astrology.com/numerology/name-numerology,158,0,0
+1668529532838,169,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86069,300,1,1,https://www.astrology.com/articles,31,0,0
+1668529532838,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,173,1,1,https://horoscopefriends.co.uk/astrology-library/how-do-you-keep-the-spark-alive,31,0,0
+1668529532869,138,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85868,127,1,1,https://www.astrology.com/articles,120,0,0
+1668529533009,164,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,295,1,1,https://www.astrology.com/articles,31,0,0
+1668529533009,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,168,1,1,https://horoscopefriends.co.uk/astrology-library/diet-and-detox-by-the-moon,31,0,0
+1668529533041,132,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,119,0,0
+1668529533175,215,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68095,308,1,1,https://www.astrology.com/us/horoscope/index-yearly-chinese-2022.aspx,31,0,0
+1668529533175,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,236,146,1,1,https://horoscopefriends.co.uk/chinese-horoscope-2022,31,0,0
+1668529533206,184,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,67859,162,1,1,https://www.astrology.com/us/horoscope/index-yearly-chinese-2022.aspx,174,0,0
+1668529533392,190,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,82719,322,1,1,https://www.astrology.com/article/venus-retrograde-gemini-2020/,31,0,0
+1668529533392,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,166,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-in-gemini,31,0,0
+1668529533424,158,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,82489,156,1,1,https://www.astrology.com/article/venus-retrograde-gemini-2020/,127,0,0
+1668529533584,173,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,78983,324,1,1,https://www.astrology.com/article/part-of-fortune-astrology/,31,0,0
+1668529533584,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,227,171,1,1,https://horoscopefriends.co.uk/astrology-library/Where-is-your-Part-of-Fortune,31,0,0
+1668529533615,142,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,78756,153,1,1,https://www.astrology.com/article/part-of-fortune-astrology/,126,0,0
+1668529533759,231,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,80368,309,1,1,https://www.astrology.com/numerology/name-numerology,31,0,0
+1668529533759,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,164,1,1,https://horoscopefriends.co.uk/numerology/numerology-personality-number,31,0,0
+1668529533790,200,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,80149,145,1,1,https://www.astrology.com/numerology/name-numerology,187,0,0
+1668529533991,163,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86064,313,1,1,https://www.astrology.com/articles,32,0,0
+1668529533991,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,186,1,1,https://horoscopefriends.co.uk/astrology-library/long-term-relationships-and-your-zodiac-sign,32,0,0
+1668529534023,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85863,127,1,1,https://www.astrology.com/articles,117,0,0
+1668529534156,173,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86068,312,1,1,https://www.astrology.com/articles,31,0,0
+1668529534156,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,185,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/henry-cavill-superman-celebrity-horoscope,31,0,0
+1668529534188,141,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85867,127,1,1,https://www.astrology.com/articles,119,0,0
+1668529534331,211,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,75783,359,1,1,https://www.astrology.com/article/pluto-capricorn-meaning/,31,0,0
+1668529534331,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,225,208,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/pluto-in-capricorn-earth-shifts-and-global-transformation,31,0,0
+1668529534362,180,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,75558,151,1,1,https://www.astrology.com/article/pluto-capricorn-meaning/,167,0,0
+1668529534544,166,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79025,315,1,1,https://www.astrology.com/article/uranus-enters-taurus/,31,0,0
+1668529534544,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,222,167,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/uranus-in-taurus,31,0,0
+1668529534575,135,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,78803,148,1,1,https://www.astrology.com/article/uranus-enters-taurus/,129,0,0
+1668529534712,192,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,110133,313,1,1,https://www.astrology.com/on-the-cusp,31,0,0
+1668529534712,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,204,183,1,1,https://horoscopefriends.co.uk/astrology-library/born-on-the-cusp-between-two-zodiac-signs,31,0,0
+1668529534743,161,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,109929,130,1,1,https://www.astrology.com/on-the-cusp,138,0,0
+1668529534906,282,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,83669,337,1,1,https://www.astrology.com/article/sex-secrets-for-every-zodiac-sign/,31,0,0
+1668529534906,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,235,176,1,1,https://horoscopefriends.co.uk/astrology-library/the-sexy-secrets-of-the-star-signs,31,0,0
+1668529534938,250,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,83434,161,1,1,https://www.astrology.com/article/sex-secrets-for-every-zodiac-sign/,237,0,0
+1668529535189,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,323,1,1,https://www.astrology.com/articles,31,0,0
+1668529535189,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,196,1,1,https://horoscopefriends.co.uk/astrology-library/the-one-question-you-should-never-ask-each-zodiac-sign,31,0,0
+1668529535221,138,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,126,0,0
+1668529535361,224,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86064,296,1,1,https://www.astrology.com/articles,31,0,0
+1668529535361,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,169,1,1,https://horoscopefriends.co.uk/astrology-library/jealousy-and-the-star-signs,31,0,0
+1668529535392,193,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85863,127,1,1,https://www.astrology.com/articles,180,0,0
+1668529535587,160,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,327,1,1,https://www.astrology.com/articles,32,0,0
+1668529535587,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,200,1,1,https://horoscopefriends.co.uk/astrology-library/the-star-signs-and-how-fast-they-learn-from-their-mistakes,32,0,0
+1668529535619,128,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,116,0,0
+1668529535756,161,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,307,1,1,https://www.astrology.com/articles,31,0,0
+1668529535756,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,180,1,1,https://horoscopefriends.co.uk/astrology-library/summer-fling-permanent-thing-star-sign,31,0,0
+1668529535787,130,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,118,0,0
+1668529535919,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,334,1,1,https://www.astrology.com/articles,35,0,0
+1668529535919,35,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,207,1,1,https://horoscopefriends.co.uk/astrology-library/how-to-get-from-first-to-second-date-depending-on-his-zodiac-sign,35,0,0
+1668529535954,135,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,122,0,0
+1668529536091,182,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,329,1,1,https://www.astrology.com/articles,31,0,0
+1668529536091,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,202,1,1,https://horoscopefriends.co.uk/astrology-library/how-to-get-him-to-admit-he-is-in-love-based-on-his-star-sign,31,0,0
+1668529536122,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,137,0,0
+1668529536275,180,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,318,1,1,https://www.astrology.com/articles,31,0,0
+1668529536275,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,191,1,1,https://horoscopefriends.co.uk/astrology-library/take-a-break-partners-reaction-based-on-star-sign,31,0,0
+1668529536306,149,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,136,0,0
+1668529536456,211,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73424,331,1,1,https://www.astrology.com/planets/venus,31,0,0
+1668529536456,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,206,199,1,1,https://horoscopefriends.co.uk/astrology-library/venus-in-the-12-zodiac-signs-and-its-meaning-in-astrology,31,0,0
+1668529536488,179,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73218,132,1,1,https://www.astrology.com/planets/venus,169,0,0
+1668529536668,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,74568,333,1,1,https://www.astrology.com/article/solar-return-chart-meaning/,36,0,0
+1668529536668,36,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,179,1,1,https://horoscopefriends.co.uk/astrology-library/solar-return-chart-and-interpretation,36,0,0
+1668529536705,133,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,74340,154,1,1,https://www.astrology.com/article/solar-return-chart-meaning/,121,0,0
+1668529536840,168,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,330,1,1,https://www.astrology.com/articles,32,0,0
+1668529536840,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,203,1,1,https://horoscopefriends.co.uk/astrology-library/a-humorous-look-at-the-zodiac-signs-and-their-negative-traits,32,0,0
+1668529536872,136,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,123,0,0
+1668529537010,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,112040,293,1,1,https://www.astrology.com/zodiac-signs/scorpio,31,0,0
+1668529537010,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,213,154,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/scorpio,31,0,0
+1668529537041,167,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,111827,139,1,1,https://www.astrology.com/zodiac-signs/scorpio,150,0,0
+1668529537210,183,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79032,331,1,1,https://www.astrology.com/article/neptune-pisces-astrology/,31,0,0
+1668529537210,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,226,179,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/neptune-in-pisces-spellbound,31,0,0
+1668529537241,152,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,78806,152,1,1,https://www.astrology.com/article/neptune-pisces-astrology/,140,0,0
+1668529537395,173,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,107011,291,1,1,https://www.astrology.com/zodiac-signs/taurus,31,0,0
+1668529537395,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,212,153,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/taurus,31,0,0
+1668529537426,142,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,106799,138,1,1,https://www.astrology.com/zodiac-signs/taurus,129,0,0
+1668529537570,164,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,105600,301,1,1,https://www.astrology.com/zodiac-signs/sagittarius,34,0,0
+1668529537570,34,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,217,158,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/sagittarius,34,0,0
+1668529537605,129,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,105383,143,1,1,https://www.astrology.com/zodiac-signs/sagittarius,113,0,0
+1668529537736,181,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,320,1,1,https://www.astrology.com/articles,31,0,0
+1668529537736,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,193,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/fifty-shades-of-grey-star-jamie-dornans-horoscope,31,0,0
+1668529537767,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,138,0,0
+1668529537919,173,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,301,1,1,https://www.astrology.com/articles,35,0,0
+1668529537919,35,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,174,1,1,https://horoscopefriends.co.uk/astrology-library/fate-and-destiny-the-lunar-nodes,35,0,0
+1668529537955,137,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,125,0,0
+1668529538113,206,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86068,277,1,1,https://www.astrology.com/articles,42,0,0
+1668529538113,42,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,150,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/page/3,42,0,0
+1668529538155,164,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85867,127,1,1,https://www.astrology.com/articles,152,0,0
+1668529538323,182,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,89764,334,1,1,https://www.astrology.com/retrograde/mercury-retrograde,32,0,0
+1668529538323,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,222,186,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/Mercury-Retrograde-And-World-Events,32,0,0
+1668529538355,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,89542,148,1,1,https://www.astrology.com/retrograde/mercury-retrograde,135,0,0
+1668529538506,225,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,80373,299,1,1,https://www.astrology.com/numerology/name-numerology,31,0,0
+1668529538506,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,154,1,1,https://horoscopefriends.co.uk/astrology-reports/soul-profile,31,0,0
+1668529538537,194,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,80154,145,1,1,https://www.astrology.com/numerology/name-numerology,131,0,0
+1668529538732,173,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79009,379,1,1,https://www.astrology.com/article/aquarius-season-using-the-zodiac-to-channel-your-inner-activist.html,31,0,0
+1668529538732,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,269,184,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/princess-diana-ultimate-cancerian,31,0,0
+1668529538763,142,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,78740,195,1,1,https://www.astrology.com/article/aquarius-season-using-the-zodiac-to-channel-your-inner-activist.html,131,0,0
+1668529538908,185,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73438,297,1,1,https://www.astrology.com/planets/jupiter,32,0,0
+1668529538908,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,208,163,1,1,https://horoscopefriends.co.uk/astrology-library/Jupiter-in-your-chart,32,0,0
+1668529538940,153,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73230,134,1,1,https://www.astrology.com/planets/jupiter,143,0,0
+1668529539140,433,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79686,326,1,1,https://www.astrology.com/aspects-transits/venus-trine-jupiter/,31,0,0
+1668529539140,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,170,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-trine-jupiter,31,0,0
+1668529539171,402,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79456,156,1,1,https://www.astrology.com/aspects-transits/venus-trine-jupiter/,391,0,0
+1668529539575,172,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,82381,311,1,1,https://www.astrology.com/article/astrology-aspect-symbols/,31,0,0
+1668529539575,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,226,159,1,1,https://horoscopefriends.co.uk/astrology-library/planetary-aspects,31,0,0
+1668529539606,141,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,82155,152,1,1,https://www.astrology.com/article/astrology-aspect-symbols/,129,0,0
+1668529539756,166,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,112163,291,1,1,https://www.astrology.com/zodiac-signs/cancer,31,0,0
+1668529539756,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,212,153,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/cancer,31,0,0
+1668529539787,135,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,111951,138,1,1,https://www.astrology.com/zodiac-signs/cancer,118,0,0
+1668529539925,164,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,64873,304,1,1,https://www.astrology.com/tarot/daily-career.html,41,0,0
+1668529539925,41,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,216,162,1,1,https://horoscopefriends.co.uk/tarot/daily-career-tarot-reading/libra,41,0,0
+1668529539966,123,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,64657,142,1,1,https://www.astrology.com/tarot/daily-career.html,114,0,0
+1668529540090,202,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,109971,289,1,1,https://www.astrology.com/zodiac-signs/virgo,31,0,0
+1668529540090,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,211,152,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/virgo,31,0,0
+1668529540121,171,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,109760,137,1,1,https://www.astrology.com/zodiac-signs/virgo,155,0,0
+1668529540294,202,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,293,1,1,https://www.astrology.com/articles,32,0,0
+1668529540294,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,166,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/hugh-jackman-horoscope,32,0,0
+1668529540326,170,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,158,0,0
+1668529540504,155,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73751,288,1,1,https://www.astrology.com/planets/pluto,31,0,0
+1668529540504,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,206,156,1,1,https://horoscopefriends.co.uk/astrology-articles/planets/pluto,31,0,0
+1668529540535,124,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73545,132,1,1,https://www.astrology.com/planets/pluto,118,0,0
+1668529540660,180,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,81868,300,1,1,https://www.astrology.com/zodiac-signs,31,0,0
+1668529540660,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,205,169,1,1,https://horoscopefriends.co.uk/astrology-library/the-star-signs-and-break-up,31,0,0
+1668529540692,148,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,81663,131,1,1,https://www.astrology.com/zodiac-signs,137,0,0
+1668529540842,165,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,322,1,1,https://www.astrology.com/articles,31,0,0
+1668529540842,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,195,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/joe-manganiello-sofia-vergara-celebrity-birth-chart,31,0,0
+1668529540873,134,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,117,0,0
+1668529541009,154,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,64882,304,1,1,https://www.astrology.com/tarot/daily-career.html,31,0,0
+1668529541009,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,216,162,1,1,https://horoscopefriends.co.uk/tarot/daily-career-tarot-reading/virgo,31,0,0
+1668529541040,123,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,64666,142,1,1,https://www.astrology.com/tarot/daily-career.html,117,0,0
+1668529541165,176,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79356,336,1,1,https://www.astrology.com/aspects-transits/venus-square-mars/,31,0,0
+1668529541165,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,182,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mars-square-venus-love-and-hate,31,0,0
+1668529541196,145,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79128,154,1,1,https://www.astrology.com/aspects-transits/venus-square-mars/,134,0,0
+1668529541342,165,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,74617,319,1,1,https://www.astrology.com/us/horoscope/index-weekly-love.aspx,31,0,0
+1668529541342,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,165,1,1,https://horoscopefriends.co.uk/astrology-reports/your-love-life-forecast,31,0,0
+1668529541373,134,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,74389,154,1,1,https://www.astrology.com/us/horoscope/index-weekly-love.aspx,115,0,0
+1668529541508,162,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,323,1,1,https://www.astrology.com/articles,31,0,0
+1668529541508,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,196,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/christian-bale-batman-and-exodus-celebrity-horoscope,31,0,0
+1668529541539,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,119,0,0
+1668529541672,164,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86069,315,1,1,https://www.astrology.com/articles,35,0,0
+1668529541672,35,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,188,1,1,https://horoscopefriends.co.uk/astrology-library/ruling-planet-ascendant-personality-appearance,35,0,0
+1668529541707,129,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85868,127,1,1,https://www.astrology.com/articles,117,0,0
+1668529541838,157,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79868,331,1,1,https://www.astrology.com/article/venus-aquarius-2020/,31,0,0
+1668529541838,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,221,184,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-in-aquarius-lets-be-friends,31,0,0
+1668529541869,126,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79647,147,1,1,https://www.astrology.com/article/venus-aquarius-2020/,116,0,0
+1668529542007,350,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79615,341,1,1,https://www.astrology.com/aspects-transits/venus-trine-uranus/,30,0,0
+1668529542007,30,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,186,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-trine-uranus-love-is-electric,30,0,0
+1668529542038,319,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79386,155,1,1,https://www.astrology.com/aspects-transits/venus-trine-uranus/,306,0,0
+1668529542359,161,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73027,261,1,1,https://www.astrology.com/us/home.aspx,31,0,0
+1668529542359,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,249,130,1,1,https://horoscopefriends.co.uk/extras,31,0,0
+1668529542390,130,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72778,131,1,1,https://www.astrology.com/us/home.aspx,121,0,0
+1668529542522,356,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79313,353,1,1,https://www.astrology.com/aspects-transits/venus-conjunct-mars/,35,0,0
+1668529542522,35,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,197,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mars-and-venus-conjunct-in-leo-head-over-heels,35,0,0
+1668529542557,321,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79083,156,1,1,https://www.astrology.com/aspects-transits/venus-conjunct-mars/,310,0,0
+1668529542880,163,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,100242,285,1,1,https://www.astrology.com/zodiac-signs/leo,32,0,0
+1668529542880,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,150,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/leo,32,0,0
+1668529542912,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,100033,135,1,1,https://www.astrology.com/zodiac-signs/leo,117,0,0
+1668529543045,193,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,77580,338,1,1,https://www.astrology.com/us/horoscope/index-daily-work.aspx,33,0,0
+1668529543045,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,227,185,1,1,https://horoscopefriends.co.uk/astrology-reports/career-analysis-find-your-niche-and-succeed,33,0,0
+1668529543078,160,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,77353,153,1,1,https://www.astrology.com/us/horoscope/index-daily-work.aspx,150,0,0
+1668529543240,155,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,294,1,1,https://www.astrology.com/articles,31,0,0
+1668529543240,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,167,1,1,https://horoscopefriends.co.uk/astrology-library/star-signs-key-to-success,31,0,0
+1668529543272,123,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,111,0,0
+1668529543407,152,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,64890,310,1,1,https://www.astrology.com/tarot/daily-career.html,31,0,0
+1668529543407,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,216,168,1,1,https://horoscopefriends.co.uk/tarot/daily-career-tarot-reading/sagittarius,31,0,0
+1668529543438,121,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,64674,142,1,1,https://www.astrology.com/tarot/daily-career.html,119,0,0
+1668529543561,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,104976,295,1,1,https://www.astrology.com/zodiac-signs/aquarius,31,0,0
+1668529543561,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,155,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/aquarius,31,0,0
+1668529543592,139,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,104762,140,1,1,https://www.astrology.com/zodiac-signs/aquarius,125,0,0
+1668529543733,174,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,105413,289,1,1,https://www.astrology.com/zodiac-signs/libra,31,0,0
+1668529543733,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,211,152,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/libra,31,0,0
+1668529543764,143,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,105202,137,1,1,https://www.astrology.com/zodiac-signs/libra,122,0,0
+1668529543909,165,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,295,1,1,https://www.astrology.com/articles,31,0,0
+1668529543909,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,168,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/bradley-cooper-horoscope,31,0,0
+1668529543940,134,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,122,0,0
+1668529544076,7134,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,120440,304,1,1,https://shop.astrology.com/product/soulmate-tarot-reading/,31,0,0
+1668529544076,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,225,153,1,1,https://horoscopefriends.co.uk/tarot/soul-mate-tarot-reading,31,0,0
+1668529544107,7103,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,120215,151,1,1,https://shop.astrology.com/product/soulmate-tarot-reading/,6673,0,0
+1668529551212,455,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,82540,327,1,1,https://www.astrology.com/article/chiron-in-aries-astrology-meaning/,179,0,148
+1668529551212,179,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,235,166,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/chiron-in-aries,179,0,148
+1668529551391,276,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,82305,161,1,1,https://www.astrology.com/article/chiron-in-aries-astrology-meaning/,228,0,81
+1668529551669,419,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,67297,332,1,1,https://www.astrology.com/us/horoscope/yearly-chinese-overview-2022.aspx?sign=rooster,41,0,0
+1668529551669,41,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,252,154,1,1,https://horoscopefriends.co.uk/chinese-horoscope-2022/rooster,41,0,0
+1668529551710,378,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,67045,178,1,1,https://www.astrology.com/us/horoscope/yearly-chinese-overview-2022.aspx?sign=rooster,360,0,0
+1668529552090,330,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71379,264,1,1,https://www.astrology.com/learn,41,0,0
+1668529552090,41,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,198,140,1,1,https://horoscopefriends.co.uk/dream-meanings/Q,41,0,0
+1668529552131,289,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71181,124,1,1,https://www.astrology.com/learn,242,0,0
+1668529552423,887,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79748,349,1,1,https://www.astrology.com/aspects-transits/venus-opposite-uranus/,37,0,0
+1668529552423,37,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,232,191,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-opposite-uranus-instant-attraction,37,0,0
+1668529552460,850,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79516,158,1,1,https://www.astrology.com/aspects-transits/venus-opposite-uranus/,830,0,0
+1668529553312,166,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71379,264,1,1,https://www.astrology.com/learn,31,0,0
+1668529553312,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,198,140,1,1,https://horoscopefriends.co.uk/dream-meanings/U,31,0,0
+1668529553343,135,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71181,124,1,1,https://www.astrology.com/learn,121,0,0
+1668529553480,363,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79544,337,1,1,https://www.astrology.com/aspects-transits/venus-square-saturn/,31,0,0
+1668529553480,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,230,181,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-square-saturn-tough-love,31,0,0
+1668529553511,332,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79314,156,1,1,https://www.astrology.com/aspects-transits/venus-square-saturn/,316,0,0
+1668529553845,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,104666,291,1,1,https://www.astrology.com/zodiac-signs/gemini,31,0,0
+1668529553845,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,212,153,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/gemini,31,0,0
+1668529553876,139,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,104454,138,1,1,https://www.astrology.com/zodiac-signs/gemini,119,0,0
+1668529554017,193,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,90811,284,1,1,https://www.astrology.com/article/zodiac-sign-dates/,43,0,0
+1668529554017,43,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,139,1,1,https://horoscopefriends.co.uk/Horoscope-Dates,43,0,0
+1668529554060,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,90592,145,1,1,https://www.astrology.com/article/zodiac-sign-dates/,122,0,0
+1668529554212,173,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,310,1,1,https://www.astrology.com/articles,31,0,0
+1668529554212,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,183,1,1,https://horoscopefriends.co.uk/astrology-library/how-the-star-signs-express-their-feelings,31,0,0
+1668529554243,142,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,128,0,0
+1668529554387,178,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,112048,320,1,1,https://www.astrology.com/zodiac-signs/scorpio,30,0,0
+1668529554387,30,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,213,181,1,1,https://horoscopefriends.co.uk/astrology-library/8-reasons-why-you-should-date-a-scorpio,30,0,0
+1668529554417,148,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,111835,139,1,1,https://www.astrology.com/zodiac-signs/scorpio,143,0,0
+1668529554567,167,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,279,1,1,https://www.astrology.com/articles,43,0,0
+1668529554567,43,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,152,1,1,https://horoscopefriends.co.uk/astrology-library/soap-stars,43,0,0
+1668529554610,124,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,112,0,0
+1668529554736,174,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,110174,297,1,1,https://www.astrology.com/zodiac-signs/capricorn,30,0,0
+1668529554736,30,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,215,156,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/capricorn,30,0,0
+1668529554766,144,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,109959,141,1,1,https://www.astrology.com/zodiac-signs/capricorn,120,0,0
+1668529554912,162,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,98817,289,1,1,https://www.astrology.com/zodiac-signs/aries,31,0,0
+1668529554912,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,211,152,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/aries,31,0,0
+1668529554943,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,98606,137,1,1,https://www.astrology.com/zodiac-signs/aries,120,0,0
+1668529555076,187,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,349,1,1,https://www.astrology.com/articles,37,0,0
+1668529555076,37,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,222,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/game-of-thrones-is-back-sneak-a-peak-at-jon-snow-aka-kit-harringtons-horoscope,37,0,0
+1668529555113,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,124,0,0
+1668529555265,226,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,82175,306,1,1,https://www.astrology.com/numerology/birth-numerology,31,0,0
+1668529555265,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,220,160,1,1,https://horoscopefriends.co.uk/numerology/numerology-destiny-number,31,0,0
+1668529555296,195,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,81955,146,1,1,https://www.astrology.com/numerology/birth-numerology,181,0,0
+1668529555492,221,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79639,329,1,1,https://www.astrology.com/aspects-transits/mercury-trine-uranus/,31,0,0
+1668529555492,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,231,172,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mercury-trine-uranus-,31,0,0
+1668529555523,190,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79408,157,1,1,https://www.astrology.com/aspects-transits/mercury-trine-uranus/,167,0,0
+1668529555715,352,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,67219,324,1,1,https://www.astrology.com/us/horoscope/yearly-chinese-overview-2022.aspx?sign=dog,31,0,0
+1668529555715,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,248,150,1,1,https://horoscopefriends.co.uk/chinese-horoscope-2022/dog,31,0,0
+1668529555746,321,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,66971,174,1,1,https://www.astrology.com/us/horoscope/yearly-chinese-overview-2022.aspx?sign=dog,317,0,0
+1668529556069,194,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,100243,296,1,1,https://www.astrology.com/zodiac-signs/leo,44,0,0
+1668529556069,44,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,161,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/sun-in-leo,44,0,0
+1668529556113,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,100034,135,1,1,https://www.astrology.com/zodiac-signs/leo,125,0,0
+1668529556265,204,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,111203,291,1,1,https://www.astrology.com/zodiac-signs/pisces,31,0,0
+1668529556265,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,212,153,1,1,https://horoscopefriends.co.uk/zodiac-characteristics/pisces,31,0,0
+1668529556297,172,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,110991,138,1,1,https://www.astrology.com/zodiac-signs/pisces,166,0,0
+1668529556471,392,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,66652,297,1,1,https://www.astrology.com/psychic-readings/tarot.html,42,0,0
+1668529556471,42,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,220,151,1,1,https://horoscopefriends.co.uk/psychics/tarot-card-readers,42,0,0
+1668529556514,349,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,66432,146,1,1,https://www.astrology.com/psychic-readings/tarot.html,332,0,0
+1668529556865,248,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68842,293,1,1,https://www.astrology.com/elements,31,0,0
+1668529556865,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,166,1,1,https://horoscopefriends.co.uk/astrology-library/the-4-elements-of-nature,31,0,0
+1668529556896,217,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68641,127,1,1,https://www.astrology.com/elements,194,0,0
+1668529557115,205,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79639,332,1,1,https://www.astrology.com/aspects-transits/venus-opposite-neptune/,31,0,0
+1668529557115,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,233,173,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-opposite-neptune,31,0,0
+1668529557146,174,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79406,159,1,1,https://www.astrology.com/aspects-transits/venus-opposite-neptune/,167,0,0
+1668529557322,164,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86067,302,1,1,https://www.astrology.com/articles,41,0,0
+1668529557322,41,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,175,1,1,https://horoscopefriends.co.uk/astrology-library/music-and-the-signs-of-the-zodiac,41,0,0
+1668529557363,123,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85866,127,1,1,https://www.astrology.com/articles,112,0,0
+1668529557488,352,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79876,330,1,1,https://www.astrology.com/aspects-transits/venus-sextile-jupiter/,31,0,0
+1668529557488,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,232,172,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-sextile-jupiter,31,0,0
+1668529557519,321,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,79644,158,1,1,https://www.astrology.com/aspects-transits/venus-sextile-jupiter/,297,0,0
+1668529557842,222,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76762,326,1,1,https://www.astrology.com/article/what-does-polarity-mean-in-astrology/,31,0,0
+1668529557842,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,238,162,1,1,https://horoscopefriends.co.uk/astrology-library/do-opposites-attract,31,0,0
+1668529557874,190,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76524,164,1,1,https://www.astrology.com/article/what-does-polarity-mean-in-astrology/,172,0,0
+1668529558066,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,296,1,1,https://www.astrology.com/articles,47,0,0
+1668529558066,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,169,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/serena-williams-horoscope,47,0,0
+1668529558113,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,130,0,0
+1668529558265,201,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73542,292,1,1,https://www.astrology.com/planets/neptune,48,0,0
+1668529558265,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,208,158,1,1,https://horoscopefriends.co.uk/astrology-articles/planets/neptune,48,0,0
+1668529558313,153,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73334,134,1,1,https://www.astrology.com/planets/neptune,150,0,0
+1668529558468,211,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,288,1,1,https://www.astrology.com/articles,45,0,0
+1668529558468,45,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,161,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/hoziers-horoscope,45,0,0
+1668529558513,166,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,154,0,0
+1668529558681,182,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,68347,267,1,1,https://www.astrology.com/psychic-readings,32,0,0
+1668529558681,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,132,1,1,https://horoscopefriends.co.uk/psychics,32,0,0
+1668529558713,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,68138,135,1,1,https://www.astrology.com/psychic-readings,126,0,0
+1668529558866,178,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65654,335,1,1,https://www.astrology.com/compatibility/zodiac-signs/career.html,47,0,0
+1668529558866,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,231,178,1,1,https://horoscopefriends.co.uk/astrology-library/each-zodiac-signs-attitude-as-a-boss,47,0,0
+1668529558913,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65423,157,1,1,https://www.astrology.com/compatibility/zodiac-signs/career.html,122,0,0
+1668529559045,168,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72620,272,1,1,https://www.astrology.com/numerology,31,0,0
+1668529559045,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,203,143,1,1,https://horoscopefriends.co.uk/psychics/numerology,31,0,0
+1668529559076,137,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72417,129,1,1,https://www.astrology.com/numerology,113,0,0
+1668529559215,349,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,79086,320,1,1,https://www.astrology.com/aspects-transits/mars-trine-pluto/,31,0,0
+1668529559215,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,227,167,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mars-trine-pluto,31,0,0
+1668529559246,318,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,78859,153,1,1,https://www.astrology.com/aspects-transits/mars-trine-pluto/,298,0,0
+1668529559566,179,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,77378,334,1,1,https://www.astrology.com/article/love-tarot-spread-singles/,47,0,0
+1668529559566,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,227,181,1,1,https://horoscopefriends.co.uk/astrology-library/Lone-Star-Astrology-and-the-Single-Life,47,0,0
+1668529559613,132,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,77151,153,1,1,https://www.astrology.com/article/love-tarot-spread-singles/,131,0,0
+1668529559766,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,298,1,1,https://www.astrology.com/articles,47,0,0
+1668529559766,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,171,1,1,https://horoscopefriends.co.uk/astrology-library/the-star-signs-and-heartbreak,47,0,0
+1668529559813,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,131,0,0
+1668529559966,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,82964,333,1,1,https://www.astrology.com/article/how-to-survive-your-saturn-return/,30,0,0
+1668529559966,30,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,235,172,1,1,https://horoscopefriends.co.uk/astrology-library/how-to-survive-Saturn-transits,30,0,0
+1668529559996,168,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,82729,161,1,1,https://www.astrology.com/article/how-to-survive-your-saturn-return/,167,0,0
+1668529560168,297,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,67212,327,1,1,https://www.astrology.com/us/horoscope/yearly-chinese-overview-2022.aspx?sign=sheep,46,0,0
+1668529560168,46,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,250,151,1,1,https://horoscopefriends.co.uk/chinese-horoscope-2022/goat,46,0,0
+1668529560214,251,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,66962,176,1,1,https://www.astrology.com/us/horoscope/yearly-chinese-overview-2022.aspx?sign=sheep,250,0,0
+1668529560466,199,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,294,1,1,https://www.astrology.com/articles,48,0,0
+1668529560466,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,167,1,1,https://horoscopefriends.co.uk/astrology-library/it-pays-to-know-your-boss,48,0,0
+1668529560514,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,150,0,0
+1668529560667,197,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,290,1,1,https://www.astrology.com/articles,47,0,0
+1668529560667,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,163,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/lady-gaga-horoscope,47,0,0
+1668529560714,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,127,0,0
+1668529560866,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76419,327,1,1,https://www.astrology.com/article/enneagram-personality-test/,48,0,0
+1668529560866,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,173,1,1,https://horoscopefriends.co.uk/astrology-quizzes/are-you-really-your-zodiac-sign,48,0,0
+1668529560914,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76191,154,1,1,https://www.astrology.com/article/enneagram-personality-test/,129,0,0
+1668529561066,173,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73440,292,1,1,https://www.astrology.com/planets/jupiter,31,0,0
+1668529561066,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,208,158,1,1,https://horoscopefriends.co.uk/astrology-articles/planets/jupiter,31,0,0
+1668529561097,142,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73232,134,1,1,https://www.astrology.com/planets/jupiter,132,0,0
+1668529561240,174,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,307,1,1,https://www.astrology.com/articles,36,0,0
+1668529561240,36,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,180,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/beyoncé-horoscope-and-astrology,36,0,0
+1668529561276,138,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,119,0,0
+1668529561417,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,71935,341,1,1,https://www.astrology.com/article/venus-in-aquarius-a-david-bowie-moment.html,47,0,0
+1668529561417,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,244,171,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/david-bowie-astrology-chart,47,0,0
+1668529561464,123,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,71691,170,1,1,https://www.astrology.com/article/venus-in-aquarius-a-david-bowie-moment.html,112,0,0
+1668529561589,176,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76437,321,1,1,https://www.astrology.com/article/venus-scorpio-2020-meaning/,31,0,0
+1668529561589,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,167,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-in-scorpio,31,0,0
+1668529561621,144,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76209,154,1,1,https://www.astrology.com/article/venus-scorpio-2020-meaning/,143,0,0
+1668529561767,176,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86067,317,1,1,https://www.astrology.com/articles,47,0,0
+1668529561767,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,190,1,1,https://horoscopefriends.co.uk/astrology-library/The-Moon-Void-of-Course-Welcome-to-the-Dead-Zone,47,0,0
+1668529561814,129,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85866,127,1,1,https://www.astrology.com/articles,117,0,0
+1668529561945,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65368,301,1,1,https://www.astrology.com/tarot/daily-love.html,31,0,0
+1668529561945,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,214,161,1,1,https://horoscopefriends.co.uk/tarot/celtic-cross-love-tarot-reading,31,0,0
+1668529561976,139,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65154,140,1,1,https://www.astrology.com/tarot/daily-love.html,138,0,0
+1668529562116,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,322,1,1,https://www.astrology.com/articles,48,0,0
+1668529562116,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,195,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/lunar-nodes-in-cancer-and-capricorn-20182020,48,0,0
+1668529562165,149,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,123,0,0
+1668529562316,199,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,304,1,1,https://www.astrology.com/articles,48,0,0
+1668529562316,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,177,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/theresa-may-astrology-birth-chart,48,0,0
+1668529562364,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,150,0,0
+1668529562517,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,309,1,1,https://www.astrology.com/articles,47,0,0
+1668529562517,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,182,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/benedict-cumberbatch-man-of-the-moment,47,0,0
+1668529562564,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,127,0,0
+1668529562716,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76884,330,1,1,https://www.astrology.com/us/horoscope/index-daily-dating.aspx,48,0,0
+1668529562716,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,175,1,1,https://horoscopefriends.co.uk/astrology-library/the-zodiac-signs-and-being-single,48,0,0
+1668529562764,122,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76655,155,1,1,https://www.astrology.com/us/horoscope/index-daily-dating.aspx,112,0,0
+1668529562888,157,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86068,309,1,1,https://www.astrology.com/articles,32,0,0
+1668529562888,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,182,1,1,https://horoscopefriends.co.uk/astrology-library/star-signs-hidden-strength-strong-points,32,0,0
+1668529562920,125,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85867,127,1,1,https://www.astrology.com/articles,109,0,0
+1668529563047,6285,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,107778,323,1,1,https://shop.astrology.com/product/past-life-oracle-reading/,31,0,0
+1668529563047,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,227,170,1,1,https://horoscopefriends.co.uk/astrology-library/what-were-you-in-a-past-life,31,0,0
+1668529563078,6254,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,107551,153,1,1,https://shop.astrology.com/product/past-life-oracle-reading/,6191,0,87
+1668529569333,181,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,64875,304,1,1,https://www.astrology.com/tarot/daily-career.html,43,0,0
+1668529569333,43,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,216,162,1,1,https://horoscopefriends.co.uk/tarot/daily-career-tarot-reading/aries,43,0,0
+1668529569376,138,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,64659,142,1,1,https://www.astrology.com/tarot/daily-career.html,137,0,0
+1668529569516,161,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65038,315,1,1,https://www.astrology.com/zodiac-man,47,0,0
+1668529569516,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,203,186,1,1,https://horoscopefriends.co.uk/astrology-library/how-the-men-of-the-zodiac-express-their-love,47,0,0
+1668529569563,114,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,64835,129,1,1,https://www.astrology.com/zodiac-man,107,0,0
+1668529569679,159,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,300,1,1,https://www.astrology.com/articles,34,0,0
+1668529569679,34,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,173,1,1,https://horoscopefriends.co.uk/astrology-library/the-star-signs-and-their-quirks,34,0,0
+1668529569713,125,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,113,0,0
+1668529569840,174,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,325,1,1,https://www.astrology.com/articles,31,0,0
+1668529569840,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,198,1,1,https://horoscopefriends.co.uk/astrology-library/think-twice-before-hurting-these-signs-they-never-forget,31,0,0
+1668529569872,142,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,142,0,0
+1668529570017,177,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73616,300,1,1,https://www.astrology.com/asteroids/chiron,46,0,0
+1668529570017,46,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,165,1,1,https://horoscopefriends.co.uk/astrology-library/chiron-in-the-12-houses,46,0,0
+1668529570064,130,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73407,135,1,1,https://www.astrology.com/asteroids/chiron,121,0,0
+1668529570213,153,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,66086,318,1,1,https://www.astrology.com/compatibility/zodiac-signs/love.html,31,0,0
+1668529570213,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,229,163,1,1,https://horoscopefriends.co.uk/how-to-make-each-star-sign-fall-in-love,31,0,0
+1668529570244,122,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65857,155,1,1,https://www.astrology.com/compatibility/zodiac-signs/love.html,119,0,0
+1668529570368,196,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73537,290,1,1,https://www.astrology.com/planets/uranus,45,0,0
+1668529570368,45,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,207,157,1,1,https://horoscopefriends.co.uk/astrology-articles/planets/uranus,45,0,0
+1668529570413,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73330,133,1,1,https://www.astrology.com/planets/uranus,150,0,0
+1668529570566,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,314,1,1,https://www.astrology.com/articles,47,0,0
+1668529570566,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,187,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/jennifer-lawrence-horoscope-and-birth-chart,47,0,0
+1668529570613,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,131,0,0
+1668529570766,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,268,1,1,https://www.astrology.com/articles,47,0,0
+1668529570766,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,141,1,1,https://horoscopefriends.co.uk/astrology-library,47,0,0
+1668529570813,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,126,0,0
+1668529570966,227,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,72613,291,1,1,https://www.astrology.com/numerology,30,0,0
+1668529570966,30,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,203,162,1,1,https://horoscopefriends.co.uk/numerology/numerology-birth-day-number,30,0,0
+1668529570996,197,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72410,129,1,1,https://www.astrology.com/numerology,188,0,0
+1668529571195,168,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,301,1,1,https://www.astrology.com/articles,31,0,0
+1668529571195,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,174,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/katy-perry-celebrity-horoscope,31,0,0
+1668529571227,136,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,116,0,0
+1668529571365,227,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,327,1,1,https://www.astrology.com/articles,48,0,0
+1668529571365,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,200,1,1,https://horoscopefriends.co.uk/astrology-library/Saturn-in-the-12-zodiac-signs-and-its-meaning-in-Astrology,48,0,0
+1668529571413,179,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,167,0,0
+1668529571594,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,293,1,1,https://www.astrology.com/articles,31,0,0
+1668529571594,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,166,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-in-cancer,31,0,0
+1668529571625,139,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,138,0,0
+1668529571766,177,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86074,322,1,1,https://www.astrology.com/articles,47,0,0
+1668529571766,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,195,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/Prince-William-Sun-Cancer-Sign-Of-The-Family,47,0,0
+1668529571813,130,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85873,127,1,1,https://www.astrology.com/articles,118,0,0
+1668529571945,184,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,304,1,1,https://www.astrology.com/articles,31,0,0
+1668529571945,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,177,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/princess-kate-middleton-horoscope,31,0,0
+1668529571976,153,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,142,0,0
+1668529572131,183,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,314,1,1,https://www.astrology.com/articles,32,0,0
+1668529572131,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,187,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/katie-price-or-jordan-gemini-dilemma,32,0,0
+1668529572163,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,150,0,0
+1668529572316,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,312,1,1,https://www.astrology.com/articles,47,0,0
+1668529572316,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,185,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/jupiter-trine-uranus-leap-of-faith,47,0,0
+1668529572363,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,150,0,0
+1668529572516,172,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,323,1,1,https://www.astrology.com/articles,47,0,0
+1668529572516,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,196,1,1,https://horoscopefriends.co.uk/astrology-library/hot-dinner-date-astrology-food-and-moon-sign-horoscope,47,0,0
+1668529572564,124,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,112,0,0
+1668529572690,176,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76419,355,1,1,https://www.astrology.com/article/enneagram-personality-test/,41,0,0
+1668529572690,41,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,201,1,1,https://horoscopefriends.co.uk/astrology-quizzes/are-you-really-your-zodiac-sign/are-you-a-typical-capricorn,41,0,0
+1668529572731,135,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76191,154,1,1,https://www.astrology.com/article/enneagram-personality-test/,132,0,0
+1668529572868,196,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86077,323,1,1,https://www.astrology.com/articles,45,0,0
+1668529572868,45,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,196,1,1,https://horoscopefriends.co.uk/astrology-library/what-do-men-want-from-women-based-on-their-zodiac-sign,45,0,0
+1668529572913,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85876,127,1,1,https://www.astrology.com/articles,128,0,0
+1668529573065,18099,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,183279,344,1,1,https://shop.astrology.com/product-category/reports/,31,0,0
+1668529573065,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,199,1,1,https://horoscopefriends.co.uk/astrology-reports/your-personal-year-ahead-predictor-for-the-next-12-months,31,0,0
+1668529573097,18067,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,183060,145,1,1,https://shop.astrology.com/product-category/reports/,17996,0,0
+1668529591167,204,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,328,1,1,https://www.astrology.com/articles,46,0,0
+1668529591167,46,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,201,1,1,https://horoscopefriends.co.uk/astrology-library/neptune-in-the-12-zodiac-signs-and-its-meaning-in-astrology,46,0,0
+1668529591213,158,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,153,0,0
+1668529591377,186,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,294,1,1,https://www.astrology.com/articles,40,0,0
+1668529591377,40,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,167,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/chiron-in-pisces,40,0,0
+1668529591418,145,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,123,0,0
+1668529591566,179,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86068,277,1,1,https://www.astrology.com/articles,31,0,0
+1668529591566,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,150,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles,31,0,0
+1668529591613,132,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85867,127,1,1,https://www.astrology.com/articles,120,0,0
+1668529591746,238,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,310,1,1,https://www.astrology.com/articles,32,0,0
+1668529591746,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,183,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mars-in-gemini-sharpen-your-wits,32,0,0
+1668529591778,206,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,194,0,0
+1668529591986,177,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,324,1,1,https://www.astrology.com/articles,31,0,0
+1668529591986,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,197,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/meghan-markle-and-prince-harry-relationship-horoscope,31,0,0
+1668529592017,146,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,124,0,0
+1668529592166,207,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,326,1,1,https://www.astrology.com/articles,47,0,0
+1668529592166,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,199,1,1,https://horoscopefriends.co.uk/astrology-library/pluto-in-the-12-zodiac-signs-and-its-meaning-in-astrology,47,0,0
+1668529592213,160,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,151,0,0
+1668529592375,189,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,299,1,1,https://www.astrology.com/articles,38,0,0
+1668529592375,38,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,172,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/orlando-bloom-nude-capricorn,38,0,0
+1668529592413,151,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,150,0,0
+1668529592565,222,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,305,1,1,https://www.astrology.com/articles,48,0,0
+1668529592565,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,178,1,1,https://horoscopefriends.co.uk/astrology-library/myths-and-facts-about-the-star-signs,48,0,0
+1668529592613,174,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,162,0,0
+1668529592790,173,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,290,1,1,https://www.astrology.com/articles,31,0,0
+1668529592790,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,163,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-in-leo,31,0,0
+1668529592821,142,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,118,0,0
+1668529592965,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86069,302,1,1,https://www.astrology.com/articles,32,0,0
+1668529592965,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,175,1,1,https://horoscopefriends.co.uk/astrology-library/10-myths-about-astrology-debunked,32,0,0
+1668529593013,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85868,127,1,1,https://www.astrology.com/articles,124,0,0
+1668529593165,164,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,64872,302,1,1,https://www.astrology.com/tarot/daily-career.html,31,0,0
+1668529593165,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,216,160,1,1,https://horoscopefriends.co.uk/tarot/daily-career-tarot-reading/leo,31,0,0
+1668529593196,133,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,64656,142,1,1,https://www.astrology.com/tarot/daily-career.html,124,0,0
+1668529593330,183,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,103929,271,1,1,https://www.astrology.com/tos.html,33,0,0
+1668529593330,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,144,1,1,https://horoscopefriends.co.uk/terms-and-conditions,33,0,0
+1668529593363,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,103728,127,1,1,https://www.astrology.com/tos.html,120,0,0
+1668529593515,203,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86069,316,1,1,https://www.astrology.com/articles,31,0,0
+1668529593515,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,189,1,1,https://horoscopefriends.co.uk/astrology-library/your-personal-growth-in-relation-to-the-planets,31,0,0
+1668529593546,172,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85868,127,1,1,https://www.astrology.com/articles,168,0,0
+1668529593721,170,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,64873,307,1,1,https://www.astrology.com/tarot/daily-career.html,42,0,0
+1668529593721,42,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,216,165,1,1,https://horoscopefriends.co.uk/tarot/daily-career-tarot-reading/aquarius,42,0,0
+1668529593763,128,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,64657,142,1,1,https://www.astrology.com/tarot/daily-career.html,120,0,0
+1668529593893,171,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,64875,306,1,1,https://www.astrology.com/tarot/daily-career.html,31,0,0
+1668529593893,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,216,164,1,1,https://horoscopefriends.co.uk/tarot/daily-career-tarot-reading/scorpio,31,0,0
+1668529593924,140,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,64659,142,1,1,https://www.astrology.com/tarot/daily-career.html,139,0,0
+1668529594065,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73026,268,1,1,https://www.astrology.com/us/home.aspx,48,0,0
+1668529594065,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,249,137,1,1,https://horoscopefriends.co.uk/files/faq.pdf,48,0,0
+1668529594113,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72777,131,1,1,https://www.astrology.com/us/home.aspx,125,0,0
+1668529594266,197,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,293,1,1,https://www.astrology.com/articles,30,0,0
+1668529594266,30,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,166,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-in-taurus,30,0,0
+1668529594313,150,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,128,0,0
+1668529594465,178,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86060,294,1,1,https://www.astrology.com/articles,31,0,0
+1668529594465,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,167,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/pluto-retrograde,31,0,0
+1668529594496,147,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85859,127,1,1,https://www.astrology.com/articles,135,0,0
+1668529594645,169,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86070,300,1,1,https://www.astrology.com/articles,31,0,0
+1668529594645,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,173,1,1,https://horoscopefriends.co.uk/astrology-library/halloween-with-the-zodiac-signs,31,0,0
+1668529594676,138,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85869,127,1,1,https://www.astrology.com/articles,120,0,0
+1668529594815,158,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86060,328,1,1,https://www.astrology.com/articles,31,0,0
+1668529594815,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,201,1,1,https://horoscopefriends.co.uk/astrology-library/mercury-in-the-12-zodiac-signs-and-its-meaning-in-astrology,31,0,0
+1668529594846,127,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85859,127,1,1,https://www.astrology.com/articles,117,0,0
+1668529594975,219,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,339,1,1,https://www.astrology.com/articles,88,0,0
+1668529594975,88,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,212,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/sun-in-capricorn-december-21st-your-winter-solstice-horoscope,88,0,0
+1668529595063,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,119,0,0
+1668529595196,13799,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,183279,330,1,1,https://shop.astrology.com/product-category/reports/,31,0,0
+1668529595196,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,185,1,1,https://horoscopefriends.co.uk/astrology-reports/soul-mates-how-to-improve-your-relationship,31,0,0
+1668529595227,13768,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,183060,145,1,1,https://shop.astrology.com/product-category/reports/,12736,0,0
+1668529609014,201,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86070,307,1,1,https://www.astrology.com/articles,49,0,0
+1668529609014,49,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,180,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/saturn-in-capricorn-2017-2020,49,0,0
+1668529609063,152,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85869,127,1,1,https://www.astrology.com/articles,112,0,0
+1668529609217,446,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,301,1,1,https://www.astrology.com/articles,302,0,0
+1668529609217,302,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,174,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/the-talented-mr-michael,302,0,0
+1668529609519,144,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,123,0,0
+1668529609665,313,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,64875,308,1,1,https://www.astrology.com/tarot/daily-career.html,48,0,0
+1668529609665,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,216,166,1,1,https://horoscopefriends.co.uk/tarot/daily-career-tarot-reading/capricorn,48,0,0
+1668529609714,264,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,64659,142,1,1,https://www.astrology.com/tarot/daily-career.html,264,0,0
+1668529609980,184,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,342,1,1,https://www.astrology.com/articles,53,0,0
+1668529609980,53,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,215,1,1,https://horoscopefriends.co.uk/astrology-library/the-things-the-star-signs-hate-and-the-things-they-love-in-a-relationship,53,0,0
+1668529610033,131,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,130,0,0
+1668529610166,860,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86070,312,1,1,https://www.astrology.com/articles,47,0,0
+1668529610166,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,185,1,1,https://horoscopefriends.co.uk/astrology-library/Your-moon-sign-shows-you-who-suits-you-best,47,0,0
+1668529610213,813,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85869,127,1,1,https://www.astrology.com/articles,300,0,0
+1668529611029,162,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86068,291,1,1,https://www.astrology.com/articles,34,0,0
+1668529611029,34,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,164,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/sun-in-gemini,34,0,0
+1668529611063,128,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85867,127,1,1,https://www.astrology.com/articles,117,0,0
+1668529611193,922,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,304,1,1,https://www.astrology.com/articles,45,0,0
+1668529611193,45,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,177,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mars-square-pluto-power-up,45,0,0
+1668529611238,877,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,325,0,0
+1668529612117,772,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,319,1,1,https://www.astrology.com/articles,196,0,160
+1668529612117,196,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,192,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mars-in-sagittarius-the-call-to-adventure,196,0,160
+1668529612313,576,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,529,0,401
+1668529612891,1487,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86064,324,1,1,https://www.astrology.com/articles,231,0,0
+1668529612891,231,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,197,1,1,https://horoscopefriends.co.uk/astrology-library/dinner-ideas-for-valentines-day-based-on-the-star-signs,231,0,0
+1668529613122,1256,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85863,127,1,1,https://www.astrology.com/articles,541,0,0
+1668529614381,1585,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,183278,328,1,1,https://shop.astrology.com/product-category/reports/,32,0,0
+1668529614381,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,183,1,1,https://horoscopefriends.co.uk/astrology-reports/intimate-lover-what-sort-of-lover-are-you,32,0,0
+1668529614414,1552,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,183059,145,1,1,https://shop.astrology.com/product-category/reports/,1503,0,0
+1668529615976,887,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,307,1,1,https://www.astrology.com/articles,37,0,0
+1668529615976,37,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,180,1,1,https://horoscopefriends.co.uk/astrology-library/the-star-signs-reactions-to-i-love-you,37,0,0
+1668529616013,850,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,700,0,0
+1668529616865,221,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,307,1,1,https://www.astrology.com/articles,31,0,0
+1668529616865,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,180,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/maria-sharapova-birth-chart-analysis,31,0,0
+1668529616896,190,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,140,0,0
+1668529617087,426,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,297,1,1,https://www.astrology.com/articles,234,0,0
+1668529617087,234,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,170,1,1,https://horoscopefriends.co.uk/astrology-library/shopping-with-the-star-signs,234,0,0
+1668529617321,192,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,142,0,0
+1668529617516,247,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,324,1,1,https://www.astrology.com/articles,47,0,0
+1668529617516,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,197,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-opposite-mars-super-powers-of-attraction,47,0,0
+1668529617563,200,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,150,0,0
+1668529617765,202,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,301,1,1,https://www.astrology.com/articles,31,0,0
+1668529617765,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,174,1,1,https://horoscopefriends.co.uk/astrology-library/the-star-signs-and-their-hobbies,31,0,0
+1668529617796,171,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,125,0,0
+1668529617969,844,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,299,1,1,https://www.astrology.com/articles,44,0,0
+1668529617969,44,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,172,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/jupiter-trine-neptune,44,0,0
+1668529618013,800,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,353,0,0
+1668529618830,291,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,67252,324,1,1,https://www.astrology.com/us/horoscope/yearly-chinese-overview-2022.aspx?sign=pig,42,0,0
+1668529618830,42,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,248,150,1,1,https://horoscopefriends.co.uk/chinese-horoscope-2022/pig,42,0,0
+1668529618873,248,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,67004,174,1,1,https://www.astrology.com/us/horoscope/yearly-chinese-overview-2022.aspx?sign=pig,215,0,0
+1668529619123,299,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73423,288,1,1,https://www.astrology.com/planets/venus,40,0,0
+1668529619123,40,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,206,156,1,1,https://horoscopefriends.co.uk/astrology-articles/planets/venus,40,0,0
+1668529619163,259,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73217,132,1,1,https://www.astrology.com/planets/venus,250,0,0
+1668529619424,239,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,302,1,1,https://www.astrology.com/articles,43,0,0
+1668529619424,43,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,175,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-in-aries-fast-love,43,0,0
+1668529619468,195,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,145,0,0
+1668529619665,307,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73026,269,1,1,https://www.astrology.com/us/home.aspx,48,0,0
+1668529619665,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,249,138,1,1,https://horoscopefriends.co.uk/dream-meanings,48,0,0
+1668529619713,259,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,72777,131,1,1,https://www.astrology.com/us/home.aspx,222,0,0
+1668529619974,214,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86066,301,1,1,https://www.astrology.com/articles,39,0,0
+1668529619974,39,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,174,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mercury-retrograde-2019,39,0,0
+1668529620013,175,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85865,127,1,1,https://www.astrology.com/articles,130,0,0
+1668529620191,273,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73741,290,1,1,https://www.astrology.com/planets/saturn,32,0,0
+1668529620191,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,207,157,1,1,https://horoscopefriends.co.uk/astrology-articles/planets/saturn,32,0,0
+1668529620223,241,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73534,133,1,1,https://www.astrology.com/planets/saturn,240,0,0
+1668529620466,224,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,73661,290,1,1,https://www.astrology.com/planets/moon,47,0,0
+1668529620466,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,205,159,1,1,https://horoscopefriends.co.uk/astrology-articles/planets/the-moon,47,0,0
+1668529620513,177,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,73456,131,1,1,https://www.astrology.com/planets/moon,150,0,0
+1668529620692,222,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86063,297,1,1,https://www.astrology.com/articles,31,0,0
+1668529620692,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,170,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-sextile-pluto,31,0,0
+1668529620723,191,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85862,127,1,1,https://www.astrology.com/articles,140,0,0
+1668529620915,248,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,305,1,1,https://www.astrology.com/articles,32,0,0
+1668529620915,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,178,1,1,https://horoscopefriends.co.uk/astrology-library/christmas-songs-for-each-zodiac-sign,32,0,0
+1668529620963,200,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,150,0,0
+1668529621166,348,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,294,1,1,https://www.astrology.com/articles,47,0,0
+1668529621166,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,167,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mars-in-aquarius,47,0,0
+1668529621213,301,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,300,0,0
+1668529621516,227,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,291,1,1,https://www.astrology.com/articles,47,0,0
+1668529621516,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,164,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/sun-in-taurus,47,0,0
+1668529621563,180,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,150,0,0
+1668529621745,227,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,317,1,1,https://www.astrology.com/articles,48,0,0
+1668529621745,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,190,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-sextile-saturn-mars-square-uranus,48,0,0
+1668529621793,179,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,135,0,0
+1668529621973,213,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,304,1,1,https://www.astrology.com/articles,40,0,0
+1668529621973,40,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,177,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mars-in-taurus-unstoppable,40,0,0
+1668529622013,173,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,132,0,0
+1668529622188,798,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,323,1,1,https://www.astrology.com/articles,32,0,0
+1668529622188,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,196,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/jupiter-in-scorpio-october-2017-november-2018,32,0,0
+1668529622220,766,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,343,0,0
+1668529622988,225,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,308,1,1,https://www.astrology.com/articles,46,0,0
+1668529622988,46,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,181,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/Kim-and-Kanye-Happy-Ever-After,46,0,0
+1668529623034,179,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,135,0,0
+1668529623215,399,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,335,1,1,https://www.astrology.com/articles,48,0,0
+1668529623215,48,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,208,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-sextile-uranus-do-something-different-with-your-day,48,0,0
+1668529623263,351,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,350,0,0
+1668529623616,208,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,299,1,1,https://www.astrology.com/articles,47,0,0
+1668529623616,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,172,1,1,https://horoscopefriends.co.uk/astrology-library/the-outer-planets-in-astrology,47,0,0
+1668529623663,161,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,121,0,0
+1668529623825,216,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65461,294,1,1,https://www.astrology.com/psychic-readings/love-readings,38,0,0
+1668529623825,38,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,223,145,1,1,https://horoscopefriends.co.uk/psychics/relationship,38,0,0
+1668529623863,178,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65238,149,1,1,https://www.astrology.com/psychic-readings/love-readings,150,0,0
+1668529624043,220,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,320,1,1,https://www.astrology.com/articles,32,0,0
+1668529624043,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,193,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/saturn-sextile-neptune-realise-your-dreams,32,0,0
+1668529624075,188,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,138,0,0
+1668529624265,859,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76418,349,1,1,https://www.astrology.com/article/enneagram-personality-test/,31,0,0
+1668529624265,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,195,1,1,https://horoscopefriends.co.uk/astrology-quizzes/are-you-really-your-zodiac-sign/are-you-a-typical-leo,31,0,0
+1668529624296,828,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76190,154,1,1,https://www.astrology.com/article/enneagram-personality-test/,367,0,0
+1668529625126,203,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,296,1,1,https://www.astrology.com/articles,37,0,0
+1668529625126,37,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,169,1,1,https://horoscopefriends.co.uk/astrology-library/Your-Vocation-and-Astrology,37,0,0
+1668529625163,166,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,128,0,0
+1668529625331,197,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,331,1,1,https://www.astrology.com/articles,32,0,0
+1668529625331,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,204,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/full-moon-supermoon-in-taurus-sensuality-and-pleasure,32,0,0
+1668529625363,165,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,127,0,0
+1668529625530,203,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,294,1,1,https://www.astrology.com/articles,33,0,0
+1668529625530,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,167,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/jupiter-in-virgo,33,0,0
+1668529625563,170,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,160,0,0
+1668529625735,195,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,291,1,1,https://www.astrology.com/articles,32,0,0
+1668529625735,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,164,1,1,https://horoscopefriends.co.uk/astrology-library/uranus-in-the-12-signs,32,0,0
+1668529625767,163,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,123,0,0
+1668529625931,193,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76418,352,1,1,https://www.astrology.com/article/enneagram-personality-test/,32,0,0
+1668529625931,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,198,1,1,https://horoscopefriends.co.uk/astrology-quizzes/are-you-really-your-zodiac-sign/are-you-a-typical-pisces,32,0,0
+1668529625963,161,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76190,154,1,1,https://www.astrology.com/article/enneagram-personality-test/,127,0,0
+1668529626126,237,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,323,1,1,https://www.astrology.com/articles,37,0,0
+1668529626126,37,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,196,1,1,https://horoscopefriends.co.uk/astrology-library/three-things-you-need-to-know-about-zodiac-sign-cancer,37,0,0
+1668529626163,200,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,156,0,0
+1668529626365,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,313,1,1,https://www.astrology.com/articles,31,0,0
+1668529626365,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,186,1,1,https://horoscopefriends.co.uk/astrology-library/the-star-signs-and-the-wrong-choices-in-love,31,0,0
+1668529626396,167,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,127,0,0
+1668529626565,198,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,310,1,1,https://www.astrology.com/articles,31,0,0
+1668529626565,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,183,1,1,https://horoscopefriends.co.uk/astrology-library/star-signs-biggest-fears-new-relationship,31,0,0
+1668529626596,167,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,121,0,0
+1668529626766,221,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,330,1,1,https://www.astrology.com/articles,47,0,0
+1668529626766,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,203,1,1,https://horoscopefriends.co.uk/astrology-library/3-things-you-should-not-do-to-keep-him-based-on-his-star-sign,47,0,0
+1668529626813,174,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,150,0,0
+1668529626989,203,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,285,1,1,https://www.astrology.com/articles,31,0,0
+1668529626989,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,158,1,1,https://horoscopefriends.co.uk/astrology-library/meet-the-parents,31,0,0
+1668529627020,172,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,143,0,0
+1668529627194,186,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,292,1,1,https://www.astrology.com/articles,32,0,0
+1668529627194,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,165,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/sun-in-scorpio,32,0,0
+1668529627226,154,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,118,0,0
+1668529627382,201,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,65496,314,1,1,https://www.astrology.com/tarot/love-potential.html,31,0,0
+1668529627382,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,218,170,1,1,https://horoscopefriends.co.uk/tarot/love-potential-tarot-reading/the-chariot,31,0,0
+1668529627413,170,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,65278,144,1,1,https://www.astrology.com/tarot/love-potential.html,150,0,0
+1668529627585,245,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76415,353,1,1,https://www.astrology.com/article/enneagram-personality-test/,31,0,0
+1668529627585,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,199,1,1,https://horoscopefriends.co.uk/astrology-quizzes/are-you-really-your-zodiac-sign/are-you-a-typical-scorpio,31,0,0
+1668529627616,214,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76187,154,1,1,https://www.astrology.com/article/enneagram-personality-test/,197,0,0
+1668529627832,205,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86060,331,1,1,https://www.astrology.com/articles,31,0,0
+1668529627832,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,204,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/venus-into-virgo-get-healthy-and-de-clutter-your-life,31,0,0
+1668529627863,174,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85859,127,1,1,https://www.astrology.com/articles,163,0,0
+1668529628065,267,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,295,1,1,https://www.astrology.com/articles,31,0,0
+1668529628065,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,168,1,1,https://horoscopefriends.co.uk/astrology-library/cancer-and-the-imagination,31,0,0
+1668529628096,236,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,200,0,0
+1668529628365,219,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,316,1,1,https://www.astrology.com/articles,31,0,0
+1668529628365,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,189,1,1,https://horoscopefriends.co.uk/celebrity-horoscope/meg-ryans-celebrity-horoscope-and-birth-chart,31,0,0
+1668529628396,188,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,167,0,0
+1668529628586,196,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,76417,357,1,1,https://www.astrology.com/article/enneagram-personality-test/,31,0,0
+1668529628586,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,228,203,1,1,https://horoscopefriends.co.uk/astrology-quizzes/are-you-really-your-zodiac-sign/are-you-a-typical-sagittarius,31,0,0
+1668529628617,165,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,76189,154,1,1,https://www.astrology.com/article/enneagram-personality-test/,146,0,0
+1668529628783,211,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,310,1,1,https://www.astrology.com/articles,33,0,0
+1668529628783,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,183,1,1,https://horoscopefriends.co.uk/astrology-library/summer-holiday-ideas-for-each-zodiac-sign,33,0,0
+1668529628816,178,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,147,0,0
+1668529628996,268,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86902,269,1,1,https://www.astrology.com/privacy.html,31,0,0
+1668529628996,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,205,138,1,1,https://horoscopefriends.co.uk/privacy-policy,31,0,0
+1668529629027,237,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,86697,131,1,1,https://www.astrology.com/privacy.html,188,0,0
+1668529629266,228,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,310,1,1,https://www.astrology.com/articles,47,0,0
+1668529629266,47,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,183,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mars-in-scorpio-energy-intensity,47,0,0
+1668529629313,181,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,150,0,0
+1668529629530,1843,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,183279,342,1,1,https://shop.astrology.com/product-category/reports/,33,0,0
+1668529629530,33,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,197,1,1,https://horoscopefriends.co.uk/astrology-reports/lucky-encounters-report-your-luck-in-the-next-12-months,33,0,0
+1668529629563,1810,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,183060,145,1,1,https://shop.astrology.com/product-category/reports/,1710,0,101
+1668529631375,207,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,52076,266,1,1,https://www.astrology.com/us/feedback.aspx,38,0,0
+1668529631375,38,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,209,131,1,1,https://horoscopefriends.co.uk/contact,38,0,0
+1668529631413,169,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,51867,135,1,1,https://www.astrology.com/us/feedback.aspx,150,0,0
+1668529631583,1980,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,183278,319,1,1,https://shop.astrology.com/product-category/reports/,32,0,0
+1668529631583,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,174,1,1,https://horoscopefriends.co.uk/astrology-reports/life-destiny-special-deal-25-off,32,0,0
+1668529631615,1948,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,183059,145,1,1,https://shop.astrology.com/product-category/reports/,1705,0,0
+1668529633565,7425,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,183278,340,1,1,https://shop.astrology.com/product-category/reports/,309,0,0
+1668529633565,309,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,219,195,1,1,https://horoscopefriends.co.uk/astrology-reports/destiny-revealed-package-6-reports-for-the-price-of-4,309,0,0
+1668529633874,7116,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,183059,145,1,1,https://shop.astrology.com/product-category/reports/,6972,0,0
+1668529640993,271,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,307,1,1,https://www.astrology.com/articles,35,0,0
+1668529640993,35,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,180,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/fall-equinox-and-sun-in-libra,35,0,0
+1668529641028,236,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,188,0,0
+1668529641265,379,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,286,1,1,https://www.astrology.com/articles,31,0,0
+1668529641265,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,159,1,1,https://horoscopefriends.co.uk/astrology-library/natal-moon-cancer,31,0,0
+1668529641296,348,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,121,0,0
+1668529641646,233,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,304,1,1,https://www.astrology.com/articles,67,0,0
+1668529641646,67,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,177,1,1,https://horoscopefriends.co.uk/astrology-library/the-zodiac-signs-that-give-too-much,67,0,0
+1668529641713,166,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,131,0,0
+1668529641881,188,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86063,293,1,1,https://www.astrology.com/articles,32,0,0
+1668529641881,32,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,166,1,1,https://horoscopefriends.co.uk/astrology-library/the-star-signs-and-money,32,0,0
+1668529641913,156,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85862,127,1,1,https://www.astrology.com/articles,122,0,0
+1668529642071,213,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86069,304,1,1,https://www.astrology.com/articles,49,0,0
+1668529642071,49,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,177,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/mars-pluto-sextile-jupiter,49,0,0
+1668529642120,164,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85868,127,1,1,https://www.astrology.com/articles,119,0,0
+1668529642315,379,HTTP Request,200,OK,HFR - Redirect list 1-1,text,true,,86062,331,1,1,https://www.astrology.com/articles,31,0,0
+1668529642315,31,HTTP Request-0,301,Moved Permanently,HFR - Redirect list 1-1,,true,,201,204,1,1,https://horoscopefriends.co.uk/Current-Astrology-Articles/sun-into-scorpio-october-23-focus-achievement-success,31,0,0
+1668529642346,348,HTTP Request-1,200,OK,HFR - Redirect list 1-1,text,true,,85861,127,1,1,https://www.astrology.com/articles,346,0,0
