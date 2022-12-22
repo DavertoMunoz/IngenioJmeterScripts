@@ -1,0 +1,797 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1671730025165,736,/learn,200,OK,Thread Group 1-1,text,true,,65531,248,1,1,https://www.astrology.com/learn,215,0,136
+1671730025165,215,/learn-0,301,Moved Permanently,Thread Group 1-1,,true,,290,124,1,1,http://www.astrology.com/learn,215,0,136
+1671730025381,520,/learn-1,200,OK,Thread Group 1-1,text,true,,65241,124,1,1,https://www.astrology.com/learn,489,0,283
+1671730025908,385,/zodiac-man,200,OK,Thread Group 1-1,text,true,,62061,258,1,1,https://www.astrology.com/zodiac-man,153,0,29
+1671730025908,153,/zodiac-man-0,301,Moved Permanently,Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/zodiac-man,153,0,29
+1671730026062,231,/zodiac-man-1,200,OK,Thread Group 1-1,text,true,,61766,129,1,1,https://www.astrology.com/zodiac-man,202,0,101
+1671730026294,352,/tarot/card-meanings,200,OK,Thread Group 1-1,text,true,,75263,276,1,1,https://www.astrology.com/tarot/card-meanings,91,0,28
+1671730026294,91,/tarot/card-meanings-0,301,Moved Permanently,Thread Group 1-1,,true,,304,138,1,1,http://www.astrology.com/tarot/card-meanings,91,0,28
+1671730026385,261,/tarot/card-meanings-1,200,OK,Thread Group 1-1,text,true,,74959,138,1,1,https://www.astrology.com/tarot/card-meanings,229,0,95
+1671730026647,341,/article/weekly-horoscope-december-18/,200,OK,Thread Group 1-1,text,true,,76575,312,1,1,https://www.astrology.com/article/weekly-horoscope-december-18/,77,0,29
+1671730026647,77,/article/weekly-horoscope-december-18/-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/article/weekly-horoscope-december-18/,77,0,29
+1671730026724,264,/article/weekly-horoscope-december-18/-1,200,OK,Thread Group 1-1,text,true,,76253,156,1,1,https://www.astrology.com/article/weekly-horoscope-december-18/,231,0,99
+1671730026989,345,/zodiac-signs/aquarius,200,OK,Thread Group 1-1,text,true,,102212,280,1,1,https://www.astrology.com/zodiac-signs/aquarius,65,0,28
+1671730026989,65,/zodiac-signs/aquarius-0,301,Moved Permanently,Thread Group 1-1,,true,,306,140,1,1,http://www.astrology.com/zodiac-signs/aquarius,65,0,28
+1671730027054,280,/zodiac-signs/aquarius-1,200,OK,Thread Group 1-1,text,true,,101906,140,1,1,https://www.astrology.com/zodiac-signs/aquarius,238,0,94
+1671730027334,577,/psychic-readings/tarot.html,200,OK,Thread Group 1-1,text,true,,67167,292,1,1,https://www.astrology.com/psychic-readings/tarot.html,71,0,29
+1671730027334,71,/psychic-readings/tarot.html-0,301,Moved Permanently,Thread Group 1-1,,true,,312,146,1,1,http://www.astrology.com/psychic-readings/tarot.html,71,0,29
+1671730027405,506,/psychic-readings/tarot.html-1,200,OK,Thread Group 1-1,text,true,,66855,146,1,1,https://www.astrology.com/psychic-readings/tarot.html,476,0,94
+1671730027913,323,/compatibility/daily-karmic-number.html,200,OK,Thread Group 1-1,text,true,,61494,314,1,1,https://www.astrology.com/compatibility/daily-karmic-number.html,75,0,28
+1671730027913,75,/compatibility/daily-karmic-number.html-0,301,Moved Permanently,Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/compatibility/daily-karmic-number.html,75,0,28
+1671730027988,248,/compatibility/daily-karmic-number.html-1,200,OK,Thread Group 1-1,text,true,,61171,157,1,1,https://www.astrology.com/compatibility/daily-karmic-number.html,217,0,95
+1671730028236,341,/tarot/love-potential.html,200,OK,Thread Group 1-1,text,true,,62820,288,1,1,https://www.astrology.com/tarot/love-potential.html,92,0,55
+1671730028236,92,/tarot/love-potential.html-0,301,Moved Permanently,Thread Group 1-1,,true,,310,144,1,1,http://www.astrology.com/tarot/love-potential.html,92,0,55
+1671730028328,249,/tarot/love-potential.html-1,200,OK,Thread Group 1-1,text,true,,62510,144,1,1,https://www.astrology.com/tarot/love-potential.html,219,0,99
+1671730028578,304,/us/horoscope/index-daily-love.aspx,200,OK,Thread Group 1-1,text,true,,73099,306,1,1,https://www.astrology.com/us/horoscope/index-daily-love.aspx,76,0,29
+1671730028578,76,/us/horoscope/index-daily-love.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/us/horoscope/index-daily-love.aspx,76,0,29
+1671730028654,228,/us/horoscope/index-daily-love.aspx-1,200,OK,Thread Group 1-1,text,true,,72780,153,1,1,https://www.astrology.com/us/horoscope/index-daily-love.aspx,196,0,96
+1671730028883,430,/img/learn/card-wide-psychics-1x.png,200,OK,Thread Group 1-1,bin,true,,306741,308,1,1,https://www.astrology.com/img/learn/card-wide-psychics-1x.png,85,0,28
+1671730028883,85,/img/learn/card-wide-psychics-1x.png-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/img/learn/card-wide-psychics-1x.png,85,0,28
+1671730028968,345,/img/learn/card-wide-psychics-1x.png-1,200,OK,Thread Group 1-1,bin,true,,306421,154,1,1,https://www.astrology.com/img/learn/card-wide-psychics-1x.png,261,0,107
+1671730029313,305,/tarot/daily-love.html,200,OK,Thread Group 1-1,text,true,,62691,280,1,1,https://www.astrology.com/tarot/daily-love.html,71,0,28
+1671730029313,71,/tarot/daily-love.html-0,301,Moved Permanently,Thread Group 1-1,,true,,306,140,1,1,http://www.astrology.com/tarot/daily-love.html,71,0,28
+1671730029384,234,/tarot/daily-love.html-1,200,OK,Thread Group 1-1,text,true,,62385,140,1,1,https://www.astrology.com/tarot/daily-love.html,203,0,102
+1671730029619,368,/tarot/how-to-tarot,200,OK,Thread Group 1-1,text,true,,73656,274,1,1,https://www.astrology.com/tarot/how-to-tarot,74,0,28
+1671730029619,74,/tarot/how-to-tarot-0,301,Moved Permanently,Thread Group 1-1,,true,,303,137,1,1,http://www.astrology.com/tarot/how-to-tarot,74,0,28
+1671730029694,293,/tarot/how-to-tarot-1,200,OK,Thread Group 1-1,text,true,,73353,137,1,1,https://www.astrology.com/tarot/how-to-tarot,258,0,93
+1671730029988,354,/zodiac-signs/pisces,200,OK,Thread Group 1-1,text,true,,108439,276,1,1,https://www.astrology.com/zodiac-signs/pisces,76,0,27
+1671730029988,76,/zodiac-signs/pisces-0,301,Moved Permanently,Thread Group 1-1,,true,,304,138,1,1,http://www.astrology.com/zodiac-signs/pisces,76,0,27
+1671730030064,278,/zodiac-signs/pisces-1,200,OK,Thread Group 1-1,text,true,,108135,138,1,1,https://www.astrology.com/zodiac-signs/pisces,238,0,92
+1671730030343,221,/js/jquery.lazyload.extended.js?v=1600123116,200,OK,Thread Group 1-1,text,true,,8272,324,1,1,https://www.astrology.com/js/jquery.lazyload.extended.js?v=1600123116,81,0,29
+1671730030343,81,/js/jquery.lazyload.extended.js?v=1600123116-0,301,Moved Permanently,Thread Group 1-1,,true,,328,162,1,1,http://www.astrology.com/js/jquery.lazyload.extended.js?v=1600123116,81,0,29
+1671730030425,139,/js/jquery.lazyload.extended.js?v=1600123116-1,200,OK,Thread Group 1-1,text,true,,7944,162,1,1,https://www.astrology.com/js/jquery.lazyload.extended.js?v=1600123116,139,0,94
+1671730030565,296,/tarot/daily-flirt.html,200,OK,Thread Group 1-1,text,true,,62779,282,1,1,https://www.astrology.com/tarot/daily-flirt.html,64,0,28
+1671730030565,64,/tarot/daily-flirt.html-0,301,Moved Permanently,Thread Group 1-1,,true,,307,141,1,1,http://www.astrology.com/tarot/daily-flirt.html,64,0,28
+1671730030630,231,/tarot/daily-flirt.html-1,200,OK,Thread Group 1-1,text,true,,62472,141,1,1,https://www.astrology.com/tarot/daily-flirt.html,198,0,96
+1671730030862,307,/compatibility/zodiac-signs/career.html,200,OK,Thread Group 1-1,text,true,,62977,314,1,1,https://www.astrology.com/compatibility/zodiac-signs/career.html,73,0,29
+1671730030862,73,/compatibility/zodiac-signs/career.html-0,301,Moved Permanently,Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/compatibility/zodiac-signs/career.html,73,0,29
+1671730030935,234,/compatibility/zodiac-signs/career.html-1,200,OK,Thread Group 1-1,text,true,,62654,157,1,1,https://www.astrology.com/compatibility/zodiac-signs/career.html,203,0,95
+1671730031170,311,/us/horoscope/index-yearly-2023.aspx,200,OK,Thread Group 1-1,text,true,,63027,308,1,1,https://www.astrology.com/us/horoscope/index-yearly-2023.aspx,81,0,27
+1671730031170,81,/us/horoscope/index-yearly-2023.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/us/horoscope/index-yearly-2023.aspx,81,0,27
+1671730031251,230,/us/horoscope/index-yearly-2023.aspx-1,200,OK,Thread Group 1-1,text,true,,62707,154,1,1,https://www.astrology.com/us/horoscope/index-yearly-2023.aspx,200,0,92
+1671730031482,223,/img/icons/icon-101-planets-in-retrograde.svg,200,OK,Thread Group 1-1,text,true,,5207,326,1,1,https://www.astrology.com/img/icons/icon-101-planets-in-retrograde.svg,74,0,28
+1671730031482,74,/img/icons/icon-101-planets-in-retrograde.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,329,163,1,1,http://www.astrology.com/img/icons/icon-101-planets-in-retrograde.svg,74,0,28
+1671730031556,149,/img/icons/icon-101-planets-in-retrograde.svg-1,200,OK,Thread Group 1-1,text,true,,4878,163,1,1,https://www.astrology.com/img/icons/icon-101-planets-in-retrograde.svg,148,0,99
+1671730031705,407,/modalities,200,OK,Thread Group 1-1,text,true,,65546,258,1,1,https://www.astrology.com/modalities,72,0,29
+1671730031705,72,/modalities-0,301,Moved Permanently,Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/modalities,72,0,29
+1671730031777,335,/modalities-1,200,OK,Thread Group 1-1,text,true,,65251,129,1,1,https://www.astrology.com/modalities,302,0,147
+1671730032113,271,/wp-content/uploads/sites/9/2021/12/your-tarot-readng-2022-300x163.jpeg,200,OK,Thread Group 1-1,bin,true,,6678,378,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2021/12/your-tarot-readng-2022-300x163.jpeg,77,0,28
+1671730032113,77,/wp-content/uploads/sites/9/2021/12/your-tarot-readng-2022-300x163.jpeg-0,301,Moved Permanently,Thread Group 1-1,,true,,355,189,1,1,http://www.astrology.com/wp-content/uploads/sites/9/2021/12/your-tarot-readng-2022-300x163.jpeg,77,0,28
+1671730032191,193,/wp-content/uploads/sites/9/2021/12/your-tarot-readng-2022-300x163.jpeg-1,200,OK,Thread Group 1-1,bin,true,,6323,189,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2021/12/your-tarot-readng-2022-300x163.jpeg,193,0,96
+1671730032385,314,/compatibility/secret-crush.html,200,OK,Thread Group 1-1,text,true,,60271,300,1,1,https://www.astrology.com/compatibility/secret-crush.html,78,0,27
+1671730032385,78,/compatibility/secret-crush.html-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/compatibility/secret-crush.html,78,0,27
+1671730032463,236,/compatibility/secret-crush.html-1,200,OK,Thread Group 1-1,text,true,,59955,150,1,1,https://www.astrology.com/compatibility/secret-crush.html,207,0,93
+1671730032700,228,/img/icons/icon-101-planets.svg,200,OK,Thread Group 1-1,text,true,,1477,298,1,1,https://www.astrology.com/img/icons/icon-101-planets.svg,81,0,36
+1671730032700,81,/img/icons/icon-101-planets.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,315,149,1,1,http://www.astrology.com/img/icons/icon-101-planets.svg,81,0,36
+1671730032781,147,/img/icons/icon-101-planets.svg-1,200,OK,Thread Group 1-1,text,true,,1162,149,1,1,https://www.astrology.com/img/icons/icon-101-planets.svg,147,0,103
+1671730032929,216,/img/icons/icon-101-modalities.svg,200,OK,Thread Group 1-1,text,true,,1853,304,1,1,https://www.astrology.com/img/icons/icon-101-modalities.svg,74,0,28
+1671730032929,74,/img/icons/icon-101-modalities.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/img/icons/icon-101-modalities.svg,74,0,28
+1671730033003,142,/img/icons/icon-101-modalities.svg-1,200,OK,Thread Group 1-1,text,true,,1535,152,1,1,https://www.astrology.com/img/icons/icon-101-modalities.svg,142,0,97
+1671730033146,499,/horoscope/weekly-overview.html,200,OK,Thread Group 1-1,text,true,,67395,298,1,1,https://www.astrology.com/horoscope/weekly-overview.html,90,0,28
+1671730033146,90,/horoscope/weekly-overview.html-0,301,Moved Permanently,Thread Group 1-1,,true,,315,149,1,1,http://www.astrology.com/horoscope/weekly-overview.html,90,0,28
+1671730033236,409,/horoscope/weekly-overview.html-1,200,OK,Thread Group 1-1,text,true,,67080,149,1,1,https://www.astrology.com/horoscope/weekly-overview.html,372,0,133
+1671730033646,310,/houses,200,OK,Thread Group 1-1,text,true,,69346,250,1,1,https://www.astrology.com/houses,62,0,28
+1671730033646,62,/houses-0,301,Moved Permanently,Thread Group 1-1,,true,,291,125,1,1,http://www.astrology.com/houses,62,0,28
+1671730033708,248,/houses-1,200,OK,Thread Group 1-1,text,true,,69055,125,1,1,https://www.astrology.com/houses,215,0,96
+1671730033957,375,/elements,200,OK,Thread Group 1-1,text,true,,65871,254,1,1,https://www.astrology.com/elements,75,0,28
+1671730033957,75,/elements-0,301,Moved Permanently,Thread Group 1-1,,true,,293,127,1,1,http://www.astrology.com/elements,75,0,28
+1671730034032,300,/elements-1,200,OK,Thread Group 1-1,text,true,,65578,127,1,1,https://www.astrology.com/elements,269,0,102
+1671730034333,315,/horoscope/monthly-overview.html,200,OK,Thread Group 1-1,text,true,,69863,300,1,1,https://www.astrology.com/horoscope/monthly-overview.html,82,0,28
+1671730034333,82,/horoscope/monthly-overview.html-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/horoscope/monthly-overview.html,82,0,28
+1671730034415,233,/horoscope/monthly-overview.html-1,200,OK,Thread Group 1-1,text,true,,69547,150,1,1,https://www.astrology.com/horoscope/monthly-overview.html,200,0,98
+1671730034649,310,/compatibility,200,OK,Thread Group 1-1,text,true,,59964,264,1,1,https://www.astrology.com/compatibility,85,0,27
+1671730034649,85,/compatibility-0,301,Moved Permanently,Thread Group 1-1,,true,,298,132,1,1,http://www.astrology.com/compatibility,85,0,27
+1671730034734,225,/compatibility-1,200,OK,Thread Group 1-1,text,true,,59666,132,1,1,https://www.astrology.com/compatibility,195,0,101
+1671730034960,209,/img/logo-white.svg,200,OK,Thread Group 1-1,text,true,,4463,274,1,1,https://www.astrology.com/img/logo-white.svg,61,0,27
+1671730034960,61,/img/logo-white.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,303,137,1,1,http://www.astrology.com/img/logo-white.svg,61,0,27
+1671730035022,147,/img/logo-white.svg-1,200,OK,Thread Group 1-1,text,true,,4160,137,1,1,https://www.astrology.com/img/logo-white.svg,146,0,92
+1671730035170,310,/compatibility/fortune-cookie.html,200,OK,Thread Group 1-1,text,true,,63542,304,1,1,https://www.astrology.com/compatibility/fortune-cookie.html,74,0,28
+1671730035170,74,/compatibility/fortune-cookie.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/compatibility/fortune-cookie.html,74,0,28
+1671730035244,236,/compatibility/fortune-cookie.html-1,200,OK,Thread Group 1-1,text,true,,63224,152,1,1,https://www.astrology.com/compatibility/fortune-cookie.html,206,0,96
+1671730035481,478,/tarot.html,200,OK,Thread Group 1-1,text,true,,64264,258,1,1,https://www.astrology.com/tarot.html,72,0,27
+1671730035481,72,/tarot.html-0,301,Moved Permanently,Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/tarot.html,72,0,27
+1671730035554,405,/tarot.html-1,200,OK,Thread Group 1-1,text,true,,63969,129,1,1,https://www.astrology.com/tarot.html,355,0,93
+1671730035960,298,/wp-content/uploads/sites/9/2022/12/augustarticles_egyptianartcle-300x201.png,200,OK,Thread Group 1-1,bin,true,,72383,390,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2022/12/augustarticles_egyptianartcle-300x201.png,78,0,28
+1671730035960,78,/wp-content/uploads/sites/9/2022/12/augustarticles_egyptianartcle-300x201.png-0,301,Moved Permanently,Thread Group 1-1,,true,,361,195,1,1,http://www.astrology.com/wp-content/uploads/sites/9/2022/12/augustarticles_egyptianartcle-300x201.png,78,0,28
+1671730036039,219,/wp-content/uploads/sites/9/2022/12/augustarticles_egyptianartcle-300x201.png-1,200,OK,Thread Group 1-1,bin,true,,72022,195,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2022/12/augustarticles_egyptianartcle-300x201.png,186,0,93
+1671730036259,288,/us/horoscope/index-chinese.aspx,200,OK,Thread Group 1-1,text,true,,74544,300,1,1,https://www.astrology.com/us/horoscope/index-chinese.aspx,65,0,29
+1671730036259,65,/us/horoscope/index-chinese.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/us/horoscope/index-chinese.aspx,65,0,29
+1671730036324,223,/us/horoscope/index-chinese.aspx-1,200,OK,Thread Group 1-1,text,true,,74228,150,1,1,https://www.astrology.com/us/horoscope/index-chinese.aspx,190,0,96
+1671730036548,227,/img/icons/icon-101-elements.svg,200,OK,Thread Group 1-1,text,true,,1553,300,1,1,https://www.astrology.com/img/icons/icon-101-elements.svg,62,0,28
+1671730036548,62,/img/icons/icon-101-elements.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/img/icons/icon-101-elements.svg,62,0,28
+1671730036611,164,/img/icons/icon-101-elements.svg-1,200,OK,Thread Group 1-1,text,true,,1237,150,1,1,https://www.astrology.com/img/icons/icon-101-elements.svg,164,0,94
+1671730036776,341,/chinese-zodiac,200,OK,Thread Group 1-1,text,true,,64495,266,1,1,https://www.astrology.com/chinese-zodiac,109,0,28
+1671730036776,109,/chinese-zodiac-0,301,Moved Permanently,Thread Group 1-1,,true,,299,133,1,1,http://www.astrology.com/chinese-zodiac,109,0,28
+1671730036886,231,/chinese-zodiac-1,200,OK,Thread Group 1-1,text,true,,64196,133,1,1,https://www.astrology.com/chinese-zodiac,200,0,93
+1671730037117,318,/asteroids,200,OK,Thread Group 1-1,text,true,,66864,256,1,1,https://www.astrology.com/asteroids,73,0,31
+1671730037117,73,/asteroids-0,301,Moved Permanently,Thread Group 1-1,,true,,294,128,1,1,http://www.astrology.com/asteroids,73,0,31
+1671730037190,245,/asteroids-1,200,OK,Thread Group 1-1,text,true,,66570,128,1,1,https://www.astrology.com/asteroids,218,0,97
+1671730037436,306,/zodiac-signs/leo,200,OK,Thread Group 1-1,text,true,,97522,270,1,1,https://www.astrology.com/zodiac-signs/leo,75,0,28
+1671730037436,75,/zodiac-signs/leo-0,301,Moved Permanently,Thread Group 1-1,,true,,301,135,1,1,http://www.astrology.com/zodiac-signs/leo,75,0,28
+1671730037512,230,/zodiac-signs/leo-1,200,OK,Thread Group 1-1,text,true,,97221,135,1,1,https://www.astrology.com/zodiac-signs/leo,192,0,92
+1671730037743,287,/compatibility/magic-8-ball-love.html,200,OK,Thread Group 1-1,text,true,,63628,310,1,1,https://www.astrology.com/compatibility/magic-8-ball-love.html,67,0,27
+1671730037743,67,/compatibility/magic-8-ball-love.html-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/compatibility/magic-8-ball-love.html,67,0,27
+1671730037810,220,/compatibility/magic-8-ball-love.html-1,200,OK,Thread Group 1-1,text,true,,63307,155,1,1,https://www.astrology.com/compatibility/magic-8-ball-love.html,190,0,94
+1671730038031,428,/tarot/daily.html,200,OK,Thread Group 1-1,text,true,,66274,270,1,1,https://www.astrology.com/tarot/daily.html,211,0,28
+1671730038031,211,/tarot/daily.html-0,301,Moved Permanently,Thread Group 1-1,,true,,301,135,1,1,http://www.astrology.com/tarot/daily.html,211,0,28
+1671730038242,217,/tarot/daily.html-1,200,OK,Thread Group 1-1,text,true,,65973,135,1,1,https://www.astrology.com/tarot/daily.html,186,0,95
+1671730038460,323,/zodiac-signs/virgo,200,OK,Thread Group 1-1,text,true,,107198,274,1,1,https://www.astrology.com/zodiac-signs/virgo,79,0,29
+1671730038460,79,/zodiac-signs/virgo-0,301,Moved Permanently,Thread Group 1-1,,true,,303,137,1,1,http://www.astrology.com/zodiac-signs/virgo,79,0,29
+1671730038539,244,/zodiac-signs/virgo-1,200,OK,Thread Group 1-1,text,true,,106895,137,1,1,https://www.astrology.com/zodiac-signs/virgo,202,0,97
+1671730038783,285,/compatibility/zodiac-signs/love.html,200,OK,Thread Group 1-1,text,true,,63123,310,1,1,https://www.astrology.com/compatibility/zodiac-signs/love.html,65,0,30
+1671730038783,65,/compatibility/zodiac-signs/love.html-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/compatibility/zodiac-signs/love.html,65,0,30
+1671730038848,220,/compatibility/zodiac-signs/love.html-1,200,OK,Thread Group 1-1,text,true,,62802,155,1,1,https://www.astrology.com/compatibility/zodiac-signs/love.html,190,0,89
+1671730039069,998,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Thread Group 1-1,text,true,,59248,388,1,1,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,67,0,27
+1671730039069,67,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-0,301,Moved Permanently,Thread Group 1-1,,true,,360,194,1,1,http://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,67,0,27
+1671730039136,931,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-1,200,OK,Thread Group 1-1,text,true,,58888,194,1,1,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,902,0,91
+1671730040068,296,/horoscope/daily.html,200,OK,Thread Group 1-1,text,true,,75534,278,1,1,https://www.astrology.com/horoscope/daily.html,71,0,28
+1671730040068,71,/horoscope/daily.html-0,301,Moved Permanently,Thread Group 1-1,,true,,305,139,1,1,http://www.astrology.com/horoscope/daily.html,71,0,28
+1671730040139,225,/horoscope/daily.html-1,200,OK,Thread Group 1-1,text,true,,75229,139,1,1,https://www.astrology.com/horoscope/daily.html,192,0,93
+1671730040364,346,/zodiac-signs/taurus,200,OK,Thread Group 1-1,text,true,,104255,276,1,1,https://www.astrology.com/zodiac-signs/taurus,96,0,27
+1671730040364,96,/zodiac-signs/taurus-0,301,Moved Permanently,Thread Group 1-1,,true,,304,138,1,1,http://www.astrology.com/zodiac-signs/taurus,96,0,27
+1671730040460,250,/zodiac-signs/taurus-1,200,OK,Thread Group 1-1,text,true,,103951,138,1,1,https://www.astrology.com/zodiac-signs/taurus,211,0,93
+1671730040711,295,/us/horoscope/index-daily-dating.aspx,200,OK,Thread Group 1-1,text,true,,73591,310,1,1,https://www.astrology.com/us/horoscope/index-daily-dating.aspx,68,0,29
+1671730040711,68,/us/horoscope/index-daily-dating.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/us/horoscope/index-daily-dating.aspx,68,0,29
+1671730040779,227,/us/horoscope/index-daily-dating.aspx-1,200,OK,Thread Group 1-1,text,true,,73270,155,1,1,https://www.astrology.com/us/horoscope/index-daily-dating.aspx,195,0,91
+1671730041007,225,/img/icons/icon-arrow-up.svg,200,OK,Thread Group 1-1,text,true,,1285,292,1,1,https://www.astrology.com/img/icons/icon-arrow-up.svg,85,0,28
+1671730041007,85,/img/icons/icon-arrow-up.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,312,146,1,1,http://www.astrology.com/img/icons/icon-arrow-up.svg,85,0,28
+1671730041092,140,/img/icons/icon-arrow-up.svg-1,200,OK,Thread Group 1-1,text,true,,973,146,1,1,https://www.astrology.com/img/icons/icon-arrow-up.svg,140,0,91
+1671730041233,306,/zodiac-signs,200,OK,Thread Group 1-1,text,true,,78899,262,1,1,https://www.astrology.com/zodiac-signs,63,0,27
+1671730041233,63,/zodiac-signs-0,301,Moved Permanently,Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/zodiac-signs,63,0,27
+1671730041296,243,/zodiac-signs-1,200,OK,Thread Group 1-1,text,true,,78602,131,1,1,https://www.astrology.com/zodiac-signs,210,0,92
+1671730041539,371,/us/feedback.aspx,200,OK,Thread Group 1-1,text,true,,49674,270,1,1,https://www.astrology.com/us/feedback.aspx,111,0,29
+1671730041539,111,/us/feedback.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,301,135,1,1,http://www.astrology.com/us/feedback.aspx,111,0,29
+1671730041651,259,/us/feedback.aspx-1,200,OK,Thread Group 1-1,text,true,,49373,135,1,1,https://www.astrology.com/us/feedback.aspx,232,0,106
+1671730041911,329,/us/astrology-calendar-2022.aspx,200,OK,Thread Group 1-1,text,true,,75330,300,1,1,https://www.astrology.com/us/astrology-calendar-2022.aspx,78,0,34
+1671730041911,78,/us/astrology-calendar-2022.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/us/astrology-calendar-2022.aspx,78,0,34
+1671730041989,251,/us/astrology-calendar-2022.aspx-1,200,OK,Thread Group 1-1,text,true,,75014,150,1,1,https://www.astrology.com/us/astrology-calendar-2022.aspx,217,0,99
+1671730042241,308,/us/aboutus.aspx,200,OK,Thread Group 1-1,text,true,,47210,268,1,1,https://www.astrology.com/us/aboutus.aspx,63,0,27
+1671730042241,63,/us/aboutus.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,300,134,1,1,http://www.astrology.com/us/aboutus.aspx,63,0,27
+1671730042304,245,/us/aboutus.aspx-1,200,OK,Thread Group 1-1,text,true,,46910,134,1,1,https://www.astrology.com/us/aboutus.aspx,218,0,93
+1671730042550,201,/img/icons/icon-101-aspects-and-transits.svg,200,OK,Thread Group 1-1,text,true,,7505,324,1,1,https://www.astrology.com/img/icons/icon-101-aspects-and-transits.svg,64,0,27
+1671730042550,64,/img/icons/icon-101-aspects-and-transits.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,328,162,1,1,http://www.astrology.com/img/icons/icon-101-aspects-and-transits.svg,64,0,27
+1671730042614,137,/img/icons/icon-101-aspects-and-transits.svg-1,200,OK,Thread Group 1-1,text,true,,7177,162,1,1,https://www.astrology.com/img/icons/icon-101-aspects-and-transits.svg,136,0,92
+1671730042752,313,/article/egyptian-astrology/,200,OK,Thread Group 1-1,text,true,,77896,292,1,1,https://www.astrology.com/article/egyptian-astrology/,71,0,28
+1671730042752,71,/article/egyptian-astrology/-0,301,Moved Permanently,Thread Group 1-1,,true,,312,146,1,1,http://www.astrology.com/article/egyptian-astrology/,71,0,28
+1671730042823,242,/article/egyptian-astrology/-1,200,OK,Thread Group 1-1,text,true,,77584,146,1,1,https://www.astrology.com/article/egyptian-astrology/,207,0,94
+1671730043065,227,/img/icons/icon-101-houses.svg,200,OK,Thread Group 1-1,text,true,,2493,296,1,1,https://www.astrology.com/img/icons/icon-101-houses.svg,92,0,28
+1671730043065,92,/img/icons/icon-101-houses.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,314,148,1,1,http://www.astrology.com/img/icons/icon-101-houses.svg,92,0,28
+1671730043157,135,/img/icons/icon-101-houses.svg-1,200,OK,Thread Group 1-1,text,true,,2179,148,1,1,https://www.astrology.com/img/icons/icon-101-houses.svg,135,0,94
+1671730043293,415,/retrograde,200,OK,Thread Group 1-1,text,true,,79778,258,1,1,https://www.astrology.com/retrograde,97,0,28
+1671730043293,97,/retrograde-0,301,Moved Permanently,Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/retrograde,97,0,28
+1671730043390,318,/retrograde-1,200,OK,Thread Group 1-1,text,true,,79483,129,1,1,https://www.astrology.com/retrograde,282,0,93
+1671730043708,546,/psychic-readings,200,OK,Thread Group 1-1,text,true,,68600,270,1,1,https://www.astrology.com/psychic-readings,79,0,29
+1671730043708,79,/psychic-readings-0,301,Moved Permanently,Thread Group 1-1,,true,,301,135,1,1,http://www.astrology.com/psychic-readings,79,0,29
+1671730043787,467,/psychic-readings-1,200,OK,Thread Group 1-1,text,true,,68299,135,1,1,https://www.astrology.com/psychic-readings,435,0,96
+1671730044254,347,/tos.html,200,OK,Thread Group 1-1,text,true,,101523,254,1,1,https://www.astrology.com/tos.html,109,0,28
+1671730044254,109,/tos.html-0,301,Moved Permanently,Thread Group 1-1,,true,,293,127,1,1,http://www.astrology.com/tos.html,109,0,28
+1671730044363,238,/tos.html-1,200,OK,Thread Group 1-1,text,true,,101230,127,1,1,https://www.astrology.com/tos.html,199,0,101
+1671730044602,263,/img/icons/icon-widget-zodiac-signs.svg,200,OK,Thread Group 1-1,text,true,,47497,314,1,1,https://www.astrology.com/img/icons/icon-widget-zodiac-signs.svg,98,0,29
+1671730044602,98,/img/icons/icon-widget-zodiac-signs.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/img/icons/icon-widget-zodiac-signs.svg,98,0,29
+1671730044700,165,/img/icons/icon-widget-zodiac-signs.svg-1,200,OK,Thread Group 1-1,text,true,,47174,157,1,1,https://www.astrology.com/img/icons/icon-widget-zodiac-signs.svg,138,0,94
+1671730044866,239,/img/icons/icon-widget-free-birth-chart.svg,200,OK,Thread Group 1-1,text,true,,49846,322,1,1,https://www.astrology.com/img/icons/icon-widget-free-birth-chart.svg,70,0,28
+1671730044866,70,/img/icons/icon-widget-free-birth-chart.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,327,161,1,1,http://www.astrology.com/img/icons/icon-widget-free-birth-chart.svg,70,0,28
+1671730044937,168,/img/icons/icon-widget-free-birth-chart.svg-1,200,OK,Thread Group 1-1,text,true,,49519,161,1,1,https://www.astrology.com/img/icons/icon-widget-free-birth-chart.svg,135,0,93
+1671730045106,212,/img/icons/icon-widget-chinese-zodiac-signs.svg,200,OK,Thread Group 1-1,text,true,,3937,330,1,1,https://www.astrology.com/img/icons/icon-widget-chinese-zodiac-signs.svg,69,0,27
+1671730045106,69,/img/icons/icon-widget-chinese-zodiac-signs.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,331,165,1,1,http://www.astrology.com/img/icons/icon-widget-chinese-zodiac-signs.svg,69,0,27
+1671730045175,143,/img/icons/icon-widget-chinese-zodiac-signs.svg-1,200,OK,Thread Group 1-1,text,true,,3606,165,1,1,https://www.astrology.com/img/icons/icon-widget-chinese-zodiac-signs.svg,143,0,92
+1671730045320,325,/zodiac-signs/gemini,200,OK,Thread Group 1-1,text,true,,101928,276,1,1,https://www.astrology.com/zodiac-signs/gemini,80,0,27
+1671730045320,80,/zodiac-signs/gemini-0,301,Moved Permanently,Thread Group 1-1,,true,,304,138,1,1,http://www.astrology.com/zodiac-signs/gemini,80,0,27
+1671730045401,244,/zodiac-signs/gemini-1,200,OK,Thread Group 1-1,text,true,,101624,138,1,1,https://www.astrology.com/zodiac-signs/gemini,196,0,96
+1671730045646,323,/zodiac-signs/sagittarius,200,OK,Thread Group 1-1,text,true,,102835,286,1,1,https://www.astrology.com/zodiac-signs/sagittarius,76,0,28
+1671730045646,76,/zodiac-signs/sagittarius-0,301,Moved Permanently,Thread Group 1-1,,true,,309,143,1,1,http://www.astrology.com/zodiac-signs/sagittarius,76,0,28
+1671730045726,243,/zodiac-signs/sagittarius-1,200,OK,Thread Group 1-1,text,true,,102526,143,1,1,https://www.astrology.com/zodiac-signs/sagittarius,204,0,95
+1671730045970,317,/us/astrology-calendar-2023.aspx,200,OK,Thread Group 1-1,text,true,,74316,300,1,1,https://www.astrology.com/us/astrology-calendar-2023.aspx,71,0,27
+1671730045970,71,/us/astrology-calendar-2023.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/us/astrology-calendar-2023.aspx,71,0,27
+1671730046041,246,/us/astrology-calendar-2023.aspx-1,200,OK,Thread Group 1-1,text,true,,74000,150,1,1,https://www.astrology.com/us/astrology-calendar-2023.aspx,213,0,96
+1671730046288,303,/numerology,200,OK,Thread Group 1-1,text,true,,69549,258,1,1,https://www.astrology.com/numerology,74,0,27
+1671730046288,74,/numerology-0,301,Moved Permanently,Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/numerology,74,0,27
+1671730046362,229,/numerology-1,200,OK,Thread Group 1-1,text,true,,69254,129,1,1,https://www.astrology.com/numerology,196,0,98
+1671730046591,303,/planets,200,OK,Thread Group 1-1,text,true,,68301,252,1,1,https://www.astrology.com/planets,71,0,29
+1671730046591,71,/planets-0,301,Moved Permanently,Thread Group 1-1,,true,,292,126,1,1,http://www.astrology.com/planets,71,0,29
+1671730046662,232,/planets-1,200,OK,Thread Group 1-1,text,true,,68009,126,1,1,https://www.astrology.com/planets,201,0,95
+1671730046895,313,/tarot/yes-no.html,200,OK,Thread Group 1-1,text,true,,62084,272,1,1,https://www.astrology.com/tarot/yes-no.html,85,0,28
+1671730046895,85,/tarot/yes-no.html-0,301,Moved Permanently,Thread Group 1-1,,true,,302,136,1,1,http://www.astrology.com/tarot/yes-no.html,85,0,28
+1671730046980,228,/tarot/yes-no.html-1,200,OK,Thread Group 1-1,text,true,,61782,136,1,1,https://www.astrology.com/tarot/yes-no.html,198,0,97
+1671730047209,287,/compatibility/book-of-love.html,200,OK,Thread Group 1-1,text,true,,63398,300,1,1,https://www.astrology.com/compatibility/book-of-love.html,65,0,27
+1671730047209,65,/compatibility/book-of-love.html-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/compatibility/book-of-love.html,65,0,27
+1671730047274,222,/compatibility/book-of-love.html-1,200,OK,Thread Group 1-1,text,true,,63082,150,1,1,https://www.astrology.com/compatibility/book-of-love.html,192,0,98
+1671730047498,290,/css/compiled/main.css?v=1600123116,200,OK,Thread Group 1-1,text,true,,223128,306,1,1,https://www.astrology.com/css/compiled/main.css?v=1600123116,67,0,28
+1671730047498,67,/css/compiled/main.css?v=1600123116-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/css/compiled/main.css?v=1600123116,67,0,28
+1671730047565,223,/css/compiled/main.css?v=1600123116-1,200,OK,Thread Group 1-1,text,true,,222809,153,1,1,https://www.astrology.com/css/compiled/main.css?v=1600123116,151,0,103
+1671730047789,287,/tarot/breakup.html,200,OK,Thread Group 1-1,text,true,,63042,274,1,1,https://www.astrology.com/tarot/breakup.html,68,0,28
+1671730047789,68,/tarot/breakup.html-0,301,Moved Permanently,Thread Group 1-1,,true,,303,137,1,1,http://www.astrology.com/tarot/breakup.html,68,0,28
+1671730047857,219,/tarot/breakup.html-1,200,OK,Thread Group 1-1,text,true,,62739,137,1,1,https://www.astrology.com/tarot/breakup.html,189,0,93
+1671730048076,314,/compatibility/game-ask-the-genie.html,200,OK,Thread Group 1-1,text,true,,63551,312,1,1,https://www.astrology.com/compatibility/game-ask-the-genie.html,90,0,28
+1671730048076,90,/compatibility/game-ask-the-genie.html-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/compatibility/game-ask-the-genie.html,90,0,28
+1671730048166,224,/compatibility/game-ask-the-genie.html-1,200,OK,Thread Group 1-1,text,true,,63229,156,1,1,https://www.astrology.com/compatibility/game-ask-the-genie.html,193,0,93
+1671730048391,282,/us/tarot/tarot-yin-yang.aspx,200,OK,Thread Group 1-1,text,true,,62488,294,1,1,https://www.astrology.com/us/tarot/tarot-yin-yang.aspx,64,0,28
+1671730048391,64,/us/tarot/tarot-yin-yang.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,313,147,1,1,http://www.astrology.com/us/tarot/tarot-yin-yang.aspx,64,0,28
+1671730048455,218,/us/tarot/tarot-yin-yang.aspx-1,200,OK,Thread Group 1-1,text,true,,62175,147,1,1,https://www.astrology.com/us/tarot/tarot-yin-yang.aspx,188,0,92
+1671730048674,318,/syndicate,200,OK,Thread Group 1-1,text,true,,60942,256,1,1,https://www.astrology.com/syndicate,67,0,28
+1671730048674,67,/syndicate-0,301,Moved Permanently,Thread Group 1-1,,true,,294,128,1,1,http://www.astrology.com/syndicate,67,0,28
+1671730048741,251,/syndicate-1,200,OK,Thread Group 1-1,text,true,,60648,128,1,1,https://www.astrology.com/syndicate,222,0,92
+1671730048993,302,/rising-sign-calculator,200,OK,Thread Group 1-1,text,true,,66996,282,1,1,https://www.astrology.com/rising-sign-calculator,72,0,27
+1671730048993,72,/rising-sign-calculator-0,301,Moved Permanently,Thread Group 1-1,,true,,307,141,1,1,http://www.astrology.com/rising-sign-calculator,72,0,27
+1671730049065,230,/rising-sign-calculator-1,200,OK,Thread Group 1-1,text,true,,66689,141,1,1,https://www.astrology.com/rising-sign-calculator,196,0,96
+1671730049296,230,/img/learn/numerology-thumbnail-wide.jpg,200,OK,Thread Group 1-1,bin,true,,49166,316,1,1,https://www.astrology.com/img/learn/numerology-thumbnail-wide.jpg,64,0,28
+1671730049296,64,/img/learn/numerology-thumbnail-wide.jpg-0,301,Moved Permanently,Thread Group 1-1,,true,,324,158,1,1,http://www.astrology.com/img/learn/numerology-thumbnail-wide.jpg,64,0,28
+1671730049361,165,/img/learn/numerology-thumbnail-wide.jpg-1,200,OK,Thread Group 1-1,bin,true,,48842,158,1,1,https://www.astrology.com/img/learn/numerology-thumbnail-wide.jpg,137,0,93
+1671730049526,334,/articles,200,OK,Thread Group 1-1,text,true,,83290,254,1,1,https://www.astrology.com/articles,64,0,29
+1671730049526,64,/articles-0,301,Moved Permanently,Thread Group 1-1,,true,,293,127,1,1,http://www.astrology.com/articles,64,0,29
+1671730049590,270,/articles-1,200,OK,Thread Group 1-1,text,true,,82997,127,1,1,https://www.astrology.com/articles,236,0,94
+1671730049861,306,/article/weekly-tarot-reading-december-18/,200,OK,Thread Group 1-1,text,true,,72988,320,1,1,https://www.astrology.com/article/weekly-tarot-reading-december-18/,78,0,27
+1671730049861,78,/article/weekly-tarot-reading-december-18/-0,301,Moved Permanently,Thread Group 1-1,,true,,326,160,1,1,http://www.astrology.com/article/weekly-tarot-reading-december-18/,78,0,27
+1671730049939,228,/article/weekly-tarot-reading-december-18/-1,200,OK,Thread Group 1-1,text,true,,72662,160,1,1,https://www.astrology.com/article/weekly-tarot-reading-december-18/,196,0,92
+1671730050169,309,/privacy.html,200,OK,Thread Group 1-1,text,true,,85665,262,1,1,https://www.astrology.com/privacy.html,78,0,28
+1671730050169,78,/privacy.html-0,301,Moved Permanently,Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/privacy.html,78,0,28
+1671730050247,231,/privacy.html-1,200,OK,Thread Group 1-1,text,true,,85368,131,1,1,https://www.astrology.com/privacy.html,197,0,94
+1671730050479,333,/zodiac-signs/aries,200,OK,Thread Group 1-1,text,true,,96045,274,1,1,https://www.astrology.com/zodiac-signs/aries,93,0,28
+1671730050479,93,/zodiac-signs/aries-0,301,Moved Permanently,Thread Group 1-1,,true,,303,137,1,1,http://www.astrology.com/zodiac-signs/aries,93,0,28
+1671730050572,240,/zodiac-signs/aries-1,200,OK,Thread Group 1-1,text,true,,95742,137,1,1,https://www.astrology.com/zodiac-signs/aries,203,0,91
+1671730050813,220,/img/icons/icon-101-born-on-the-cusp.svg,200,OK,Thread Group 1-1,text,true,,3026,316,1,1,https://www.astrology.com/img/icons/icon-101-born-on-the-cusp.svg,83,0,29
+1671730050813,83,/img/icons/icon-101-born-on-the-cusp.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,324,158,1,1,http://www.astrology.com/img/icons/icon-101-born-on-the-cusp.svg,83,0,29
+1671730050896,137,/img/icons/icon-101-born-on-the-cusp.svg-1,200,OK,Thread Group 1-1,text,true,,2702,158,1,1,https://www.astrology.com/img/icons/icon-101-born-on-the-cusp.svg,137,0,96
+1671730051033,351,/zodiac-woman,200,OK,Thread Group 1-1,text,true,,62099,262,1,1,https://www.astrology.com/zodiac-woman,70,0,27
+1671730051033,70,/zodiac-woman-0,301,Moved Permanently,Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/zodiac-woman,70,0,27
+1671730051103,281,/zodiac-woman-1,200,OK,Thread Group 1-1,text,true,,61802,131,1,1,https://www.astrology.com/zodiac-woman,252,0,89
+1671730051385,287,/us/horoscope/index-daily-work.aspx,200,OK,Thread Group 1-1,text,true,,74292,306,1,1,https://www.astrology.com/us/horoscope/index-daily-work.aspx,62,0,28
+1671730051385,62,/us/horoscope/index-daily-work.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/us/horoscope/index-daily-work.aspx,62,0,28
+1671730051447,225,/us/horoscope/index-daily-work.aspx-1,200,OK,Thread Group 1-1,text,true,,73973,153,1,1,https://www.astrology.com/us/horoscope/index-daily-work.aspx,192,0,93
+1671730051673,313,/zodiac-signs/scorpio,200,OK,Thread Group 1-1,text,true,,109278,278,1,1,https://www.astrology.com/zodiac-signs/scorpio,63,0,28
+1671730051673,63,/zodiac-signs/scorpio-0,301,Moved Permanently,Thread Group 1-1,,true,,305,139,1,1,http://www.astrology.com/zodiac-signs/scorpio,63,0,28
+1671730051736,250,/zodiac-signs/scorpio-1,200,OK,Thread Group 1-1,text,true,,108973,139,1,1,https://www.astrology.com/zodiac-signs/scorpio,209,0,97
+1671730051987,319,/zodiac-signs/libra,200,OK,Thread Group 1-1,text,true,,102647,274,1,1,https://www.astrology.com/zodiac-signs/libra,74,0,27
+1671730051987,74,/zodiac-signs/libra-0,301,Moved Permanently,Thread Group 1-1,,true,,303,137,1,1,http://www.astrology.com/zodiac-signs/libra,74,0,27
+1671730052062,244,/zodiac-signs/libra-1,200,OK,Thread Group 1-1,text,true,,102344,137,1,1,https://www.astrology.com/zodiac-signs/libra,202,0,94
+1671730052307,325,/compatibility/chinese-signs/love.html,200,OK,Thread Group 1-1,text,true,,62738,312,1,1,https://www.astrology.com/compatibility/chinese-signs/love.html,97,0,54
+1671730052307,97,/compatibility/chinese-signs/love.html-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/compatibility/chinese-signs/love.html,97,0,54
+1671730052404,228,/compatibility/chinese-signs/love.html-1,200,OK,Thread Group 1-1,text,true,,62416,156,1,1,https://www.astrology.com/compatibility/chinese-signs/love.html,198,0,93
+1671730052633,297,/tarot/daily-career.html,200,OK,Thread Group 1-1,text,true,,62224,284,1,1,https://www.astrology.com/tarot/daily-career.html,76,0,29
+1671730052633,76,/tarot/daily-career.html-0,301,Moved Permanently,Thread Group 1-1,,true,,308,142,1,1,http://www.astrology.com/tarot/daily-career.html,76,0,29
+1671730052709,221,/tarot/daily-career.html-1,200,OK,Thread Group 1-1,text,true,,61916,142,1,1,https://www.astrology.com/tarot/daily-career.html,191,0,91
+1671730052931,287,/us/do-not-sell-my-info.aspx,200,OK,Thread Group 1-1,text,true,,51586,292,1,1,https://www.astrology.com/us/do-not-sell-my-info.aspx,63,0,28
+1671730052931,63,/us/do-not-sell-my-info.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,312,146,1,1,http://www.astrology.com/us/do-not-sell-my-info.aspx,63,0,28
+1671730052994,224,/us/do-not-sell-my-info.aspx-1,200,OK,Thread Group 1-1,text,true,,51274,146,1,1,https://www.astrology.com/us/do-not-sell-my-info.aspx,196,0,97
+1671730053219,260,/img/icons/icon-101-asteroids.svg,200,OK,Thread Group 1-1,text,true,,2306,302,1,1,https://www.astrology.com/img/icons/icon-101-asteroids.svg,94,0,29
+1671730053219,94,/img/icons/icon-101-asteroids.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/img/icons/icon-101-asteroids.svg,94,0,29
+1671730053314,165,/img/icons/icon-101-asteroids.svg-1,200,OK,Thread Group 1-1,text,true,,1989,151,1,1,https://www.astrology.com/img/icons/icon-101-asteroids.svg,165,0,118
+1671730053480,309,/zodiac-signs/capricorn,200,OK,Thread Group 1-1,text,true,,107410,282,1,1,https://www.astrology.com/zodiac-signs/capricorn,72,0,27
+1671730053480,72,/zodiac-signs/capricorn-0,301,Moved Permanently,Thread Group 1-1,,true,,307,141,1,1,http://www.astrology.com/zodiac-signs/capricorn,72,0,27
+1671730053552,237,/zodiac-signs/capricorn-1,200,OK,Thread Group 1-1,text,true,,107103,141,1,1,https://www.astrology.com/zodiac-signs/capricorn,197,0,93
+1671730053790,357,/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-300x163.jpeg,200,OK,Thread Group 1-1,bin,true,,6379,392,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-300x163.jpeg,62,0,28
+1671730053790,62,/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-300x163.jpeg-0,301,Moved Permanently,Thread Group 1-1,,true,,362,196,1,1,http://www.astrology.com/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-300x163.jpeg,62,0,28
+1671730053852,295,/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-300x163.jpeg-1,200,OK,Thread Group 1-1,bin,true,,6017,196,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-300x163.jpeg,295,0,100
+1671730054148,294,/us/advertising-inquiry.aspx,200,OK,Thread Group 1-1,text,true,,55021,292,1,1,https://www.astrology.com/us/advertising-inquiry.aspx,62,0,27
+1671730054148,62,/us/advertising-inquiry.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,312,146,1,1,http://www.astrology.com/us/advertising-inquiry.aspx,62,0,27
+1671730054210,232,/us/advertising-inquiry.aspx-1,200,OK,Thread Group 1-1,text,true,,54709,146,1,1,https://www.astrology.com/us/advertising-inquiry.aspx,204,0,97
+1671730054443,453,/aspects-and-transits,200,OK,Thread Group 1-1,text,true,,65951,278,1,1,https://www.astrology.com/aspects-and-transits,73,0,27
+1671730054443,73,/aspects-and-transits-0,301,Moved Permanently,Thread Group 1-1,,true,,305,139,1,1,http://www.astrology.com/aspects-and-transits,73,0,27
+1671730054516,380,/aspects-and-transits-1,200,OK,Thread Group 1-1,text,true,,65646,139,1,1,https://www.astrology.com/aspects-and-transits,338,0,102
+1671730054897,336,/on-the-cusp,200,OK,Thread Group 1-1,text,true,,107426,260,1,1,https://www.astrology.com/on-the-cusp,101,0,27
+1671730054897,101,/on-the-cusp-0,301,Moved Permanently,Thread Group 1-1,,true,,296,130,1,1,http://www.astrology.com/on-the-cusp,101,0,27
+1671730054998,235,/on-the-cusp-1,200,OK,Thread Group 1-1,text,true,,107130,130,1,1,https://www.astrology.com/on-the-cusp,193,0,96
+1671730055233,299,/zodiac-signs/cancer,200,OK,Thread Group 1-1,text,true,,109400,276,1,1,https://www.astrology.com/zodiac-signs/cancer,66,0,28
+1671730055233,66,/zodiac-signs/cancer-0,301,Moved Permanently,Thread Group 1-1,,true,,304,138,1,1,http://www.astrology.com/zodiac-signs/cancer,66,0,28
+1671730055299,233,/zodiac-signs/cancer-1,200,OK,Thread Group 1-1,text,true,,109096,138,1,1,https://www.astrology.com/zodiac-signs/cancer,192,0,93
+1671730055532,931,/birth-chart/,200,OK,Thread Group 1-1,text,true,,59185,262,1,1,https://www.astrology.com/birth-chart/,77,0,28
+1671730055532,77,/birth-chart/-0,301,Moved Permanently,Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/birth-chart/,77,0,28
+1671730055609,854,/birth-chart/-1,200,OK,Thread Group 1-1,text,true,,58888,131,1,1,https://www.astrology.com/birth-chart/,825,0,96
+1671730056464,6420,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer,200,OK,Thread Group 1-1,text,false,"The operation lasted too long: It took 6,420 milliseconds, but should not have lasted longer than 2,500 milliseconds.",59251,394,1,1,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer,65,0,29
+1671730056464,65,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer-0,301,Moved Permanently,Thread Group 1-1,,true,,363,197,1,1,http://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer,65,0,29
+1671730056529,6355,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer-1,200,OK,Thread Group 1-1,text,true,,58888,197,1,1,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer,6326,0,94
+1671730062885,301,/us/home.aspx,200,OK,Thread Group 1-1,text,true,,69652,262,1,1,https://www.astrology.com/us/home.aspx,66,0,28
+1671730062885,66,/us/home.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/us/home.aspx,66,0,28
+1671730062951,235,/us/home.aspx-1,200,OK,Thread Group 1-1,text,true,,69355,131,1,1,https://www.astrology.com/us/home.aspx,203,0,90
+1671730063186,322,/horoscope/daily/scorpio.html,200,OK,Thread Group 1-1,text,true,,69674,294,1,1,https://www.astrology.com/horoscope/daily/scorpio.html,71,0,28
+1671730063186,71,/horoscope/daily/scorpio.html-0,301,Moved Permanently,Thread Group 1-1,,true,,313,147,1,1,http://www.astrology.com/horoscope/daily/scorpio.html,71,0,28
+1671730063257,251,/horoscope/daily/scorpio.html-1,200,OK,Thread Group 1-1,text,true,,69361,147,1,1,https://www.astrology.com/horoscope/daily/scorpio.html,214,0,104
+1671730063509,299,/horoscope/daily-love/aries.html,200,OK,Thread Group 1-1,text,true,,67032,300,1,1,https://www.astrology.com/horoscope/daily-love/aries.html,67,0,28
+1671730063509,67,/horoscope/daily-love/aries.html-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/horoscope/daily-love/aries.html,67,0,28
+1671730063576,232,/horoscope/daily-love/aries.html-1,200,OK,Thread Group 1-1,text,true,,66716,150,1,1,https://www.astrology.com/horoscope/daily-love/aries.html,201,0,91
+1671730063808,504,/horoscope/weekly-work/virgo.html,200,OK,Thread Group 1-1,text,true,,64800,302,1,1,https://www.astrology.com/horoscope/weekly-work/virgo.html,86,0,28
+1671730063808,86,/horoscope/weekly-work/virgo.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/weekly-work/virgo.html,86,0,28
+1671730063894,418,/horoscope/weekly-work/virgo.html-1,200,OK,Thread Group 1-1,text,true,,64483,151,1,1,https://www.astrology.com/horoscope/weekly-work/virgo.html,388,0,94
+1671730064313,340,/horoscope/daily-dating/libra.html,200,OK,Thread Group 1-1,text,true,,66264,304,1,1,https://www.astrology.com/horoscope/daily-dating/libra.html,71,0,28
+1671730064313,71,/horoscope/daily-dating/libra.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/horoscope/daily-dating/libra.html,71,0,28
+1671730064384,269,/horoscope/daily-dating/libra.html-1,200,OK,Thread Group 1-1,text,true,,65946,152,1,1,https://www.astrology.com/horoscope/daily-dating/libra.html,239,0,99
+1671730064654,347,/tarot/card-meanings/suit-of-swords,200,OK,Thread Group 1-1,text,true,,71486,306,1,1,https://www.astrology.com/tarot/card-meanings/suit-of-swords,67,0,28
+1671730064654,67,/tarot/card-meanings/suit-of-swords-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/tarot/card-meanings/suit-of-swords,67,0,28
+1671730064722,279,/tarot/card-meanings/suit-of-swords-1,200,OK,Thread Group 1-1,text,true,,71167,153,1,1,https://www.astrology.com/tarot/card-meanings/suit-of-swords,246,0,93
+1671730065002,303,/horoscope/monthly-overview/taurus.html,200,OK,Thread Group 1-1,text,true,,70871,314,1,1,https://www.astrology.com/horoscope/monthly-overview/taurus.html,63,0,27
+1671730065002,63,/horoscope/monthly-overview/taurus.html-0,301,Moved Permanently,Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/horoscope/monthly-overview/taurus.html,63,0,27
+1671730065066,239,/horoscope/monthly-overview/taurus.html-1,200,OK,Thread Group 1-1,text,true,,70548,157,1,1,https://www.astrology.com/horoscope/monthly-overview/taurus.html,207,0,94
+1671730065306,455,/horoscope/weekly-work/leo.html,200,OK,Thread Group 1-1,text,true,,64715,298,1,1,https://www.astrology.com/horoscope/weekly-work/leo.html,76,0,27
+1671730065306,76,/horoscope/weekly-work/leo.html-0,301,Moved Permanently,Thread Group 1-1,,true,,315,149,1,1,http://www.astrology.com/horoscope/weekly-work/leo.html,76,0,27
+1671730065382,379,/horoscope/weekly-work/leo.html-1,200,OK,Thread Group 1-1,text,true,,64400,149,1,1,https://www.astrology.com/horoscope/weekly-work/leo.html,341,0,105
+1671730065762,457,/horoscope/yearly-work/pisces.html,200,OK,Thread Group 1-1,text,true,,64190,304,1,1,https://www.astrology.com/horoscope/yearly-work/pisces.html,68,0,28
+1671730065762,68,/horoscope/yearly-work/pisces.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/horoscope/yearly-work/pisces.html,68,0,28
+1671730065830,389,/horoscope/yearly-work/pisces.html-1,200,OK,Thread Group 1-1,text,true,,63872,152,1,1,https://www.astrology.com/horoscope/yearly-work/pisces.html,359,0,90
+1671730066220,307,/tarot/card-meanings/the-fool,200,OK,Thread Group 1-1,text,true,,76897,294,1,1,https://www.astrology.com/tarot/card-meanings/the-fool,81,0,29
+1671730066220,81,/tarot/card-meanings/the-fool-0,301,Moved Permanently,Thread Group 1-1,,true,,313,147,1,1,http://www.astrology.com/tarot/card-meanings/the-fool,81,0,29
+1671730066301,226,/tarot/card-meanings/the-fool-1,200,OK,Thread Group 1-1,text,true,,76584,147,1,1,https://www.astrology.com/tarot/card-meanings/the-fool,193,0,92
+1671730066527,376,/us/horoscope/index-yearly-work.aspx,200,OK,Thread Group 1-1,text,true,,68483,308,1,1,https://www.astrology.com/us/horoscope/index-yearly-work.aspx,94,0,28
+1671730066527,94,/us/horoscope/index-yearly-work.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/us/horoscope/index-yearly-work.aspx,94,0,28
+1671730066621,282,/us/horoscope/index-yearly-work.aspx-1,200,OK,Thread Group 1-1,text,true,,68163,154,1,1,https://www.astrology.com/us/horoscope/index-yearly-work.aspx,250,0,104
+1671730066904,382,/us/horoscope/index-monthly-work.aspx,200,OK,Thread Group 1-1,text,true,,72646,310,1,1,https://www.astrology.com/us/horoscope/index-monthly-work.aspx,114,0,28
+1671730066904,114,/us/horoscope/index-monthly-work.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/us/horoscope/index-monthly-work.aspx,114,0,28
+1671730067018,268,/us/horoscope/index-monthly-work.aspx-1,200,OK,Thread Group 1-1,text,true,,72325,155,1,1,https://www.astrology.com/us/horoscope/index-monthly-work.aspx,235,0,93
+1671730067287,320,/houses/fourth-house,200,OK,Thread Group 1-1,text,true,,71943,276,1,1,https://www.astrology.com/houses/fourth-house,75,0,28
+1671730067287,75,/houses/fourth-house-0,301,Moved Permanently,Thread Group 1-1,,true,,304,138,1,1,http://www.astrology.com/houses/fourth-house,75,0,28
+1671730067362,245,/houses/fourth-house-1,200,OK,Thread Group 1-1,text,true,,71639,138,1,1,https://www.astrology.com/houses/fourth-house,212,0,94
+1671730067607,289,/css/compiled/tarot.css?v=1600123116,200,OK,Thread Group 1-1,text,true,,141316,308,1,1,https://www.astrology.com/css/compiled/tarot.css?v=1600123116,72,0,29
+1671730067607,72,/css/compiled/tarot.css?v=1600123116-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/css/compiled/tarot.css?v=1600123116,72,0,29
+1671730067679,217,/css/compiled/tarot.css?v=1600123116-1,200,OK,Thread Group 1-1,text,true,,140996,154,1,1,https://www.astrology.com/css/compiled/tarot.css?v=1600123116,160,0,100
+1671730067897,325,/horoscope/daily-dating/gemini.html,200,OK,Thread Group 1-1,text,true,,66428,306,1,1,https://www.astrology.com/horoscope/daily-dating/gemini.html,70,0,29
+1671730067897,70,/horoscope/daily-dating/gemini.html-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/horoscope/daily-dating/gemini.html,70,0,29
+1671730067968,254,/horoscope/daily-dating/gemini.html-1,200,OK,Thread Group 1-1,text,true,,66109,153,1,1,https://www.astrology.com/horoscope/daily-dating/gemini.html,223,0,97
+1671730068223,322,/tarot/card-meanings/strength,200,OK,Thread Group 1-1,text,true,,77101,294,1,1,https://www.astrology.com/tarot/card-meanings/strength,70,0,27
+1671730068223,70,/tarot/card-meanings/strength-0,301,Moved Permanently,Thread Group 1-1,,true,,313,147,1,1,http://www.astrology.com/tarot/card-meanings/strength,70,0,27
+1671730068293,252,/tarot/card-meanings/strength-1,200,OK,Thread Group 1-1,text,true,,76788,147,1,1,https://www.astrology.com/tarot/card-meanings/strength,218,0,99
+1671730068545,479,/horoscope/weekly-work/gemini.html,200,OK,Thread Group 1-1,text,true,,64769,304,1,1,https://www.astrology.com/horoscope/weekly-work/gemini.html,68,0,28
+1671730068545,68,/horoscope/weekly-work/gemini.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/horoscope/weekly-work/gemini.html,68,0,28
+1671730068613,411,/horoscope/weekly-work/gemini.html-1,200,OK,Thread Group 1-1,text,true,,64451,152,1,1,https://www.astrology.com/horoscope/weekly-work/gemini.html,381,0,90
+1671730069025,367,/virgo-man.html,200,OK,Thread Group 1-1,text,true,,74617,266,1,1,https://www.astrology.com/virgo-man.html,75,0,28
+1671730069025,75,/virgo-man.html-0,301,Moved Permanently,Thread Group 1-1,,true,,299,133,1,1,http://www.astrology.com/virgo-man.html,75,0,28
+1671730069100,292,/virgo-man.html-1,200,OK,Thread Group 1-1,text,true,,74318,133,1,1,https://www.astrology.com/virgo-man.html,259,0,93
+1671730069393,711,/horoscope/yearly-work/sagittarius.html,200,OK,Thread Group 1-1,text,true,,64559,314,1,1,https://www.astrology.com/horoscope/yearly-work/sagittarius.html,71,0,27
+1671730069393,71,/horoscope/yearly-work/sagittarius.html-0,301,Moved Permanently,Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/horoscope/yearly-work/sagittarius.html,71,0,27
+1671730069464,640,/horoscope/yearly-work/sagittarius.html-1,200,OK,Thread Group 1-1,text,true,,64236,157,1,1,https://www.astrology.com/horoscope/yearly-work/sagittarius.html,610,0,134
+1671730070106,424,/astrology-101/planets/venus,200,OK,Thread Group 1-1,text,true,,71346,424,1,1,https://www.astrology.com/planets/venus,63,0,27
+1671730070106,63,/astrology-101/planets/venus-0,301,Moved Permanently,Thread Group 1-1,,true,,312,146,1,1,http://www.astrology.com/astrology-101/planets/venus,63,0,27
+1671730070169,218,/astrology-101/planets/venus-1,301,Moved Permanently,Thread Group 1-1,text,true,,652,146,1,1,https://www.astrology.com/astrology-101/planets/venus,218,0,94
+1671730070387,143,/astrology-101/planets/venus-2,200,OK,Thread Group 1-1,text,true,,70382,132,1,1,https://www.astrology.com/planets/venus,112,0,0
+1671730070531,307,/horoscope/monthly-overview/scorpio.html,200,OK,Thread Group 1-1,text,true,,70828,316,1,1,https://www.astrology.com/horoscope/monthly-overview/scorpio.html,73,0,27
+1671730070531,73,/horoscope/monthly-overview/scorpio.html-0,301,Moved Permanently,Thread Group 1-1,,true,,324,158,1,1,http://www.astrology.com/horoscope/monthly-overview/scorpio.html,73,0,27
+1671730070604,234,/horoscope/monthly-overview/scorpio.html-1,200,OK,Thread Group 1-1,text,true,,70504,158,1,1,https://www.astrology.com/horoscope/monthly-overview/scorpio.html,202,0,94
+1671730070839,319,/houses/sixth-house,200,OK,Thread Group 1-1,text,true,,72088,274,1,1,https://www.astrology.com/houses/sixth-house,64,0,28
+1671730070839,64,/houses/sixth-house-0,301,Moved Permanently,Thread Group 1-1,,true,,303,137,1,1,http://www.astrology.com/houses/sixth-house,64,0,28
+1671730070903,255,/houses/sixth-house-1,200,OK,Thread Group 1-1,text,true,,71785,137,1,1,https://www.astrology.com/houses/sixth-house,222,0,90
+1671730071158,320,/horoscope/weekly-dating/leo.html,200,OK,Thread Group 1-1,text,true,,63564,302,1,1,https://www.astrology.com/horoscope/weekly-dating/leo.html,92,0,29
+1671730071158,92,/horoscope/weekly-dating/leo.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/weekly-dating/leo.html,92,0,29
+1671730071250,228,/horoscope/weekly-dating/leo.html-1,200,OK,Thread Group 1-1,text,true,,63247,151,1,1,https://www.astrology.com/horoscope/weekly-dating/leo.html,198,0,94
+1671730071478,338,/tarot/card-meanings/wheel-of-fortune,200,OK,Thread Group 1-1,text,true,,77280,310,1,1,https://www.astrology.com/tarot/card-meanings/wheel-of-fortune,69,0,30
+1671730071478,69,/tarot/card-meanings/wheel-of-fortune-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/tarot/card-meanings/wheel-of-fortune,69,0,30
+1671730071547,269,/tarot/card-meanings/wheel-of-fortune-1,200,OK,Thread Group 1-1,text,true,,76959,155,1,1,https://www.astrology.com/tarot/card-meanings/wheel-of-fortune,235,0,114
+1671730071816,363,/us/horoscope/index-monthly-love.aspx,200,OK,Thread Group 1-1,text,true,,71616,310,1,1,https://www.astrology.com/us/horoscope/index-monthly-love.aspx,97,0,28
+1671730071816,97,/us/horoscope/index-monthly-love.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/us/horoscope/index-monthly-love.aspx,97,0,28
+1671730071913,266,/us/horoscope/index-monthly-love.aspx-1,200,OK,Thread Group 1-1,text,true,,71295,155,1,1,https://www.astrology.com/us/horoscope/index-monthly-love.aspx,235,0,89
+1671730072180,279,/img/houses/thumbnail-seventh-house.jpg,200,OK,Thread Group 1-1,bin,true,,12372,314,1,1,https://www.astrology.com/img/houses/thumbnail-seventh-house.jpg,62,0,28
+1671730072180,62,/img/houses/thumbnail-seventh-house.jpg-0,301,Moved Permanently,Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/img/houses/thumbnail-seventh-house.jpg,62,0,28
+1671730072243,216,/img/houses/thumbnail-seventh-house.jpg-1,200,OK,Thread Group 1-1,bin,true,,12049,157,1,1,https://www.astrology.com/img/houses/thumbnail-seventh-house.jpg,215,0,108
+1671730072460,447,/astrology-101/planets/neptune,200,OK,Thread Group 1-1,text,true,,71445,430,1,1,https://www.astrology.com/planets/neptune,75,0,27
+1671730072460,75,/astrology-101/planets/neptune-0,301,Moved Permanently,Thread Group 1-1,,true,,314,148,1,1,http://www.astrology.com/astrology-101/planets/neptune,75,0,27
+1671730072535,211,/astrology-101/planets/neptune-1,301,Moved Permanently,Thread Group 1-1,text,true,,656,148,1,1,https://www.astrology.com/astrology-101/planets/neptune,211,0,94
+1671730072746,161,/astrology-101/planets/neptune-2,200,OK,Thread Group 1-1,text,true,,70475,134,1,1,https://www.astrology.com/planets/neptune,130,0,0
+1671730072908,317,/us/horoscope/yearly-overview-2023.aspx?sign=pisces,200,OK,Thread Group 1-1,text,true,,67333,338,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=pisces,97,0,28
+1671730072908,97,/us/horoscope/yearly-overview-2023.aspx?sign=pisces-0,301,Moved Permanently,Thread Group 1-1,,true,,335,169,1,1,http://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=pisces,97,0,28
+1671730073006,219,/us/horoscope/yearly-overview-2023.aspx?sign=pisces-1,200,OK,Thread Group 1-1,text,true,,66998,169,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=pisces,189,0,93
+1671730073226,297,/horoscope/daily-work/taurus.html,200,OK,Thread Group 1-1,text,true,,66751,302,1,1,https://www.astrology.com/horoscope/daily-work/taurus.html,69,0,27
+1671730073226,69,/horoscope/daily-work/taurus.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/daily-work/taurus.html,69,0,27
+1671730073296,227,/horoscope/daily-work/taurus.html-1,200,OK,Thread Group 1-1,text,true,,66434,151,1,1,https://www.astrology.com/horoscope/daily-work/taurus.html,197,0,92
+1671730073524,363,/scorpio-man.html,200,OK,Thread Group 1-1,text,true,,74634,270,1,1,https://www.astrology.com/scorpio-man.html,130,0,28
+1671730073524,130,/scorpio-man.html-0,301,Moved Permanently,Thread Group 1-1,,true,,301,135,1,1,http://www.astrology.com/scorpio-man.html,130,0,28
+1671730073654,233,/scorpio-man.html-1,200,OK,Thread Group 1-1,text,true,,74333,135,1,1,https://www.astrology.com/scorpio-man.html,201,0,91
+1671730073888,398,/img/houses/thumbnail-twelfth-house.jpg,200,OK,Thread Group 1-1,bin,true,,9440,314,1,1,https://www.astrology.com/img/houses/thumbnail-twelfth-house.jpg,64,0,28
+1671730073888,64,/img/houses/thumbnail-twelfth-house.jpg-0,301,Moved Permanently,Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/img/houses/thumbnail-twelfth-house.jpg,64,0,28
+1671730073952,334,/img/houses/thumbnail-twelfth-house.jpg-1,200,OK,Thread Group 1-1,bin,true,,9117,157,1,1,https://www.astrology.com/img/houses/thumbnail-twelfth-house.jpg,334,0,91
+1671730074287,302,/houses/eighth-house,200,OK,Thread Group 1-1,text,true,,72532,276,1,1,https://www.astrology.com/houses/eighth-house,72,0,27
+1671730074287,73,/houses/eighth-house-0,301,Moved Permanently,Thread Group 1-1,,true,,304,138,1,1,http://www.astrology.com/houses/eighth-house,72,0,27
+1671730074360,229,/houses/eighth-house-1,200,OK,Thread Group 1-1,text,true,,72228,138,1,1,https://www.astrology.com/houses/eighth-house,197,0,92
+1671730074590,333,/horoscope/weekly-overview/aries.html,200,OK,Thread Group 1-1,text,true,,70449,310,1,1,https://www.astrology.com/horoscope/weekly-overview/aries.html,77,0,35
+1671730074590,77,/horoscope/weekly-overview/aries.html-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/horoscope/weekly-overview/aries.html,77,0,35
+1671730074667,256,/horoscope/weekly-overview/aries.html-1,200,OK,Thread Group 1-1,text,true,,70128,155,1,1,https://www.astrology.com/horoscope/weekly-overview/aries.html,224,0,95
+1671730074924,342,/horoscope/weekly-overview/gemini.html,200,OK,Thread Group 1-1,text,true,,70611,312,1,1,https://www.astrology.com/horoscope/weekly-overview/gemini.html,95,0,28
+1671730074924,95,/horoscope/weekly-overview/gemini.html-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/horoscope/weekly-overview/gemini.html,95,0,28
+1671730075019,247,/horoscope/weekly-overview/gemini.html-1,200,OK,Thread Group 1-1,text,true,,70289,156,1,1,https://www.astrology.com/horoscope/weekly-overview/gemini.html,215,0,102
+1671730075267,308,/horoscope/daily-work/libra.html,200,OK,Thread Group 1-1,text,true,,66622,300,1,1,https://www.astrology.com/horoscope/daily-work/libra.html,80,0,27
+1671730075267,80,/horoscope/daily-work/libra.html-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/horoscope/daily-work/libra.html,80,0,27
+1671730075347,228,/horoscope/daily-work/libra.html-1,200,OK,Thread Group 1-1,text,true,,66306,150,1,1,https://www.astrology.com/horoscope/daily-work/libra.html,198,0,98
+1671730075575,293,/libra-man.html,200,OK,Thread Group 1-1,text,true,,74129,266,1,1,https://www.astrology.com/libra-man.html,68,0,28
+1671730075575,68,/libra-man.html-0,301,Moved Permanently,Thread Group 1-1,,true,,299,133,1,1,http://www.astrology.com/libra-man.html,68,0,28
+1671730075643,225,/libra-man.html-1,200,OK,Thread Group 1-1,text,true,,73830,133,1,1,https://www.astrology.com/libra-man.html,192,0,94
+1671730075869,420,/astrology-101/qualities/mutable,200,OK,Thread Group 1-1,text,true,,70719,437,1,1,https://www.astrology.com/modalities/mutable,91,0,28
+1671730075869,91,/astrology-101/qualities/mutable-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/astrology-101/qualities/mutable,91,0,28
+1671730075960,188,/astrology-101/qualities/mutable-1,301,Moved Permanently,Thread Group 1-1,text,true,,662,150,1,1,https://www.astrology.com/astrology-101/qualities/mutable,187,0,97
+1671730076148,141,/astrology-101/qualities/mutable-2,200,OK,Thread Group 1-1,text,true,,69741,137,1,1,https://www.astrology.com/modalities/mutable,109,0,0
+1671730076290,298,/horoscope/yearly-love/libra.html,200,OK,Thread Group 1-1,text,true,,64076,302,1,1,https://www.astrology.com/horoscope/yearly-love/libra.html,69,0,27
+1671730076290,69,/horoscope/yearly-love/libra.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/yearly-love/libra.html,69,0,27
+1671730076359,229,/horoscope/yearly-love/libra.html-1,200,OK,Thread Group 1-1,text,true,,63759,151,1,1,https://www.astrology.com/horoscope/yearly-love/libra.html,199,0,90
+1671730076589,285,/horoscope/daily/virgo.html,200,OK,Thread Group 1-1,text,true,,69519,290,1,1,https://www.astrology.com/horoscope/daily/virgo.html,63,0,28
+1671730076589,63,/horoscope/daily/virgo.html-0,301,Moved Permanently,Thread Group 1-1,,true,,311,145,1,1,http://www.astrology.com/horoscope/daily/virgo.html,63,0,28
+1671730076653,221,/horoscope/daily/virgo.html-1,200,OK,Thread Group 1-1,text,true,,69208,145,1,1,https://www.astrology.com/horoscope/daily/virgo.html,189,0,90
+1671730076875,292,/horoscope/yearly-love/pisces.html,200,OK,Thread Group 1-1,text,true,,64186,304,1,1,https://www.astrology.com/horoscope/yearly-love/pisces.html,64,0,27
+1671730076875,64,/horoscope/yearly-love/pisces.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/horoscope/yearly-love/pisces.html,64,0,27
+1671730076939,228,/horoscope/yearly-love/pisces.html-1,200,OK,Thread Group 1-1,text,true,,63868,152,1,1,https://www.astrology.com/horoscope/yearly-love/pisces.html,198,0,91
+1671730077168,297,/horoscope/monthly-overview/capricorn.html,200,OK,Thread Group 1-1,text,true,,70845,320,1,1,https://www.astrology.com/horoscope/monthly-overview/capricorn.html,66,0,28
+1671730077168,66,/horoscope/monthly-overview/capricorn.html-0,301,Moved Permanently,Thread Group 1-1,,true,,326,160,1,1,http://www.astrology.com/horoscope/monthly-overview/capricorn.html,66,0,28
+1671730077234,231,/horoscope/monthly-overview/capricorn.html-1,200,OK,Thread Group 1-1,text,true,,70519,160,1,1,https://www.astrology.com/horoscope/monthly-overview/capricorn.html,198,0,94
+1671730077466,281,/horoscope/daily/gemini.html,200,OK,Thread Group 1-1,text,true,,69521,292,1,1,https://www.astrology.com/horoscope/daily/gemini.html,60,0,27
+1671730077466,60,/horoscope/daily/gemini.html-0,301,Moved Permanently,Thread Group 1-1,,true,,312,146,1,1,http://www.astrology.com/horoscope/daily/gemini.html,60,0,27
+1671730077526,221,/horoscope/daily/gemini.html-1,200,OK,Thread Group 1-1,text,true,,69209,146,1,1,https://www.astrology.com/horoscope/daily/gemini.html,187,0,92
+1671730077747,340,/psychic-readings/empath,200,OK,Thread Group 1-1,text,true,,75897,284,1,1,https://www.astrology.com/psychic-readings/empath,101,0,28
+1671730077747,101,/psychic-readings/empath-0,301,Moved Permanently,Thread Group 1-1,,true,,308,142,1,1,http://www.astrology.com/psychic-readings/empath,101,0,28
+1671730077848,239,/psychic-readings/empath-1,200,OK,Thread Group 1-1,text,true,,75589,142,1,1,https://www.astrology.com/psychic-readings/empath,207,0,94
+1671730078088,422,/img/houses/thumbnail-fifth-house.jpg,200,OK,Thread Group 1-1,bin,true,,11250,310,1,1,https://www.astrology.com/img/houses/thumbnail-fifth-house.jpg,74,0,28
+1671730078088,74,/img/houses/thumbnail-fifth-house.jpg-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/img/houses/thumbnail-fifth-house.jpg,74,0,28
+1671730078162,348,/img/houses/thumbnail-fifth-house.jpg-1,200,OK,Thread Group 1-1,bin,true,,10929,155,1,1,https://www.astrology.com/img/houses/thumbnail-fifth-house.jpg,347,0,102
+1671730078511,359,/img/elements/thumbnail-water.jpg,200,OK,Thread Group 1-1,bin,true,,9643,302,1,1,https://www.astrology.com/img/elements/thumbnail-water.jpg,79,0,27
+1671730078511,79,/img/elements/thumbnail-water.jpg-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/img/elements/thumbnail-water.jpg,79,0,27
+1671730078591,279,/img/elements/thumbnail-water.jpg-1,200,OK,Thread Group 1-1,bin,true,,9326,151,1,1,https://www.astrology.com/img/elements/thumbnail-water.jpg,278,0,94
+1671730078871,284,/pisces-woman.html,200,OK,Thread Group 1-1,text,true,,74038,272,1,1,https://www.astrology.com/pisces-woman.html,69,0,27
+1671730078871,69,/pisces-woman.html-0,301,Moved Permanently,Thread Group 1-1,,true,,302,136,1,1,http://www.astrology.com/pisces-woman.html,69,0,27
+1671730078941,214,/pisces-woman.html-1,200,OK,Thread Group 1-1,text,true,,73736,136,1,1,https://www.astrology.com/pisces-woman.html,182,0,89
+1671730079156,294,/horoscope/daily-work/sagittarius.html,200,OK,Thread Group 1-1,text,true,,66997,312,1,1,https://www.astrology.com/horoscope/daily-work/sagittarius.html,79,0,28
+1671730079156,79,/horoscope/daily-work/sagittarius.html-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/horoscope/daily-work/sagittarius.html,79,0,28
+1671730079235,215,/horoscope/daily-work/sagittarius.html-1,200,OK,Thread Group 1-1,text,true,,66675,156,1,1,https://www.astrology.com/horoscope/daily-work/sagittarius.html,184,0,90
+1671730079451,310,/horoscope/yearly-love/aquarius.html,200,OK,Thread Group 1-1,text,true,,64206,308,1,1,https://www.astrology.com/horoscope/yearly-love/aquarius.html,95,0,28
+1671730079451,95,/horoscope/yearly-love/aquarius.html-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/horoscope/yearly-love/aquarius.html,95,0,28
+1671730079547,214,/horoscope/yearly-love/aquarius.html-1,200,OK,Thread Group 1-1,text,true,,63886,154,1,1,https://www.astrology.com/horoscope/yearly-love/aquarius.html,184,0,89
+1671730079762,309,/tarot/card-meanings/death,200,OK,Thread Group 1-1,text,true,,77030,288,1,1,https://www.astrology.com/tarot/card-meanings/death,75,0,28
+1671730079762,75,/tarot/card-meanings/death-0,301,Moved Permanently,Thread Group 1-1,,true,,310,144,1,1,http://www.astrology.com/tarot/card-meanings/death,75,0,28
+1671730079837,234,/tarot/card-meanings/death-1,200,OK,Thread Group 1-1,text,true,,76720,144,1,1,https://www.astrology.com/tarot/card-meanings/death,200,0,91
+1671730080073,313,/tarot/card-meanings/suit-of-wands,200,OK,Thread Group 1-1,text,true,,71500,304,1,1,https://www.astrology.com/tarot/card-meanings/suit-of-wands,72,0,28
+1671730080073,72,/tarot/card-meanings/suit-of-wands-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/tarot/card-meanings/suit-of-wands,72,0,28
+1671730080145,241,/tarot/card-meanings/suit-of-wands-1,200,OK,Thread Group 1-1,text,true,,71182,152,1,1,https://www.astrology.com/tarot/card-meanings/suit-of-wands,208,0,91
+1671730080386,290,/us/horoscope/yearly-overview-2023.aspx?sign=scorpio,200,OK,Thread Group 1-1,text,true,,67486,340,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=scorpio,75,0,28
+1671730080386,75,/us/horoscope/yearly-overview-2023.aspx?sign=scorpio-0,301,Moved Permanently,Thread Group 1-1,,true,,336,170,1,1,http://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=scorpio,75,0,28
+1671730080461,215,/us/horoscope/yearly-overview-2023.aspx?sign=scorpio-1,200,OK,Thread Group 1-1,text,true,,67150,170,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=scorpio,184,0,90
+1671730080677,326,/horoscope/daily-dating/pisces.html,200,OK,Thread Group 1-1,text,true,,66395,306,1,1,https://www.astrology.com/horoscope/daily-dating/pisces.html,72,0,27
+1671730080677,72,/horoscope/daily-dating/pisces.html-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/horoscope/daily-dating/pisces.html,72,0,27
+1671730080749,254,/horoscope/daily-dating/pisces.html-1,200,OK,Thread Group 1-1,text,true,,66076,153,1,1,https://www.astrology.com/horoscope/daily-dating/pisces.html,223,0,91
+1671730081003,345,/psychic-readings/psychic-abilities,200,OK,Thread Group 1-1,text,true,,70135,306,1,1,https://www.astrology.com/psychic-readings/psychic-abilities,113,0,28
+1671730081003,113,/psychic-readings/psychic-abilities-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/psychic-readings/psychic-abilities,113,0,28
+1671730081117,231,/psychic-readings/psychic-abilities-1,200,OK,Thread Group 1-1,text,true,,69816,153,1,1,https://www.astrology.com/psychic-readings/psychic-abilities,199,0,94
+1671730081349,210,/img/icons/icon-tarot-daily-career.svg,200,OK,Thread Group 1-1,text,true,,3461,312,1,1,https://www.astrology.com/img/icons/icon-tarot-daily-career.svg,69,0,27
+1671730081349,69,/img/icons/icon-tarot-daily-career.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/img/icons/icon-tarot-daily-career.svg,69,0,27
+1671730081418,141,/img/icons/icon-tarot-daily-career.svg-1,200,OK,Thread Group 1-1,text,true,,3139,156,1,1,https://www.astrology.com/img/icons/icon-tarot-daily-career.svg,141,0,93
+1671730081559,307,/us/horoscope/index-yearly-love.aspx,200,OK,Thread Group 1-1,text,true,,67272,308,1,1,https://www.astrology.com/us/horoscope/index-yearly-love.aspx,65,0,28
+1671730081559,65,/us/horoscope/index-yearly-love.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/us/horoscope/index-yearly-love.aspx,65,0,28
+1671730081624,242,/us/horoscope/index-yearly-love.aspx-1,200,OK,Thread Group 1-1,text,true,,66952,154,1,1,https://www.astrology.com/us/horoscope/index-yearly-love.aspx,211,0,95
+1671730081867,450,/aquarius-woman.html,200,OK,Thread Group 1-1,text,true,,73771,276,1,1,https://www.astrology.com/aquarius-woman.html,65,0,28
+1671730081867,65,/aquarius-woman.html-0,301,Moved Permanently,Thread Group 1-1,,true,,304,138,1,1,http://www.astrology.com/aquarius-woman.html,65,0,28
+1671730081932,385,/aquarius-woman.html-1,200,OK,Thread Group 1-1,text,true,,73467,138,1,1,https://www.astrology.com/aquarius-woman.html,348,0,90
+1671730082318,310,/horoscope/daily-dating/aquarius.html,200,OK,Thread Group 1-1,text,true,,66406,310,1,1,https://www.astrology.com/horoscope/daily-dating/aquarius.html,70,0,27
+1671730082318,70,/horoscope/daily-dating/aquarius.html-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/horoscope/daily-dating/aquarius.html,70,0,27
+1671730082388,240,/horoscope/daily-dating/aquarius.html-1,200,OK,Thread Group 1-1,text,true,,66085,155,1,1,https://www.astrology.com/horoscope/daily-dating/aquarius.html,210,0,106
+1671730082629,365,/us/horoscope/index-weekly-dating.aspx,200,OK,Thread Group 1-1,text,true,,71163,312,1,1,https://www.astrology.com/us/horoscope/index-weekly-dating.aspx,73,0,28
+1671730082629,73,/us/horoscope/index-weekly-dating.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/us/horoscope/index-weekly-dating.aspx,73,0,28
+1671730082702,292,/us/horoscope/index-weekly-dating.aspx-1,200,OK,Thread Group 1-1,text,true,,70841,156,1,1,https://www.astrology.com/us/horoscope/index-weekly-dating.aspx,260,0,91
+1671730082995,305,/tarot/card-meanings/the-hierophant,200,OK,Thread Group 1-1,text,true,,77076,306,1,1,https://www.astrology.com/tarot/card-meanings/the-hierophant,66,0,27
+1671730082995,66,/tarot/card-meanings/the-hierophant-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/tarot/card-meanings/the-hierophant,66,0,27
+1671730083061,239,/tarot/card-meanings/the-hierophant-1,200,OK,Thread Group 1-1,text,true,,76757,153,1,1,https://www.astrology.com/tarot/card-meanings/the-hierophant,205,0,92
+1671730083300,477,/horoscope/weekly-overview/leo.html,200,OK,Thread Group 1-1,text,true,,70319,306,1,1,https://www.astrology.com/horoscope/weekly-overview/leo.html,93,0,28
+1671730083300,93,/horoscope/weekly-overview/leo.html-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/horoscope/weekly-overview/leo.html,93,0,28
+1671730083393,384,/horoscope/weekly-overview/leo.html-1,200,OK,Thread Group 1-1,text,true,,70000,153,1,1,https://www.astrology.com/horoscope/weekly-overview/leo.html,340,0,94
+1671730083777,285,/horoscope/weekly-dating/pisces.html,200,OK,Thread Group 1-1,text,true,,63567,308,1,1,https://www.astrology.com/horoscope/weekly-dating/pisces.html,64,0,29
+1671730083777,64,/horoscope/weekly-dating/pisces.html-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/horoscope/weekly-dating/pisces.html,64,0,29
+1671730083841,221,/horoscope/weekly-dating/pisces.html-1,200,OK,Thread Group 1-1,text,true,,63247,154,1,1,https://www.astrology.com/horoscope/weekly-dating/pisces.html,191,0,91
+1671730084063,314,/tarot/card-meanings/the-star,200,OK,Thread Group 1-1,text,true,,77042,294,1,1,https://www.astrology.com/tarot/card-meanings/the-star,73,0,27
+1671730084063,73,/tarot/card-meanings/the-star-0,301,Moved Permanently,Thread Group 1-1,,true,,313,147,1,1,http://www.astrology.com/tarot/card-meanings/the-star,73,0,27
+1671730084136,241,/tarot/card-meanings/the-star-1,200,OK,Thread Group 1-1,text,true,,76729,147,1,1,https://www.astrology.com/tarot/card-meanings/the-star,207,0,95
+1671730084378,387,/psychic-readings/near-me,200,OK,Thread Group 1-1,text,true,,63384,286,1,1,https://www.astrology.com/psychic-readings/near-me,67,0,28
+1671730084378,67,/psychic-readings/near-me-0,301,Moved Permanently,Thread Group 1-1,,true,,309,143,1,1,http://www.astrology.com/psychic-readings/near-me,67,0,28
+1671730084445,320,/psychic-readings/near-me-1,200,OK,Thread Group 1-1,text,true,,63075,143,1,1,https://www.astrology.com/psychic-readings/near-me,290,0,91
+1671730084766,319,/horoscope/daily-love/capricorn.html,200,OK,Thread Group 1-1,text,true,,67123,308,1,1,https://www.astrology.com/horoscope/daily-love/capricorn.html,69,0,28
+1671730084766,69,/horoscope/daily-love/capricorn.html-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/horoscope/daily-love/capricorn.html,69,0,28
+1671730084835,250,/horoscope/daily-love/capricorn.html-1,200,OK,Thread Group 1-1,text,true,,66803,154,1,1,https://www.astrology.com/horoscope/daily-love/capricorn.html,219,0,97
+1671730085086,434,/astrology-101/planets/jupiter,200,OK,Thread Group 1-1,text,true,,71344,430,1,1,https://www.astrology.com/planets/jupiter,63,0,27
+1671730085086,63,/astrology-101/planets/jupiter-0,301,Moved Permanently,Thread Group 1-1,,true,,314,148,1,1,http://www.astrology.com/astrology-101/planets/jupiter,63,0,27
+1671730085149,226,/astrology-101/planets/jupiter-1,301,Moved Permanently,Thread Group 1-1,text,true,,656,148,1,1,https://www.astrology.com/astrology-101/planets/jupiter,226,0,94
+1671730085375,145,/astrology-101/planets/jupiter-2,200,OK,Thread Group 1-1,text,true,,70374,134,1,1,https://www.astrology.com/planets/jupiter,113,0,0
+1671730085521,584,/horoscope/weekly-work/aquarius.html,200,OK,Thread Group 1-1,text,true,,64821,308,1,1,https://www.astrology.com/horoscope/weekly-work/aquarius.html,80,0,29
+1671730085521,80,/horoscope/weekly-work/aquarius.html-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/horoscope/weekly-work/aquarius.html,80,0,29
+1671730085602,503,/horoscope/weekly-work/aquarius.html-1,200,OK,Thread Group 1-1,text,true,,64501,154,1,1,https://www.astrology.com/horoscope/weekly-work/aquarius.html,472,0,95
+1671730086106,342,/us/horoscope/index-weekly-love.aspx,200,OK,Thread Group 1-1,text,true,,71332,308,1,1,https://www.astrology.com/us/horoscope/index-weekly-love.aspx,82,0,29
+1671730086106,82,/us/horoscope/index-weekly-love.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/us/horoscope/index-weekly-love.aspx,82,0,29
+1671730086188,260,/us/horoscope/index-weekly-love.aspx-1,200,OK,Thread Group 1-1,text,true,,71012,154,1,1,https://www.astrology.com/us/horoscope/index-weekly-love.aspx,229,0,93
+1671730086449,325,/horoscope/weekly-work/sagittarius.html,200,OK,Thread Group 1-1,text,true,,64984,314,1,1,https://www.astrology.com/horoscope/weekly-work/sagittarius.html,69,0,29
+1671730086449,69,/horoscope/weekly-work/sagittarius.html-0,301,Moved Permanently,Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/horoscope/weekly-work/sagittarius.html,69,0,29
+1671730086519,255,/horoscope/weekly-work/sagittarius.html-1,200,OK,Thread Group 1-1,text,true,,64661,157,1,1,https://www.astrology.com/horoscope/weekly-work/sagittarius.html,223,0,92
+1671730086774,289,/horoscope/daily-work/scorpio.html,200,OK,Thread Group 1-1,text,true,,66826,304,1,1,https://www.astrology.com/horoscope/daily-work/scorpio.html,64,0,28
+1671730086774,64,/horoscope/daily-work/scorpio.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/horoscope/daily-work/scorpio.html,64,0,28
+1671730086838,225,/horoscope/daily-work/scorpio.html-1,200,OK,Thread Group 1-1,text,true,,66508,152,1,1,https://www.astrology.com/horoscope/daily-work/scorpio.html,192,0,95
+1671730087064,504,/horoscope/yearly-love/capricorn.html,200,OK,Thread Group 1-1,text,true,,64212,310,1,1,https://www.astrology.com/horoscope/yearly-love/capricorn.html,100,0,28
+1671730087064,100,/horoscope/yearly-love/capricorn.html-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/horoscope/yearly-love/capricorn.html,100,0,28
+1671730087164,404,/horoscope/yearly-love/capricorn.html-1,200,OK,Thread Group 1-1,text,true,,63891,155,1,1,https://www.astrology.com/horoscope/yearly-love/capricorn.html,374,0,92
+1671730087569,298,/horoscope/monthly-overview/leo.html,200,OK,Thread Group 1-1,text,true,,70690,308,1,1,https://www.astrology.com/horoscope/monthly-overview/leo.html,70,0,28
+1671730087569,70,/horoscope/monthly-overview/leo.html-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/horoscope/monthly-overview/leo.html,70,0,28
+1671730087640,227,/horoscope/monthly-overview/leo.html-1,200,OK,Thread Group 1-1,text,true,,70370,154,1,1,https://www.astrology.com/horoscope/monthly-overview/leo.html,196,0,91
+1671730087868,309,/img/tarot/banner-how-to-read-tarot-568w.png,200,OK,Thread Group 1-1,bin,true,,110023,324,1,1,https://www.astrology.com/img/tarot/banner-how-to-read-tarot-568w.png,76,0,28
+1671730087868,76,/img/tarot/banner-how-to-read-tarot-568w.png-0,301,Moved Permanently,Thread Group 1-1,,true,,328,162,1,1,http://www.astrology.com/img/tarot/banner-how-to-read-tarot-568w.png,76,0,28
+1671730087945,232,/img/tarot/banner-how-to-read-tarot-568w.png-1,200,OK,Thread Group 1-1,bin,true,,109695,162,1,1,https://www.astrology.com/img/tarot/banner-how-to-read-tarot-568w.png,191,0,92
+1671730088177,497,/horoscope/yearly-love/aries.html,200,OK,Thread Group 1-1,text,true,,64121,302,1,1,https://www.astrology.com/horoscope/yearly-love/aries.html,87,0,28
+1671730088177,87,/horoscope/yearly-love/aries.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/yearly-love/aries.html,87,0,28
+1671730088264,410,/horoscope/yearly-love/aries.html-1,200,OK,Thread Group 1-1,text,true,,63804,151,1,1,https://www.astrology.com/horoscope/yearly-love/aries.html,380,0,89
+1671730088674,314,/horoscope/weekly-overview/libra.html,200,OK,Thread Group 1-1,text,true,,70518,310,1,1,https://www.astrology.com/horoscope/weekly-overview/libra.html,96,0,30
+1671730088674,96,/horoscope/weekly-overview/libra.html-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/horoscope/weekly-overview/libra.html,96,0,30
+1671730088770,218,/horoscope/weekly-overview/libra.html-1,200,OK,Thread Group 1-1,text,true,,70197,155,1,1,https://www.astrology.com/horoscope/weekly-overview/libra.html,187,0,90
+1671730088989,569,/aries-man.html,200,OK,Thread Group 1-1,text,true,,73719,266,1,1,https://www.astrology.com/aries-man.html,62,0,27
+1671730088989,62,/aries-man.html-0,301,Moved Permanently,Thread Group 1-1,,true,,299,133,1,1,http://www.astrology.com/aries-man.html,62,0,27
+1671730089051,507,/aries-man.html-1,200,OK,Thread Group 1-1,text,true,,73420,133,1,1,https://www.astrology.com/aries-man.html,474,0,224
+1671730089558,197,/img/icons/icon-tarot-love-potential.svg,200,OK,Thread Group 1-1,text,true,,4416,316,1,1,https://www.astrology.com/img/icons/icon-tarot-love-potential.svg,63,0,28
+1671730089558,63,/img/icons/icon-tarot-love-potential.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,324,158,1,1,http://www.astrology.com/img/icons/icon-tarot-love-potential.svg,63,0,28
+1671730089621,134,/img/icons/icon-tarot-love-potential.svg-1,200,OK,Thread Group 1-1,text,true,,4092,158,1,1,https://www.astrology.com/img/icons/icon-tarot-love-potential.svg,134,0,92
+1671730089756,314,/tarot/card-meanings/the-world,200,OK,Thread Group 1-1,text,true,,77044,296,1,1,https://www.astrology.com/tarot/card-meanings/the-world,65,0,27
+1671730089756,65,/tarot/card-meanings/the-world-0,301,Moved Permanently,Thread Group 1-1,,true,,314,148,1,1,http://www.astrology.com/tarot/card-meanings/the-world,65,0,27
+1671730089821,249,/tarot/card-meanings/the-world-1,200,OK,Thread Group 1-1,text,true,,76730,148,1,1,https://www.astrology.com/tarot/card-meanings/the-world,215,0,96
+1671730090071,332,/us/horoscope/index-weekly-work.aspx,200,OK,Thread Group 1-1,text,true,,72436,308,1,1,https://www.astrology.com/us/horoscope/index-weekly-work.aspx,62,0,27
+1671730090071,62,/us/horoscope/index-weekly-work.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/us/horoscope/index-weekly-work.aspx,62,0,27
+1671730090133,270,/us/horoscope/index-weekly-work.aspx-1,200,OK,Thread Group 1-1,text,true,,72116,154,1,1,https://www.astrology.com/us/horoscope/index-weekly-work.aspx,236,0,130
+1671730090403,343,/wp-content/uploads/sites/9/2020/04/aquarius-characteristics-300x167.jpeg,200,OK,Thread Group 1-1,bin,true,,11184,382,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2020/04/aquarius-characteristics-300x167.jpeg,68,0,28
+1671730090403,68,/wp-content/uploads/sites/9/2020/04/aquarius-characteristics-300x167.jpeg-0,301,Moved Permanently,Thread Group 1-1,,true,,357,191,1,1,http://www.astrology.com/wp-content/uploads/sites/9/2020/04/aquarius-characteristics-300x167.jpeg,68,0,28
+1671730090471,275,/wp-content/uploads/sites/9/2020/04/aquarius-characteristics-300x167.jpeg-1,200,OK,Thread Group 1-1,bin,true,,10827,191,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2020/04/aquarius-characteristics-300x167.jpeg,275,0,94
+1671730090747,322,/horoscope/yearly-work/gemini.html,200,OK,Thread Group 1-1,text,true,,64093,304,1,1,https://www.astrology.com/horoscope/yearly-work/gemini.html,91,0,29
+1671730090747,91,/horoscope/yearly-work/gemini.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/horoscope/yearly-work/gemini.html,91,0,29
+1671730090838,231,/horoscope/yearly-work/gemini.html-1,200,OK,Thread Group 1-1,text,true,,63775,152,1,1,https://www.astrology.com/horoscope/yearly-work/gemini.html,201,0,93
+1671730091069,291,/img/houses/thumbnail-ninth-house.jpg,200,OK,Thread Group 1-1,bin,true,,9257,310,1,1,https://www.astrology.com/img/houses/thumbnail-ninth-house.jpg,85,0,29
+1671730091069,85,/img/houses/thumbnail-ninth-house.jpg-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/img/houses/thumbnail-ninth-house.jpg,85,0,29
+1671730091154,206,/img/houses/thumbnail-ninth-house.jpg-1,200,OK,Thread Group 1-1,bin,true,,8936,155,1,1,https://www.astrology.com/img/houses/thumbnail-ninth-house.jpg,205,0,89
+1671730091361,358,/tarot/card-meanings/suit-of-cups,200,OK,Thread Group 1-1,text,true,,71342,302,1,1,https://www.astrology.com/tarot/card-meanings/suit-of-cups,63,0,29
+1671730091361,63,/tarot/card-meanings/suit-of-cups-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/tarot/card-meanings/suit-of-cups,63,0,29
+1671730091424,295,/tarot/card-meanings/suit-of-cups-1,200,OK,Thread Group 1-1,text,true,,71025,151,1,1,https://www.astrology.com/tarot/card-meanings/suit-of-cups,263,0,95
+1671730091720,291,/horoscope/daily-dating/sagittarius.html,200,OK,Thread Group 1-1,text,true,,66712,316,1,1,https://www.astrology.com/horoscope/daily-dating/sagittarius.html,63,0,27
+1671730091720,63,/horoscope/daily-dating/sagittarius.html-0,301,Moved Permanently,Thread Group 1-1,,true,,324,158,1,1,http://www.astrology.com/horoscope/daily-dating/sagittarius.html,63,0,27
+1671730091783,228,/horoscope/daily-dating/sagittarius.html-1,200,OK,Thread Group 1-1,text,true,,66388,158,1,1,https://www.astrology.com/horoscope/daily-dating/sagittarius.html,197,0,89
+1671730092012,461,/horoscope/weekly-dating/capricorn.html,200,OK,Thread Group 1-1,text,true,,63657,314,1,1,https://www.astrology.com/horoscope/weekly-dating/capricorn.html,75,0,27
+1671730092012,75,/horoscope/weekly-dating/capricorn.html-0,301,Moved Permanently,Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/horoscope/weekly-dating/capricorn.html,75,0,27
+1671730092087,386,/horoscope/weekly-dating/capricorn.html-1,200,OK,Thread Group 1-1,text,true,,63334,157,1,1,https://www.astrology.com/horoscope/weekly-dating/capricorn.html,346,0,113
+1671730092474,299,/us/horoscope/yearly-overview-2023.aspx?sign=capricorn,200,OK,Thread Group 1-1,text,true,,67375,344,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=capricorn,73,0,28
+1671730092474,73,/us/horoscope/yearly-overview-2023.aspx?sign=capricorn-0,301,Moved Permanently,Thread Group 1-1,,true,,338,172,1,1,http://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=capricorn,73,0,28
+1671730092547,226,/us/horoscope/yearly-overview-2023.aspx?sign=capricorn-1,200,OK,Thread Group 1-1,text,true,,67037,172,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=capricorn,195,0,91
+1671730092773,317,/horoscope/weekly-love/virgo.html,200,OK,Thread Group 1-1,text,true,,64550,302,1,1,https://www.astrology.com/horoscope/weekly-love/virgo.html,72,0,28
+1671730092773,72,/horoscope/weekly-love/virgo.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/weekly-love/virgo.html,72,0,28
+1671730092845,245,/horoscope/weekly-love/virgo.html-1,200,OK,Thread Group 1-1,text,true,,64233,151,1,1,https://www.astrology.com/horoscope/weekly-love/virgo.html,215,0,98
+1671730093091,304,/tarot/card-meanings/ten-of-cups,200,OK,Thread Group 1-1,text,true,,74332,300,1,1,https://www.astrology.com/tarot/card-meanings/ten-of-cups,69,0,27
+1671730093091,69,/tarot/card-meanings/ten-of-cups-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/tarot/card-meanings/ten-of-cups,69,0,27
+1671730093160,235,/tarot/card-meanings/ten-of-cups-1,200,OK,Thread Group 1-1,text,true,,74016,150,1,1,https://www.astrology.com/tarot/card-meanings/ten-of-cups,200,0,96
+1671730093395,303,/horoscope/weekly-love/scorpio.html,200,OK,Thread Group 1-1,text,true,,64422,306,1,1,https://www.astrology.com/horoscope/weekly-love/scorpio.html,68,0,28
+1671730093395,68,/horoscope/weekly-love/scorpio.html-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/horoscope/weekly-love/scorpio.html,68,0,28
+1671730093463,235,/horoscope/weekly-love/scorpio.html-1,200,OK,Thread Group 1-1,text,true,,64103,153,1,1,https://www.astrology.com/horoscope/weekly-love/scorpio.html,200,0,97
+1671730093699,323,/horoscope/yearly-love/virgo.html,200,OK,Thread Group 1-1,text,true,,64207,302,1,1,https://www.astrology.com/horoscope/yearly-love/virgo.html,85,0,28
+1671730093699,85,/horoscope/yearly-love/virgo.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/yearly-love/virgo.html,85,0,28
+1671730093784,238,/horoscope/yearly-love/virgo.html-1,200,OK,Thread Group 1-1,text,true,,63890,151,1,1,https://www.astrology.com/horoscope/yearly-love/virgo.html,208,0,99
+1671730094023,308,/tarot/card-meanings/judgement,200,OK,Thread Group 1-1,text,true,,77023,296,1,1,https://www.astrology.com/tarot/card-meanings/judgement,63,0,27
+1671730094023,63,/tarot/card-meanings/judgement-0,301,Moved Permanently,Thread Group 1-1,,true,,314,148,1,1,http://www.astrology.com/tarot/card-meanings/judgement,63,0,27
+1671730094086,245,/tarot/card-meanings/judgement-1,200,OK,Thread Group 1-1,text,true,,76709,148,1,1,https://www.astrology.com/tarot/card-meanings/judgement,212,0,94
+1671730094332,314,/horoscope/yearly-love/cancer.html,200,OK,Thread Group 1-1,text,true,,64150,304,1,1,https://www.astrology.com/horoscope/yearly-love/cancer.html,77,0,36
+1671730094332,77,/horoscope/yearly-love/cancer.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/horoscope/yearly-love/cancer.html,77,0,36
+1671730094409,237,/horoscope/yearly-love/cancer.html-1,200,OK,Thread Group 1-1,text,true,,63832,152,1,1,https://www.astrology.com/horoscope/yearly-love/cancer.html,206,0,91
+1671730094647,296,/horoscope/daily-work/gemini.html,200,OK,Thread Group 1-1,text,true,,66775,302,1,1,https://www.astrology.com/horoscope/daily-work/gemini.html,70,0,28
+1671730094647,70,/horoscope/daily-work/gemini.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/daily-work/gemini.html,70,0,28
+1671730094717,226,/horoscope/daily-work/gemini.html-1,200,OK,Thread Group 1-1,text,true,,66458,151,1,1,https://www.astrology.com/horoscope/daily-work/gemini.html,196,0,90
+1671730094943,465,/horoscope/yearly-work/cancer.html,200,OK,Thread Group 1-1,text,true,,64219,304,1,1,https://www.astrology.com/horoscope/yearly-work/cancer.html,70,0,28
+1671730094943,70,/horoscope/yearly-work/cancer.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/horoscope/yearly-work/cancer.html,70,0,28
+1671730095013,395,/horoscope/yearly-work/cancer.html-1,200,OK,Thread Group 1-1,text,true,,63901,152,1,1,https://www.astrology.com/horoscope/yearly-work/cancer.html,365,0,97
+1671730095409,299,/us/horoscope/yearly-overview-2023.aspx?sign=virgo,200,OK,Thread Group 1-1,text,true,,67315,336,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=virgo,69,0,29
+1671730095409,69,/us/horoscope/yearly-overview-2023.aspx?sign=virgo-0,301,Moved Permanently,Thread Group 1-1,,true,,334,168,1,1,http://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=virgo,69,0,29
+1671730095478,230,/us/horoscope/yearly-overview-2023.aspx?sign=virgo-1,200,OK,Thread Group 1-1,text,true,,66981,168,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=virgo,199,0,90
+1671730095708,297,/tarot/card-meanings/the-moon,200,OK,Thread Group 1-1,text,true,,76938,294,1,1,https://www.astrology.com/tarot/card-meanings/the-moon,63,0,27
+1671730095708,63,/tarot/card-meanings/the-moon-0,301,Moved Permanently,Thread Group 1-1,,true,,313,147,1,1,http://www.astrology.com/tarot/card-meanings/the-moon,63,0,27
+1671730095771,234,/tarot/card-meanings/the-moon-1,200,OK,Thread Group 1-1,text,true,,76625,147,1,1,https://www.astrology.com/tarot/card-meanings/the-moon,200,0,92
+1671730096005,370,/horoscope/weekly-love/gemini.html,200,OK,Thread Group 1-1,text,true,,64458,304,1,1,https://www.astrology.com/horoscope/weekly-love/gemini.html,101,0,28
+1671730096005,101,/horoscope/weekly-love/gemini.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/horoscope/weekly-love/gemini.html,101,0,28
+1671730096106,269,/horoscope/weekly-love/gemini.html-1,200,OK,Thread Group 1-1,text,true,,64140,152,1,1,https://www.astrology.com/horoscope/weekly-love/gemini.html,239,0,127
+1671730096376,297,/horoscope/weekly-overview/taurus.html,200,OK,Thread Group 1-1,text,true,,70574,312,1,1,https://www.astrology.com/horoscope/weekly-overview/taurus.html,72,0,30
+1671730096376,72,/horoscope/weekly-overview/taurus.html-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/horoscope/weekly-overview/taurus.html,72,0,30
+1671730096448,225,/horoscope/weekly-overview/taurus.html-1,200,OK,Thread Group 1-1,text,true,,70252,156,1,1,https://www.astrology.com/horoscope/weekly-overview/taurus.html,194,0,91
+1671730096674,303,/horoscope/weekly-dating/libra.html,200,OK,Thread Group 1-1,text,true,,63584,306,1,1,https://www.astrology.com/horoscope/weekly-dating/libra.html,73,0,29
+1671730096674,73,/horoscope/weekly-dating/libra.html-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/horoscope/weekly-dating/libra.html,73,0,29
+1671730096747,230,/horoscope/weekly-dating/libra.html-1,200,OK,Thread Group 1-1,text,true,,63265,153,1,1,https://www.astrology.com/horoscope/weekly-dating/libra.html,199,0,94
+1671730096978,337,/horoscope/daily-love/gemini.html,200,OK,Thread Group 1-1,text,true,,67100,302,1,1,https://www.astrology.com/horoscope/daily-love/gemini.html,99,0,28
+1671730096978,99,/horoscope/daily-love/gemini.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/daily-love/gemini.html,99,0,28
+1671730097077,238,/horoscope/daily-love/gemini.html-1,200,OK,Thread Group 1-1,text,true,,66783,151,1,1,https://www.astrology.com/horoscope/daily-love/gemini.html,207,0,91
+1671730097316,301,/horoscope/daily/pisces.html,200,OK,Thread Group 1-1,text,true,,69575,292,1,1,https://www.astrology.com/horoscope/daily/pisces.html,74,0,27
+1671730097316,74,/horoscope/daily/pisces.html-0,301,Moved Permanently,Thread Group 1-1,,true,,312,146,1,1,http://www.astrology.com/horoscope/daily/pisces.html,74,0,27
+1671730097390,227,/horoscope/daily/pisces.html-1,200,OK,Thread Group 1-1,text,true,,69263,146,1,1,https://www.astrology.com/horoscope/daily/pisces.html,195,0,93
+1671730097617,312,/horoscope/weekly-love/cancer.html,200,OK,Thread Group 1-1,text,true,,64310,304,1,1,https://www.astrology.com/horoscope/weekly-love/cancer.html,73,0,29
+1671730097617,73,/horoscope/weekly-love/cancer.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/horoscope/weekly-love/cancer.html,73,0,29
+1671730097690,239,/horoscope/weekly-love/cancer.html-1,200,OK,Thread Group 1-1,text,true,,63992,152,1,1,https://www.astrology.com/horoscope/weekly-love/cancer.html,208,0,103
+1671730097929,202,/img/icons/icon-tarot-daily-love.svg,200,OK,Thread Group 1-1,text,true,,3926,308,1,1,https://www.astrology.com/img/icons/icon-tarot-daily-love.svg,60,0,27
+1671730097929,60,/img/icons/icon-tarot-daily-love.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/img/icons/icon-tarot-daily-love.svg,60,0,27
+1671730097989,142,/img/icons/icon-tarot-daily-love.svg-1,200,OK,Thread Group 1-1,text,true,,3606,154,1,1,https://www.astrology.com/img/icons/icon-tarot-daily-love.svg,142,0,96
+1671730098132,323,/horoscope/daily-love/cancer.html,200,OK,Thread Group 1-1,text,true,,67147,302,1,1,https://www.astrology.com/horoscope/daily-love/cancer.html,94,0,28
+1671730098132,94,/horoscope/daily-love/cancer.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/daily-love/cancer.html,94,0,28
+1671730098227,228,/horoscope/daily-love/cancer.html-1,200,OK,Thread Group 1-1,text,true,,66830,151,1,1,https://www.astrology.com/horoscope/daily-love/cancer.html,197,0,93
+1671730098455,296,/horoscope/daily-work/cancer.html,200,OK,Thread Group 1-1,text,true,,66709,302,1,1,https://www.astrology.com/horoscope/daily-work/cancer.html,72,0,29
+1671730098455,72,/horoscope/daily-work/cancer.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/daily-work/cancer.html,72,0,29
+1671730098527,224,/horoscope/daily-work/cancer.html-1,200,OK,Thread Group 1-1,text,true,,66392,151,1,1,https://www.astrology.com/horoscope/daily-work/cancer.html,193,0,91
+1671730098752,315,/houses/second-house,200,OK,Thread Group 1-1,text,true,,72191,276,1,1,https://www.astrology.com/houses/second-house,69,0,28
+1671730098752,69,/houses/second-house-0,301,Moved Permanently,Thread Group 1-1,,true,,304,138,1,1,http://www.astrology.com/houses/second-house,69,0,28
+1671730098822,245,/houses/second-house-1,200,OK,Thread Group 1-1,text,true,,71887,138,1,1,https://www.astrology.com/houses/second-house,212,0,89
+1671730099067,330,/aquarius-man.html,200,OK,Thread Group 1-1,text,true,,73194,272,1,1,https://www.astrology.com/aquarius-man.html,75,0,28
+1671730099067,75,/aquarius-man.html-0,301,Moved Permanently,Thread Group 1-1,,true,,302,136,1,1,http://www.astrology.com/aquarius-man.html,75,0,28
+1671730099142,255,/aquarius-man.html-1,200,OK,Thread Group 1-1,text,true,,72892,136,1,1,https://www.astrology.com/aquarius-man.html,222,0,100
+1671730099398,254,/css/compiled/article.css?v=1600123116,200,OK,Thread Group 1-1,text,true,,133769,312,1,1,https://www.astrology.com/css/compiled/article.css?v=1600123116,61,0,27
+1671730099398,61,/css/compiled/article.css?v=1600123116-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/css/compiled/article.css?v=1600123116,61,0,27
+1671730099459,193,/css/compiled/article.css?v=1600123116-1,200,OK,Thread Group 1-1,text,true,,133447,156,1,1,https://www.astrology.com/css/compiled/article.css?v=1600123116,139,0,95
+1671730099653,358,/horoscope/weekly-love/aries.html,200,OK,Thread Group 1-1,text,true,,64332,302,1,1,https://www.astrology.com/horoscope/weekly-love/aries.html,127,0,27
+1671730099653,127,/horoscope/weekly-love/aries.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/weekly-love/aries.html,127,0,27
+1671730099780,231,/horoscope/weekly-love/aries.html-1,200,OK,Thread Group 1-1,text,true,,64015,151,1,1,https://www.astrology.com/horoscope/weekly-love/aries.html,199,0,93
+1671730100012,353,/horoscope/yearly-work/leo.html,200,OK,Thread Group 1-1,text,true,,64054,298,1,1,https://www.astrology.com/horoscope/yearly-work/leo.html,62,0,28
+1671730100012,62,/horoscope/yearly-work/leo.html-0,301,Moved Permanently,Thread Group 1-1,,true,,315,149,1,1,http://www.astrology.com/horoscope/yearly-work/leo.html,62,0,28
+1671730100074,291,/horoscope/yearly-work/leo.html-1,200,OK,Thread Group 1-1,text,true,,63739,149,1,1,https://www.astrology.com/horoscope/yearly-work/leo.html,260,0,92
+1671730100365,377,/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-scaled.jpeg,200,OK,Thread Group 1-1,bin,true,,166205,390,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-scaled.jpeg,72,0,28
+1671730100365,72,/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-scaled.jpeg-0,301,Moved Permanently,Thread Group 1-1,,true,,361,195,1,1,http://www.astrology.com/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-scaled.jpeg,72,0,28
+1671730100437,305,/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-scaled.jpeg-1,200,OK,Thread Group 1-1,bin,true,,165844,195,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2021/09/weekly-horoscope-september-12-scaled.jpeg,245,0,91
+1671730100743,261,/img/houses/thumbnail-fourth-house.jpg,200,OK,Thread Group 1-1,bin,true,,15758,312,1,1,https://www.astrology.com/img/houses/thumbnail-fourth-house.jpg,69,0,28
+1671730100743,69,/img/houses/thumbnail-fourth-house.jpg-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/img/houses/thumbnail-fourth-house.jpg,69,0,28
+1671730100812,192,/img/houses/thumbnail-fourth-house.jpg-1,200,OK,Thread Group 1-1,bin,true,,15436,156,1,1,https://www.astrology.com/img/houses/thumbnail-fourth-house.jpg,190,0,90
+1671730101004,302,/tarot/card-meanings/the-sun,200,OK,Thread Group 1-1,text,true,,77040,292,1,1,https://www.astrology.com/tarot/card-meanings/the-sun,64,0,28
+1671730101004,64,/tarot/card-meanings/the-sun-0,301,Moved Permanently,Thread Group 1-1,,true,,312,146,1,1,http://www.astrology.com/tarot/card-meanings/the-sun,64,0,28
+1671730101068,238,/tarot/card-meanings/the-sun-1,200,OK,Thread Group 1-1,text,true,,76728,146,1,1,https://www.astrology.com/tarot/card-meanings/the-sun,199,0,91
+1671730101306,313,/horoscope/weekly-dating/aquarius.html,200,OK,Thread Group 1-1,text,true,,63657,312,1,1,https://www.astrology.com/horoscope/weekly-dating/aquarius.html,90,0,29
+1671730101306,90,/horoscope/weekly-dating/aquarius.html-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/horoscope/weekly-dating/aquarius.html,90,0,29
+1671730101396,223,/horoscope/weekly-dating/aquarius.html-1,200,OK,Thread Group 1-1,text,true,,63335,156,1,1,https://www.astrology.com/horoscope/weekly-dating/aquarius.html,193,0,91
+1671730101619,295,/us/horoscope/yearly-overview-2023.aspx?sign=cancer,200,OK,Thread Group 1-1,text,true,,67323,338,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=cancer,83,0,29
+1671730101619,83,/us/horoscope/yearly-overview-2023.aspx?sign=cancer-0,301,Moved Permanently,Thread Group 1-1,,true,,335,169,1,1,http://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=cancer,83,0,29
+1671730101702,212,/us/horoscope/yearly-overview-2023.aspx?sign=cancer-1,200,OK,Thread Group 1-1,text,true,,66988,169,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=cancer,181,0,93
+1671730101915,297,/leo-man.html,200,OK,Thread Group 1-1,text,true,,73382,262,1,1,https://www.astrology.com/leo-man.html,72,0,27
+1671730101915,72,/leo-man.html-0,301,Moved Permanently,Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/leo-man.html,72,0,27
+1671730101987,225,/leo-man.html-1,200,OK,Thread Group 1-1,text,true,,73085,131,1,1,https://www.astrology.com/leo-man.html,193,0,92
+1671730102213,390,/psychic-readings/love-readings,200,OK,Thread Group 1-1,text,true,,63386,298,1,1,https://www.astrology.com/psychic-readings/love-readings,72,0,28
+1671730102213,72,/psychic-readings/love-readings-0,301,Moved Permanently,Thread Group 1-1,,true,,315,149,1,1,http://www.astrology.com/psychic-readings/love-readings,72,0,28
+1671730102285,318,/psychic-readings/love-readings-1,200,OK,Thread Group 1-1,text,true,,63071,149,1,1,https://www.astrology.com/psychic-readings/love-readings,287,0,92
+1671730102603,289,/psychic-readings/psychic-meaning,200,OK,Thread Group 1-1,text,true,,64252,302,1,1,https://www.astrology.com/psychic-readings/psychic-meaning,62,0,27
+1671730102603,62,/psychic-readings/psychic-meaning-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/psychic-readings/psychic-meaning,62,0,27
+1671730102665,227,/psychic-readings/psychic-meaning-1,200,OK,Thread Group 1-1,text,true,,63935,151,1,1,https://www.astrology.com/psychic-readings/psychic-meaning,196,0,91
+1671730102893,330,/horoscope/daily-love/aquarius.html,200,OK,Thread Group 1-1,text,true,,67053,306,1,1,https://www.astrology.com/horoscope/daily-love/aquarius.html,69,0,28
+1671730102893,69,/horoscope/daily-love/aquarius.html-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/horoscope/daily-love/aquarius.html,69,0,28
+1671730102962,261,/horoscope/daily-love/aquarius.html-1,200,OK,Thread Group 1-1,text,true,,66734,153,1,1,https://www.astrology.com/horoscope/daily-love/aquarius.html,229,0,101
+1671730103224,300,/elements/fire,200,OK,Thread Group 1-1,text,true,,70084,264,1,1,https://www.astrology.com/elements/fire,65,0,27
+1671730103224,65,/elements/fire-0,301,Moved Permanently,Thread Group 1-1,,true,,298,132,1,1,http://www.astrology.com/elements/fire,65,0,27
+1671730103289,235,/elements/fire-1,200,OK,Thread Group 1-1,text,true,,69786,132,1,1,https://www.astrology.com/elements/fire,204,0,98
+1671730103525,319,/horoscope/weekly-dating/cancer.html,200,OK,Thread Group 1-1,text,true,,63592,308,1,1,https://www.astrology.com/horoscope/weekly-dating/cancer.html,69,0,28
+1671730103525,69,/horoscope/weekly-dating/cancer.html-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/horoscope/weekly-dating/cancer.html,69,0,28
+1671730103594,250,/horoscope/weekly-dating/cancer.html-1,200,OK,Thread Group 1-1,text,true,,63272,154,1,1,https://www.astrology.com/horoscope/weekly-dating/cancer.html,221,0,113
+1671730103845,473,/houses/first-house,200,OK,Thread Group 1-1,text,true,,71832,274,1,1,https://www.astrology.com/houses/first-house,74,0,27
+1671730103845,74,/houses/first-house-0,301,Moved Permanently,Thread Group 1-1,,true,,303,137,1,1,http://www.astrology.com/houses/first-house,74,0,27
+1671730103919,399,/houses/first-house-1,200,OK,Thread Group 1-1,text,true,,71529,137,1,1,https://www.astrology.com/houses/first-house,357,0,90
+1671730104319,295,/horoscope/yearly-love/gemini.html,200,OK,Thread Group 1-1,text,true,,64282,304,1,1,https://www.astrology.com/horoscope/yearly-love/gemini.html,71,0,28
+1671730104319,71,/horoscope/yearly-love/gemini.html-0,301,Moved Permanently,Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/horoscope/yearly-love/gemini.html,71,0,28
+1671730104390,224,/horoscope/yearly-love/gemini.html-1,200,OK,Thread Group 1-1,text,true,,63964,152,1,1,https://www.astrology.com/horoscope/yearly-love/gemini.html,193,0,94
+1671730104614,207,/img/icons/icon-tarot-daily.svg,200,OK,Thread Group 1-1,text,true,,5006,298,1,1,https://www.astrology.com/img/icons/icon-tarot-daily.svg,70,0,28
+1671730104614,70,/img/icons/icon-tarot-daily.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,315,149,1,1,http://www.astrology.com/img/icons/icon-tarot-daily.svg,70,0,28
+1671730104684,137,/img/icons/icon-tarot-daily.svg-1,200,OK,Thread Group 1-1,text,true,,4691,149,1,1,https://www.astrology.com/img/icons/icon-tarot-daily.svg,137,0,88
+1671730104822,307,/horoscope/yearly-work/capricorn.html,200,OK,Thread Group 1-1,text,true,,64352,310,1,1,https://www.astrology.com/horoscope/yearly-work/capricorn.html,71,0,29
+1671730104822,71,/horoscope/yearly-work/capricorn.html-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/horoscope/yearly-work/capricorn.html,71,0,29
+1671730104893,236,/horoscope/yearly-work/capricorn.html-1,200,OK,Thread Group 1-1,text,true,,64031,155,1,1,https://www.astrology.com/horoscope/yearly-work/capricorn.html,203,0,94
+1671730105130,291,/us/horoscope/yearly-overview-2023.aspx?sign=libra,200,OK,Thread Group 1-1,text,true,,67461,336,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=libra,65,0,28
+1671730105130,65,/us/horoscope/yearly-overview-2023.aspx?sign=libra-0,301,Moved Permanently,Thread Group 1-1,,true,,334,168,1,1,http://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=libra,65,0,28
+1671730105195,226,/us/horoscope/yearly-overview-2023.aspx?sign=libra-1,200,OK,Thread Group 1-1,text,true,,67127,168,1,1,https://www.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=libra,194,0,92
+1671730105422,205,/img/icons/icon-tarot-yes-no.svg,200,OK,Thread Group 1-1,text,true,,2779,300,1,1,https://www.astrology.com/img/icons/icon-tarot-yes-no.svg,65,0,30
+1671730105422,65,/img/icons/icon-tarot-yes-no.svg-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/img/icons/icon-tarot-yes-no.svg,65,0,30
+1671730105487,140,/img/icons/icon-tarot-yes-no.svg-1,200,OK,Thread Group 1-1,text,true,,2463,150,1,1,https://www.astrology.com/img/icons/icon-tarot-yes-no.svg,140,0,92
+1671730105628,292,/elements/air,200,OK,Thread Group 1-1,text,true,,70198,262,1,1,https://www.astrology.com/elements/air,64,0,27
+1671730105628,64,/elements/air-0,301,Moved Permanently,Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/elements/air,64,0,27
+1671730105692,228,/elements/air-1,200,OK,Thread Group 1-1,text,true,,69901,131,1,1,https://www.astrology.com/elements/air,197,0,97
+1671730105920,281,/css/compiled/index-horoscope.css?v=1600123116,200,OK,Thread Group 1-1,text,true,,132763,328,1,1,https://www.astrology.com/css/compiled/index-horoscope.css?v=1600123116,82,0,28
+1671730105920,82,/css/compiled/index-horoscope.css?v=1600123116-0,301,Moved Permanently,Thread Group 1-1,,true,,330,164,1,1,http://www.astrology.com/css/compiled/index-horoscope.css?v=1600123116,82,0,28
+1671730106002,199,/css/compiled/index-horoscope.css?v=1600123116-1,200,OK,Thread Group 1-1,text,true,,132433,164,1,1,https://www.astrology.com/css/compiled/index-horoscope.css?v=1600123116,142,0,97
+1671730106201,515,/horoscope/yearly-work/virgo.html,200,OK,Thread Group 1-1,text,true,,63986,302,1,1,https://www.astrology.com/horoscope/yearly-work/virgo.html,63,0,29
+1671730106201,63,/horoscope/yearly-work/virgo.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/yearly-work/virgo.html,63,0,29
+1671730106264,452,/horoscope/yearly-work/virgo.html-1,200,OK,Thread Group 1-1,text,true,,63669,151,1,1,https://www.astrology.com/horoscope/yearly-work/virgo.html,421,0,94
+1671730106717,335,/horoscope/monthly-overview/libra.html,200,OK,Thread Group 1-1,text,true,,70810,312,1,1,https://www.astrology.com/horoscope/monthly-overview/libra.html,71,0,29
+1671730106717,71,/horoscope/monthly-overview/libra.html-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/horoscope/monthly-overview/libra.html,71,0,29
+1671730106788,264,/horoscope/monthly-overview/libra.html-1,200,OK,Thread Group 1-1,text,true,,70488,156,1,1,https://www.astrology.com/horoscope/monthly-overview/libra.html,232,0,92
+1671730107052,762,/wp-content/uploads/sites/9/2020/05/remodifiedarticleimages_pisces.png,200,OK,Thread Group 1-1,bin,true,,184682,376,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2020/05/remodifiedarticleimages_pisces.png,216,0,181
+1671730107052,216,/wp-content/uploads/sites/9/2020/05/remodifiedarticleimages_pisces.png-0,301,Moved Permanently,Thread Group 1-1,,true,,354,188,1,1,http://www.astrology.com/wp-content/uploads/sites/9/2020/05/remodifiedarticleimages_pisces.png,216,0,181
+1671730107268,546,/wp-content/uploads/sites/9/2020/05/remodifiedarticleimages_pisces.png-1,200,OK,Thread Group 1-1,bin,true,,184328,188,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2020/05/remodifiedarticleimages_pisces.png,439,0,244
+1671730107815,541,/astrology-101/houses/twelfth-house,200,OK,Thread Group 1-1,text,true,,73168,445,1,1,https://www.astrology.com/houses/twelfth-house,65,0,27
+1671730107815,65,/astrology-101/houses/twelfth-house-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/astrology-101/houses/twelfth-house,65,0,27
+1671730107880,197,/astrology-101/houses/twelfth-house-1,301,Moved Permanently,Thread Group 1-1,text,true,,666,153,1,1,https://www.astrology.com/astrology-101/houses/twelfth-house,197,0,96
+1671730108077,279,/astrology-101/houses/twelfth-house-2,200,OK,Thread Group 1-1,text,true,,72183,139,1,1,https://www.astrology.com/houses/twelfth-house,240,0,0
+1671730108357,423,/modalities/mutable,200,OK,Thread Group 1-1,text,true,,70042,274,1,1,https://www.astrology.com/modalities/mutable,167,0,28
+1671730108357,167,/modalities/mutable-0,301,Moved Permanently,Thread Group 1-1,,true,,303,137,1,1,http://www.astrology.com/modalities/mutable,167,0,28
+1671730108524,256,/modalities/mutable-1,200,OK,Thread Group 1-1,text,true,,69739,137,1,1,https://www.astrology.com/modalities/mutable,224,0,96
+1671730108780,308,/tarot/card-meanings/the-hanged-man,200,OK,Thread Group 1-1,text,true,,77182,306,1,1,https://www.astrology.com/tarot/card-meanings/the-hanged-man,78,0,29
+1671730108780,78,/tarot/card-meanings/the-hanged-man-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/tarot/card-meanings/the-hanged-man,78,0,29
+1671730108858,230,/tarot/card-meanings/the-hanged-man-1,200,OK,Thread Group 1-1,text,true,,76863,153,1,1,https://www.astrology.com/tarot/card-meanings/the-hanged-man,196,0,94
+1671730109089,304,/horoscope/weekly-dating/gemini.html,200,OK,Thread Group 1-1,text,true,,63674,308,1,1,https://www.astrology.com/horoscope/weekly-dating/gemini.html,63,0,27
+1671730109089,63,/horoscope/weekly-dating/gemini.html-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/horoscope/weekly-dating/gemini.html,63,0,27
+1671730109152,241,/horoscope/weekly-dating/gemini.html-1,200,OK,Thread Group 1-1,text,true,,63354,154,1,1,https://www.astrology.com/horoscope/weekly-dating/gemini.html,212,0,90
+1671730109394,401,/wp-content/uploads/sites/9/2020/05/pisces-zodiac-sign-300x167.jpeg,200,OK,Thread Group 1-1,bin,true,,7986,370,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2020/05/pisces-zodiac-sign-300x167.jpeg,111,0,29
+1671730109394,111,/wp-content/uploads/sites/9/2020/05/pisces-zodiac-sign-300x167.jpeg-0,301,Moved Permanently,Thread Group 1-1,,true,,351,185,1,1,http://www.astrology.com/wp-content/uploads/sites/9/2020/05/pisces-zodiac-sign-300x167.jpeg,111,0,29
+1671730109505,290,/wp-content/uploads/sites/9/2020/05/pisces-zodiac-sign-300x167.jpeg-1,200,OK,Thread Group 1-1,bin,true,,7635,185,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2020/05/pisces-zodiac-sign-300x167.jpeg,289,0,97
+1671730109796,312,/horoscope/weekly-love/capricorn.html,200,OK,Thread Group 1-1,text,true,,64478,310,1,1,https://www.astrology.com/horoscope/weekly-love/capricorn.html,62,0,27
+1671730109796,62,/horoscope/weekly-love/capricorn.html-0,301,Moved Permanently,Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/horoscope/weekly-love/capricorn.html,62,0,27
+1671730109858,250,/horoscope/weekly-love/capricorn.html-1,200,OK,Thread Group 1-1,text,true,,64157,155,1,1,https://www.astrology.com/horoscope/weekly-love/capricorn.html,219,0,92
+1671730110110,413,/astrology-101/houses/eleventh-house,200,OK,Thread Group 1-1,text,true,,73149,448,1,1,https://www.astrology.com/houses/eleventh-house,76,0,28
+1671730110110,76,/astrology-101/houses/eleventh-house-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/astrology-101/houses/eleventh-house,76,0,28
+1671730110186,204,/astrology-101/houses/eleventh-house-1,301,Moved Permanently,Thread Group 1-1,text,true,,668,154,1,1,https://www.astrology.com/astrology-101/houses/eleventh-house,204,0,90
+1671730110390,133,/astrology-101/houses/eleventh-house-2,200,OK,Thread Group 1-1,text,true,,72161,140,1,1,https://www.astrology.com/houses/eleventh-house,103,0,0
+1671730110524,306,/horoscope/daily-dating/capricorn.html,200,OK,Thread Group 1-1,text,true,,66486,312,1,1,https://www.astrology.com/horoscope/daily-dating/capricorn.html,70,0,28
+1671730110524,70,/horoscope/daily-dating/capricorn.html-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/horoscope/daily-dating/capricorn.html,70,0,28
+1671730110594,236,/horoscope/daily-dating/capricorn.html-1,200,OK,Thread Group 1-1,text,true,,66164,156,1,1,https://www.astrology.com/horoscope/daily-dating/capricorn.html,201,0,93
+1671730110830,307,/horoscope/monthly-overview/pisces.html,200,OK,Thread Group 1-1,text,true,,70722,314,1,1,https://www.astrology.com/horoscope/monthly-overview/pisces.html,61,0,28
+1671730110830,61,/horoscope/monthly-overview/pisces.html-0,301,Moved Permanently,Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/horoscope/monthly-overview/pisces.html,61,0,28
+1671730110891,246,/horoscope/monthly-overview/pisces.html-1,200,OK,Thread Group 1-1,text,true,,70399,157,1,1,https://www.astrology.com/horoscope/monthly-overview/pisces.html,212,0,93
+1671730111139,315,/horoscope/weekly-love/aquarius.html,200,OK,Thread Group 1-1,text,true,,64438,308,1,1,https://www.astrology.com/horoscope/weekly-love/aquarius.html,73,0,28
+1671730111139,73,/horoscope/weekly-love/aquarius.html-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/horoscope/weekly-love/aquarius.html,73,0,28
+1671730111212,242,/horoscope/weekly-love/aquarius.html-1,200,OK,Thread Group 1-1,text,true,,64118,154,1,1,https://www.astrology.com/horoscope/weekly-love/aquarius.html,195,0,93
+1671730111455,350,/rising-sign-calculator/pisces,200,OK,Thread Group 1-1,text,true,,67148,296,1,1,https://www.astrology.com/rising-sign-calculator/pisces,71,0,27
+1671730111455,71,/rising-sign-calculator/pisces-0,301,Moved Permanently,Thread Group 1-1,,true,,314,148,1,1,http://www.astrology.com/rising-sign-calculator/pisces,71,0,27
+1671730111526,279,/rising-sign-calculator/pisces-1,200,OK,Thread Group 1-1,text,true,,66834,148,1,1,https://www.astrology.com/rising-sign-calculator/pisces,246,0,94
+1671730111805,327,/img/elements/thumbnail-air.jpg,200,OK,Thread Group 1-1,bin,true,,9046,298,1,1,https://www.astrology.com/img/elements/thumbnail-air.jpg,82,0,28
+1671730111805,82,/img/elements/thumbnail-air.jpg-0,301,Moved Permanently,Thread Group 1-1,,true,,315,149,1,1,http://www.astrology.com/img/elements/thumbnail-air.jpg,82,0,28
+1671730111887,245,/img/elements/thumbnail-air.jpg-1,200,OK,Thread Group 1-1,bin,true,,8731,149,1,1,https://www.astrology.com/img/elements/thumbnail-air.jpg,244,0,92
+1671730112133,478,/elements/earth,200,OK,Thread Group 1-1,text,true,,70588,266,1,1,https://www.astrology.com/elements/earth,80,0,27
+1671730112133,80,/elements/earth-0,301,Moved Permanently,Thread Group 1-1,,true,,299,133,1,1,http://www.astrology.com/elements/earth,80,0,27
+1671730112213,398,/elements/earth-1,200,OK,Thread Group 1-1,text,true,,70289,133,1,1,https://www.astrology.com/elements/earth,260,0,91
+1671730112612,309,/horoscope/daily-love/libra.html,200,OK,Thread Group 1-1,text,true,,67030,300,1,1,https://www.astrology.com/horoscope/daily-love/libra.html,63,0,30
+1671730112612,63,/horoscope/daily-love/libra.html-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/horoscope/daily-love/libra.html,63,0,30
+1671730112675,246,/horoscope/daily-love/libra.html-1,200,OK,Thread Group 1-1,text,true,,66714,150,1,1,https://www.astrology.com/horoscope/daily-love/libra.html,199,0,95
+1671730112922,415,/astrology-101/elements/water,200,OK,Thread Group 1-1,text,true,,71177,427,1,1,https://www.astrology.com/elements/water,80,0,27
+1671730112922,80,/astrology-101/elements/water-0,301,Moved Permanently,Thread Group 1-1,,true,,313,147,1,1,http://www.astrology.com/astrology-101/elements/water,80,0,27
+1671730113002,190,/astrology-101/elements/water-1,301,Moved Permanently,Thread Group 1-1,text,true,,654,147,1,1,https://www.astrology.com/astrology-101/elements/water,189,0,91
+1671730113192,145,/astrology-101/elements/water-2,200,OK,Thread Group 1-1,text,true,,70210,133,1,1,https://www.astrology.com/elements/water,114,0,0
+1671730113338,278,/css/compiled/games.css?v=1600123116,200,OK,Thread Group 1-1,text,true,,128030,308,1,1,https://www.astrology.com/css/compiled/games.css?v=1600123116,69,0,27
+1671730113338,69,/css/compiled/games.css?v=1600123116-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/css/compiled/games.css?v=1600123116,69,0,27
+1671730113407,209,/css/compiled/games.css?v=1600123116-1,200,OK,Thread Group 1-1,text,true,,127710,154,1,1,https://www.astrology.com/css/compiled/games.css?v=1600123116,164,0,107
+1671730113617,303,/planets/mars,200,OK,Thread Group 1-1,text,true,,70786,262,1,1,https://www.astrology.com/planets/mars,84,0,27
+1671730113617,84,/planets/mars-0,301,Moved Permanently,Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/planets/mars,84,0,27
+1671730113701,219,/planets/mars-1,200,OK,Thread Group 1-1,text,true,,70489,131,1,1,https://www.astrology.com/planets/mars,187,0,92
+1671730113921,258,/img/modalities/thumbnail-cardinal.jpg,200,OK,Thread Group 1-1,bin,true,,9679,312,1,1,https://www.astrology.com/img/modalities/thumbnail-cardinal.jpg,72,0,28
+1671730113921,72,/img/modalities/thumbnail-cardinal.jpg-0,301,Moved Permanently,Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/img/modalities/thumbnail-cardinal.jpg,72,0,28
+1671730113993,186,/img/modalities/thumbnail-cardinal.jpg-1,200,OK,Thread Group 1-1,bin,true,,9357,156,1,1,https://www.astrology.com/img/modalities/thumbnail-cardinal.jpg,186,0,89
+1671730114180,559,/wp-content/uploads/sites/9/2020/04/aquarius-characteristics1.png,200,OK,Thread Group 1-1,bin,true,,898714,366,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2020/04/aquarius-characteristics1.png,76,0,29
+1671730114180,76,/wp-content/uploads/sites/9/2020/04/aquarius-characteristics1.png-0,301,Moved Permanently,Thread Group 1-1,,true,,349,183,1,1,http://www.astrology.com/wp-content/uploads/sites/9/2020/04/aquarius-characteristics1.png,76,0,29
+1671730114256,483,/wp-content/uploads/sites/9/2020/04/aquarius-characteristics1.png-1,200,OK,Thread Group 1-1,bin,true,,898365,183,1,1,https://www.astrology.com/wp-content/uploads/sites/9/2020/04/aquarius-characteristics1.png,305,0,91
+1671730114740,456,/horoscope/yearly-work/aries.html,200,OK,Thread Group 1-1,text,true,,64324,302,1,1,https://www.astrology.com/horoscope/yearly-work/aries.html,69,0,28
+1671730114740,69,/horoscope/yearly-work/aries.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/yearly-work/aries.html,69,0,28
+1671730114809,387,/horoscope/yearly-work/aries.html-1,200,OK,Thread Group 1-1,text,true,,64007,151,1,1,https://www.astrology.com/horoscope/yearly-work/aries.html,356,0,94
+1671730115196,401,/astrology-101/planets/uranus,200,OK,Thread Group 1-1,text,true,,71437,427,1,1,https://www.astrology.com/planets/uranus,71,0,29
+1671730115196,71,/astrology-101/planets/uranus-0,301,Moved Permanently,Thread Group 1-1,,true,,313,147,1,1,http://www.astrology.com/astrology-101/planets/uranus,71,0,29
+1671730115267,179,/astrology-101/planets/uranus-1,301,Moved Permanently,Thread Group 1-1,text,true,,654,147,1,1,https://www.astrology.com/astrology-101/planets/uranus,179,0,91
+1671730115446,151,/astrology-101/planets/uranus-2,200,OK,Thread Group 1-1,text,true,,70470,133,1,1,https://www.astrology.com/planets/uranus,120,0,0
+1671730115598,273,/img/houses/thumbnail-eleventh-house.jpg,200,OK,Thread Group 1-1,bin,true,,13752,316,1,1,https://www.astrology.com/img/houses/thumbnail-eleventh-house.jpg,63,0,29
+1671730115598,63,/img/houses/thumbnail-eleventh-house.jpg-0,301,Moved Permanently,Thread Group 1-1,,true,,324,158,1,1,http://www.astrology.com/img/houses/thumbnail-eleventh-house.jpg,63,0,29
+1671730115661,210,/img/houses/thumbnail-eleventh-house.jpg-1,200,OK,Thread Group 1-1,bin,true,,13428,158,1,1,https://www.astrology.com/img/houses/thumbnail-eleventh-house.jpg,209,0,97
+1671730115872,395,/us/horoscope/index-monthly-dating.aspx,200,OK,Thread Group 1-1,text,true,,71315,314,1,1,https://www.astrology.com/us/horoscope/index-monthly-dating.aspx,87,0,29
+1671730115872,87,/us/horoscope/index-monthly-dating.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/us/horoscope/index-monthly-dating.aspx,87,0,29
+1671730115960,307,/us/horoscope/index-monthly-dating.aspx-1,200,OK,Thread Group 1-1,text,true,,70992,157,1,1,https://www.astrology.com/us/horoscope/index-monthly-dating.aspx,275,0,95
+1671730116268,343,/rising-sign-calculator/aquarius,200,OK,Thread Group 1-1,text,true,,67437,300,1,1,https://www.astrology.com/rising-sign-calculator/aquarius,83,0,27
+1671730116268,83,/rising-sign-calculator/aquarius-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/rising-sign-calculator/aquarius,83,0,27
+1671730116351,260,/rising-sign-calculator/aquarius-1,200,OK,Thread Group 1-1,text,true,,67121,150,1,1,https://www.astrology.com/rising-sign-calculator/aquarius,230,0,98
+1671730116612,344,/us/horoscope/index-monthly.aspx,200,OK,Thread Group 1-1,text,true,,69871,300,1,1,https://www.astrology.com/us/horoscope/index-monthly.aspx,90,0,28
+1671730116612,90,/us/horoscope/index-monthly.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/us/horoscope/index-monthly.aspx,90,0,28
+1671730116702,254,/us/horoscope/index-monthly.aspx-1,200,OK,Thread Group 1-1,text,true,,69555,150,1,1,https://www.astrology.com/us/horoscope/index-monthly.aspx,222,0,89
+1671730116957,335,/horoscope/yearly-love/scorpio.html,200,OK,Thread Group 1-1,text,true,,64085,306,1,1,https://www.astrology.com/horoscope/yearly-love/scorpio.html,67,0,28
+1671730116957,67,/horoscope/yearly-love/scorpio.html-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/horoscope/yearly-love/scorpio.html,67,0,28
+1671730117025,267,/horoscope/yearly-love/scorpio.html-1,200,OK,Thread Group 1-1,text,true,,63766,153,1,1,https://www.astrology.com/horoscope/yearly-love/scorpio.html,235,0,96
+1671730117292,346,/horoscope/weekly-overview/aquarius.html,200,OK,Thread Group 1-1,text,true,,70617,316,1,1,https://www.astrology.com/horoscope/weekly-overview/aquarius.html,84,0,29
+1671730117292,84,/horoscope/weekly-overview/aquarius.html-0,301,Moved Permanently,Thread Group 1-1,,true,,324,158,1,1,http://www.astrology.com/horoscope/weekly-overview/aquarius.html,84,0,29
+1671730117376,262,/horoscope/weekly-overview/aquarius.html-1,200,OK,Thread Group 1-1,text,true,,70293,158,1,1,https://www.astrology.com/horoscope/weekly-overview/aquarius.html,229,0,98
+1671730117638,345,/us/horoscope/index-yearly-chinese-2023.aspx,200,OK,Thread Group 1-1,text,true,,64816,324,1,1,https://www.astrology.com/us/horoscope/index-yearly-chinese-2023.aspx,76,0,28
+1671730117638,76,/us/horoscope/index-yearly-chinese-2023.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,328,162,1,1,http://www.astrology.com/us/horoscope/index-yearly-chinese-2023.aspx,76,0,28
+1671730117714,269,/us/horoscope/index-yearly-chinese-2023.aspx-1,200,OK,Thread Group 1-1,text,true,,64488,162,1,1,https://www.astrology.com/us/horoscope/index-yearly-chinese-2023.aspx,238,0,92
+1671730117984,368,/horoscope/weekly-work/scorpio.html,200,OK,Thread Group 1-1,text,true,,64939,306,1,1,https://www.astrology.com/horoscope/weekly-work/scorpio.html,69,0,28
+1671730117984,69,/horoscope/weekly-work/scorpio.html-0,301,Moved Permanently,Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/horoscope/weekly-work/scorpio.html,69,0,28
+1671730118053,299,/horoscope/weekly-work/scorpio.html-1,200,OK,Thread Group 1-1,text,true,,64620,153,1,1,https://www.astrology.com/horoscope/weekly-work/scorpio.html,269,0,91
+1671730118353,323,/horoscope/weekly-dating/taurus.html,200,OK,Thread Group 1-1,text,true,,63762,308,1,1,https://www.astrology.com/horoscope/weekly-dating/taurus.html,70,0,28
+1671730118353,70,/horoscope/weekly-dating/taurus.html-0,301,Moved Permanently,Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/horoscope/weekly-dating/taurus.html,70,0,28
+1671730118423,253,/horoscope/weekly-dating/taurus.html-1,200,OK,Thread Group 1-1,text,true,,63442,154,1,1,https://www.astrology.com/horoscope/weekly-dating/taurus.html,222,0,108
+1671730118677,369,/us/horoscope/index-weekly.aspx,200,OK,Thread Group 1-1,text,true,,67394,298,1,1,https://www.astrology.com/us/horoscope/index-weekly.aspx,133,0,29
+1671730118677,133,/us/horoscope/index-weekly.aspx-0,301,Moved Permanently,Thread Group 1-1,,true,,315,149,1,1,http://www.astrology.com/us/horoscope/index-weekly.aspx,133,0,29
+1671730118810,236,/us/horoscope/index-weekly.aspx-1,200,OK,Thread Group 1-1,text,true,,67079,149,1,1,https://www.astrology.com/us/horoscope/index-weekly.aspx,203,0,102
+1671730119047,323,/planets/venus,200,OK,Thread Group 1-1,text,true,,70661,264,1,1,https://www.astrology.com/planets/venus,80,0,27
+1671730119047,80,/planets/venus-0,301,Moved Permanently,Thread Group 1-1,,true,,298,132,1,1,http://www.astrology.com/planets/venus,80,0,27
+1671730119127,243,/planets/venus-1,200,OK,Thread Group 1-1,text,true,,70363,132,1,1,https://www.astrology.com/planets/venus,210,0,90
+1671730119370,296,/tarot/card-meanings/the-devil,200,OK,Thread Group 1-1,text,true,,76946,296,1,1,https://www.astrology.com/tarot/card-meanings/the-devil,72,0,29
+1671730119370,72,/tarot/card-meanings/the-devil-0,301,Moved Permanently,Thread Group 1-1,,true,,314,148,1,1,http://www.astrology.com/tarot/card-meanings/the-devil,72,0,29
+1671730119442,224,/tarot/card-meanings/the-devil-1,200,OK,Thread Group 1-1,text,true,,76632,148,1,1,https://www.astrology.com/tarot/card-meanings/the-devil,191,0,91
+1671730119667,295,/horoscope/daily-love/pisces.html,200,OK,Thread Group 1-1,text,true,,67033,302,1,1,https://www.astrology.com/horoscope/daily-love/pisces.html,66,0,27
+1671730119667,66,/horoscope/daily-love/pisces.html-0,301,Moved Permanently,Thread Group 1-1,,true,,317,151,1,1,http://www.astrology.com/horoscope/daily-love/pisces.html,66,0,27
+1671730119733,229,/horoscope/daily-love/pisces.html-1,200,OK,Thread Group 1-1,text,true,,66716,151,1,1,https://www.astrology.com/horoscope/daily-love/pisces.html,196,0,94
+1671730119962,310,/houses/twelfth-house,200,OK,Thread Group 1-1,text,true,,72486,278,1,1,https://www.astrology.com/houses/twelfth-house,81,0,28
+1671730119962,81,/houses/twelfth-house-0,301,Moved Permanently,Thread Group 1-1,,true,,305,139,1,1,http://www.astrology.com/houses/twelfth-house,81,0,28
+1671730120044,228,/houses/twelfth-house-1,200,OK,Thread Group 1-1,text,true,,72181,139,1,1,https://www.astrology.com/houses/twelfth-house,195,0,96
+1671730120273,332,/article/december-2022-astrology-forecast-2/,200,OK,Thread Group 1-1,text,true,,76724,324,1,1,https://www.astrology.com/article/december-2022-astrology-forecast-2/,63,0,29
+1671730120273,63,/article/december-2022-astrology-forecast-2/-0,301,Moved Permanently,Thread Group 1-1,,true,,328,162,1,1,http://www.astrology.com/article/december-2022-astrology-forecast-2/,63,0,29
+1671730120336,269,/article/december-2022-astrology-forecast-2/-1,200,OK,Thread Group 1-1,text,true,,76396,162,1,1,https://www.astrology.com/article/december-2022-astrology-forecast-2/,236,0,94
+1671730120606,308,/tarot/card-meanings/the-empress,200,OK,Thread Group 1-1,text,true,,77150,300,1,1,https://www.astrology.com/tarot/card-meanings/the-empress,75,0,28
+1671730120606,75,/tarot/card-meanings/the-empress-0,301,Moved Permanently,Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/tarot/card-meanings/the-empress,75,0,28
+1671730120681,233,/tarot/card-meanings/the-empress-1,200,OK,Thread Group 1-1,text,true,,76834,150,1,1,https://www.astrology.com/tarot/card-meanings/the-empress,193,0,90
+1671730120915,290,/horoscope/monthly-overview/aquarius.html,200,OK,Thread Group 1-1,text,true,,70788,318,1,1,https://www.astrology.com/horoscope/monthly-overview/aquarius.html,63,0,27
+1671730120915,63,/horoscope/monthly-overview/aquarius.ht
