@@ -42,7 +42,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="BASE_URL" elementType="Argument">
               <stringProp name="Argument.name">BASE_URL</stringProp>
-              <stringProp name="Argument.value">new.astrology.com</stringProp>
+              <stringProp name="Argument.value">www.astrology.com</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="TEST_URL" elementType="Argument">

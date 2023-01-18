@@ -1,0 +1,1587 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1674058705807,7093,https://www.astrology.com/tarot/daily.html,200,OK,Tarot Reading and results 1-1,text,false,"The operation lasted too long: It took 7,093 milliseconds, but should not have lasted longer than 4,000 milliseconds.",129386,626,1,1,https://new.astrology.com/tarot/daily.html,6951,0,499
+1674058712908,250,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,200,OK,Tarot Reading and results 1-1,bin,true,,60923,586,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,247,0,0
+1674058713159,139,https://www.astrology.com/img/logo-white.svg,200,OK,Tarot Reading and results 1-1,text,true,,4114,562,1,1,https://new.astrology.com/img/logo-white.svg,139,0,0
+1674058713299,152,https://www.astrology.com/img/tarot/card-daily-tarot.svg,200,OK,Tarot Reading and results 1-1,text,true,,17580,574,1,1,https://new.astrology.com/img/tarot/card-daily-tarot.svg,151,0,0
+1674058713451,152,https://www.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,200,OK,Tarot Reading and results 1-1,text,true,,1960,584,1,1,https://new.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,152,0,0
+1674058713604,256,https://www.astrology.com/img/backgrounds/bg-hearts.svg,200,OK,Tarot Reading and results 1-1,text,true,,3604,573,1,1,https://new.astrology.com/img/backgrounds/bg-hearts.svg,256,0,0
+1674058713861,271,https://www.astrology.com/img/icons/icon-plus.svg,200,OK,Tarot Reading and results 1-1,text,true,,1309,567,1,1,https://new.astrology.com/img/icons/icon-plus.svg,271,0,0
+1674058714133,151,https://www.astrology.com/img/backgrounds/bg-large-circles.svg,200,OK,Tarot Reading and results 1-1,text,true,,1577,580,1,1,https://new.astrology.com/img/backgrounds/bg-large-circles.svg,151,0,0
+1674058714285,151,https://www.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,200,OK,Tarot Reading and results 1-1,text,true,,1967,587,1,1,https://new.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,151,0,0
+1674058714437,150,https://www.astrology.com/img/tarot/card-yes-no-tarot.svg,200,OK,Tarot Reading and results 1-1,text,true,,14362,575,1,1,https://new.astrology.com/img/tarot/card-yes-no-tarot.svg,150,0,0
+1674058714588,180,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,200,OK,Tarot Reading and results 1-1,bin,true,,81958,585,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,178,0,0
+1674058714769,68,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,465,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058714837,552,https://www.astrology.com/img/tarot/results/tarot-reading-result-15.svg,200,OK,Tarot Reading and results 1-1,text,true,,45142,589,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-15.svg,456,0,0
+1674058715390,161,https://www.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,200,OK,Tarot Reading and results 1-1,bin,true,,9298,591,1,1,https://new.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,161,0,0
+1674058715552,148,https://www.astrology.com/img/icons/icon-keen-lotus.png,200,OK,Tarot Reading and results 1-1,bin,true,,976,573,1,1,https://new.astrology.com/img/icons/icon-keen-lotus.png,148,0,0
+1674058749581,752,https://www.astrology.com/tarot.html,200,OK,Tarot Reading and results 1-1,text,true,,127549,679,1,1,https://new.astrology.com/tarot.html,606,0,0
+1674058750334,74,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,672,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058750409,77,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058750487,188,https://www.astrology.com/img/icons/icon-tarot-daily.svg,200,OK,Tarot Reading and results 1-1,text,true,,4666,574,1,1,https://new.astrology.com/img/icons/icon-tarot-daily.svg,188,0,0
+1674058750676,143,https://www.astrology.com/img/icons/icon-tarot-daily-love.svg,200,OK,Tarot Reading and results 1-1,text,true,,3582,579,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-love.svg,143,0,0
+1674058750820,141,https://www.astrology.com/img/icons/icon-tarot-daily-career.svg,200,OK,Tarot Reading and results 1-1,text,true,,3136,581,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-career.svg,141,0,0
+1674058750962,144,https://www.astrology.com/img/icons/icon-tarot-yes-no.svg,200,OK,Tarot Reading and results 1-1,text,true,,2460,575,1,1,https://new.astrology.com/img/icons/icon-tarot-yes-no.svg,144,0,0
+1674058751107,148,https://www.astrology.com/img/icons/icon-tarot-love-potential.svg,200,OK,Tarot Reading and results 1-1,text,true,,4089,583,1,1,https://new.astrology.com/img/icons/icon-tarot-love-potential.svg,148,0,0
+1674058751256,159,https://www.astrology.com/img/icons/icon-tarot-yin-yang.svg,200,OK,Tarot Reading and results 1-1,text,true,,4124,577,1,1,https://new.astrology.com/img/icons/icon-tarot-yin-yang.svg,159,0,0
+1674058751415,259,https://www.astrology.com/img/icons/icon-tarot-breakup.svg,200,OK,Tarot Reading and results 1-1,text,true,,2350,576,1,1,https://new.astrology.com/img/icons/icon-tarot-breakup.svg,259,0,0
+1674058751674,148,https://www.astrology.com/img/icons/icon-tarot-daily-flirt.svg,200,OK,Tarot Reading and results 1-1,text,true,,3293,580,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-flirt.svg,148,0,0
+1674058751823,165,https://www.astrology.com/img/tarot/tarot-how-to-read.jpg,200,OK,Tarot Reading and results 1-1,bin,true,,26584,575,1,1,https://new.astrology.com/img/tarot/tarot-how-to-read.jpg,164,0,0
+1674058751988,152,https://www.astrology.com/img/tarot/tarot-meaning.jpg,200,OK,Tarot Reading and results 1-1,bin,true,,32766,571,1,1,https://new.astrology.com/img/tarot/tarot-meaning.jpg,151,0,0
+1674058752141,255,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,610,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,254,0,0
+1674058752397,226,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,611,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,225,0,0
+1674058752623,199,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,622,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,199,0,0
+1674058752823,263,https://www.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,200,OK,Tarot Reading and results 1-1,bin,true,,7981,588,1,1,https://new.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,263,0,0
+1674058753086,75,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,623,671,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,0,0,0
+1674058753162,62,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058753225,198,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,610,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,198,0,0
+1674058753424,159,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,611,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,158,0,0
+1674058753584,196,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,622,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,195,0,0
+1674058753780,151,https://www.astrology.com/img/favicon.ico,200,OK,Tarot Reading and results 1-1,bin,true,,7925,559,1,1,https://new.astrology.com/img/favicon.ico,151,0,0
+1674058758417,6036,https://www.astrology.com/tarot/daily-love.html,200,OK,Tarot Reading and results 1-1,text,false,"The operation lasted too long: It took 6,036 milliseconds, but should not have lasted longer than 4,000 milliseconds.",125967,690,1,1,https://new.astrology.com/tarot/daily-love.html,5891,0,0
+1674058764454,68,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,672,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058764522,64,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058764587,155,https://www.astrology.com/img/tarot/card-daily-love-tarot.svg,200,OK,Tarot Reading and results 1-1,text,true,,16079,579,1,1,https://new.astrology.com/img/tarot/card-daily-love-tarot.svg,155,0,0
+1674058764743,65,https://www.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,670,1,1,https://new.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,0,0,0
+1674058764809,64,https://www.astrology.com/img/backgrounds/bg-hearts.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,659,1,1,https://new.astrology.com/img/backgrounds/bg-hearts.svg,0,0,0
+1674058764874,69,https://www.astrology.com/img/icons/icon-plus.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,653,1,1,https://new.astrology.com/img/icons/icon-plus.svg,0,0,0
+1674058764944,65,https://www.astrology.com/img/backgrounds/bg-large-circles.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,666,1,1,https://new.astrology.com/img/backgrounds/bg-large-circles.svg,0,0,0
+1674058765010,74,https://www.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,673,1,1,https://new.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,0,0,0
+1674058765085,64,https://www.astrology.com/img/tarot/card-yes-no-tarot.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,465,660,1,1,https://new.astrology.com/img/tarot/card-yes-no-tarot.svg,0,0,0
+1674058765150,63,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,623,671,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,0,0,0
+1674058765214,67,https://www.astrology.com/img/favicon.ico,304,Not Modified,Tarot Reading and results 1-1,,true,,465,644,1,1,https://new.astrology.com/img/favicon.ico,0,0,0
+1674058768789,1553,https://www.astrology.com/tarot/daily-love.html,200,OK,Tarot Reading and results 1-1,text,true,,131158,787,1,1,https://new.astrology.com/tarot/daily-love.html,1405,0,216
+1674058770343,70,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,672,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058770414,65,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058770480,150,https://www.astrology.com/img/tarot/results/tarot-reading-result-1.svg,200,OK,Tarot Reading and results 1-1,text,true,,21124,588,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-1.svg,150,0,0
+1674058770630,66,https://www.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,304,Not Modified,Tarot Reading and results 1-1,,true,,466,677,1,1,https://new.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,0,0,0
+1674058770696,70,https://www.astrology.com/img/icons/icon-keen-lotus.png,304,Not Modified,Tarot Reading and results 1-1,,true,,605,659,1,1,https://new.astrology.com/img/icons/icon-keen-lotus.png,0,0,0
+1674058782726,281,https://www.astrology.com/tarot.html,200,OK,Tarot Reading and results 1-1,text,true,,127546,679,1,1,https://new.astrology.com/tarot.html,277,0,0
+1674058783007,67,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,672,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058783074,66,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058783140,63,https://www.astrology.com/img/icons/icon-tarot-daily.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,660,1,1,https://new.astrology.com/img/icons/icon-tarot-daily.svg,0,0,0
+1674058783203,66,https://www.astrology.com/img/icons/icon-tarot-daily-love.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,665,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-love.svg,0,0,0
+1674058783270,70,https://www.astrology.com/img/icons/icon-tarot-daily-career.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,667,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-career.svg,0,0,0
+1674058783340,65,https://www.astrology.com/img/icons/icon-tarot-yes-no.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,661,1,1,https://new.astrology.com/img/icons/icon-tarot-yes-no.svg,0,0,0
+1674058783405,92,https://www.astrology.com/img/icons/icon-tarot-love-potential.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,669,1,1,https://new.astrology.com/img/icons/icon-tarot-love-potential.svg,0,0,0
+1674058783498,67,https://www.astrology.com/img/icons/icon-tarot-breakup.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,662,1,1,https://new.astrology.com/img/icons/icon-tarot-breakup.svg,0,0,0
+1674058783565,79,https://www.astrology.com/img/icons/icon-tarot-daily-flirt.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,666,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-flirt.svg,0,0,0
+1674058783645,81,https://www.astrology.com/img/icons/icon-tarot-yin-yang.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,663,1,1,https://new.astrology.com/img/icons/icon-tarot-yin-yang.svg,0,0,0
+1674058783726,63,https://www.astrology.com/img/tarot/tarot-how-to-read.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,618,660,1,1,https://new.astrology.com/img/tarot/tarot-how-to-read.jpg,0,0,0
+1674058783790,70,https://www.astrology.com/img/tarot/tarot-meaning.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,549,656,1,1,https://new.astrology.com/img/tarot/tarot-meaning.jpg,0,0,0
+1674058783861,188,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,610,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,186,0,0
+1674058784050,200,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,611,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,199,0,0
+1674058784250,198,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,622,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,197,0,0
+1674058784466,68,https://www.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,674,1,1,https://new.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,0,0,0
+1674058784534,66,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,623,671,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,0,0,0
+1674058784601,66,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058784667,190,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,610,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,189,0,0
+1674058784858,186,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,611,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,185,0,0
+1674058785044,514,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,622,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,416,0,0
+1674058785558,76,https://www.astrology.com/img/favicon.ico,304,Not Modified,Tarot Reading and results 1-1,,true,,465,644,1,1,https://new.astrology.com/img/favicon.ico,0,0,0
+1674058787279,617,https://www.astrology.com/tarot/daily-career.html,200,OK,Tarot Reading and results 1-1,text,true,,125472,692,1,1,https://new.astrology.com/tarot/daily-career.html,471,0,0
+1674058787897,65,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,672,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058787962,65,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058788028,145,https://www.astrology.com/img/tarot/card-daily-career-tarot.svg,200,OK,Tarot Reading and results 1-1,text,true,,16730,581,1,1,https://new.astrology.com/img/tarot/card-daily-career-tarot.svg,145,0,0
+1674058788174,64,https://www.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,670,1,1,https://new.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,0,0,0
+1674058788238,64,https://www.astrology.com/img/backgrounds/bg-hearts.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,659,1,1,https://new.astrology.com/img/backgrounds/bg-hearts.svg,0,0,0
+1674058788303,68,https://www.astrology.com/img/icons/icon-plus.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,653,1,1,https://new.astrology.com/img/icons/icon-plus.svg,0,0,0
+1674058788371,78,https://www.astrology.com/img/backgrounds/bg-large-circles.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,666,1,1,https://new.astrology.com/img/backgrounds/bg-large-circles.svg,0,0,0
+1674058788450,65,https://www.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,673,1,1,https://new.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,0,0,0
+1674058788516,65,https://www.astrology.com/img/tarot/card-yes-no-tarot.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,465,660,1,1,https://new.astrology.com/img/tarot/card-yes-no-tarot.svg,0,0,0
+1674058788581,71,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,623,671,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,0,0,0
+1674058788653,66,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058798157,734,https://www.astrology.com/tarot/daily-career.html,200,OK,Tarot Reading and results 1-1,text,true,,130540,790,1,1,https://new.astrology.com/tarot/daily-career.html,587,0,0
+1674058798892,66,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,672,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058798959,72,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058799032,248,https://www.astrology.com/img/tarot/results/tarot-reading-result-16.svg,200,OK,Tarot Reading and results 1-1,text,true,,21287,589,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-16.svg,247,0,0
+1674058799280,66,https://www.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,304,Not Modified,Tarot Reading and results 1-1,,true,,466,677,1,1,https://new.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,0,0,0
+1674058799347,67,https://www.astrology.com/img/icons/icon-keen-lotus.png,304,Not Modified,Tarot Reading and results 1-1,,true,,605,659,1,1,https://new.astrology.com/img/icons/icon-keen-lotus.png,0,0,0
+1674058814356,611,https://www.astrology.com/tarot.html,200,OK,Tarot Reading and results 1-1,text,true,,127546,679,1,1,https://new.astrology.com/tarot.html,463,0,0
+1674058814967,80,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,672,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058815048,66,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058815115,70,https://www.astrology.com/img/icons/icon-tarot-daily.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,660,1,1,https://new.astrology.com/img/icons/icon-tarot-daily.svg,0,0,0
+1674058815185,64,https://www.astrology.com/img/icons/icon-tarot-daily-love.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,665,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-love.svg,0,0,0
+1674058815250,70,https://www.astrology.com/img/icons/icon-tarot-daily-career.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,667,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-career.svg,0,0,0
+1674058815321,64,https://www.astrology.com/img/icons/icon-tarot-yes-no.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,661,1,1,https://new.astrology.com/img/icons/icon-tarot-yes-no.svg,0,0,0
+1674058815385,62,https://www.astrology.com/img/icons/icon-tarot-love-potential.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,669,1,1,https://new.astrology.com/img/icons/icon-tarot-love-potential.svg,0,0,0
+1674058815448,62,https://www.astrology.com/img/icons/icon-tarot-breakup.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,662,1,1,https://new.astrology.com/img/icons/icon-tarot-breakup.svg,0,0,0
+1674058815511,66,https://www.astrology.com/img/icons/icon-tarot-yin-yang.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,663,1,1,https://new.astrology.com/img/icons/icon-tarot-yin-yang.svg,0,0,0
+1674058815578,72,https://www.astrology.com/img/icons/icon-tarot-daily-flirt.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,666,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-flirt.svg,0,0,0
+1674058815650,64,https://www.astrology.com/img/tarot/tarot-how-to-read.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,618,660,1,1,https://new.astrology.com/img/tarot/tarot-how-to-read.jpg,0,0,0
+1674058815715,70,https://www.astrology.com/img/tarot/tarot-meaning.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,549,656,1,1,https://new.astrology.com/img/tarot/tarot-meaning.jpg,0,0,0
+1674058815785,201,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,610,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,200,0,0
+1674058815987,206,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,611,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,206,0,0
+1674058816194,591,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47437,622,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,492,0,0
+1674058816786,62,https://www.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,674,1,1,https://new.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,0,0,0
+1674058816849,78,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,671,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,0,0,0
+1674058816928,72,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,648,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058817000,195,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,610,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,194,0,0
+1674058817196,153,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,611,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,152,0,0
+1674058817349,202,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,622,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,201,0,0
+1674058817551,68,https://www.astrology.com/img/favicon.ico,304,Not Modified,Tarot Reading and results 1-1,,true,,465,644,1,1,https://new.astrology.com/img/favicon.ico,0,0,0
+1674058822766,334,https://www.astrology.com/tarot/yes-no.html,200,OK,Tarot Reading and results 1-1,text,true,,125350,686,1,1,https://new.astrology.com/tarot/yes-no.html,284,0,0
+1674058823100,67,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,673,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058823168,66,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,649,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058823235,67,https://www.astrology.com/img/tarot/card-yes-no-tarot.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,661,1,1,https://new.astrology.com/img/tarot/card-yes-no-tarot.svg,0,0,0
+1674058823303,65,https://www.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,671,1,1,https://new.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,0,0,0
+1674058823368,76,https://www.astrology.com/img/backgrounds/bg-hearts.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,660,1,1,https://new.astrology.com/img/backgrounds/bg-hearts.svg,0,0,0
+1674058823444,69,https://www.astrology.com/img/icons/icon-plus.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,654,1,1,https://new.astrology.com/img/icons/icon-plus.svg,0,0,0
+1674058823513,81,https://www.astrology.com/img/backgrounds/bg-large-circles.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,667,1,1,https://new.astrology.com/img/backgrounds/bg-large-circles.svg,0,0,0
+1674058823595,71,https://www.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,674,1,1,https://new.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,0,0,0
+1674058823666,97,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,672,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,0,0,0
+1674058823763,71,https://www.astrology.com/img/favicon.ico,304,Not Modified,Tarot Reading and results 1-1,,true,,465,645,1,1,https://new.astrology.com/img/favicon.ico,0,0,0
+1674058824198,539,https://www.astrology.com/tarot/yes-no.html,200,OK,Tarot Reading and results 1-1,text,true,,130513,785,1,1,https://new.astrology.com/tarot/yes-no.html,393,0,0
+1674058824738,63,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,673,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058824801,64,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,649,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058824865,137,https://www.astrology.com/img/tarot/results/tarot-reading-result-17.svg,200,OK,Tarot Reading and results 1-1,text,true,,10834,590,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-17.svg,137,0,0
+1674058825003,61,https://www.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,304,Not Modified,Tarot Reading and results 1-1,,true,,467,678,1,1,https://new.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,0,0,0
+1674058825064,63,https://www.astrology.com/img/icons/icon-keen-lotus.png,304,Not Modified,Tarot Reading and results 1-1,,true,,606,660,1,1,https://new.astrology.com/img/icons/icon-keen-lotus.png,0,0,0
+1674058833841,1047,https://www.astrology.com/tarot.html,200,OK,Tarot Reading and results 1-1,text,true,,127546,680,1,1,https://new.astrology.com/tarot.html,898,0,210
+1674058834891,64,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,673,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058834955,82,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,649,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058835038,70,https://www.astrology.com/img/icons/icon-tarot-daily.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,661,1,1,https://new.astrology.com/img/icons/icon-tarot-daily.svg,0,0,0
+1674058835108,65,https://www.astrology.com/img/icons/icon-tarot-daily-love.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,666,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-love.svg,0,0,0
+1674058835173,66,https://www.astrology.com/img/icons/icon-tarot-daily-career.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,668,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-career.svg,0,0,0
+1674058835240,62,https://www.astrology.com/img/icons/icon-tarot-yes-no.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,662,1,1,https://new.astrology.com/img/icons/icon-tarot-yes-no.svg,0,0,0
+1674058835303,71,https://www.astrology.com/img/icons/icon-tarot-love-potential.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,670,1,1,https://new.astrology.com/img/icons/icon-tarot-love-potential.svg,0,0,0
+1674058835375,80,https://www.astrology.com/img/icons/icon-tarot-breakup.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,663,1,1,https://new.astrology.com/img/icons/icon-tarot-breakup.svg,0,0,0
+1674058835455,68,https://www.astrology.com/img/icons/icon-tarot-yin-yang.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,664,1,1,https://new.astrology.com/img/icons/icon-tarot-yin-yang.svg,0,0,0
+1674058835524,84,https://www.astrology.com/img/icons/icon-tarot-daily-flirt.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,667,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-flirt.svg,0,0,0
+1674058835608,64,https://www.astrology.com/img/tarot/tarot-how-to-read.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,618,661,1,1,https://new.astrology.com/img/tarot/tarot-how-to-read.jpg,0,0,0
+1674058835672,67,https://www.astrology.com/img/tarot/tarot-meaning.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,549,657,1,1,https://new.astrology.com/img/tarot/tarot-meaning.jpg,0,0,0
+1674058835739,158,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,611,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,157,0,0
+1674058835898,190,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,612,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,190,0,0
+1674058836089,152,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,623,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,151,0,0
+1674058836241,66,https://www.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,675,1,1,https://new.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,0,0,0
+1674058836307,63,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,672,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,0,0,0
+1674058836371,69,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,649,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058841374,621,https://www.astrology.com/tarot/love-potential.html,200,OK,Tarot Reading and results 1-1,text,true,,126095,695,1,1,https://new.astrology.com/tarot/love-potential.html,473,0,0
+1674058841996,67,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,673,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058842063,77,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,649,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058842141,154,https://www.astrology.com/img/tarot/card-love-potential-tarot.svg,200,OK,Tarot Reading and results 1-1,text,true,,16518,584,1,1,https://new.astrology.com/img/tarot/card-love-potential-tarot.svg,154,0,0
+1674058842295,63,https://www.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,671,1,1,https://new.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,0,0,0
+1674058842359,64,https://www.astrology.com/img/backgrounds/bg-hearts.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,660,1,1,https://new.astrology.com/img/backgrounds/bg-hearts.svg,0,0,0
+1674058842423,68,https://www.astrology.com/img/icons/icon-plus.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,654,1,1,https://new.astrology.com/img/icons/icon-plus.svg,0,0,0
+1674058842491,62,https://www.astrology.com/img/backgrounds/bg-large-circles.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,667,1,1,https://new.astrology.com/img/backgrounds/bg-large-circles.svg,0,0,0
+1674058842554,62,https://www.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,674,1,1,https://new.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,0,0,0
+1674058842617,74,https://www.astrology.com/img/tarot/card-yes-no-tarot.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,661,1,1,https://new.astrology.com/img/tarot/card-yes-no-tarot.svg,0,0,0
+1674058842693,63,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,672,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,0,0,0
+1674058842757,63,https://www.astrology.com/img/favicon.ico,304,Not Modified,Tarot Reading and results 1-1,,true,,465,645,1,1,https://new.astrology.com/img/favicon.ico,0,0,0
+1674058846957,549,https://www.astrology.com/tarot/love-potential.html,200,OK,Tarot Reading and results 1-1,text,true,,131314,793,1,1,https://new.astrology.com/tarot/love-potential.html,403,0,0
+1674058847507,85,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,673,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058847592,65,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,649,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058847658,63,https://www.astrology.com/img/tarot/results/tarot-reading-result-17.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,465,675,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-17.svg,0,0,0
+1674058847721,70,https://www.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,304,Not Modified,Tarot Reading and results 1-1,,true,,467,678,1,1,https://new.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,0,0,0
+1674058847791,65,https://www.astrology.com/img/icons/icon-keen-lotus.png,304,Not Modified,Tarot Reading and results 1-1,,true,,606,660,1,1,https://new.astrology.com/img/icons/icon-keen-lotus.png,0,0,0
+1674058858111,685,https://www.astrology.com/tarot.html,200,OK,Tarot Reading and results 1-1,text,true,,127550,680,1,1,https://new.astrology.com/tarot.html,534,0,0
+1674058858796,66,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,673,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058858862,64,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,649,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058858926,69,https://www.astrology.com/img/icons/icon-tarot-daily.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,661,1,1,https://new.astrology.com/img/icons/icon-tarot-daily.svg,0,0,0
+1674058858996,66,https://www.astrology.com/img/icons/icon-tarot-daily-love.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,666,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-love.svg,0,0,0
+1674058859063,82,https://www.astrology.com/img/icons/icon-tarot-daily-career.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,668,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-career.svg,0,0,0
+1674058859145,65,https://www.astrology.com/img/icons/icon-tarot-yes-no.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,662,1,1,https://new.astrology.com/img/icons/icon-tarot-yes-no.svg,0,0,0
+1674058859211,84,https://www.astrology.com/img/icons/icon-tarot-love-potential.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,670,1,1,https://new.astrology.com/img/icons/icon-tarot-love-potential.svg,0,0,0
+1674058859295,62,https://www.astrology.com/img/icons/icon-tarot-daily-flirt.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,667,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-flirt.svg,0,0,0
+1674058859358,64,https://www.astrology.com/img/icons/icon-tarot-breakup.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,663,1,1,https://new.astrology.com/img/icons/icon-tarot-breakup.svg,0,0,0
+1674058859422,73,https://www.astrology.com/img/icons/icon-tarot-yin-yang.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,664,1,1,https://new.astrology.com/img/icons/icon-tarot-yin-yang.svg,0,0,0
+1674058859496,68,https://www.astrology.com/img/tarot/tarot-how-to-read.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,619,661,1,1,https://new.astrology.com/img/tarot/tarot-how-to-read.jpg,0,0,0
+1674058859565,62,https://www.astrology.com/img/tarot/tarot-meaning.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,550,657,1,1,https://new.astrology.com/img/tarot/tarot-meaning.jpg,0,0,0
+1674058859627,219,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,611,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,219,0,0
+1674058859847,598,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47437,612,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,499,0,0
+1674058860447,199,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,623,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,198,0,0
+1674058860647,67,https://www.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,626,675,1,1,https://new.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,0,0,0
+1674058860714,81,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,672,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,0,0,0
+1674058860796,67,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,649,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058860863,183,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,611,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,182,0,0
+1674058861046,200,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,612,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,199,0,0
+1674058861246,200,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",47438,623,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,199,0,0
+1674058861446,99,https://www.astrology.com/img/favicon.ico,304,Not Modified,Tarot Reading and results 1-1,,true,,466,645,1,1,https://new.astrology.com/img/favicon.ico,0,0,0
+1674058865116,282,https://www.astrology.com/tarot/breakup.html,200,OK,Tarot Reading and results 1-1,text,true,,126313,688,1,1,https://new.astrology.com/tarot/breakup.html,280,0,0
+1674058865399,64,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,674,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058865464,64,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,650,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058865545,150,https://www.astrology.com/img/tarot/results/tarot-reading-result-9.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",483,590,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-9.svg,150,0,0
+1674058865695,158,https://www.astrology.com/img/tarot/results/tarot-reading-result-2.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,590,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-2.svg,158,0,0
+1674058865854,191,https://www.astrology.com/img/tarot/card-breakup-tarot.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,578,1,1,https://new.astrology.com/img/tarot/card-breakup-tarot.svg,191,0,0
+1674058866045,63,https://www.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,672,1,1,https://new.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,0,0,0
+1674058866108,63,https://www.astrology.com/img/backgrounds/bg-hearts.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,661,1,1,https://new.astrology.com/img/backgrounds/bg-hearts.svg,0,0,0
+1674058866171,74,https://www.astrology.com/img/icons/icon-plus.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,655,1,1,https://new.astrology.com/img/icons/icon-plus.svg,0,0,0
+1674058866245,68,https://www.astrology.com/img/backgrounds/bg-large-circles.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,668,1,1,https://new.astrology.com/img/backgrounds/bg-large-circles.svg,0,0,0
+1674058866314,62,https://www.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,675,1,1,https://new.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,0,0,0
+1674058866376,69,https://www.astrology.com/img/tarot/card-yes-no-tarot.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,466,662,1,1,https://new.astrology.com/img/tarot/card-yes-no-tarot.svg,0,0,0
+1674058866445,62,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,624,673,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,0,0,0
+1674058866507,67,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,650,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058866575,70,https://www.astrology.com/img/favicon.ico,304,Not Modified,Tarot Reading and results 1-1,,true,,466,646,1,1,https://new.astrology.com/img/favicon.ico,0,0,0
+1674058866645,224,https://www.astrology.com/img/reports/love-tarot-reading.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,580,1,1,https://new.astrology.com/img/reports/love-tarot-reading.jpg,224,0,0
+1674058866870,257,https://www.astrology.com/img/reports/soulmate-tarot-reading.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,584,1,1,https://new.astrology.com/img/reports/soulmate-tarot-reading.jpg,257,0,0
+1674058867127,129,https://www.astrology.com/img/reports/tarot-angels.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,574,1,1,https://new.astrology.com/img/reports/tarot-angels.jpg,129,0,0
+1674058867256,139,https://www.astrology.com/img/reports/2022-yearly-tarot.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,579,1,1,https://new.astrology.com/img/reports/2022-yearly-tarot.jpg,139,0,0
+1674058871498,146,https://www.astrology.com/tarot/breakup.html,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",405,814,1,1,https://new.astrology.com/tarot/breakup.html,146,0,0
+1674058871644,72,https://www.astrology.com/img/reports/love-tarot-reading.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,580,1,1,https://new.astrology.com/img/reports/love-tarot-reading.jpg,72,0,0
+1674058871716,78,https://www.astrology.com/img/reports/2022-yearly-tarot.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,579,1,1,https://new.astrology.com/img/reports/2022-yearly-tarot.jpg,78,0,0
+1674058871795,71,https://www.astrology.com/img/reports/soulmate-tarot-reading.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,584,1,1,https://new.astrology.com/img/reports/soulmate-tarot-reading.jpg,71,0,0
+1674058871867,77,https://www.astrology.com/img/reports/tarot-angels.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,574,1,1,https://new.astrology.com/img/reports/tarot-angels.jpg,77,0,0
+1674058871944,63,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,304,Not Modified,Tarot Reading and results 1-1,,true,,625,674,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,0,0,0
+1674058872008,65,https://www.astrology.com/img/logo-white.svg,304,Not Modified,Tarot Reading and results 1-1,,true,,467,650,1,1,https://new.astrology.com/img/logo-white.svg,0,0,0
+1674058872074,70,https://www.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,304,Not Modified,Tarot Reading and results 1-1,,true,,467,679,1,1,https://new.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,0,0,0
+1674058872145,63,https://www.astrology.com/img/icons/icon-keen-lotus.png,304,Not Modified,Tarot Reading and results 1-1,,true,,606,661,1,1,https://new.astrology.com/img/icons/icon-keen-lotus.png,0,0,0
+1674058902095,458,https://www.astrology.com/tarot.html,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",405,681,1,1,https://new.astrology.com/tarot.html,458,0,230
+1674058902554,244,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,674,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,244,0,0
+1674058902799,146,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",483,650,1,1,https://new.astrology.com/img/logo-white.svg,146,0,0
+1674058902945,228,https://www.astrology.com/img/icons/icon-tarot-daily.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",483,662,1,1,https://new.astrology.com/img/icons/icon-tarot-daily.svg,228,0,0
+1674058903173,126,https://www.astrology.com/img/icons/icon-tarot-daily-love.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",483,667,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-love.svg,126,0,0
+1674058903300,145,https://www.astrology.com/img/icons/icon-tarot-daily-career.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",483,669,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-career.svg,145,0,0
+1674058903445,149,https://www.astrology.com/img/icons/icon-tarot-yes-no.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",483,663,1,1,https://new.astrology.com/img/icons/icon-tarot-yes-no.svg,149,0,0
+1674058903594,125,https://www.astrology.com/img/icons/icon-tarot-breakup.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",483,664,1,1,https://new.astrology.com/img/icons/icon-tarot-breakup.svg,125,0,0
+1674058903719,139,https://www.astrology.com/img/icons/icon-tarot-love-potential.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",483,671,1,1,https://new.astrology.com/img/icons/icon-tarot-love-potential.svg,139,0,0
+1674058903859,146,https://www.astrology.com/img/icons/icon-tarot-daily-flirt.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",483,668,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-flirt.svg,146,0,0
+1674058904005,139,https://www.astrology.com/img/icons/icon-tarot-yin-yang.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",483,665,1,1,https://new.astrology.com/img/icons/icon-tarot-yin-yang.svg,139,0,0
+1674058904144,250,https://www.astrology.com/img/tarot/tarot-how-to-read.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,662,1,1,https://new.astrology.com/img/tarot/tarot-how-to-read.jpg,250,0,0
+1674058904394,123,https://www.astrology.com/img/tarot/tarot-meaning.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,658,1,1,https://new.astrology.com/img/tarot/tarot-meaning.jpg,123,0,0
+1674058904517,143,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,612,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,143,0,0
+1674058904660,134,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,613,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,134,0,0
+1674058904794,233,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,624,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,233,0,0
+1674058905044,132,https://www.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,676,1,1,https://new.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,132,0,0
+1674058905177,242,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,673,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,242,0,0
+1674058905419,75,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,650,1,1,https://new.astrology.com/img/logo-white.svg,75,0,0
+1674058905494,76,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,612,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,76,0,0
+1674058905570,74,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,613,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,74,0,0
+1674058905645,66,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,624,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,66,0,0
+1674058905711,133,https://www.astrology.com/img/favicon.ico,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,646,1,1,https://new.astrology.com/img/favicon.ico,133,0,0
+1674058908795,150,https://www.astrology.com/tarot/daily-flirt.html,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",405,693,1,1,https://new.astrology.com/tarot/daily-flirt.html,150,0,0
+1674058908945,68,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,674,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,68,0,0
+1674058909013,82,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,650,1,1,https://new.astrology.com/img/logo-white.svg,82,0,0
+1674058909095,228,https://www.astrology.com/img/tarot/card-daily-flirt-tarot.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,582,1,1,https://new.astrology.com/img/tarot/card-daily-flirt-tarot.svg,228,0,0
+1674058909324,171,https://www.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,672,1,1,https://new.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,171,0,0
+1674058909495,169,https://www.astrology.com/img/backgrounds/bg-hearts.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,661,1,1,https://new.astrology.com/img/backgrounds/bg-hearts.svg,169,0,0
+1674058909665,134,https://www.astrology.com/img/icons/icon-plus.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,655,1,1,https://new.astrology.com/img/icons/icon-plus.svg,133,0,0
+1674058909799,119,https://www.astrology.com/img/backgrounds/bg-large-circles.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,668,1,1,https://new.astrology.com/img/backgrounds/bg-large-circles.svg,119,0,0
+1674058909918,243,https://www.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,675,1,1,https://new.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,243,0,0
+1674058910161,144,https://www.astrology.com/img/tarot/card-yes-no-tarot.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,662,1,1,https://new.astrology.com/img/tarot/card-yes-no-tarot.svg,144,0,0
+1674058910305,65,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,673,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,65,0,0
+1674058912845,250,https://www.astrology.com/tarot/daily-flirt.html,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",405,791,1,1,https://new.astrology.com/tarot/daily-flirt.html,250,0,0
+1674058913095,68,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,674,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,68,0,0
+1674058913163,82,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,650,1,1,https://new.astrology.com/img/logo-white.svg,82,0,0
+1674058913245,150,https://www.astrology.com/img/tarot/results/tarot-reading-result-15.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,676,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-15.svg,150,0,0
+1674058913395,150,https://www.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,679,1,1,https://new.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,150,0,0
+1674058913545,117,https://www.astrology.com/img/icons/icon-keen-lotus.png,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,661,1,1,https://new.astrology.com/img/icons/icon-keen-lotus.png,117,0,0
+1674058935546,146,https://www.astrology.com/tarot.html,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",405,681,1,1,https://new.astrology.com/tarot.html,146,0,0
+1674058935692,68,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,674,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,68,0,0
+1674058935760,82,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,650,1,1,https://new.astrology.com/img/logo-white.svg,82,0,0
+1674058935842,78,https://www.astrology.com/img/icons/icon-tarot-daily.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,662,1,1,https://new.astrology.com/img/icons/icon-tarot-daily.svg,77,0,0
+1674058935920,72,https://www.astrology.com/img/icons/icon-tarot-daily-love.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,667,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-love.svg,72,0,0
+1674058935992,75,https://www.astrology.com/img/icons/icon-tarot-daily-career.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,669,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-career.svg,75,0,0
+1674058936067,75,https://www.astrology.com/img/icons/icon-tarot-yes-no.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,663,1,1,https://new.astrology.com/img/icons/icon-tarot-yes-no.svg,75,0,0
+1674058936143,81,https://www.astrology.com/img/icons/icon-tarot-love-potential.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,671,1,1,https://new.astrology.com/img/icons/icon-tarot-love-potential.svg,81,0,0
+1674058936224,68,https://www.astrology.com/img/icons/icon-tarot-daily-flirt.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,668,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-flirt.svg,68,0,0
+1674058936292,65,https://www.astrology.com/img/icons/icon-tarot-yin-yang.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,665,1,1,https://new.astrology.com/img/icons/icon-tarot-yin-yang.svg,65,0,0
+1674058936358,69,https://www.astrology.com/img/icons/icon-tarot-breakup.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,664,1,1,https://new.astrology.com/img/icons/icon-tarot-breakup.svg,69,0,0
+1674058936427,69,https://www.astrology.com/img/tarot/tarot-how-to-read.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,662,1,1,https://new.astrology.com/img/tarot/tarot-how-to-read.jpg,69,0,0
+1674058936496,96,https://www.astrology.com/img/tarot/tarot-meaning.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,658,1,1,https://new.astrology.com/img/tarot/tarot-meaning.jpg,96,0,0
+1674058936592,202,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,612,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,202,0,0
+1674058936794,68,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,613,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,68,0,0
+1674058936862,80,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,624,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,80,0,0
+1674058936942,83,https://www.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,676,1,1,https://new.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,83,0,0
+1674058937026,68,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,673,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,68,0,0
+1674058937094,77,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,650,1,1,https://new.astrology.com/img/logo-white.svg,77,0,0
+1674058937172,70,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,612,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,70,0,0
+1674058937242,78,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,613,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,78,0,0
+1674058937320,80,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,624,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,80,0,0
+1674058937401,177,https://www.astrology.com/img/favicon.ico,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,646,1,1,https://new.astrology.com/img/favicon.ico,177,0,0
+1674058940491,126,https://www.astrology.com/us/tarot/tarot-yin-yang.aspx,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",405,699,1,1,https://new.astrology.com/us/tarot/tarot-yin-yang.aspx,126,0,0
+1674058940617,75,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,674,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,75,0,0
+1674058940692,150,https://www.astrology.com/img/tarot/results/tarot-reading-result-11.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,591,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-11.svg,150,0,0
+1674058940842,183,https://www.astrology.com/img/tarot/results/tarot-reading-result-4.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",483,590,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-4.svg,183,0,0
+1674058941026,75,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,650,1,1,https://new.astrology.com/img/logo-white.svg,75,0,0
+1674058941101,150,https://www.astrology.com/img/tarot/card-yin-yang-tarot.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,579,1,1,https://new.astrology.com/img/tarot/card-yin-yang-tarot.svg,150,0,0
+1674058941252,158,https://www.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,672,1,1,https://new.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,158,0,0
+1674058941411,66,https://www.astrology.com/img/backgrounds/bg-hearts.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,661,1,1,https://new.astrology.com/img/backgrounds/bg-hearts.svg,65,0,0
+1674058941477,70,https://www.astrology.com/img/icons/icon-plus.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,655,1,1,https://new.astrology.com/img/icons/icon-plus.svg,70,0,0
+1674058941548,94,https://www.astrology.com/img/backgrounds/bg-large-circles.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,668,1,1,https://new.astrology.com/img/backgrounds/bg-large-circles.svg,94,0,0
+1674058941642,67,https://www.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,675,1,1,https://new.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,67,0,0
+1674058941709,69,https://www.astrology.com/img/tarot/card-yes-no-tarot.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,662,1,1,https://new.astrology.com/img/tarot/card-yes-no-tarot.svg,69,0,0
+1674058941791,68,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,673,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,68,0,0
+1674058941860,111,https://www.astrology.com/img/favicon.ico,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,646,1,1,https://new.astrology.com/img/favicon.ico,111,0,0
+1674058941971,236,https://www.astrology.com/img/reports/tarot-yes-no.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,574,1,1,https://new.astrology.com/img/reports/tarot-yes-no.jpg,236,0,0
+1674058942207,135,https://www.astrology.com/img/reports/tarot-make-a-wish.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,579,1,1,https://new.astrology.com/img/reports/tarot-make-a-wish.jpg,135,0,0
+1674058942342,131,https://www.astrology.com/img/reports/soulmate-tarot-reading.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,584,1,1,https://new.astrology.com/img/reports/soulmate-tarot-reading.jpg,131,0,0
+1674058942473,133,https://www.astrology.com/img/reports/2021-love-tarot-reading.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,585,1,1,https://new.astrology.com/img/reports/2021-love-tarot-reading.jpg,133,0,0
+1674058942606,86,https://www.astrology.com/img/reports/2021-love-tarot-reading.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,585,1,1,https://new.astrology.com/img/reports/2021-love-tarot-reading.jpg,85,0,0
+1674058942692,100,https://www.astrology.com/img/reports/soulmate-tarot-reading.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,584,1,1,https://new.astrology.com/img/reports/soulmate-tarot-reading.jpg,100,0,0
+1674058942792,75,https://www.astrology.com/img/reports/tarot-yes-no.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,574,1,1,https://new.astrology.com/img/reports/tarot-yes-no.jpg,75,0,0
+1674058942867,74,https://www.astrology.com/img/reports/tarot-make-a-wish.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,579,1,1,https://new.astrology.com/img/reports/tarot-make-a-wish.jpg,74,0,0
+1674058956353,135,https://www.astrology.com/us/tarot/tarot-yin-yang.aspx,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",405,825,1,1,https://new.astrology.com/us/tarot/tarot-yin-yang.aspx,135,0,0
+1674058956489,71,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,674,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,71,0,0
+1674058956560,67,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,650,1,1,https://new.astrology.com/img/logo-white.svg,67,0,0
+1674058956627,69,https://www.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,679,1,1,https://new.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,69,0,0
+1674058956696,79,https://www.astrology.com/img/icons/icon-keen-lotus.png,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,661,1,1,https://new.astrology.com/img/icons/icon-keen-lotus.png,79,0,0
+1674058973668,420,https://www.astrology.com/us/tarot/tarot-yin-yang.aspx,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",405,699,1,1,https://new.astrology.com/us/tarot/tarot-yin-yang.aspx,420,0,215
+1674058974088,69,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,674,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,69,0,0
+1674058974157,74,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,650,1,1,https://new.astrology.com/img/logo-white.svg,74,0,0
+1674058974232,152,https://www.astrology.com/img/tarot/results/tarot-reading-result-21.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,591,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-21.svg,152,0,0
+1674058974386,230,https://www.astrology.com/img/tarot/results/tarot-reading-result-9.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,590,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-9.svg,230,0,0
+1674058974617,67,https://www.astrology.com/img/tarot/card-yin-yang-tarot.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,579,1,1,https://new.astrology.com/img/tarot/card-yin-yang-tarot.svg,67,0,0
+1674058974685,74,https://www.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,672,1,1,https://new.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,74,0,0
+1674058974760,77,https://www.astrology.com/img/backgrounds/bg-hearts.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,661,1,1,https://new.astrology.com/img/backgrounds/bg-hearts.svg,77,0,0
+1674058974837,67,https://www.astrology.com/img/icons/icon-plus.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,655,1,1,https://new.astrology.com/img/icons/icon-plus.svg,66,0,0
+1674058974907,76,https://www.astrology.com/img/backgrounds/bg-large-circles.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,668,1,1,https://new.astrology.com/img/backgrounds/bg-large-circles.svg,76,0,0
+1674058974983,84,https://www.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,675,1,1,https://new.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,84,0,0
+1674058975067,78,https://www.astrology.com/img/tarot/card-yes-no-tarot.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,662,1,1,https://new.astrology.com/img/tarot/card-yes-no-tarot.svg,78,0,0
+1674058975146,76,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,673,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,76,0,0
+1674058975222,90,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,650,1,1,https://new.astrology.com/img/logo-white.svg,90,0,0
+1674058975313,64,https://www.astrology.com/img/favicon.ico,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,646,1,1,https://new.astrology.com/img/favicon.ico,64,0,0
+1674058976434,109,https://www.astrology.com/us/tarot/tarot-yin-yang.aspx,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",405,825,1,1,https://new.astrology.com/us/tarot/tarot-yin-yang.aspx,109,0,0
+1674058976543,75,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,674,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,75,0,0
+1674058976618,65,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,650,1,1,https://new.astrology.com/img/logo-white.svg,65,0,0
+1674058976683,69,https://www.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,679,1,1,https://new.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,69,0,0
+1674058976752,81,https://www.astrology.com/img/icons/icon-keen-lotus.png,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,661,1,1,https://new.astrology.com/img/icons/icon-keen-lotus.png,81,0,0
+1674058976833,68,https://www.astrology.com/img/icons/icon-tarot-daily.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,662,1,1,https://new.astrology.com/img/icons/icon-tarot-daily.svg,68,0,0
+1674058976901,68,https://www.astrology.com/img/icons/icon-tarot-daily-love.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,667,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-love.svg,68,0,0
+1674058976969,69,https://www.astrology.com/img/icons/icon-tarot-daily-career.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,669,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-career.svg,69,0,0
+1674058977038,76,https://www.astrology.com/img/icons/icon-tarot-yes-no.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,663,1,1,https://new.astrology.com/img/icons/icon-tarot-yes-no.svg,76,0,0
+1674058977115,68,https://www.astrology.com/img/icons/icon-tarot-love-potential.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,671,1,1,https://new.astrology.com/img/icons/icon-tarot-love-potential.svg,68,0,0
+1674058977183,164,https://www.astrology.com/img/icons/icon-tarot-breakup.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,664,1,1,https://new.astrology.com/img/icons/icon-tarot-breakup.svg,164,0,0
+1674058977348,65,https://www.astrology.com/img/icons/icon-tarot-daily-flirt.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,668,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-flirt.svg,65,0,0
+1674058977413,82,https://www.astrology.com/img/icons/icon-tarot-yin-yang.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,665,1,1,https://new.astrology.com/img/icons/icon-tarot-yin-yang.svg,82,0,0
+1674058977495,62,https://www.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,672,1,1,https://new.astrology.com/img/backgrounds/bg-rose-oval-overlay.svg,62,0,0
+1674058977557,62,https://www.astrology.com/img/backgrounds/bg-hearts.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,661,1,1,https://new.astrology.com/img/backgrounds/bg-hearts.svg,62,0,0
+1674058977620,74,https://www.astrology.com/img/icons/icon-plus.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,655,1,1,https://new.astrology.com/img/icons/icon-plus.svg,74,0,0
+1674058977695,72,https://www.astrology.com/img/backgrounds/bg-large-circles.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,668,1,1,https://new.astrology.com/img/backgrounds/bg-large-circles.svg,72,0,0
+1674058977767,66,https://www.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,675,1,1,https://new.astrology.com/img/backgrounds/bg-dusk-circles-overlay.svg,66,0,0
+1674058977833,64,https://www.astrology.com/img/tarot/card-yes-no-tarot.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,662,1,1,https://new.astrology.com/img/tarot/card-yes-no-tarot.svg,64,0,0
+1674058977897,71,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,673,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,71,0,0
+1674058977968,65,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,650,1,1,https://new.astrology.com/img/logo-white.svg,65,0,0
+1674058978033,69,https://www.astrology.com/img/tarot/results/tarot-reading-result-21.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,591,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-21.svg,69,0,0
+1674058978102,76,https://www.astrology.com/img/tarot/results/tarot-reading-result-9.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,590,1,1,https://new.astrology.com/img/tarot/results/tarot-reading-result-9.svg,75,0,0
+1674058978178,88,https://www.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,679,1,1,https://new.astrology.com/img/banners/tarot-yesno-report-banner-375w.webp,88,0,0
+1674058978267,70,https://www.astrology.com/img/favicon.ico,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",488,646,1,1,https://new.astrology.com/img/favicon.ico,70,0,0
+1674059027701,161,https://www.astrology.com/tarot.html,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",405,681,1,1,https://new.astrology.com/tarot.html,161,0,0
+1674059027862,67,https://www.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,674,1,1,https://new.astrology.com/img/backgrounds/bg-clouds-header-1440w.jpg,67,0,0
+1674059027929,79,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,650,1,1,https://new.astrology.com/img/logo-white.svg,79,0,0
+1674059028009,72,https://www.astrology.com/img/icons/icon-tarot-daily.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,662,1,1,https://new.astrology.com/img/icons/icon-tarot-daily.svg,72,0,0
+1674059028081,66,https://www.astrology.com/img/icons/icon-tarot-daily-love.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,667,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-love.svg,66,0,0
+1674059028148,69,https://www.astrology.com/img/icons/icon-tarot-daily-career.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,669,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-career.svg,69,0,0
+1674059028218,66,https://www.astrology.com/img/icons/icon-tarot-yes-no.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,663,1,1,https://new.astrology.com/img/icons/icon-tarot-yes-no.svg,66,0,0
+1674059028284,69,https://www.astrology.com/img/icons/icon-tarot-love-potential.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,671,1,1,https://new.astrology.com/img/icons/icon-tarot-love-potential.svg,69,0,0
+1674059028353,67,https://www.astrology.com/img/icons/icon-tarot-yin-yang.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,665,1,1,https://new.astrology.com/img/icons/icon-tarot-yin-yang.svg,67,0,0
+1674059028421,67,https://www.astrology.com/img/icons/icon-tarot-daily-flirt.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,668,1,1,https://new.astrology.com/img/icons/icon-tarot-daily-flirt.svg,67,0,0
+1674059028489,65,https://www.astrology.com/img/icons/icon-tarot-breakup.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,664,1,1,https://new.astrology.com/img/icons/icon-tarot-breakup.svg,65,0,0
+1674059028555,66,https://www.astrology.com/img/tarot/tarot-how-to-read.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,662,1,1,https://new.astrology.com/img/tarot/tarot-how-to-read.jpg,66,0,0
+1674059028621,64,https://www.astrology.com/img/tarot/tarot-meaning.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,658,1,1,https://new.astrology.com/img/tarot/tarot-meaning.jpg,64,0,0
+1674059028685,68,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,612,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,68,0,0
+1674059028753,70,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,613,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,70,0,0
+1674059028823,120,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,624,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,120,0,0
+1674059028943,69,https://www.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,676,1,1,https://new.astrology.com/img/backgrounds/bg-white-speckles-poster.jpg,69,0,0
+1674059029013,134,https://www.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,673,1,1,https://new.astrology.com/img/backgrounds/bg-stars-footer-1440w.jpg,134,0,0
+1674059029147,68,https://www.astrology.com/img/logo-white.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,650,1,1,https://new.astrology.com/img/logo-white.svg,68,0,0
+1674059029215,64,https://www.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,612,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/05/Weekly-Tarot-May-15-300x200.jpg,64,0,0
+1674059029279,66,https://www.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,613,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2022/06/Weekly-Tarot-June-12-300x200.jpg,66,0,0
+1674059029345,81,https://www.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,624,1,1,https://new.astrology.com/wp-content/uploads/sites/9/2021/11/weely-tarot-reading-November-8-300x163.jpeg,81,0,0
+1674059029426,126,https://www.astrology.com/img/tarot/major-arcana/fool.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,577,1,1,https://new.astrology.com/img/tarot/major-arcana/fool.svg,126,0,0
+1674059029552,136,https://www.astrology.com/img/tarot/major-arcana/magician.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,581,1,1,https://new.astrology.com/img/tarot/major-arcana/magician.svg,136,0,0
+1674059029688,137,https://www.astrology.com/img/tarot/major-arcana/high-priestess.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,587,1,1,https://new.astrology.com/img/tarot/major-arcana/high-priestess.svg,137,0,0
+1674059029825,129,https://www.astrology.com/img/tarot/major-arcana/empress.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",480,580,1,1,https://new.astrology.com/img/tarot/major-arcana/empress.svg,129,0,0
+1674059029955,80,https://www.astrology.com/img/tarot/major-arcana/fool.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,577,1,1,https://new.astrology.com/img/tarot/major-arcana/fool.svg,80,0,0
+1674059030035,69,https://www.astrology.com/img/tarot/major-arcana/empress.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,580,1,1,https://new.astrology.com/img/tarot/major-arcana/empress.svg,69,0,0
+1674059030104,69,https://www.astrology.com/img/tarot/major-arcana/magician.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,581,1,1,https://new.astrology.com/img/tarot/major-arcana/magician.svg,69,0,0
+1674059030173,63,https://www.astrology.com/img/tarot/major-arcana/high-priestess.svg,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",487,587,1,1,https://new.astrology.com/img/tarot/major-arcana/high-priestess.svg,63,0,0
+1674059030236,67,https://www.astrology.com/img/favicon.ico,404,Not Found,Tarot Reading and results 1-1,text,false,"Test failed: code expected not to equal /
+
+****** received  : 404[[[]]]
+
+****** comparison: 404[[[]]]
+
+/",489,646,1,1,https://new.astrology.com/img/favicon.ico,67,0,0
