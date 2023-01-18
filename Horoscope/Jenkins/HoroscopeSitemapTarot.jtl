@@ -5669,3 +5669,570 @@ timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success
 1673974080810,639,/css-US/tarot-index.css?v=2023010406,200,OK,Tarot - Thread Group 1-1,text,true,,34889,308,1,1,https://www.horoscope.com/css-US/tarot-index.css?v=2023010406,164,0,0
 1673974080810,164,/css-US/tarot-index.css?v=2023010406-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,320,154,1,1,http://www.horoscope.com/css-US/tarot-index.css?v=2023010406,164,0,0
 1673974080974,475,/css-US/tarot-index.css?v=2023010406-1,200,OK,Tarot - Thread Group 1-1,text,true,,34569,154,1,1,https://www.horoscope.com/css-US/tarot-index.css?v=2023010406,424,0,218
+1674060314854,1127,/us/tarot/tarot-daily.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,157782,288,1,1,https://www.horoscope.com/us/tarot/tarot-daily.aspx,234,0,66
+1674060314854,234,/us/tarot/tarot-daily.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,310,144,1,1,http://www.horoscope.com/us/tarot/tarot-daily.aspx,234,0,66
+1674060315089,892,/us/tarot/tarot-daily.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,157472,144,1,1,https://www.horoscope.com/us/tarot/tarot-daily.aspx,742,0,352
+1674060315993,881,/us/games/index-games-love.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,156100,298,1,1,https://www.horoscope.com/us/games/index-games-love.aspx,155,0,1
+1674060315993,155,/us/games/index-games-love.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,315,149,1,1,http://www.horoscope.com/us/games/index-games-love.aspx,155,0,1
+1674060316148,726,/us/games/index-games-love.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155785,149,1,1,https://www.horoscope.com/us/games/index-games-love.aspx,581,0,212
+1674060316875,899,/us/games/divination/game-magic-8-ball.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,155626,322,1,1,https://www.horoscope.com/us/games/divination/game-magic-8-ball.aspx,155,0,0
+1674060316875,155,/us/games/divination/game-magic-8-ball.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,327,161,1,1,http://www.horoscope.com/us/games/divination/game-magic-8-ball.aspx,155,0,0
+1674060317030,744,/us/games/divination/game-magic-8-ball.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155299,161,1,1,https://www.horoscope.com/us/games/divination/game-magic-8-ball.aspx,597,0,211
+1674060317775,880,/us/tarot/tarot-angel.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159187,288,1,1,https://www.horoscope.com/us/tarot/tarot-angel.aspx,156,0,1
+1674060317775,156,/us/tarot/tarot-angel.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,310,144,1,1,http://www.horoscope.com/us/tarot/tarot-angel.aspx,156,0,1
+1674060317931,724,/us/tarot/tarot-angel.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,158877,144,1,1,https://www.horoscope.com/us/tarot/tarot-angel.aspx,580,0,209
+1674060318656,979,/birth-chart/,200,OK,Tarot - Thread Group 1-1,text,true,,44686,262,1,1,https://www.horoscope.com/birth-chart/,159,0,1
+1674060318656,159,/birth-chart/-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,297,131,1,1,http://www.horoscope.com/birth-chart/,159,0,1
+1674060318815,820,/birth-chart/-1,200,OK,Tarot - Thread Group 1-1,text,true,,44389,131,1,1,https://www.horoscope.com/birth-chart/,724,0,209
+1674060319636,846,/fr/index.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,139064,264,1,1,https://www.horoscope.com/fr/index.aspx,158,0,0
+1674060319636,158,/fr/index.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,298,132,1,1,http://www.horoscope.com/fr/index.aspx,158,0,0
+1674060319795,687,/fr/index.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,138766,132,1,1,https://www.horoscope.com/fr/index.aspx,585,0,218
+1674060320484,882,/zodiac-signs/taurus,200,OK,Tarot - Thread Group 1-1,text,true,,162751,276,1,1,https://www.horoscope.com/zodiac-signs/taurus,159,0,2
+1674060320484,159,/zodiac-signs/taurus-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,304,138,1,1,http://www.horoscope.com/zodiac-signs/taurus,159,0,2
+1674060320643,723,/zodiac-signs/taurus-1,200,OK,Tarot - Thread Group 1-1,text,true,,162447,138,1,1,https://www.horoscope.com/zodiac-signs/taurus,576,0,214
+1674060321367,910,/us/horoscopes/general/horoscope-overview-daily-today.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,163967,352,1,1,https://www.horoscope.com/us/horoscopes/general/horoscope-overview-daily-today.aspx,163,0,1
+1674060321367,163,/us/horoscopes/general/horoscope-overview-daily-today.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,342,176,1,1,http://www.horoscope.com/us/horoscopes/general/horoscope-overview-daily-today.aspx,163,0,1
+1674060321530,747,/us/horoscopes/general/horoscope-overview-daily-today.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,163625,176,1,1,https://www.horoscope.com/us/horoscopes/general/horoscope-overview-daily-today.aspx,599,0,216
+1674060322278,890,/us/games/divination/game-cupids-oracle.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,156379,324,1,1,https://www.horoscope.com/us/games/divination/game-cupids-oracle.aspx,160,0,1
+1674060322278,160,/us/games/divination/game-cupids-oracle.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,328,162,1,1,http://www.horoscope.com/us/games/divination/game-cupids-oracle.aspx,160,0,1
+1674060322438,730,/us/games/divination/game-cupids-oracle.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,156051,162,1,1,https://www.horoscope.com/us/games/divination/game-cupids-oracle.aspx,582,0,212
+1674060323169,882,/us/tarot/tarot-gems.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,157755,286,1,1,https://www.horoscope.com/us/tarot/tarot-gems.aspx,159,0,1
+1674060323169,159,/us/tarot/tarot-gems.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,309,143,1,1,http://www.horoscope.com/us/tarot/tarot-gems.aspx,159,0,1
+1674060323328,723,/us/tarot/tarot-gems.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,157446,143,1,1,https://www.horoscope.com/us/tarot/tarot-gems.aspx,580,0,210
+1674060324053,900,/us/games/divination/game-ask-genie.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,154731,316,1,1,https://www.horoscope.com/us/games/divination/game-ask-genie.aspx,166,0,0
+1674060324053,166,/us/games/divination/game-ask-genie.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,324,158,1,1,http://www.horoscope.com/us/games/divination/game-ask-genie.aspx,166,0,0
+1674060324219,734,/us/games/divination/game-ask-genie.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,154407,158,1,1,https://www.horoscope.com/us/games/divination/game-ask-genie.aspx,587,0,212
+1674060324955,973,/zodiac-signs/gemini,200,OK,Tarot - Thread Group 1-1,text,true,,163329,276,1,1,https://www.horoscope.com/zodiac-signs/gemini,169,0,0
+1674060324955,169,/zodiac-signs/gemini-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,304,138,1,1,http://www.horoscope.com/zodiac-signs/gemini,169,0,0
+1674060325124,804,/zodiac-signs/gemini-1,200,OK,Tarot - Thread Group 1-1,text,true,,163025,138,1,1,https://www.horoscope.com/zodiac-signs/gemini,655,0,232
+1674060325928,1142,/us/horoscopes/general/index-horoscope-what-to-watch.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,156234,350,1,1,https://www.horoscope.com/us/horoscopes/general/index-horoscope-what-to-watch.aspx,161,0,1
+1674060325928,161,/us/horoscopes/general/index-horoscope-what-to-watch.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,341,175,1,1,http://www.horoscope.com/us/horoscopes/general/index-horoscope-what-to-watch.aspx,161,0,1
+1674060326089,981,/us/horoscopes/general/index-horoscope-what-to-watch.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155893,175,1,1,https://www.horoscope.com/us/horoscopes/general/index-horoscope-what-to-watch.aspx,833,0,208
+1674060327070,1125,/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,155927,354,1,1,https://www.horoscope.com/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx,161,0,1
+1674060327070,161,/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,343,177,1,1,http://www.horoscope.com/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx,161,0,1
+1674060327231,964,/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155584,177,1,1,https://www.horoscope.com/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx,815,0,208
+1674060328196,647,/us/sitemap.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,13599,268,1,1,https://www.horoscope.com/us/sitemap.aspx,155,0,1
+1674060328196,156,/us/sitemap.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,300,134,1,1,http://www.horoscope.com/us/sitemap.aspx,155,0,1
+1674060328352,491,/us/sitemap.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,13299,134,1,1,https://www.horoscope.com/us/sitemap.aspx,491,0,207
+1674060328843,903,/tarot/tarot-yes-no.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,157928,284,1,1,https://www.horoscope.com/tarot/tarot-yes-no.aspx,155,0,1
+1674060328843,155,/tarot/tarot-yes-no.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,308,142,1,1,http://www.horoscope.com/tarot/tarot-yes-no.aspx,155,0,1
+1674060328998,748,/tarot/tarot-yes-no.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,157620,142,1,1,https://www.horoscope.com/tarot/tarot-yes-no.aspx,604,0,213
+1674060329747,1072,/us/games/divination/game-luck-meter.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,156086,318,1,1,https://www.horoscope.com/us/games/divination/game-luck-meter.aspx,158,0,0
+1674060329747,158,/us/games/divination/game-luck-meter.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/us/games/divination/game-luck-meter.aspx,158,0,0
+1674060329905,914,/us/games/divination/game-luck-meter.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155761,159,1,1,https://www.horoscope.com/us/games/divination/game-luck-meter.aspx,762,0,213
+1674060330822,998,/mercury-retrograde/,200,OK,Tarot - Thread Group 1-1,text,true,,55598,276,1,1,https://www.horoscope.com/mercury-retrograde/,155,0,1
+1674060330822,155,/mercury-retrograde/-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,304,138,1,1,http://www.horoscope.com/mercury-retrograde/,155,0,1
+1674060330977,843,/mercury-retrograde/-1,200,OK,Tarot - Thread Group 1-1,text,true,,55294,138,1,1,https://www.horoscope.com/mercury-retrograde/,745,0,212
+1674060331821,890,/us/horoscopes/numerology/index-horoscope-numerology.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,168130,350,1,1,https://www.horoscope.com/us/horoscopes/numerology/index-horoscope-numerology.aspx,159,0,1
+1674060331821,159,/us/horoscopes/numerology/index-horoscope-numerology.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,341,175,1,1,http://www.horoscope.com/us/horoscopes/numerology/index-horoscope-numerology.aspx,159,0,1
+1674060331980,731,/us/horoscopes/numerology/index-horoscope-numerology.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,167789,175,1,1,https://www.horoscope.com/us/horoscopes/numerology/index-horoscope-numerology.aspx,586,0,212
+1674060332712,985,/celebrities/,200,OK,Tarot - Thread Group 1-1,text,true,,44382,262,1,1,https://www.horoscope.com/celebrities/,158,0,1
+1674060332712,158,/celebrities/-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,297,131,1,1,http://www.horoscope.com/celebrities/,158,0,1
+1674060332871,826,/celebrities/-1,200,OK,Tarot - Thread Group 1-1,text,true,,44085,131,1,1,https://www.horoscope.com/celebrities/,732,0,206
+1674060333698,886,/us/tarot/tarot-daily-career.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159471,302,1,1,https://www.horoscope.com/us/tarot/tarot-daily-career.aspx,155,0,1
+1674060333698,155,/us/tarot/tarot-daily-career.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,317,151,1,1,http://www.horoscope.com/us/tarot/tarot-daily-career.aspx,155,0,1
+1674060333853,731,/us/tarot/tarot-daily-career.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,159154,151,1,1,https://www.horoscope.com/us/tarot/tarot-daily-career.aspx,587,0,207
+1674060334585,875,/psychics/tarot.html,200,OK,Tarot - Thread Group 1-1,text,true,,139314,276,1,1,https://www.horoscope.com/psychics/tarot.html,156,0,0
+1674060334585,156,/psychics/tarot.html-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,304,138,1,1,http://www.horoscope.com/psychics/tarot.html,156,0,0
+1674060334741,719,/psychics/tarot.html-1,200,OK,Tarot - Thread Group 1-1,text,true,,139010,138,1,1,https://www.horoscope.com/psychics/tarot.html,617,0,213
+1674060335462,906,/us/games/divination/game-love-fairy.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,158095,318,1,1,https://www.horoscope.com/us/games/divination/game-love-fairy.aspx,159,0,0
+1674060335462,159,/us/games/divination/game-love-fairy.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/us/games/divination/game-love-fairy.aspx,159,0,0
+1674060335621,747,/us/games/divination/game-love-fairy.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,157770,159,1,1,https://www.horoscope.com/us/games/divination/game-love-fairy.aspx,599,0,213
+1674060336369,858,/us/about-us.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,148961,270,1,1,https://www.horoscope.com/us/about-us.aspx,157,0,0
+1674060336369,157,/us/about-us.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,301,135,1,1,http://www.horoscope.com/us/about-us.aspx,157,0,0
+1674060336526,701,/us/about-us.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,148660,135,1,1,https://www.horoscope.com/us/about-us.aspx,553,0,207
+1674060337228,935,/us/privacy.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,187755,268,1,1,https://www.horoscope.com/us/privacy.aspx,157,0,1
+1674060337228,157,/us/privacy.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,300,134,1,1,http://www.horoscope.com/us/privacy.aspx,157,0,1
+1674060337385,778,/us/privacy.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,187455,134,1,1,https://www.horoscope.com/us/privacy.aspx,630,0,208
+1674060338164,931,/us/tarot/tarot-today-tomorrow.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,157036,306,1,1,https://www.horoscope.com/us/tarot/tarot-today-tomorrow.aspx,155,0,1
+1674060338164,155,/us/tarot/tarot-today-tomorrow.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,319,153,1,1,http://www.horoscope.com/us/tarot/tarot-today-tomorrow.aspx,155,0,1
+1674060338319,776,/us/tarot/tarot-today-tomorrow.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,156717,153,1,1,https://www.horoscope.com/us/tarot/tarot-today-tomorrow.aspx,631,0,211
+1674060339097,900,/us/planets/index.html,200,OK,Tarot - Thread Group 1-1,text,true,,160184,280,1,1,https://www.horoscope.com/us/planets/index.html,164,0,1
+1674060339097,164,/us/planets/index.html-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,306,140,1,1,http://www.horoscope.com/us/planets/index.html,164,0,1
+1674060339261,736,/us/planets/index.html-1,200,OK,Tarot - Thread Group 1-1,text,true,,159878,140,1,1,https://www.horoscope.com/us/planets/index.html,589,0,212
+1674060339998,517,/images-US/horoscope-logo.svg,200,OK,Tarot - Thread Group 1-1,text,true,,4603,294,1,1,https://www.horoscope.com/images-US/horoscope-logo.svg,159,0,0
+1674060339998,159,/images-US/horoscope-logo.svg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,313,147,1,1,http://www.horoscope.com/images-US/horoscope-logo.svg,159,0,0
+1674060340157,358,/images-US/horoscope-logo.svg-1,200,OK,Tarot - Thread Group 1-1,text,true,,4290,147,1,1,https://www.horoscope.com/images-US/horoscope-logo.svg,358,0,207
+1674060340516,886,/us/tarot/index-tarot-reading-love.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,155353,314,1,1,https://www.horoscope.com/us/tarot/index-tarot-reading-love.aspx,161,0,1
+1674060340516,161,/us/tarot/index-tarot-reading-love.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,323,157,1,1,http://www.horoscope.com/us/tarot/index-tarot-reading-love.aspx,161,0,1
+1674060340677,725,/us/tarot/index-tarot-reading-love.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155030,157,1,1,https://www.horoscope.com/us/tarot/index-tarot-reading-love.aspx,577,0,212
+1674060341403,999,/zodiac-signs/virgo,200,OK,Tarot - Thread Group 1-1,text,true,,161888,274,1,1,https://www.horoscope.com/zodiac-signs/virgo,158,0,1
+1674060341403,158,/zodiac-signs/virgo-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,303,137,1,1,http://www.horoscope.com/zodiac-signs/virgo,158,0,1
+1674060341561,841,/zodiac-signs/virgo-1,200,OK,Tarot - Thread Group 1-1,text,true,,161585,137,1,1,https://www.horoscope.com/zodiac-signs/virgo,691,0,208
+1674060342403,916,/us/tarot/index-tarot-reading-unique.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,155478,318,1,1,https://www.horoscope.com/us/tarot/index-tarot-reading-unique.aspx,157,0,1
+1674060342403,157,/us/tarot/index-tarot-reading-unique.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/us/tarot/index-tarot-reading-unique.aspx,157,0,1
+1674060342560,759,/us/tarot/index-tarot-reading-unique.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155153,159,1,1,https://www.horoscope.com/us/tarot/index-tarot-reading-unique.aspx,612,0,215
+1674060343320,1163,/us/tarot/index-tarot-reading.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,167760,304,1,1,https://www.horoscope.com/us/tarot/index-tarot-reading.aspx,167,0,1
+1674060343320,167,/us/tarot/index-tarot-reading.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,318,152,1,1,http://www.horoscope.com/us/tarot/index-tarot-reading.aspx,167,0,1
+1674060343487,996,/us/tarot/index-tarot-reading.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,167442,152,1,1,https://www.horoscope.com/us/tarot/index-tarot-reading.aspx,844,0,212
+1674060344484,892,/zodiac-signs/pisces,200,OK,Tarot - Thread Group 1-1,text,true,,162424,276,1,1,https://www.horoscope.com/zodiac-signs/pisces,162,0,1
+1674060344484,162,/zodiac-signs/pisces-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,304,138,1,1,http://www.horoscope.com/zodiac-signs/pisces,162,0,1
+1674060344646,730,/zodiac-signs/pisces-1,200,OK,Tarot - Thread Group 1-1,text,true,,162120,138,1,1,https://www.horoscope.com/zodiac-signs/pisces,584,0,208
+1674060345377,916,/us/games/divination/game-love-cookie.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,155259,320,1,1,https://www.horoscope.com/us/games/divination/game-love-cookie.aspx,155,0,1
+1674060345377,155,/us/games/divination/game-love-cookie.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,326,160,1,1,http://www.horoscope.com/us/games/divination/game-love-cookie.aspx,155,0,1
+1674060345532,761,/us/games/divination/game-love-cookie.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,154933,160,1,1,https://www.horoscope.com/us/games/divination/game-love-cookie.aspx,618,0,206
+1674060346294,894,/us/advertise.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,151429,272,1,1,https://www.horoscope.com/us/advertise.aspx,160,0,1
+1674060346294,160,/us/advertise.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,302,136,1,1,http://www.horoscope.com/us/advertise.aspx,160,0,1
+1674060346454,734,/us/advertise.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,151127,136,1,1,https://www.horoscope.com/us/advertise.aspx,587,0,212
+1674060347189,907,/us/games/divination/game-crystal-ball.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,155304,322,1,1,https://www.horoscope.com/us/games/divination/game-crystal-ball.aspx,159,0,1
+1674060347189,159,/us/games/divination/game-crystal-ball.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,327,161,1,1,http://www.horoscope.com/us/games/divination/game-crystal-ball.aspx,159,0,1
+1674060347348,748,/us/games/divination/game-crystal-ball.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,154977,161,1,1,https://www.horoscope.com/us/games/divination/game-crystal-ball.aspx,601,0,209
+1674060348097,946,/us/games/index-games-instant-advice.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,154760,318,1,1,https://www.horoscope.com/us/games/index-games-instant-advice.aspx,172,0,1
+1674060348097,172,/us/games/index-games-instant-advice.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/us/games/index-games-instant-advice.aspx,172,0,1
+1674060348270,773,/us/games/index-games-instant-advice.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,154435,159,1,1,https://www.horoscope.com/us/games/index-games-instant-advice.aspx,629,0,208
+1674060349044,897,/us/horoscopes/career/index-horoscope-career-daily.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,156004,346,1,1,https://www.horoscope.com/us/horoscopes/career/index-horoscope-career-daily.aspx,163,0,0
+1674060349044,163,/us/horoscopes/career/index-horoscope-career-daily.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,339,173,1,1,http://www.horoscope.com/us/horoscopes/career/index-horoscope-career-daily.aspx,163,0,0
+1674060349208,733,/us/horoscopes/career/index-horoscope-career-daily.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155665,173,1,1,https://www.horoscope.com/us/horoscopes/career/index-horoscope-career-daily.aspx,584,0,213
+1674060349941,893,/us/index.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,156117,264,1,1,https://www.horoscope.com/us/index.aspx,155,0,1
+1674060349941,155,/us/index.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,298,132,1,1,http://www.horoscope.com/us/index.aspx,155,0,1
+1674060350096,738,/us/index.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155819,132,1,1,https://www.horoscope.com/us/index.aspx,591,0,213
+1674060350835,838,/psychics/psychics.html,200,OK,Tarot - Thread Group 1-1,text,true,,139321,282,1,1,https://www.horoscope.com/psychics/psychics.html,153,0,0
+1674060350835,153,/psychics/psychics.html-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,307,141,1,1,http://www.horoscope.com/psychics/psychics.html,153,0,0
+1674060350988,685,/psychics/psychics.html-1,200,OK,Tarot - Thread Group 1-1,text,true,,139014,141,1,1,https://www.horoscope.com/psychics/psychics.html,586,0,207
+1674060351673,907,/zodiac-signs/aries,200,OK,Tarot - Thread Group 1-1,text,true,,161448,274,1,1,https://www.horoscope.com/zodiac-signs/aries,160,0,1
+1674060351673,160,/zodiac-signs/aries-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,303,137,1,1,http://www.horoscope.com/zodiac-signs/aries,160,0,1
+1674060351833,747,/zodiac-signs/aries-1,200,OK,Tarot - Thread Group 1-1,text,true,,161145,137,1,1,https://www.horoscope.com/zodiac-signs/aries,598,0,211
+1674060352581,936,/us/tos.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,201370,260,1,1,https://www.horoscope.com/us/tos.aspx,158,0,1
+1674060352581,158,/us/tos.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,296,130,1,1,http://www.horoscope.com/us/tos.aspx,158,0,1
+1674060352739,778,/us/tos.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,201074,130,1,1,https://www.horoscope.com/us/tos.aspx,629,0,210
+1674060353518,834,/psychics/love.html,200,OK,Tarot - Thread Group 1-1,text,true,,139312,274,1,1,https://www.horoscope.com/psychics/love.html,160,0,0
+1674060353518,160,/psychics/love.html-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,303,137,1,1,http://www.horoscope.com/psychics/love.html,160,0,0
+1674060353678,674,/psychics/love.html-1,200,OK,Tarot - Thread Group 1-1,text,true,,139009,137,1,1,https://www.horoscope.com/psychics/love.html,572,0,212
+1674060354353,933,/zodiac-signs/cancer,200,OK,Tarot - Thread Group 1-1,text,true,,163037,276,1,1,https://www.horoscope.com/zodiac-signs/cancer,174,0,1
+1674060354353,174,/zodiac-signs/cancer-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,304,138,1,1,http://www.horoscope.com/zodiac-signs/cancer,174,0,1
+1674060354527,759,/zodiac-signs/cancer-1,200,OK,Tarot - Thread Group 1-1,text,true,,162733,138,1,1,https://www.horoscope.com/zodiac-signs/cancer,613,0,212
+1674060355287,914,/us/horoscopes/yearly/2023-horoscope-overview.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,155192,336,1,1,https://www.horoscope.com/us/horoscopes/yearly/2023-horoscope-overview.aspx,168,0,1
+1674060355287,168,/us/horoscopes/yearly/2023-horoscope-overview.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,334,168,1,1,http://www.horoscope.com/us/horoscopes/yearly/2023-horoscope-overview.aspx,168,0,1
+1674060355455,746,/us/horoscopes/yearly/2023-horoscope-overview.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,154858,168,1,1,https://www.horoscope.com/us/horoscopes/yearly/2023-horoscope-overview.aspx,603,0,209
+1674060356202,573,/images-US/tarot/back/daily-tarot-love.png,200,OK,Tarot - Thread Group 1-1,bin,true,,29281,320,1,1,https://www.horoscope.com/images-US/tarot/back/daily-tarot-love.png,156,0,1
+1674060356202,156,/images-US/tarot/back/daily-tarot-love.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,326,160,1,1,http://www.horoscope.com/images-US/tarot/back/daily-tarot-love.png,156,0,1
+1674060356358,417,/images-US/tarot/back/daily-tarot-love.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,28955,160,1,1,https://www.horoscope.com/images-US/tarot/back/daily-tarot-love.png,416,0,211
+1674060356776,907,/us/tarot/tarot-lovers-triangle.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,158201,308,1,1,https://www.horoscope.com/us/tarot/tarot-lovers-triangle.aspx,159,0,1
+1674060356776,159,/us/tarot/tarot-lovers-triangle.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,320,154,1,1,http://www.horoscope.com/us/tarot/tarot-lovers-triangle.aspx,159,0,1
+1674060356936,747,/us/tarot/tarot-lovers-triangle.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,157881,154,1,1,https://www.horoscope.com/us/tarot/tarot-lovers-triangle.aspx,600,0,212
+1674060357684,895,/zodiac-signs/leo,200,OK,Tarot - Thread Group 1-1,text,true,,161773,270,1,1,https://www.horoscope.com/zodiac-signs/leo,158,0,1
+1674060357684,158,/zodiac-signs/leo-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,301,135,1,1,http://www.horoscope.com/zodiac-signs/leo,158,0,1
+1674060357842,737,/zodiac-signs/leo-1,200,OK,Tarot - Thread Group 1-1,text,true,,161472,135,1,1,https://www.horoscope.com/zodiac-signs/leo,589,0,211
+1674060358580,923,/us/horoscopes/general/index-horoscope-general-daily.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,157205,350,1,1,https://www.horoscope.com/us/horoscopes/general/index-horoscope-general-daily.aspx,162,0,1
+1674060358580,162,/us/horoscopes/general/index-horoscope-general-daily.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,341,175,1,1,http://www.horoscope.com/us/horoscopes/general/index-horoscope-general-daily.aspx,162,0,1
+1674060358742,761,/us/horoscopes/general/index-horoscope-general-daily.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,156864,175,1,1,https://www.horoscope.com/us/horoscopes/general/index-horoscope-general-daily.aspx,616,0,212
+1674060359504,891,/us/games/index-games.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,162013,288,1,1,https://www.horoscope.com/us/games/index-games.aspx,156,0,1
+1674060359504,156,/us/games/index-games.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,310,144,1,1,http://www.horoscope.com/us/games/index-games.aspx,156,0,1
+1674060359660,735,/us/games/index-games.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,161703,144,1,1,https://www.horoscope.com/us/games/index-games.aspx,591,0,207
+1674060360397,908,/us/tarot/tarot-money-oracle.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159044,302,1,1,https://www.horoscope.com/us/tarot/tarot-money-oracle.aspx,156,0,1
+1674060360397,156,/us/tarot/tarot-money-oracle.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,317,151,1,1,http://www.horoscope.com/us/tarot/tarot-money-oracle.aspx,156,0,1
+1674060360553,752,/us/tarot/tarot-money-oracle.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,158727,151,1,1,https://www.horoscope.com/us/tarot/tarot-money-oracle.aspx,603,0,212
+1674060361306,1041,/us/tarot/tarot-love-potential.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159403,306,1,1,https://www.horoscope.com/us/tarot/tarot-love-potential.aspx,160,0,1
+1674060361306,160,/us/tarot/tarot-love-potential.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,319,153,1,1,http://www.horoscope.com/us/tarot/tarot-love-potential.aspx,160,0,1
+1674060361467,880,/us/tarot/tarot-love-potential.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,159084,153,1,1,https://www.horoscope.com/us/tarot/tarot-love-potential.aspx,729,0,211
+1674060362348,907,/us/horoscopes/chinese/index-horoscope-chinese.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,160611,338,1,1,https://www.horoscope.com/us/horoscopes/chinese/index-horoscope-chinese.aspx,156,0,1
+1674060362348,156,/us/horoscopes/chinese/index-horoscope-chinese.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,335,169,1,1,http://www.horoscope.com/us/horoscopes/chinese/index-horoscope-chinese.aspx,156,0,1
+1674060362504,751,/us/horoscopes/chinese/index-horoscope-chinese.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,160276,169,1,1,https://www.horoscope.com/us/horoscopes/chinese/index-horoscope-chinese.aspx,607,0,206
+1674060363256,1143,/astrology/,200,OK,Tarot - Thread Group 1-1,text,true,,79142,258,1,1,https://www.horoscope.com/astrology/,156,0,0
+1674060363256,156,/astrology/-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,295,129,1,1,http://www.horoscope.com/astrology/,156,0,0
+1674060363412,987,/astrology/-1,200,OK,Tarot - Thread Group 1-1,text,true,,78847,129,1,1,https://www.horoscope.com/astrology/,886,0,216
+1674060364400,930,/us/horoscopes/love/index-horoscope-love-daily.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,155968,338,1,1,https://www.horoscope.com/us/horoscopes/love/index-horoscope-love-daily.aspx,157,0,1
+1674060364400,157,/us/horoscopes/love/index-horoscope-love-daily.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,335,169,1,1,http://www.horoscope.com/us/horoscopes/love/index-horoscope-love-daily.aspx,157,0,1
+1674060364557,773,/us/horoscopes/love/index-horoscope-love-daily.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155633,169,1,1,https://www.horoscope.com/us/horoscopes/love/index-horoscope-love-daily.aspx,627,0,211
+1674060365332,847,/us/emails/email-subscription.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,146658,304,1,1,https://www.horoscope.com/us/emails/email-subscription.aspx,156,0,0
+1674060365332,156,/us/emails/email-subscription.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,318,152,1,1,http://www.horoscope.com/us/emails/email-subscription.aspx,156,0,0
+1674060365488,691,/us/emails/email-subscription.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,146340,152,1,1,https://www.horoscope.com/us/emails/email-subscription.aspx,593,0,216
+1674060366180,921,/zodiac-signs/capricorn,200,OK,Tarot - Thread Group 1-1,text,true,,162515,282,1,1,https://www.horoscope.com/zodiac-signs/capricorn,157,0,1
+1674060366180,157,/zodiac-signs/capricorn-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,307,141,1,1,http://www.horoscope.com/zodiac-signs/capricorn,157,0,1
+1674060366337,764,/zodiac-signs/capricorn-1,200,OK,Tarot - Thread Group 1-1,text,true,,162208,141,1,1,https://www.horoscope.com/zodiac-signs/capricorn,618,0,207
+1674060367102,1343,/tarot/tarot-card-meaning/the-devil,200,OK,Tarot - Thread Group 1-1,text,true,,160805,306,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-devil,161,0,1
+1674060367102,161,/tarot/tarot-card-meaning/the-devil-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,319,153,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-devil,161,0,1
+1674060367263,1182,/tarot/tarot-card-meaning/the-devil-1,200,OK,Tarot - Thread Group 1-1,text,true,,160486,153,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-devil,1029,0,212
+1674060368446,568,/images-US/tarot/back/daily-tarot-mood.png,200,OK,Tarot - Thread Group 1-1,bin,true,,26074,320,1,1,https://www.horoscope.com/images-US/tarot/back/daily-tarot-mood.png,159,0,1
+1674060368446,159,/images-US/tarot/back/daily-tarot-mood.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,326,160,1,1,http://www.horoscope.com/images-US/tarot/back/daily-tarot-mood.png,159,0,1
+1674060368605,409,/images-US/tarot/back/daily-tarot-mood.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,25748,160,1,1,https://www.horoscope.com/images-US/tarot/back/daily-tarot-mood.png,408,0,208
+1674060369015,866,/psychics,200,OK,Tarot - Thread Group 1-1,text,true,,139292,254,1,1,https://www.horoscope.com/psychics,154,0,1
+1674060369015,154,/psychics-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,293,127,1,1,http://www.horoscope.com/psychics,154,0,1
+1674060369170,711,/psychics-1,200,OK,Tarot - Thread Group 1-1,text,true,,138999,127,1,1,https://www.horoscope.com/psychics,612,0,224
+1674060369882,905,/us/games/divination/game-magic-love-ball.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,155636,328,1,1,https://www.horoscope.com/us/games/divination/game-magic-love-ball.aspx,156,0,1
+1674060369882,156,/us/games/divination/game-magic-love-ball.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,330,164,1,1,http://www.horoscope.com/us/games/divination/game-magic-love-ball.aspx,156,0,1
+1674060370038,749,/us/games/divination/game-magic-love-ball.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155306,164,1,1,https://www.horoscope.com/us/games/divination/game-magic-love-ball.aspx,600,0,211
+1674060370788,1128,/us/tarot/tarot-breakup.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,157400,292,1,1,https://www.horoscope.com/us/tarot/tarot-breakup.aspx,158,0,1
+1674060370788,158,/us/tarot/tarot-breakup.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,312,146,1,1,http://www.horoscope.com/us/tarot/tarot-breakup.aspx,158,0,1
+1674060370947,969,/us/tarot/tarot-breakup.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,157088,146,1,1,https://www.horoscope.com/us/tarot/tarot-breakup.aspx,822,0,207
+1674060371917,919,/us/tarot/tarot-hot-topic.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159533,296,1,1,https://www.horoscope.com/us/tarot/tarot-hot-topic.aspx,168,0,1
+1674060371917,168,/us/tarot/tarot-hot-topic.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,314,148,1,1,http://www.horoscope.com/us/tarot/tarot-hot-topic.aspx,168,0,1
+1674060372085,751,/us/tarot/tarot-hot-topic.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,159219,148,1,1,https://www.horoscope.com/us/tarot/tarot-hot-topic.aspx,601,0,213
+1674060372837,1010,/us/team.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,148362,262,1,1,https://www.horoscope.com/us/team.aspx,157,0,1
+1674060372837,157,/us/team.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,297,131,1,1,http://www.horoscope.com/us/team.aspx,157,0,1
+1674060372994,853,/us/team.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,148065,131,1,1,https://www.horoscope.com/us/team.aspx,702,0,213
+1674060373848,886,/us/games/index-games-fortune-teller.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,153510,318,1,1,https://www.horoscope.com/us/games/index-games-fortune-teller.aspx,161,0,1
+1674060373848,161,/us/games/index-games-fortune-teller.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/us/games/index-games-fortune-teller.aspx,161,0,1
+1674060374009,725,/us/games/index-games-fortune-teller.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,153185,159,1,1,https://www.horoscope.com/us/games/index-games-fortune-teller.aspx,583,0,207
+1674060374735,900,/us/tarot/tarot-monthly.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,157838,292,1,1,https://www.horoscope.com/us/tarot/tarot-monthly.aspx,159,0,1
+1674060374735,159,/us/tarot/tarot-monthly.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,312,146,1,1,http://www.horoscope.com/us/tarot/tarot-monthly.aspx,159,0,1
+1674060374894,741,/us/tarot/tarot-monthly.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,157526,146,1,1,https://www.horoscope.com/us/tarot/tarot-monthly.aspx,595,0,211
+1674060375635,908,/us/games/compatibility/game-name-compatibility.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159623,340,1,1,https://www.horoscope.com/us/games/compatibility/game-name-compatibility.aspx,157,0,1
+1674060375635,157,/us/games/compatibility/game-name-compatibility.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,336,170,1,1,http://www.horoscope.com/us/games/compatibility/game-name-compatibility.aspx,157,0,1
+1674060375792,751,/us/games/compatibility/game-name-compatibility.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,159287,170,1,1,https://www.horoscope.com/us/games/compatibility/game-name-compatibility.aspx,607,0,205
+1674060376544,881,/articles,200,OK,Tarot - Thread Group 1-1,text,true,,161471,254,1,1,https://www.horoscope.com/articles,157,0,1
+1674060376544,157,/articles-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,293,127,1,1,http://www.horoscope.com/articles,157,0,1
+1674060376701,724,/articles-1,200,OK,Tarot - Thread Group 1-1,text,true,,161178,127,1,1,https://www.horoscope.com/articles,579,0,208
+1674060377425,892,/us/games/divination/game-fortune-cookie.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,154622,326,1,1,https://www.horoscope.com/us/games/divination/game-fortune-cookie.aspx,159,0,1
+1674060377425,159,/us/games/divination/game-fortune-cookie.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,329,163,1,1,http://www.horoscope.com/us/games/divination/game-fortune-cookie.aspx,159,0,1
+1674060377584,733,/us/games/divination/game-fortune-cookie.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,154293,163,1,1,https://www.horoscope.com/us/games/divination/game-fortune-cookie.aspx,585,0,211
+1674060378318,955,/horoscope-dates/,200,OK,Tarot - Thread Group 1-1,text,true,,65139,270,1,1,https://www.horoscope.com/horoscope-dates/,161,0,1
+1674060378318,161,/horoscope-dates/-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,301,135,1,1,http://www.horoscope.com/horoscope-dates/,161,0,1
+1674060378479,794,/horoscope-dates/-1,200,OK,Tarot - Thread Group 1-1,text,true,,64838,135,1,1,https://www.horoscope.com/horoscope-dates/,697,0,206
+1674060379274,907,/us/tarot/tarot-true-love.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,156973,296,1,1,https://www.horoscope.com/us/tarot/tarot-true-love.aspx,166,0,0
+1674060379274,166,/us/tarot/tarot-true-love.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,314,148,1,1,http://www.horoscope.com/us/tarot/tarot-true-love.aspx,166,0,0
+1674060379440,741,/us/tarot/tarot-true-love.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,156659,148,1,1,https://www.horoscope.com/us/tarot/tarot-true-love.aspx,596,0,209
+1674060380182,942,/zodiac-signs/libra,200,OK,Tarot - Thread Group 1-1,text,true,,162765,274,1,1,https://www.horoscope.com/zodiac-signs/libra,159,0,0
+1674060380182,159,/zodiac-signs/libra-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,303,137,1,1,http://www.horoscope.com/zodiac-signs/libra,159,0,0
+1674060380341,783,/zodiac-signs/libra-1,200,OK,Tarot - Thread Group 1-1,text,true,,162462,137,1,1,https://www.horoscope.com/zodiac-signs/libra,635,0,211
+1674060381125,933,/us/horoscopes/money/index-horoscope-money-weekly.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,155990,344,1,1,https://www.horoscope.com/us/horoscopes/money/index-horoscope-money-weekly.aspx,160,0,1
+1674060381125,160,/us/horoscopes/money/index-horoscope-money-weekly.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,338,172,1,1,http://www.horoscope.com/us/horoscopes/money/index-horoscope-money-weekly.aspx,160,0,1
+1674060381285,773,/us/horoscopes/money/index-horoscope-money-weekly.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155652,172,1,1,https://www.horoscope.com/us/horoscopes/money/index-horoscope-money-weekly.aspx,626,0,210
+1674060382059,677,/css-US/tarot.css?v=2022122014,200,OK,Tarot - Thread Group 1-1,text,true,,51159,296,1,1,https://www.horoscope.com/css-US/tarot.css?v=2022122014,154,0,0
+1674060382059,154,/css-US/tarot.css?v=2022122014-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,314,148,1,1,http://www.horoscope.com/css-US/tarot.css?v=2022122014,154,0,0
+1674060382213,523,/css-US/tarot.css?v=2022122014-1,200,OK,Tarot - Thread Group 1-1,text,true,,50845,148,1,1,https://www.horoscope.com/css-US/tarot.css?v=2022122014,473,0,207
+1674060382737,892,/love/compatibility,200,OK,Tarot - Thread Group 1-1,text,true,,157422,274,1,1,https://www.horoscope.com/love/compatibility,157,0,0
+1674060382737,157,/love/compatibility-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,303,137,1,1,http://www.horoscope.com/love/compatibility,157,0,0
+1674060382895,734,/love/compatibility-1,200,OK,Tarot - Thread Group 1-1,text,true,,157119,137,1,1,https://www.horoscope.com/love/compatibility,585,0,210
+1674060383630,587,/images-US/tarot/back/daily-tarot-career.png,200,OK,Tarot - Thread Group 1-1,bin,true,,26615,324,1,1,https://www.horoscope.com/images-US/tarot/back/daily-tarot-career.png,159,0,0
+1674060383630,159,/images-US/tarot/back/daily-tarot-career.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,328,162,1,1,http://www.horoscope.com/images-US/tarot/back/daily-tarot-career.png,159,0,0
+1674060383789,428,/images-US/tarot/back/daily-tarot-career.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,26287,162,1,1,https://www.horoscope.com/images-US/tarot/back/daily-tarot-career.png,427,0,211
+1674060384219,1000,/us/games/compatibility/game-friendship-compatibility.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,156382,352,1,1,https://www.horoscope.com/us/games/compatibility/game-friendship-compatibility.aspx,153,0,1
+1674060384219,153,/us/games/compatibility/game-friendship-compatibility.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,342,176,1,1,http://www.horoscope.com/us/games/compatibility/game-friendship-compatibility.aspx,153,0,1
+1674060384372,847,/us/games/compatibility/game-friendship-compatibility.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,156040,176,1,1,https://www.horoscope.com/us/games/compatibility/game-friendship-compatibility.aspx,700,0,206
+1674060385220,913,/us/tarot/tarot-egyptian.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159291,294,1,1,https://www.horoscope.com/us/tarot/tarot-egyptian.aspx,161,0,0
+1674060385220,161,/us/tarot/tarot-egyptian.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,313,147,1,1,http://www.horoscope.com/us/tarot/tarot-egyptian.aspx,161,0,0
+1674060385382,751,/us/tarot/tarot-egyptian.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,158978,147,1,1,https://www.horoscope.com/us/tarot/tarot-egyptian.aspx,603,0,211
+1674060386133,912,/zodiac-signs,200,OK,Tarot - Thread Group 1-1,text,true,,191408,262,1,1,https://www.horoscope.com/zodiac-signs,155,0,1
+1674060386133,155,/zodiac-signs-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,297,131,1,1,http://www.horoscope.com/zodiac-signs,155,0,1
+1674060386288,757,/zodiac-signs-1,200,OK,Tarot - Thread Group 1-1,text,true,,191111,131,1,1,https://www.horoscope.com/zodiac-signs,609,0,207
+1674060387046,914,/us/tarot/tarot-daily-flirt.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159459,300,1,1,https://www.horoscope.com/us/tarot/tarot-daily-flirt.aspx,154,0,0
+1674060387046,154,/us/tarot/tarot-daily-flirt.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,316,150,1,1,http://www.horoscope.com/us/tarot/tarot-daily-flirt.aspx,154,0,0
+1674060387201,759,/us/tarot/tarot-daily-flirt.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,159143,150,1,1,https://www.horoscope.com/us/tarot/tarot-daily-flirt.aspx,616,0,206
+1674060387961,917,/article/cat-zodiac-signs/,200,OK,Tarot - Thread Group 1-1,text,true,,160770,288,1,1,https://www.horoscope.com/article/cat-zodiac-signs/,153,0,0
+1674060387961,153,/article/cat-zodiac-signs/-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,310,144,1,1,http://www.horoscope.com/article/cat-zodiac-signs/,153,0,0
+1674060388115,763,/article/cat-zodiac-signs/-1,200,OK,Tarot - Thread Group 1-1,text,true,,160460,144,1,1,https://www.horoscope.com/article/cat-zodiac-signs/,614,0,206
+1674060388879,889,/zodiac-signs/scorpio,200,OK,Tarot - Thread Group 1-1,text,true,,161977,278,1,1,https://www.horoscope.com/zodiac-signs/scorpio,157,0,0
+1674060388879,157,/zodiac-signs/scorpio-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,305,139,1,1,http://www.horoscope.com/zodiac-signs/scorpio,157,0,0
+1674060389036,732,/zodiac-signs/scorpio-1,200,OK,Tarot - Thread Group 1-1,text,true,,161672,139,1,1,https://www.horoscope.com/zodiac-signs/scorpio,583,0,213
+1674060389768,1199,/us/games/index-games-compatibility.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,154360,316,1,1,https://www.horoscope.com/us/games/index-games-compatibility.aspx,161,0,1
+1674060389768,161,/us/games/index-games-compatibility.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,324,158,1,1,http://www.horoscope.com/us/games/index-games-compatibility.aspx,161,0,1
+1674060389929,1038,/us/games/index-games-compatibility.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,154036,158,1,1,https://www.horoscope.com/us/games/index-games-compatibility.aspx,890,0,205
+1674060390969,920,/us/horoscopes/general/index-retail-therapy-horoscope.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,155769,352,1,1,https://www.horoscope.com/us/horoscopes/general/index-retail-therapy-horoscope.aspx,155,0,1
+1674060390969,155,/us/horoscopes/general/index-retail-therapy-horoscope.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,342,176,1,1,http://www.horoscope.com/us/horoscopes/general/index-retail-therapy-horoscope.aspx,155,0,1
+1674060391124,765,/us/horoscopes/general/index-retail-therapy-horoscope.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,155427,176,1,1,https://www.horoscope.com/us/horoscopes/general/index-retail-therapy-horoscope.aspx,618,0,212
+1674060391891,890,/birthday-horoscope.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,157532,284,1,1,https://www.horoscope.com/birthday-horoscope.aspx,158,0,0
+1674060391891,158,/birthday-horoscope.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,308,142,1,1,http://www.horoscope.com/birthday-horoscope.aspx,158,0,0
+1674060392049,732,/birthday-horoscope.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,157224,142,1,1,https://www.horoscope.com/birthday-horoscope.aspx,589,0,207
+1674060392783,899,/us/tarot/tarot-daily-love.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159180,298,1,1,https://www.horoscope.com/us/tarot/tarot-daily-love.aspx,155,0,0
+1674060392783,155,/us/tarot/tarot-daily-love.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,315,149,1,1,http://www.horoscope.com/us/tarot/tarot-daily-love.aspx,155,0,0
+1674060392938,744,/us/tarot/tarot-daily-love.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,158865,149,1,1,https://www.horoscope.com/us/tarot/tarot-daily-love.aspx,599,0,208
+1674060393682,875,/us/tarot/index-tarot-reading-forecast.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,153259,322,1,1,https://www.horoscope.com/us/tarot/index-tarot-reading-forecast.aspx,157,0,1
+1674060393682,157,/us/tarot/index-tarot-reading-forecast.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,327,161,1,1,http://www.horoscope.com/us/tarot/index-tarot-reading-forecast.aspx,157,0,1
+1674060393839,718,/us/tarot/index-tarot-reading-forecast.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,152932,161,1,1,https://www.horoscope.com/us/tarot/index-tarot-reading-forecast.aspx,570,0,211
+1674060394558,1079,/saturn-return/,200,OK,Tarot - Thread Group 1-1,text,true,,79543,266,1,1,https://www.horoscope.com/saturn-return/,161,0,1
+1674060394558,161,/saturn-return/-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,299,133,1,1,http://www.horoscope.com/saturn-return/,161,0,1
+1674060394719,918,/saturn-return/-1,200,OK,Tarot - Thread Group 1-1,text,true,,79244,133,1,1,https://www.horoscope.com/saturn-return/,819,0,207
+1674060395637,907,/zodiac-signs/sagittarius,200,OK,Tarot - Thread Group 1-1,text,true,,162297,286,1,1,https://www.horoscope.com/zodiac-signs/sagittarius,155,0,0
+1674060395637,155,/zodiac-signs/sagittarius-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,309,143,1,1,http://www.horoscope.com/zodiac-signs/sagittarius,155,0,0
+1674060395793,751,/zodiac-signs/sagittarius-1,200,OK,Tarot - Thread Group 1-1,text,true,,161988,143,1,1,https://www.horoscope.com/zodiac-signs/sagittarius,604,0,212
+1674060396545,908,/us/tarot/tarot-past-lives.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159798,298,1,1,https://www.horoscope.com/us/tarot/tarot-past-lives.aspx,160,0,0
+1674060396545,160,/us/tarot/tarot-past-lives.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,315,149,1,1,http://www.horoscope.com/us/tarot/tarot-past-lives.aspx,160,0,0
+1674060396705,748,/us/tarot/tarot-past-lives.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,159483,149,1,1,https://www.horoscope.com/us/tarot/tarot-past-lives.aspx,601,0,214
+1674060397454,864,/us/feedback.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,149918,270,1,1,https://www.horoscope.com/us/feedback.aspx,157,0,0
+1674060397454,157,/us/feedback.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,301,135,1,1,http://www.horoscope.com/us/feedback.aspx,157,0,0
+1674060397611,707,/us/feedback.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,149617,135,1,1,https://www.horoscope.com/us/feedback.aspx,561,0,210
+1674060398319,893,/zodiac-signs/aquarius,200,OK,Tarot - Thread Group 1-1,text,true,,161234,280,1,1,https://www.horoscope.com/zodiac-signs/aquarius,159,0,1
+1674060398319,159,/zodiac-signs/aquarius-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,306,140,1,1,http://www.horoscope.com/zodiac-signs/aquarius,159,0,1
+1674060398478,734,/zodiac-signs/aquarius-1,200,OK,Tarot - Thread Group 1-1,text,true,,160928,140,1,1,https://www.horoscope.com/zodiac-signs/aquarius,587,0,212
+1674060399213,562,/images-US/tarot/back/lovers-triangle-you.png,200,OK,Tarot - Thread Group 1-1,bin,true,,16237,326,1,1,https://www.horoscope.com/images-US/tarot/back/lovers-triangle-you.png,154,0,0
+1674060399213,154,/images-US/tarot/back/lovers-triangle-you.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,329,163,1,1,http://www.horoscope.com/images-US/tarot/back/lovers-triangle-you.png,154,0,0
+1674060399367,408,/images-US/tarot/back/lovers-triangle-you.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,15908,163,1,1,https://www.horoscope.com/images-US/tarot/back/lovers-triangle-you.png,408,0,208
+1674060399776,583,/images-US/tarot/back/gems-oracle-love.png,200,OK,Tarot - Thread Group 1-1,bin,true,,19478,320,1,1,https://www.horoscope.com/images-US/tarot/back/gems-oracle-love.png,155,0,1
+1674060399776,155,/images-US/tarot/back/gems-oracle-love.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,326,160,1,1,http://www.horoscope.com/images-US/tarot/back/gems-oracle-love.png,155,0,1
+1674060399931,428,/images-US/tarot/back/gems-oracle-love.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,19152,160,1,1,https://www.horoscope.com/images-US/tarot/back/gems-oracle-love.png,428,0,208
+1674060400360,574,/images-US/upsell/true-love-tarot-reading.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,14416,326,1,1,https://www.horoscope.com/images-US/upsell/true-love-tarot-reading.jpg,160,0,1
+1674060400360,160,/images-US/upsell/true-love-tarot-reading.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,329,163,1,1,http://www.horoscope.com/images-US/upsell/true-love-tarot-reading.jpg,160,0,1
+1674060400520,414,/images-US/upsell/true-love-tarot-reading.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,14087,163,1,1,https://www.horoscope.com/images-US/upsell/true-love-tarot-reading.jpg,414,0,213
+1674060400935,916,/us/tarot/tarot-dream.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,172748,288,1,1,https://www.horoscope.com/us/tarot/tarot-dream.aspx,159,0,1
+1674060400935,159,/us/tarot/tarot-dream.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,310,144,1,1,http://www.horoscope.com/us/tarot/tarot-dream.aspx,159,0,1
+1674060401094,757,/us/tarot/tarot-dream.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,172438,144,1,1,https://www.horoscope.com/us/tarot/tarot-dream.aspx,609,0,208
+1674060401851,589,/images-US/tarot/back/monthly-wellness.png,200,OK,Tarot - Thread Group 1-1,bin,true,,29532,320,1,1,https://www.horoscope.com/images-US/tarot/back/monthly-wellness.png,163,0,2
+1674060401851,163,/images-US/tarot/back/monthly-wellness.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,326,160,1,1,http://www.horoscope.com/images-US/tarot/back/monthly-wellness.png,163,0,2
+1674060402014,426,/images-US/tarot/back/monthly-wellness.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,29206,160,1,1,https://www.horoscope.com/images-US/tarot/back/monthly-wellness.png,425,0,213
+1674060402440,900,/us/tarot/tarot-erotic.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159232,290,1,1,https://www.horoscope.com/us/tarot/tarot-erotic.aspx,159,0,1
+1674060402440,159,/us/tarot/tarot-erotic.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,311,145,1,1,http://www.horoscope.com/us/tarot/tarot-erotic.aspx,159,0,1
+1674060402599,741,/us/tarot/tarot-erotic.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,158921,145,1,1,https://www.horoscope.com/us/tarot/tarot-erotic.aspx,591,0,210
+1674060403341,570,/images-US/tarot/back/tomorrow.png,200,OK,Tarot - Thread Group 1-1,bin,true,,24652,304,1,1,https://www.horoscope.com/images-US/tarot/back/tomorrow.png,156,0,1
+1674060403341,156,/images-US/tarot/back/tomorrow.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,318,152,1,1,http://www.horoscope.com/images-US/tarot/back/tomorrow.png,156,0,1
+1674060403498,413,/images-US/tarot/back/tomorrow.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,24334,152,1,1,https://www.horoscope.com/images-US/tarot/back/tomorrow.png,413,0,207
+1674060403912,625,/images-US/psychic/keen-instant-tarot-reading.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,37800,334,1,1,https://www.horoscope.com/images-US/psychic/keen-instant-tarot-reading.jpg,155,0,0
+1674060403912,155,/images-US/psychic/keen-instant-tarot-reading.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,333,167,1,1,http://www.horoscope.com/images-US/psychic/keen-instant-tarot-reading.jpg,155,0,0
+1674060404067,470,/images-US/psychic/keen-instant-tarot-reading.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,37467,167,1,1,https://www.horoscope.com/images-US/psychic/keen-instant-tarot-reading.jpg,420,0,211
+1674060404538,576,/images-US/tarot/back/lovers-triangle-lover1.png,200,OK,Tarot - Thread Group 1-1,bin,true,,16707,332,1,1,https://www.horoscope.com/images-US/tarot/back/lovers-triangle-lover1.png,158,0,0
+1674060404538,158,/images-US/tarot/back/lovers-triangle-lover1.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,332,166,1,1,http://www.horoscope.com/images-US/tarot/back/lovers-triangle-lover1.png,158,0,0
+1674060404697,417,/images-US/tarot/back/lovers-triangle-lover1.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,16375,166,1,1,https://www.horoscope.com/images-US/tarot/back/lovers-triangle-lover1.png,417,0,211
+1674060405115,579,/images-US/tarot/back/today.png,200,OK,Tarot - Thread Group 1-1,bin,true,,24208,298,1,1,https://www.horoscope.com/images-US/tarot/back/today.png,164,0,0
+1674060405115,164,/images-US/tarot/back/today.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,315,149,1,1,http://www.horoscope.com/images-US/tarot/back/today.png,164,0,0
+1674060405280,414,/images-US/tarot/back/today.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,23893,149,1,1,https://www.horoscope.com/images-US/tarot/back/today.png,412,0,205
+1674060405695,668,/images-US/tarot/back/true-love-your-card.png,200,OK,Tarot - Thread Group 1-1,bin,true,,118605,326,1,1,https://www.horoscope.com/images-US/tarot/back/true-love-your-card.png,156,0,1
+1674060405695,156,/images-US/tarot/back/true-love-your-card.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,329,163,1,1,http://www.horoscope.com/images-US/tarot/back/true-love-your-card.png,156,0,1
+1674060405851,512,/images-US/tarot/back/true-love-your-card.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,118276,163,1,1,https://www.horoscope.com/images-US/tarot/back/true-love-your-card.png,412,0,206
+1674060406363,572,/images-US/tarot/back/breakup-cause.png,200,OK,Tarot - Thread Group 1-1,bin,true,,20672,314,1,1,https://www.horoscope.com/images-US/tarot/back/breakup-cause.png,159,0,1
+1674060406363,159,/images-US/tarot/back/breakup-cause.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,323,157,1,1,http://www.horoscope.com/images-US/tarot/back/breakup-cause.png,159,0,1
+1674060406523,412,/images-US/tarot/back/breakup-cause.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,20349,157,1,1,https://www.horoscope.com/images-US/tarot/back/breakup-cause.png,412,0,210
+1674060406937,575,/images-US/upsell/compatibility-score.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,14281,318,1,1,https://www.horoscope.com/images-US/upsell/compatibility-score.jpg,164,0,0
+1674060406937,164,/images-US/upsell/compatibility-score.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/images-US/upsell/compatibility-score.jpg,164,0,0
+1674060407101,411,/images-US/upsell/compatibility-score.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,13956,159,1,1,https://www.horoscope.com/images-US/upsell/compatibility-score.jpg,411,0,211
+1674060407512,887,/us/tarot/tarot-friend-or-foe.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159365,304,1,1,https://www.horoscope.com/us/tarot/tarot-friend-or-foe.aspx,153,0,1
+1674060407512,153,/us/tarot/tarot-friend-or-foe.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,318,152,1,1,http://www.horoscope.com/us/tarot/tarot-friend-or-foe.aspx,153,0,1
+1674060407666,733,/us/tarot/tarot-friend-or-foe.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,159047,152,1,1,https://www.horoscope.com/us/tarot/tarot-friend-or-foe.aspx,588,0,206
+1674060408400,894,/us/tarot/tarot-zen.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,156939,284,1,1,https://www.horoscope.com/us/tarot/tarot-zen.aspx,156,0,1
+1674060408400,156,/us/tarot/tarot-zen.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,308,142,1,1,http://www.horoscope.com/us/tarot/tarot-zen.aspx,156,0,1
+1674060408556,738,/us/tarot/tarot-zen.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,156631,142,1,1,https://www.horoscope.com/us/tarot/tarot-zen.aspx,594,0,217
+1674060409295,908,/us/tarot/tarot-former-flame.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159121,302,1,1,https://www.horoscope.com/us/tarot/tarot-former-flame.aspx,168,0,1
+1674060409295,168,/us/tarot/tarot-former-flame.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,317,151,1,1,http://www.horoscope.com/us/tarot/tarot-former-flame.aspx,168,0,1
+1674060409463,740,/us/tarot/tarot-former-flame.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,158804,151,1,1,https://www.horoscope.com/us/tarot/tarot-former-flame.aspx,592,0,210
+1674060410204,922,/us/tarot/tarot-inner-animal.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,164768,302,1,1,https://www.horoscope.com/us/tarot/tarot-inner-animal.aspx,158,0,0
+1674060410204,158,/us/tarot/tarot-inner-animal.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,317,151,1,1,http://www.horoscope.com/us/tarot/tarot-inner-animal.aspx,158,0,0
+1674060410362,764,/us/tarot/tarot-inner-animal.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,164451,151,1,1,https://www.horoscope.com/us/tarot/tarot-inner-animal.aspx,616,0,211
+1674060411127,569,/images-US/tarot/back/lovers-triangle-lover2.png,200,OK,Tarot - Thread Group 1-1,bin,true,,16715,332,1,1,https://www.horoscope.com/images-US/tarot/back/lovers-triangle-lover2.png,159,0,1
+1674060411127,159,/images-US/tarot/back/lovers-triangle-lover2.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,332,166,1,1,http://www.horoscope.com/images-US/tarot/back/lovers-triangle-lover2.png,159,0,1
+1674060411286,410,/images-US/tarot/back/lovers-triangle-lover2.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,16383,166,1,1,https://www.horoscope.com/images-US/tarot/back/lovers-triangle-lover2.png,410,0,207
+1674060411696,899,/us/tarot/tarot-egyptian-love.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159209,304,1,1,https://www.horoscope.com/us/tarot/tarot-egyptian-love.aspx,158,0,1
+1674060411696,158,/us/tarot/tarot-egyptian-love.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,318,152,1,1,http://www.horoscope.com/us/tarot/tarot-egyptian-love.aspx,158,0,1
+1674060411854,741,/us/tarot/tarot-egyptian-love.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,158891,152,1,1,https://www.horoscope.com/us/tarot/tarot-egyptian-love.aspx,593,0,211
+1674060412596,575,/images-US/upsell/2023-tarot-reading.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,13051,316,1,1,https://www.horoscope.com/images-US/upsell/2023-tarot-reading.jpg,158,0,1
+1674060412596,158,/images-US/upsell/2023-tarot-reading.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,324,158,1,1,http://www.horoscope.com/images-US/upsell/2023-tarot-reading.jpg,158,0,1
+1674060412754,417,/images-US/upsell/2023-tarot-reading.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,12727,158,1,1,https://www.horoscope.com/images-US/upsell/2023-tarot-reading.jpg,417,0,212
+1674060413172,688,/css-US/tarot-index.css?v=2022122014,200,OK,Tarot - Thread Group 1-1,text,true,,46877,308,1,1,https://www.horoscope.com/css-US/tarot-index.css?v=2022122014,160,0,1
+1674060413172,160,/css-US/tarot-index.css?v=2022122014-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,320,154,1,1,http://www.horoscope.com/css-US/tarot-index.css?v=2022122014,160,0,1
+1674060413332,528,/css-US/tarot-index.css?v=2022122014-1,200,OK,Tarot - Thread Group 1-1,text,true,,46557,154,1,1,https://www.horoscope.com/css-US/tarot-index.css?v=2022122014,477,0,212
+1674060413861,574,/images-US/upsell/crystal-ball-tarot.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,11514,316,1,1,https://www.horoscope.com/images-US/upsell/crystal-ball-tarot.jpg,159,0,1
+1674060413861,159,/images-US/upsell/crystal-ball-tarot.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,324,158,1,1,http://www.horoscope.com/images-US/upsell/crystal-ball-tarot.jpg,159,0,1
+1674060414021,414,/images-US/upsell/crystal-ball-tarot.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,11190,158,1,1,https://www.horoscope.com/images-US/upsell/crystal-ball-tarot.jpg,414,0,211
+1674060414436,566,/images-US/tarot/back/gems-oracle-health.png,200,OK,Tarot - Thread Group 1-1,bin,true,,20417,324,1,1,https://www.horoscope.com/images-US/tarot/back/gems-oracle-health.png,156,0,1
+1674060414436,156,/images-US/tarot/back/gems-oracle-health.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,328,162,1,1,http://www.horoscope.com/images-US/tarot/back/gems-oracle-health.png,156,0,1
+1674060414593,409,/images-US/tarot/back/gems-oracle-health.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,20089,162,1,1,https://www.horoscope.com/images-US/tarot/back/gems-oracle-health.png,408,0,207
+1674060415002,563,/images-US/tarot/back/gems-oracle-career.png,200,OK,Tarot - Thread Group 1-1,bin,true,,20668,324,1,1,https://www.horoscope.com/images-US/tarot/back/gems-oracle-career.png,155,0,1
+1674060415002,155,/images-US/tarot/back/gems-oracle-career.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,328,162,1,1,http://www.horoscope.com/images-US/tarot/back/gems-oracle-career.png,155,0,1
+1674060415157,408,/images-US/tarot/back/gems-oracle-career.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,20340,162,1,1,https://www.horoscope.com/images-US/tarot/back/gems-oracle-career.png,408,0,207
+1674060415566,896,/us/tarot/tarot-make-a-wish.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159186,300,1,1,https://www.horoscope.com/us/tarot/tarot-make-a-wish.aspx,158,0,1
+1674060415566,158,/us/tarot/tarot-make-a-wish.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,316,150,1,1,http://www.horoscope.com/us/tarot/tarot-make-a-wish.aspx,158,0,1
+1674060415724,738,/us/tarot/tarot-make-a-wish.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,158870,150,1,1,https://www.horoscope.com/us/tarot/tarot-make-a-wish.aspx,589,0,210
+1674060416463,904,/us/tarot/tarot-power.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159566,288,1,1,https://www.horoscope.com/us/tarot/tarot-power.aspx,153,0,0
+1674060416463,153,/us/tarot/tarot-power.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,310,144,1,1,http://www.horoscope.com/us/tarot/tarot-power.aspx,153,0,0
+1674060416617,750,/us/tarot/tarot-power.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,159256,144,1,1,https://www.horoscope.com/us/tarot/tarot-power.aspx,604,0,207
+1674060417375,570,/images-US/tarot/back/breakup-advice.png,200,OK,Tarot - Thread Group 1-1,bin,true,,20754,316,1,1,https://www.horoscope.com/images-US/tarot/back/breakup-advice.png,160,0,1
+1674060417375,160,/images-US/tarot/back/breakup-advice.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,324,158,1,1,http://www.horoscope.com/images-US/tarot/back/breakup-advice.png,160,0,1
+1674060417535,410,/images-US/tarot/back/breakup-advice.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,20430,158,1,1,https://www.horoscope.com/images-US/tarot/back/breakup-advice.png,409,0,211
+1674060417946,512,/images-US/upsell/guardian-angel-tarot.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,8287,320,1,1,https://www.horoscope.com/images-US/upsell/guardian-angel-tarot.jpg,157,0,1
+1674060417946,157,/images-US/upsell/guardian-angel-tarot.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,326,160,1,1,http://www.horoscope.com/images-US/upsell/guardian-angel-tarot.jpg,157,0,1
+1674060418103,355,/images-US/upsell/guardian-angel-tarot.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7961,160,1,1,https://www.horoscope.com/images-US/upsell/guardian-angel-tarot.jpg,355,0,207
+1674060418458,680,/images-US/upsell/2023-love-tarot.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,78644,310,1,1,https://www.horoscope.com/images-US/upsell/2023-love-tarot.jpg,159,0,1
+1674060418458,159,/images-US/upsell/2023-love-tarot.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,321,155,1,1,http://www.horoscope.com/images-US/upsell/2023-love-tarot.jpg,159,0,1
+1674060418618,520,/images-US/upsell/2023-love-tarot.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,78323,155,1,1,https://www.horoscope.com/images-US/upsell/2023-love-tarot.jpg,418,0,212
+1674060419139,668,/images-US/tarot/back/true-love-partners-card.png,200,OK,Tarot - Thread Group 1-1,bin,true,,114401,334,1,1,https://www.horoscope.com/images-US/tarot/back/true-love-partners-card.png,159,0,1
+1674060419139,159,/images-US/tarot/back/true-love-partners-card.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,333,167,1,1,http://www.horoscope.com/images-US/tarot/back/true-love-partners-card.png,159,0,1
+1674060419298,509,/images-US/tarot/back/true-love-partners-card.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,114068,167,1,1,https://www.horoscope.com/images-US/tarot/back/true-love-partners-card.png,410,0,208
+1674060419807,904,/us/tarot/tarot-weekly.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,159305,290,1,1,https://www.horoscope.com/us/tarot/tarot-weekly.aspx,155,0,1
+1674060419807,155,/us/tarot/tarot-weekly.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,311,145,1,1,http://www.horoscope.com/us/tarot/tarot-weekly.aspx,155,0,1
+1674060419962,749,/us/tarot/tarot-weekly.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,158994,145,1,1,https://www.horoscope.com/us/tarot/tarot-weekly.aspx,604,0,208
+1674060420713,910,/us/tarot/tarot-white-magic.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,156622,300,1,1,https://www.horoscope.com/us/tarot/tarot-white-magic.aspx,159,0,1
+1674060420713,159,/us/tarot/tarot-white-magic.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,316,150,1,1,http://www.horoscope.com/us/tarot/tarot-white-magic.aspx,159,0,1
+1674060420873,750,/us/tarot/tarot-white-magic.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,156306,150,1,1,https://www.horoscope.com/us/tarot/tarot-white-magic.aspx,604,0,212
+1674060421624,744,/css-US/main.css?v=2022122014,200,OK,Tarot - Thread Group 1-1,text,true,,107363,294,1,1,https://www.horoscope.com/css-US/main.css?v=2022122014,156,0,0
+1674060421624,156,/css-US/main.css?v=2022122014-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,313,147,1,1,http://www.horoscope.com/css-US/main.css?v=2022122014,156,0,0
+1674060421780,588,/css-US/main.css?v=2022122014-1,200,OK,Tarot - Thread Group 1-1,text,true,,107050,147,1,1,https://www.horoscope.com/css-US/main.css?v=2022122014,487,0,212
+1674060422368,574,/images-US/tarot/back/weekly-monday.png,200,OK,Tarot - Thread Group 1-1,bin,true,,20995,314,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-monday.png,159,0,1
+1674060422368,159,/images-US/tarot/back/weekly-monday.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,323,157,1,1,http://www.horoscope.com/images-US/tarot/back/weekly-monday.png,159,0,1
+1674060422527,415,/images-US/tarot/back/weekly-monday.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,20672,157,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-monday.png,414,0,212
+1674060422943,568,/images-US/tarot/back/white-magic-remedy.png,200,OK,Tarot - Thread Group 1-1,bin,true,,19149,324,1,1,https://www.horoscope.com/images-US/tarot/back/white-magic-remedy.png,161,0,1
+1674060422943,161,/images-US/tarot/back/white-magic-remedy.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,328,162,1,1,http://www.horoscope.com/images-US/tarot/back/white-magic-remedy.png,161,0,1
+1674060423104,407,/images-US/tarot/back/white-magic-remedy.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,18821,162,1,1,https://www.horoscope.com/images-US/tarot/back/white-magic-remedy.png,407,0,212
+1674060423512,584,/images-US/tarot/back/weekly-wednesday.png,200,OK,Tarot - Thread Group 1-1,bin,true,,21313,320,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-wednesday.png,154,0,0
+1674060423512,154,/images-US/tarot/back/weekly-wednesday.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,326,160,1,1,http://www.horoscope.com/images-US/tarot/back/weekly-wednesday.png,154,0,0
+1674060423666,430,/images-US/tarot/back/weekly-wednesday.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,20987,160,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-wednesday.png,430,0,207
+1674060424098,573,/images-US/tarot/back/yinyang-yin.png,200,OK,Tarot - Thread Group 1-1,bin,true,,14396,310,1,1,https://www.horoscope.com/images-US/tarot/back/yinyang-yin.png,160,0,1
+1674060424098,160,/images-US/tarot/back/yinyang-yin.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,321,155,1,1,http://www.horoscope.com/images-US/tarot/back/yinyang-yin.png,160,0,1
+1674060424258,413,/images-US/tarot/back/yinyang-yin.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,14075,155,1,1,https://www.horoscope.com/images-US/tarot/back/yinyang-yin.png,413,0,211
+1674060424672,572,/images-US/tarot/back/weekly-saturday.png,200,OK,Tarot - Thread Group 1-1,bin,true,,21064,318,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-saturday.png,159,0,1
+1674060424672,159,/images-US/tarot/back/weekly-saturday.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/images-US/tarot/back/weekly-saturday.png,159,0,1
+1674060424831,413,/images-US/tarot/back/weekly-saturday.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,20739,159,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-saturday.png,412,0,213
+1674060425244,566,/images-US/tarot/back/weekly-tuesday.png,200,OK,Tarot - Thread Group 1-1,bin,true,,20873,316,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-tuesday.png,161,0,1
+1674060425244,161,/images-US/tarot/back/weekly-tuesday.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,324,158,1,1,http://www.horoscope.com/images-US/tarot/back/weekly-tuesday.png,161,0,1
+1674060425405,405,/images-US/tarot/back/weekly-tuesday.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,20549,158,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-tuesday.png,405,0,206
+1674060425811,571,/images-US/tarot/back/white-magic-cause.png,200,OK,Tarot - Thread Group 1-1,bin,true,,19123,322,1,1,https://www.horoscope.com/images-US/tarot/back/white-magic-cause.png,158,0,1
+1674060425811,158,/images-US/tarot/back/white-magic-cause.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,327,161,1,1,http://www.horoscope.com/images-US/tarot/back/white-magic-cause.png,158,0,1
+1674060425969,413,/images-US/tarot/back/white-magic-cause.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,18796,161,1,1,https://www.horoscope.com/images-US/tarot/back/white-magic-cause.png,413,0,207
+1674060426383,570,/images-US/tarot/back/weekly-sunday.png,200,OK,Tarot - Thread Group 1-1,bin,true,,20942,314,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-sunday.png,155,0,0
+1674060426383,155,/images-US/tarot/back/weekly-sunday.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,323,157,1,1,http://www.horoscope.com/images-US/tarot/back/weekly-sunday.png,155,0,0
+1674060426538,415,/images-US/tarot/back/weekly-sunday.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,20619,157,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-sunday.png,415,0,214
+1674060426954,581,/images-US/tarot/back/weekly-thursday.png,200,OK,Tarot - Thread Group 1-1,bin,true,,20971,318,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-thursday.png,159,0,1
+1674060426954,159,/images-US/tarot/back/weekly-thursday.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/images-US/tarot/back/weekly-thursday.png,159,0,1
+1674060427113,422,/images-US/tarot/back/weekly-thursday.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,20646,159,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-thursday.png,420,0,211
+1674060427536,584,/images-US/tarot/back/weekly-friday.png,200,OK,Tarot - Thread Group 1-1,bin,true,,20670,314,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-friday.png,169,0,1
+1674060427536,169,/images-US/tarot/back/weekly-friday.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,323,157,1,1,http://www.horoscope.com/images-US/tarot/back/weekly-friday.png,169,0,1
+1674060427705,415,/images-US/tarot/back/weekly-friday.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,20347,157,1,1,https://www.horoscope.com/images-US/tarot/back/weekly-friday.png,415,0,207
+1674060428120,574,/images-US/tarot/back/yinyang-yang.png,200,OK,Tarot - Thread Group 1-1,bin,true,,14690,312,1,1,https://www.horoscope.com/images-US/tarot/back/yinyang-yang.png,155,0,1
+1674060428120,155,/images-US/tarot/back/yinyang-yang.png-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,322,156,1,1,http://www.horoscope.com/images-US/tarot/back/yinyang-yang.png,155,0,1
+1674060428275,419,/images-US/tarot/back/yinyang-yang.png-1,200,OK,Tarot - Thread Group 1-1,bin,true,,14368,156,1,1,https://www.horoscope.com/images-US/tarot/back/yinyang-yang.png,419,0,211
+1674060428695,962,/us/tarot/index-tarot-card-meaning.aspx,200,OK,Tarot - Thread Group 1-1,text,true,,160038,314,1,1,https://www.horoscope.com/us/tarot/index-tarot-card-meaning.aspx,161,0,0
+1674060428695,161,/us/tarot/index-tarot-card-meaning.aspx-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,323,157,1,1,http://www.horoscope.com/us/tarot/index-tarot-card-meaning.aspx,161,0,0
+1674060428856,801,/us/tarot/index-tarot-card-meaning.aspx-1,200,OK,Tarot - Thread Group 1-1,text,true,,159715,157,1,1,https://www.horoscope.com/us/tarot/index-tarot-card-meaning.aspx,621,0,212
+1674060429658,521,/images-US/tarot/deck-lumina/wheel-of-fortune.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,8448,334,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/wheel-of-fortune.jpg,164,0,1
+1674060429658,164,/images-US/tarot/deck-lumina/wheel-of-fortune.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,333,167,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/wheel-of-fortune.jpg,164,0,1
+1674060429822,357,/images-US/tarot/deck-lumina/wheel-of-fortune.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,8115,167,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/wheel-of-fortune.jpg,357,0,211
+1674060430180,529,/images-US/tarot/deck-lumina/the-moon.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,7349,318,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-moon.jpg,164,0,0
+1674060430180,164,/images-US/tarot/deck-lumina/the-moon.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-moon.jpg,164,0,0
+1674060430344,365,/images-US/tarot/deck-lumina/the-moon.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7024,159,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-moon.jpg,365,0,211
+1674060430710,558,/images-US/tarot/deck-lumina/the-empress.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,11015,324,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-empress.jpg,156,0,0
+1674060430710,156,/images-US/tarot/deck-lumina/the-empress.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,328,162,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-empress.jpg,156,0,0
+1674060430866,402,/images-US/tarot/deck-lumina/the-empress.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,10687,162,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-empress.jpg,402,0,206
+1674060431268,578,/images-US/tarot/deck-lumina/temperance.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,9911,322,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/temperance.jpg,158,0,1
+1674060431268,158,/images-US/tarot/deck-lumina/temperance.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,327,161,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/temperance.jpg,158,0,1
+1674060431426,420,/images-US/tarot/deck-lumina/temperance.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,9584,161,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/temperance.jpg,420,0,206
+1674060431847,904,/tarot/tarot-card-meaning/the-world,200,OK,Tarot - Thread Group 1-1,text,true,,160462,306,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-world,157,0,1
+1674060431847,157,/tarot/tarot-card-meaning/the-world-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,319,153,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-world,157,0,1
+1674060432004,747,/tarot/tarot-card-meaning/the-world-1,200,OK,Tarot - Thread Group 1-1,text,true,,160143,153,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-world,598,0,212
+1674060432752,958,/tarot/tarot-card-meaning/the-wheel-of-fortune,200,OK,Tarot - Thread Group 1-1,text,true,,160380,328,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-wheel-of-fortune,175,0,0
+1674060432752,175,/tarot/tarot-card-meaning/the-wheel-of-fortune-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,330,164,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-wheel-of-fortune,175,0,0
+1674060432927,783,/tarot/tarot-card-meaning/the-wheel-of-fortune-1,200,OK,Tarot - Thread Group 1-1,text,true,,160050,164,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-wheel-of-fortune,629,0,209
+1674060433711,885,/tarot/tarot-card-meaning/the-magician,200,OK,Tarot - Thread Group 1-1,text,true,,160487,312,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-magician,162,0,0
+1674060433711,162,/tarot/tarot-card-meaning/the-magician-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,322,156,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-magician,162,0,0
+1674060433873,723,/tarot/tarot-card-meaning/the-magician-1,200,OK,Tarot - Thread Group 1-1,text,true,,160165,156,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-magician,580,0,205
+1674060434597,513,/images-US/tarot/deck-lumina/the-fool.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,8300,318,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-fool.jpg,155,0,0
+1674060434597,155,/images-US/tarot/deck-lumina/the-fool.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-fool.jpg,155,0,0
+1674060434752,358,/images-US/tarot/deck-lumina/the-fool.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7975,159,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-fool.jpg,358,0,211
+1674060435111,940,/tarot/tarot-card-meaning/strength,200,OK,Tarot - Thread Group 1-1,text,true,,160460,304,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/strength,172,0,1
+1674060435111,172,/tarot/tarot-card-meaning/strength-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,318,152,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/strength,172,0,1
+1674060435284,767,/tarot/tarot-card-meaning/strength-1,200,OK,Tarot - Thread Group 1-1,text,true,,160142,152,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/strength,590,0,210
+1674060436053,534,/images-US/tarot/deck-lumina/the-lovers.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,8057,322,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-lovers.jpg,180,0,1
+1674060436053,180,/images-US/tarot/deck-lumina/the-lovers.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,327,161,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-lovers.jpg,180,0,1
+1674060436233,354,/images-US/tarot/deck-lumina/the-lovers.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7730,161,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-lovers.jpg,353,0,205
+1674060436587,523,/images-US/tarot/deck-lumina/the-world.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,8253,320,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-world.jpg,161,0,1
+1674060436587,161,/images-US/tarot/deck-lumina/the-world.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,326,160,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-world.jpg,161,0,1
+1674060436748,362,/images-US/tarot/deck-lumina/the-world.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7927,160,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-world.jpg,362,0,206
+1674060437111,1058,/tarot/tarot-card-meaning/the-high-priestess,200,OK,Tarot - Thread Group 1-1,text,true,,160522,324,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-high-priestess,153,0,0
+1674060437111,153,/tarot/tarot-card-meaning/the-high-priestess-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,328,162,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-high-priestess,153,0,0
+1674060437264,905,/tarot/tarot-card-meaning/the-high-priestess-1,200,OK,Tarot - Thread Group 1-1,text,true,,160194,162,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-high-priestess,754,0,212
+1674060438170,929,/tarot/tarot-card-meaning/death,200,OK,Tarot - Thread Group 1-1,text,true,,160560,298,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/death,158,0,0
+1674060438170,158,/tarot/tarot-card-meaning/death-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,315,149,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/death,158,0,0
+1674060438328,771,/tarot/tarot-card-meaning/death-1,200,OK,Tarot - Thread Group 1-1,text,true,,160245,149,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/death,621,0,209
+1674060439099,883,/tarot/tarot-card-meaning/the-emperor,200,OK,Tarot - Thread Group 1-1,text,true,,160427,310,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-emperor,156,0,1
+1674060439099,156,/tarot/tarot-card-meaning/the-emperor-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,321,155,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-emperor,156,0,1
+1674060439255,727,/tarot/tarot-card-meaning/the-emperor-1,200,OK,Tarot - Thread Group 1-1,text,true,,160106,155,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-emperor,582,0,207
+1674060439983,900,/tarot/tarot-card-meaning/temperance,200,OK,Tarot - Thread Group 1-1,text,true,,160544,308,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/temperance,170,0,0
+1674060439983,170,/tarot/tarot-card-meaning/temperance-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,320,154,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/temperance,170,0,0
+1674060440153,730,/tarot/tarot-card-meaning/temperance-1,200,OK,Tarot - Thread Group 1-1,text,true,,160224,154,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/temperance,589,0,206
+1674060440883,921,/tarot/tarot-card-meaning/justice,200,OK,Tarot - Thread Group 1-1,text,true,,160689,302,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/justice,179,0,1
+1674060440883,179,/tarot/tarot-card-meaning/justice-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,317,151,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/justice,179,0,1
+1674060441062,742,/tarot/tarot-card-meaning/justice-1,200,OK,Tarot - Thread Group 1-1,text,true,,160372,151,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/justice,593,0,211
+1674060441805,939,/tarot/tarot-card-meaning/the-star,200,OK,Tarot - Thread Group 1-1,text,true,,160365,304,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-star,165,0,0
+1674060441805,165,/tarot/tarot-card-meaning/the-star-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,318,152,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-star,165,0,0
+1674060441971,773,/tarot/tarot-card-meaning/the-star-1,200,OK,Tarot - Thread Group 1-1,text,true,,160047,152,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-star,625,0,210
+1674060442745,895,/tarot/tarot-card-meaning/the-lovers,200,OK,Tarot - Thread Group 1-1,text,true,,160586,308,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-lovers,154,0,0
+1674060442745,154,/tarot/tarot-card-meaning/the-lovers-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,320,154,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-lovers,154,0,0
+1674060442899,741,/tarot/tarot-card-meaning/the-lovers-1,200,OK,Tarot - Thread Group 1-1,text,true,,160266,154,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-lovers,596,0,205
+1674060443640,518,/images-US/tarot/deck-lumina/the-hermit.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,8013,322,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-hermit.jpg,155,0,1
+1674060443640,155,/images-US/tarot/deck-lumina/the-hermit.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,327,161,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-hermit.jpg,155,0,1
+1674060443795,363,/images-US/tarot/deck-lumina/the-hermit.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7686,161,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-hermit.jpg,363,0,207
+1674060444159,903,/tarot/tarot-card-meaning/the-fool,200,OK,Tarot - Thread Group 1-1,text,true,,160499,304,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-fool,159,0,1
+1674060444159,159,/tarot/tarot-card-meaning/the-fool-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,318,152,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-fool,159,0,1
+1674060444318,744,/tarot/tarot-card-meaning/the-fool-1,200,OK,Tarot - Thread Group 1-1,text,true,,160181,152,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-fool,596,0,210
+1674060445063,619,/images-US/tarot/deck-lumina/the-sun.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,11155,316,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-sun.jpg,153,0,0
+1674060445063,153,/images-US/tarot/deck-lumina/the-sun.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,324,158,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-sun.jpg,153,0,0
+1674060445216,466,/images-US/tarot/deck-lumina/the-sun.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,10831,158,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-sun.jpg,466,0,210
+1674060445683,909,/tarot/tarot-card-meaning/the-tower,200,OK,Tarot - Thread Group 1-1,text,true,,160777,306,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-tower,157,0,0
+1674060445683,157,/tarot/tarot-card-meaning/the-tower-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,319,153,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-tower,157,0,0
+1674060445840,752,/tarot/tarot-card-meaning/the-tower-1,200,OK,Tarot - Thread Group 1-1,text,true,,160458,153,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-tower,604,0,211
+1674060446592,584,/images-US/tarot/deck-lumina/judgement.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,9140,320,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/judgement.jpg,156,0,1
+1674060446592,156,/images-US/tarot/deck-lumina/judgement.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,326,160,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/judgement.jpg,156,0,1
+1674060446748,428,/images-US/tarot/deck-lumina/judgement.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,8814,160,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/judgement.jpg,428,0,211
+1674060447177,517,/images-US/tarot/deck-lumina/justice.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,8073,316,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/justice.jpg,158,0,1
+1674060447177,158,/images-US/tarot/deck-lumina/justice.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,324,158,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/justice.jpg,158,0,1
+1674060447335,359,/images-US/tarot/deck-lumina/justice.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7749,158,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/justice.jpg,359,0,206
+1674060447695,907,/tarot/tarot-card-meaning/the-chariot,200,OK,Tarot - Thread Group 1-1,text,true,,160487,310,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-chariot,163,0,1
+1674060447695,163,/tarot/tarot-card-meaning/the-chariot-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,321,155,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-chariot,163,0,1
+1674060447858,744,/tarot/tarot-card-meaning/the-chariot-1,200,OK,Tarot - Thread Group 1-1,text,true,,160166,155,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-chariot,603,0,209
+1674060448603,898,/tarot/tarot-card-meaning/the-pope,200,OK,Tarot - Thread Group 1-1,text,true,,160509,304,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-pope,158,0,0
+1674060448603,158,/tarot/tarot-card-meaning/the-pope-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,318,152,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-pope,158,0,0
+1674060448762,739,/tarot/tarot-card-meaning/the-pope-1,200,OK,Tarot - Thread Group 1-1,text,true,,160191,152,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-pope,591,0,210
+1674060449501,890,/tarot/tarot-card-meaning/the-sun,200,OK,Tarot - Thread Group 1-1,text,true,,160469,302,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-sun,156,0,1
+1674060449501,156,/tarot/tarot-card-meaning/the-sun-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,317,151,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-sun,156,0,1
+1674060449657,734,/tarot/tarot-card-meaning/the-sun-1,200,OK,Tarot - Thread Group 1-1,text,true,,160152,151,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-sun,591,0,206
+1674060450392,536,/images-US/tarot/deck-lumina/the-magician.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,8261,326,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-magician.jpg,168,0,1
+1674060450392,168,/images-US/tarot/deck-lumina/the-magician.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,329,163,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-magician.jpg,168,0,1
+1674060450560,368,/images-US/tarot/deck-lumina/the-magician.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7932,163,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-magician.jpg,368,0,214
+1674060450928,904,/tarot/tarot-card-meaning/the-judgement,200,OK,Tarot - Thread Group 1-1,text,true,,160613,314,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-judgement,162,0,1
+1674060450928,162,/tarot/tarot-card-meaning/the-judgement-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,323,157,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-judgement,162,0,1
+1674060451090,742,/tarot/tarot-card-meaning/the-judgement-1,200,OK,Tarot - Thread Group 1-1,text,true,,160290,157,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-judgement,596,0,205
+1674060451832,521,/images-US/tarot/deck-lumina/death.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,7993,312,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/death.jpg,157,0,1
+1674060451832,157,/images-US/tarot/deck-lumina/death.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,322,156,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/death.jpg,157,0,1
+1674060451990,363,/images-US/tarot/deck-lumina/death.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7671,156,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/death.jpg,363,0,206
+1674060452353,525,/images-US/tarot/deck-lumina/the-emperor.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,9354,324,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-emperor.jpg,159,0,1
+1674060452353,159,/images-US/tarot/deck-lumina/the-emperor.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,328,162,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-emperor.jpg,159,0,1
+1674060452512,366,/images-US/tarot/deck-lumina/the-emperor.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,9026,162,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-emperor.jpg,366,0,210
+1674060452879,755,/images-US/tarot/deck-lumina/the-chariot.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,10474,324,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-chariot.jpg,154,0,0
+1674060452879,154,/images-US/tarot/deck-lumina/the-chariot.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,328,162,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-chariot.jpg,154,0,0
+1674060453033,601,/images-US/tarot/deck-lumina/the-chariot.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,10146,162,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-chariot.jpg,601,0,223
+1674060453635,538,/images-US/tarot/deck-lumina/the-tower.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,7143,320,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-tower.jpg,171,0,1
+1674060453635,171,/images-US/tarot/deck-lumina/the-tower.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,326,160,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-tower.jpg,171,0,1
+1674060453806,367,/images-US/tarot/deck-lumina/the-tower.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,6817,160,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-tower.jpg,367,0,217
+1674060454174,523,/images-US/tarot/deck-lumina/strength.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,7889,318,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/strength.jpg,159,0,1
+1674060454174,159,/images-US/tarot/deck-lumina/strength.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/strength.jpg,159,0,1
+1674060454333,364,/images-US/tarot/deck-lumina/strength.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7564,159,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/strength.jpg,364,0,208
+1674060454699,519,/images-US/tarot/deck-lumina/the-devil.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,7644,320,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-devil.jpg,156,0,0
+1674060454699,156,/images-US/tarot/deck-lumina/the-devil.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,326,160,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-devil.jpg,156,0,0
+1674060454855,363,/images-US/tarot/deck-lumina/the-devil.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7318,160,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-devil.jpg,363,0,210
+1674060455220,522,/images-US/tarot/deck-lumina/the-hierophant.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,8688,330,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-hierophant.jpg,163,0,0
+1674060455220,163,/images-US/tarot/deck-lumina/the-hierophant.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,331,165,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-hierophant.jpg,163,0,0
+1674060455383,359,/images-US/tarot/deck-lumina/the-hierophant.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,8357,165,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-hierophant.jpg,359,0,207
+1674060455743,925,/tarot/tarot-card-meaning/the-hermit,200,OK,Tarot - Thread Group 1-1,text,true,,160324,308,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-hermit,160,0,0
+1674060455743,160,/tarot/tarot-card-meaning/the-hermit-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,320,154,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-hermit,160,0,0
+1674060455903,765,/tarot/tarot-card-meaning/the-hermit-1,200,OK,Tarot - Thread Group 1-1,text,true,,160004,154,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-hermit,614,0,210
+1674060456669,521,/images-US/tarot/deck-lumina/the-high-priestess.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,8391,338,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-high-priestess.jpg,158,0,1
+1674060456669,158,/images-US/tarot/deck-lumina/the-high-priestess.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,335,169,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-high-priestess.jpg,158,0,1
+1674060456827,363,/images-US/tarot/deck-lumina/the-high-priestess.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,8056,169,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-high-priestess.jpg,363,0,210
+1674060457190,516,/images-US/tarot/deck-lumina/the-hanged-man.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,7853,330,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-hanged-man.jpg,156,0,1
+1674060457190,156,/images-US/tarot/deck-lumina/the-hanged-man.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,331,165,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-hanged-man.jpg,156,0,1
+1674060457346,360,/images-US/tarot/deck-lumina/the-hanged-man.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7522,165,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-hanged-man.jpg,360,0,207
+1674060457707,1051,/tarot/tarot-card-meaning/the-hanged-man,200,OK,Tarot - Thread Group 1-1,text,true,,160602,316,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-hanged-man,158,0,1
+1674060457707,158,/tarot/tarot-card-meaning/the-hanged-man-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,324,158,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-hanged-man,158,0,1
+1674060457865,893,/tarot/tarot-card-meaning/the-hanged-man-1,200,OK,Tarot - Thread Group 1-1,text,true,,160278,158,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-hanged-man,743,0,211
+1674060458759,527,/images-US/tarot/deck-lumina/the-star.jpg,200,OK,Tarot - Thread Group 1-1,bin,true,,7922,318,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-star.jpg,160,0,1
+1674060458759,160,/images-US/tarot/deck-lumina/the-star.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,325,159,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-star.jpg,160,0,1
+1674060458919,367,/images-US/tarot/deck-lumina/the-star.jpg-1,200,OK,Tarot - Thread Group 1-1,bin,true,,7597,159,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-star.jpg,367,0,205
+1674060459286,898,/tarot/tarot-card-meaning/the-moon,200,OK,Tarot - Thread Group 1-1,text,true,,160682,304,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-moon,159,0,1
+1674060459286,159,/tarot/tarot-card-meaning/the-moon-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,318,152,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-moon,159,0,1
+1674060459445,739,/tarot/tarot-card-meaning/the-moon-1,200,OK,Tarot - Thread Group 1-1,text,true,,160364,152,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-moon,597,0,207
+1674060460185,931,/tarot/tarot-card-meaning/the-empress,200,OK,Tarot - Thread Group 1-1,text,true,,160460,310,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-empress,159,0,1
+1674060460185,159,/tarot/tarot-card-meaning/the-empress-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,321,155,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-empress,159,0,1
+1674060460344,772,/tarot/tarot-card-meaning/the-empress-1,200,OK,Tarot - Thread Group 1-1,text,true,,160139,155,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-empress,622,0,210
+1674060461117,616,/css-US/tarot.css?v=2023010406,200,OK,Tarot - Thread Group 1-1,text,true,,38171,296,1,1,https://www.horoscope.com/css-US/tarot.css?v=2023010406,157,0,0
+1674060461117,157,/css-US/tarot.css?v=2023010406-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,314,148,1,1,http://www.horoscope.com/css-US/tarot.css?v=2023010406,157,0,0
+1674060461274,459,/css-US/tarot.css?v=2023010406-1,200,OK,Tarot - Thread Group 1-1,text,true,,37857,148,1,1,https://www.horoscope.com/css-US/tarot.css?v=2023010406,410,0,208
+1674060461734,918,/tarot/tarot-card-meaning/the-emperor/tarot-card-history,200,OK,Tarot - Thread Group 1-1,text,true,,160102,348,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/tarot-card-history,160,0,0
+1674060461734,160,/tarot/tarot-card-meaning/the-emperor/tarot-card-history-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,340,174,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/tarot-card-history,160,0,0
+1674060461894,758,/tarot/tarot-card-meaning/the-emperor/tarot-card-history-1,200,OK,Tarot - Thread Group 1-1,text,true,,159762,174,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/tarot-card-history,611,0,209
+1674060462653,668,/css-US/main.css?v=2023010406,200,OK,Tarot - Thread Group 1-1,text,true,,81567,294,1,1,https://www.horoscope.com/css-US/main.css?v=2023010406,155,0,0
+1674060462653,155,/css-US/main.css?v=2023010406-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,313,147,1,1,http://www.horoscope.com/css-US/main.css?v=2023010406,155,0,0
+1674060462808,513,/css-US/main.css?v=2023010406-1,200,OK,Tarot - Thread Group 1-1,text,true,,81254,147,1,1,https://www.horoscope.com/css-US/main.css?v=2023010406,415,0,214
+1674060463321,878,/us/planets/mars.html,200,OK,Tarot - Thread Group 1-1,text,true,,157445,278,1,1,https://www.horoscope.com/us/planets/mars.html,155,0,1
+1674060463321,155,/us/planets/mars.html-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,305,139,1,1,http://www.horoscope.com/us/planets/mars.html,155,0,1
+1674060463476,723,/us/planets/mars.html-1,200,OK,Tarot - Thread Group 1-1,text,true,,157140,139,1,1,https://www.horoscope.com/us/planets/mars.html,575,0,214
+1674060464199,994,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=4,200,OK,Tarot - Thread Group 1-1,text,true,,163758,376,1,1,https://www.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=4,154,0,1
+1674060464199,154,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=4-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,354,188,1,1,http://www.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=4,154,0,1
+1674060464353,840,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=4-1,200,OK,Tarot - Thread Group 1-1,text,true,,163404,188,1,1,https://www.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=4,691,0,207
+1674060465195,940,/tarot/tarot-card-meaning/the-emperor/meaning-in-reading,200,OK,Tarot - Thread Group 1-1,text,true,,160598,348,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/meaning-in-reading,161,0,2
+1674060465195,161,/tarot/tarot-card-meaning/the-emperor/meaning-in-reading-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,340,174,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/meaning-in-reading,161,0,2
+1674060465356,779,/tarot/tarot-card-meaning/the-emperor/meaning-in-reading-1,200,OK,Tarot - Thread Group 1-1,text,true,,160258,174,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/meaning-in-reading,628,0,211
+1674060466135,906,/tarot/tarot-card-meaning/the-emperor/meaning-reversed,200,OK,Tarot - Thread Group 1-1,text,true,,160368,344,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/meaning-reversed,159,0,1
+1674060466135,159,/tarot/tarot-card-meaning/the-emperor/meaning-reversed-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,338,172,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/meaning-reversed,159,0,1
+1674060466294,747,/tarot/tarot-card-meaning/the-emperor/meaning-reversed-1,200,OK,Tarot - Thread Group 1-1,text,true,,160030,172,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/meaning-reversed,596,0,209
+1674060467042,1108,/tarot/tarot-card-meaning/the-emperor/meaning-in-love-career-reading,200,OK,Tarot - Thread Group 1-1,text,true,,160908,372,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/meaning-in-love-career-reading,174,0,1
+1674060467042,174,/tarot/tarot-card-meaning/the-emperor/meaning-in-love-career-reading-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,352,186,1,1,http://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/meaning-in-love-career-reading,174,0,1
+1674060467217,933,/tarot/tarot-card-meaning/the-emperor/meaning-in-love-career-reading-1,200,OK,Tarot - Thread Group 1-1,text,true,,160556,186,1,1,https://www.horoscope.com/tarot/tarot-card-meaning/the-emperor/meaning-in-love-career-reading,814,0,279
+1674060468151,618,/css-US/tarot-index.css?v=2023010406,200,OK,Tarot - Thread Group 1-1,text,true,,34888,308,1,1,https://www.horoscope.com/css-US/tarot-index.css?v=2023010406,161,0,1
+1674060468151,161,/css-US/tarot-index.css?v=2023010406-0,301,Moved Permanently,Tarot - Thread Group 1-1,,true,,320,154,1,1,http://www.horoscope.com/css-US/tarot-index.css?v=2023010406,161,0,1
+1674060468312,457,/css-US/tarot-index.css?v=2023010406-1,200,OK,Tarot - Thread Group 1-1,text,true,,34568,154,1,1,https://www.horoscope.com/css-US/tarot-index.css?v=2023010406,410,0,214
