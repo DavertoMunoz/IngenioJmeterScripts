@@ -111,7 +111,7 @@
                 <connectTime>true</connectTime>
               </value>
             </objProp>
-            <stringProp name="filename"></stringProp>
+            <stringProp name="filename">/Users/davidmunoz/Documents/Jmeter_Scripts/IngenioJmeterScripts/Astrology/AstrologyPagesScripts/jtlFiles/HomepageTableResults.csv</stringProp>
           </ResultCollector>
           <hashTree/>
           <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">

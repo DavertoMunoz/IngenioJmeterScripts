@@ -152,7 +152,7 @@
           </ResultCollector>
           <hashTree/>
           <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
-            <boolProp name="ResultCollector.error_logging">true</boolProp>
+            <boolProp name="ResultCollector.error_logging">false</boolProp>
             <objProp>
               <name>saveConfig</name>
               <value class="SampleSaveConfiguration">
@@ -185,7 +185,7 @@
                 <connectTime>true</connectTime>
               </value>
             </objProp>
-            <stringProp name="filename">ChineseHoroscopeIndexDev.csv</stringProp>
+            <stringProp name="filename">/Users/davidmunoz/Documents/Jmeter_Scripts/IngenioJmeterScripts/Horoscope/HoroscopePagesScripts/Results_Files/ChineseHoroscopeIndexDev.csv</stringProp>
           </ResultCollector>
           <hashTree/>
           <ResultCollector guiclass="AssertionVisualizer" testclass="ResultCollector" testname="Assertion Results" enabled="true">

@@ -1,0 +1,121 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1675813111839,1309,new,200,OK,Thread Group 1-1,text,true,,70212,369,3,3,https://new.astrology.com/us/home.aspx,165,0,2
+1675813111839,165,new-0,301,Moved Permanently,Thread Group 1-1,,true,,285,119,3,3,http://new.astrology.com/,165,0,2
+1675813112005,565,new-1,301,Moved Permanently,Thread Group 1-1,text,true,,570,119,3,3,https://new.astrology.com/,565,0,224
+1675813112570,578,new-2,200,OK,Thread Group 1-1,text,true,,69357,131,3,3,https://new.astrology.com/us/home.aspx,480,0,0
+1675813112342,1227,new,200,OK,Thread Group 1-2,text,true,,70214,369,3,3,https://new.astrology.com/us/home.aspx,162,0,1
+1675813112342,162,new-0,301,Moved Permanently,Thread Group 1-2,,true,,285,119,3,3,http://new.astrology.com/,162,0,1
+1675813112504,556,new-1,301,Moved Permanently,Thread Group 1-2,text,true,,570,119,3,3,https://new.astrology.com/,556,0,227
+1675813113061,508,new-2,200,OK,Thread Group 1-2,text,true,,69359,131,3,3,https://new.astrology.com/us/home.aspx,406,0,0
+1675813112844,1315,new,200,OK,Thread Group 1-3,text,true,,70216,369,3,3,https://new.astrology.com/us/home.aspx,162,0,0
+1675813112844,162,new-0,301,Moved Permanently,Thread Group 1-3,,true,,285,119,3,3,http://new.astrology.com/,162,0,0
+1675813113006,468,new-1,301,Moved Permanently,Thread Group 1-3,text,true,,570,119,3,3,https://new.astrology.com/,468,0,211
+1675813113474,685,new-2,200,OK,Thread Group 1-3,text,true,,69361,131,3,3,https://new.astrology.com/us/home.aspx,584,0,0
+1675813113342,980,new,200,OK,Thread Group 1-4,text,true,,70214,369,2,2,https://new.astrology.com/us/home.aspx,159,0,1
+1675813113342,159,new-0,301,Moved Permanently,Thread Group 1-4,,true,,285,119,2,2,http://new.astrology.com/,159,0,1
+1675813113501,484,new-1,301,Moved Permanently,Thread Group 1-4,text,true,,570,119,2,2,https://new.astrology.com/,484,0,207
+1675813113985,337,new-2,200,OK,Thread Group 1-4,text,true,,69359,131,2,2,https://new.astrology.com/us/home.aspx,287,0,0
+1675813113841,1104,new,200,OK,Thread Group 1-5,text,true,,70212,369,3,3,https://new.astrology.com/us/home.aspx,157,0,1
+1675813113841,157,new-0,301,Moved Permanently,Thread Group 1-5,,true,,285,119,3,3,http://new.astrology.com/,157,0,1
+1675813113998,464,new-1,301,Moved Permanently,Thread Group 1-5,text,true,,570,119,3,3,https://new.astrology.com/,464,0,208
+1675813114462,483,new-2,200,OK,Thread Group 1-5,text,true,,69357,131,3,3,https://new.astrology.com/us/home.aspx,385,0,0
+1675813114343,1280,new,200,OK,Thread Group 1-6,text,true,,70213,369,3,3,https://new.astrology.com/us/home.aspx,158,0,0
+1675813114343,158,new-0,301,Moved Permanently,Thread Group 1-6,,true,,285,119,3,3,http://new.astrology.com/,158,0,0
+1675813114502,457,new-1,301,Moved Permanently,Thread Group 1-6,text,true,,570,119,3,3,https://new.astrology.com/,457,0,211
+1675813114958,664,new-2,200,OK,Thread Group 1-6,text,true,,69358,131,3,3,https://new.astrology.com/us/home.aspx,564,0,0
+1675813114841,995,new,200,OK,Thread Group 1-7,text,true,,70215,369,2,2,https://new.astrology.com/us/home.aspx,155,0,0
+1675813114841,155,new-0,301,Moved Permanently,Thread Group 1-7,,true,,285,119,2,2,http://new.astrology.com/,155,0,0
+1675813114996,468,new-1,301,Moved Permanently,Thread Group 1-7,text,true,,570,119,2,2,https://new.astrology.com/,468,0,207
+1675813115464,372,new-2,200,OK,Thread Group 1-7,text,true,,69360,131,2,2,https://new.astrology.com/us/home.aspx,321,0,0
+1675813115338,996,new,200,OK,Thread Group 1-8,text,true,,70214,369,2,2,https://new.astrology.com/us/home.aspx,156,0,1
+1675813115338,156,new-0,301,Moved Permanently,Thread Group 1-8,,true,,285,119,2,2,http://new.astrology.com/,156,0,1
+1675813115494,472,new-1,301,Moved Permanently,Thread Group 1-8,text,true,,570,119,2,2,https://new.astrology.com/,472,0,215
+1675813115966,368,new-2,200,OK,Thread Group 1-8,text,true,,69359,131,2,2,https://new.astrology.com/us/home.aspx,316,0,0
+1675813115839,985,new,200,OK,Thread Group 1-9,text,true,,70215,369,2,2,https://new.astrology.com/us/home.aspx,157,0,1
+1675813115839,157,new-0,301,Moved Permanently,Thread Group 1-9,,true,,285,119,2,2,http://new.astrology.com/,157,0,1
+1675813115997,471,new-1,301,Moved Permanently,Thread Group 1-9,text,true,,570,119,2,2,https://new.astrology.com/,471,0,208
+1675813116468,356,new-2,200,OK,Thread Group 1-9,text,true,,69360,131,2,2,https://new.astrology.com/us/home.aspx,304,0,0
+1675813116342,983,new,200,OK,Thread Group 1-10,text,true,,70213,369,2,2,https://new.astrology.com/us/home.aspx,156,0,1
+1675813116342,156,new-0,301,Moved Permanently,Thread Group 1-10,,true,,285,119,2,2,http://new.astrology.com/,156,0,1
+1675813116498,469,new-1,301,Moved Permanently,Thread Group 1-10,text,true,,570,119,2,2,https://new.astrology.com/,469,0,210
+1675813116967,358,new-2,200,OK,Thread Group 1-10,text,true,,69358,131,2,2,https://new.astrology.com/us/home.aspx,306,0,0
+1675813116842,967,new,200,OK,Thread Group 1-11,text,true,,70210,369,2,2,https://new.astrology.com/us/home.aspx,159,0,1
+1675813116842,159,new-0,301,Moved Permanently,Thread Group 1-11,,true,,285,119,2,2,http://new.astrology.com/,159,0,1
+1675813117001,475,new-1,301,Moved Permanently,Thread Group 1-11,text,true,,570,119,2,2,https://new.astrology.com/,475,0,211
+1675813117476,333,new-2,200,OK,Thread Group 1-11,text,true,,69355,131,2,2,https://new.astrology.com/us/home.aspx,281,0,0
+1675813117342,996,new,200,OK,Thread Group 1-12,text,true,,70216,369,2,2,https://new.astrology.com/us/home.aspx,159,0,2
+1675813117342,159,new-0,301,Moved Permanently,Thread Group 1-12,,true,,285,119,2,2,http://new.astrology.com/,159,0,2
+1675813117501,465,new-1,301,Moved Permanently,Thread Group 1-12,text,true,,570,119,2,2,https://new.astrology.com/,465,0,209
+1675813117966,372,new-2,200,OK,Thread Group 1-12,text,true,,69361,131,2,2,https://new.astrology.com/us/home.aspx,320,0,0
+1675813117839,1233,new,200,OK,Thread Group 1-13,text,true,,70214,369,3,3,https://new.astrology.com/us/home.aspx,156,0,1
+1675813117839,156,new-0,301,Moved Permanently,Thread Group 1-13,,true,,285,119,3,3,http://new.astrology.com/,156,0,1
+1675813117995,616,new-1,301,Moved Permanently,Thread Group 1-13,text,true,,570,119,3,3,https://new.astrology.com/,616,0,213
+1675813118611,461,new-2,200,OK,Thread Group 1-13,text,true,,69359,131,3,3,https://new.astrology.com/us/home.aspx,362,0,0
+1675813118339,952,new,200,OK,Thread Group 1-14,text,true,,70216,369,2,2,https://new.astrology.com/us/home.aspx,155,0,1
+1675813118339,155,new-0,301,Moved Permanently,Thread Group 1-14,,true,,285,119,2,2,http://new.astrology.com/,155,0,1
+1675813118494,460,new-1,301,Moved Permanently,Thread Group 1-14,text,true,,570,119,2,2,https://new.astrology.com/,460,0,208
+1675813118954,337,new-2,200,OK,Thread Group 1-14,text,true,,69361,131,2,2,https://new.astrology.com/us/home.aspx,285,0,0
+1675813118842,955,new,200,OK,Thread Group 1-15,text,true,,70213,369,2,2,https://new.astrology.com/us/home.aspx,159,0,1
+1675813118842,159,new-0,301,Moved Permanently,Thread Group 1-15,,true,,285,119,2,2,http://new.astrology.com/,159,0,1
+1675813119001,472,new-1,301,Moved Permanently,Thread Group 1-15,text,true,,570,119,2,2,https://new.astrology.com/,472,0,212
+1675813119473,324,new-2,200,OK,Thread Group 1-15,text,true,,69358,131,2,2,https://new.astrology.com/us/home.aspx,273,0,0
+1675813119341,974,new,200,OK,Thread Group 1-16,text,true,,70209,369,2,2,https://new.astrology.com/us/home.aspx,156,0,1
+1675813119341,156,new-0,301,Moved Permanently,Thread Group 1-16,,true,,285,119,2,2,http://new.astrology.com/,156,0,1
+1675813119497,476,new-1,301,Moved Permanently,Thread Group 1-16,text,true,,570,119,2,2,https://new.astrology.com/,476,0,209
+1675813119974,342,new-2,200,OK,Thread Group 1-16,text,true,,69354,131,2,2,https://new.astrology.com/us/home.aspx,290,0,0
+1675813119841,1009,new,200,OK,Thread Group 1-17,text,true,,70217,369,3,3,https://new.astrology.com/us/home.aspx,183,0,1
+1675813119841,183,new-0,301,Moved Permanently,Thread Group 1-17,,true,,285,119,3,3,http://new.astrology.com/,183,0,1
+1675813120024,479,new-1,301,Moved Permanently,Thread Group 1-17,text,true,,570,119,3,3,https://new.astrology.com/,479,0,214
+1675813120503,347,new-2,200,OK,Thread Group 1-17,text,true,,69362,131,3,3,https://new.astrology.com/us/home.aspx,295,0,0
+1675813120342,1142,new,200,OK,Thread Group 1-18,text,true,,70212,369,3,3,https://new.astrology.com/us/home.aspx,159,0,1
+1675813120342,159,new-0,301,Moved Permanently,Thread Group 1-18,,true,,285,119,3,3,http://new.astrology.com/,159,0,1
+1675813120502,461,new-1,301,Moved Permanently,Thread Group 1-18,text,true,,570,119,3,3,https://new.astrology.com/,461,0,213
+1675813120963,521,new-2,200,OK,Thread Group 1-18,text,true,,69357,131,3,3,https://new.astrology.com/us/home.aspx,420,0,0
+1675813120843,987,new,200,OK,Thread Group 1-19,text,true,,70213,369,2,2,https://new.astrology.com/us/home.aspx,156,0,0
+1675813120843,156,new-0,301,Moved Permanently,Thread Group 1-19,,true,,285,119,2,2,http://new.astrology.com/,156,0,0
+1675813121000,452,new-1,301,Moved Permanently,Thread Group 1-19,text,true,,570,119,2,2,https://new.astrology.com/,452,0,207
+1675813121452,378,new-2,200,OK,Thread Group 1-19,text,true,,69358,131,2,2,https://new.astrology.com/us/home.aspx,327,0,0
+1675813121340,963,new,200,OK,Thread Group 1-20,text,true,,70211,369,2,2,https://new.astrology.com/us/home.aspx,158,0,1
+1675813121340,158,new-0,301,Moved Permanently,Thread Group 1-20,,true,,285,119,2,2,http://new.astrology.com/,158,0,1
+1675813121498,468,new-1,301,Moved Permanently,Thread Group 1-20,text,true,,570,119,2,2,https://new.astrology.com/,468,0,213
+1675813121966,337,new-2,200,OK,Thread Group 1-20,text,true,,69356,131,2,2,https://new.astrology.com/us/home.aspx,284,0,0
+1675813121840,959,new,200,OK,Thread Group 1-21,text,true,,70214,369,2,2,https://new.astrology.com/us/home.aspx,161,0,4
+1675813121840,161,new-0,301,Moved Permanently,Thread Group 1-21,,true,,285,119,2,2,http://new.astrology.com/,161,0,4
+1675813122001,467,new-1,301,Moved Permanently,Thread Group 1-21,text,true,,570,119,2,2,https://new.astrology.com/,467,0,208
+1675813122468,331,new-2,200,OK,Thread Group 1-21,text,true,,69359,131,2,2,https://new.astrology.com/us/home.aspx,280,0,0
+1675813122342,1027,new,200,OK,Thread Group 1-22,text,true,,70212,369,3,3,https://new.astrology.com/us/home.aspx,159,0,1
+1675813122342,159,new-0,301,Moved Permanently,Thread Group 1-22,,true,,285,119,3,3,http://new.astrology.com/,159,0,1
+1675813122501,520,new-1,301,Moved Permanently,Thread Group 1-22,text,true,,570,119,3,3,https://new.astrology.com/,520,0,258
+1675813123021,348,new-2,200,OK,Thread Group 1-22,text,true,,69357,131,3,3,https://new.astrology.com/us/home.aspx,296,0,0
+1675813122842,946,new,200,OK,Thread Group 1-23,text,true,,70215,369,2,2,https://new.astrology.com/us/home.aspx,156,0,1
+1675813122842,156,new-0,301,Moved Permanently,Thread Group 1-23,,true,,285,119,2,2,http://new.astrology.com/,156,0,1
+1675813122999,453,new-1,301,Moved Permanently,Thread Group 1-23,text,true,,570,119,2,2,https://new.astrology.com/,453,0,209
+1675813123452,336,new-2,200,OK,Thread Group 1-23,text,true,,69360,131,2,2,https://new.astrology.com/us/home.aspx,284,0,0
+1675813123343,1012,new,200,OK,Thread Group 1-24,text,true,,70213,369,3,3,https://new.astrology.com/us/home.aspx,159,0,1
+1675813123343,159,new-0,301,Moved Permanently,Thread Group 1-24,,true,,285,119,3,3,http://new.astrology.com/,159,0,1
+1675813123502,500,new-1,301,Moved Permanently,Thread Group 1-24,text,true,,570,119,3,3,https://new.astrology.com/,500,0,244
+1675813124002,353,new-2,200,OK,Thread Group 1-24,text,true,,69358,131,3,3,https://new.astrology.com/us/home.aspx,300,0,0
+1675813123838,1077,new,200,OK,Thread Group 1-25,text,true,,70215,369,3,3,https://new.astrology.com/us/home.aspx,158,0,1
+1675813123838,158,new-0,301,Moved Permanently,Thread Group 1-25,,true,,285,119,3,3,http://new.astrology.com/,158,0,1
+1675813123997,568,new-1,301,Moved Permanently,Thread Group 1-25,text,true,,570,119,3,3,https://new.astrology.com/,568,0,211
+1675813124565,350,new-2,200,OK,Thread Group 1-25,text,true,,69360,131,3,3,https://new.astrology.com/us/home.aspx,299,0,0
+1675813124343,1184,new,200,OK,Thread Group 1-26,text,true,,70216,369,3,3,https://new.astrology.com/us/home.aspx,160,0,1
+1675813124343,160,new-0,301,Moved Permanently,Thread Group 1-26,,true,,285,119,3,3,http://new.astrology.com/,160,0,1
+1675813124503,459,new-1,301,Moved Permanently,Thread Group 1-26,text,true,,570,119,3,3,https://new.astrology.com/,459,0,208
+1675813124962,565,new-2,200,OK,Thread Group 1-26,text,true,,69361,131,3,3,https://new.astrology.com/us/home.aspx,466,0,0
+1675813124840,973,new,200,OK,Thread Group 1-27,text,true,,70212,369,2,2,https://new.astrology.com/us/home.aspx,162,0,2
+1675813124840,162,new-0,301,Moved Permanently,Thread Group 1-27,,true,,285,119,2,2,http://new.astrology.com/,162,0,2
+1675813125002,463,new-1,301,Moved Permanently,Thread Group 1-27,text,true,,570,119,2,2,https://new.astrology.com/,463,0,211
+1675813125465,348,new-2,200,OK,Thread Group 1-27,text,true,,69357,131,2,2,https://new.astrology.com/us/home.aspx,294,0,0
+1675813125339,1070,new,200,OK,Thread Group 1-28,text,true,,70215,369,3,3,https://new.astrology.com/us/home.aspx,154,0,0
+1675813125339,154,new-0,301,Moved Permanently,Thread Group 1-28,,true,,285,119,3,3,http://new.astrology.com/,154,0,0
+1675813125493,556,new-1,301,Moved Permanently,Thread Group 1-28,text,true,,570,119,3,3,https://new.astrology.com/,556,0,210
+1675813126049,360,new-2,200,OK,Thread Group 1-28,text,true,,69360,131,3,3,https://new.astrology.com/us/home.aspx,307,0,0
+1675813125844,977,new,200,OK,Thread Group 1-29,text,true,,70216,369,2,2,https://new.astrology.com/us/home.aspx,158,0,2
+1675813125844,158,new-0,301,Moved Permanently,Thread Group 1-29,,true,,285,119,2,2,http://new.astrology.com/,158,0,2
+1675813126002,469,new-1,301,Moved Permanently,Thread Group 1-29,text,true,,570,119,2,2,https://new.astrology.com/,469,0,216
+1675813126471,350,new-2,200,OK,Thread Group 1-29,text,true,,69361,131,2,2,https://new.astrology.com/us/home.aspx,297,0,0
+1675813126339,1069,new,200,OK,Thread Group 1-30,text,true,,70210,369,1,1,https://new.astrology.com/us/home.aspx,159,0,1
+1675813126339,159,new-0,301,Moved Permanently,Thread Group 1-30,,true,,285,119,1,1,http://new.astrology.com/,159,0,1
+1675813126498,568,new-1,301,Moved Permanently,Thread Group 1-30,text,true,,570,119,1,1,https://new.astrology.com/,568,0,212
+1675813127066,342,new-2,200,OK,Thread Group 1-30,text,true,,69355,131,1,1,https://new.astrology.com/us/home.aspx,290,0,0
