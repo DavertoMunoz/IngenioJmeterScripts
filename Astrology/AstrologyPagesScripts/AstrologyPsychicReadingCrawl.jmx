@@ -42,7 +42,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="PROD" elementType="Argument">
               <stringProp name="Argument.name">PROD</stringProp>
-              <stringProp name="Argument.value">new.astrology.com</stringProp>
+              <stringProp name="Argument.value">www.astrology.com</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="TEST" elementType="Argument">
@@ -50,9 +50,14 @@
               <stringProp name="Argument.value">test.astrology.com</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
-            <elementProp name="UAT_URL" elementType="Argument">
-              <stringProp name="Argument.name">UAT_URL</stringProp>
+            <elementProp name="UAT" elementType="Argument">
+              <stringProp name="Argument.name">UAT</stringProp>
               <stringProp name="Argument.value">uat.astrology.com</stringProp>
+              <stringProp name="Argument.metadata">=</stringProp>
+            </elementProp>
+            <elementProp name="NEW" elementType="Argument">
+              <stringProp name="Argument.name">NEW</stringProp>
+              <stringProp name="Argument.value">new.astrology.com</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
           </collectionProp>
