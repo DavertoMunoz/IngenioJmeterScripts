@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1676066388578,1584,/us/tarot/index-tarot-reading.aspx,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,163150,304,4,4,https://dev.horoscope.com/us/tarot/index-tarot-reading.aspx,314,0,91
+1676066388578,314,/us/tarot/index-tarot-reading.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-1,,true,,318,152,4,4,http://dev.horoscope.com/us/tarot/index-tarot-reading.aspx,314,0,91
+1676066388911,1251,/us/tarot/index-tarot-reading.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,162832,152,4,4,https://dev.horoscope.com/us/tarot/index-tarot-reading.aspx,1101,0,515
+1676066388921,1252,/us/games/divination/game-magic-8-ball.aspx,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,150922,322,4,4,https://dev.horoscope.com/us/games/divination/game-magic-8-ball.aspx,189,0,1
+1676066388921,189,/us/games/divination/game-magic-8-ball.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-2,,true,,327,161,4,4,http://dev.horoscope.com/us/games/divination/game-magic-8-ball.aspx,189,0,1
+1676066389110,1063,/us/games/divination/game-magic-8-ball.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,150595,161,4,4,https://dev.horoscope.com/us/games/divination/game-magic-8-ball.aspx,912,0,314
+1676066389410,1124,/us/games/index-games-love.aspx,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,151452,298,5,5,https://dev.horoscope.com/us/games/index-games-love.aspx,168,0,1
+1676066389410,168,/us/games/index-games-love.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-3,,true,,315,149,5,5,http://dev.horoscope.com/us/games/index-games-love.aspx,168,0,1
+1676066389579,955,/us/games/index-games-love.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,151137,149,5,5,https://dev.horoscope.com/us/games/index-games-love.aspx,803,0,236
+1676066390174,1087,/us/tarot/tarot-dream.aspx,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,167846,288,6,6,https://dev.horoscope.com/us/tarot/tarot-dream.aspx,165,0,0
+1676066390174,165,/us/tarot/tarot-dream.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-2,,true,,310,144,6,6,http://dev.horoscope.com/us/tarot/tarot-dream.aspx,165,0,0
+1676066390339,922,/us/tarot/tarot-dream.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,167536,144,6,6,https://dev.horoscope.com/us/tarot/tarot-dream.aspx,771,0,228
+1676066389884,1591,/birth-chart/,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,36855,383,7,7,https://sites.horoscope.com/,176,0,0
+1676066389884,176,/birth-chart/-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-4,,true,,297,131,7,7,http://dev.horoscope.com/birth-chart/,176,0,0
+1676066390060,500,/birth-chart/-1,302,Found,Tarot Index Pages - Thread Group 1-4,text,true,,503,131,7,7,https://dev.horoscope.com/birth-chart/,500,0,218
+1676066390560,915,/birth-chart/-2,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,36055,121,7,7,https://sites.horoscope.com/,866,0,300
+1676066390170,1366,/us/tarot/tarot-angel.aspx,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,154190,288,7,7,https://dev.horoscope.com/us/tarot/tarot-angel.aspx,158,0,0
+1676066390170,158,/us/tarot/tarot-angel.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-1,,true,,310,144,7,7,http://dev.horoscope.com/us/tarot/tarot-angel.aspx,158,0,0
+1676066390328,1208,/us/tarot/tarot-angel.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,153880,144,7,7,https://dev.horoscope.com/us/tarot/tarot-angel.aspx,1055,0,213
+1676066390367,1445,/us/tarot/tarot-friend-or-foe.aspx,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,154346,304,8,8,https://dev.horoscope.com/us/tarot/tarot-friend-or-foe.aspx,162,0,0
+1676066390535,1277,/us/tarot/tarot-egyptian-love.aspx,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,154213,304,8,8,https://dev.horoscope.com/us/tarot/tarot-egyptian-love.aspx,157,0,1
+1676066390367,162,/us/tarot/tarot-friend-or-foe.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-5,,true,,318,152,8,8,http://dev.horoscope.com/us/tarot/tarot-friend-or-foe.aspx,162,0,0
+1676066390535,157,/us/tarot/tarot-egyptian-love.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-3,,true,,318,152,8,8,http://dev.horoscope.com/us/tarot/tarot-egyptian-love.aspx,157,0,1
+1676066390530,1282,/us/tarot/tarot-friend-or-foe.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,154028,152,8,8,https://dev.horoscope.com/us/tarot/tarot-friend-or-foe.aspx,1130,0,212
+1676066390693,1119,/us/tarot/tarot-egyptian-love.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,153895,152,8,8,https://dev.horoscope.com/us/tarot/tarot-egyptian-love.aspx,967,0,228
+1676066390838,1237,/zodiac-signs/taurus,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,157839,276,8,8,https://dev.horoscope.com/zodiac-signs/taurus,179,0,1
+1676066390838,179,/zodiac-signs/taurus-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-6,,true,,304,138,8,8,http://dev.horoscope.com/zodiac-signs/taurus,179,0,1
+1676066391017,1058,/zodiac-signs/taurus-1,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,157535,138,8,8,https://dev.horoscope.com/zodiac-signs/taurus,909,0,211
+1676066391262,1049,/fr/index.aspx,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,137980,264,9,9,https://dev.horoscope.com/fr/index.aspx,159,0,1
+1676066391262,159,/fr/index.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-2,,true,,298,132,9,9,http://dev.horoscope.com/fr/index.aspx,159,0,1
+1676066391422,889,/fr/index.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,137682,132,9,9,https://dev.horoscope.com/fr/index.aspx,739,0,214
+1676066391318,1043,/us/horoscopes/general/horoscope-overview-daily-today.aspx,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,160465,352,9,9,https://dev.horoscope.com/us/horoscopes/general/horoscope-overview-daily-today.aspx,166,0,1
+1676066391318,166,/us/horoscopes/general/horoscope-overview-daily-today.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-7,,true,,342,176,9,9,http://dev.horoscope.com/us/horoscopes/general/horoscope-overview-daily-today.aspx,166,0,1
+1676066391485,876,/us/horoscopes/general/horoscope-overview-daily-today.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,160123,176,9,9,https://dev.horoscope.com/us/horoscopes/general/horoscope-overview-daily-today.aspx,725,0,226
+1676066391477,964,/us/games/divination/game-cupids-oracle.aspx,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,151654,324,9,9,https://dev.horoscope.com/us/games/divination/game-cupids-oracle.aspx,158,0,1
+1676066391477,158,/us/games/divination/game-cupids-oracle.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-4,,true,,328,162,9,9,http://dev.horoscope.com/us/games/divination/game-cupids-oracle.aspx,158,0,1
+1676066391635,806,/us/games/divination/game-cupids-oracle.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,151326,162,9,9,https://dev.horoscope.com/us/games/divination/game-cupids-oracle.aspx,675,0,226
+1676066391537,1037,/us/tarot/tarot-gems.aspx,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,152727,286,9,9,https://dev.horoscope.com/us/tarot/tarot-gems.aspx,173,0,1
+1676066391537,173,/us/tarot/tarot-gems.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-1,,true,,309,143,9,9,http://dev.horoscope.com/us/tarot/tarot-gems.aspx,173,0,1
+1676066391710,864,/us/tarot/tarot-gems.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,152418,143,9,9,https://dev.horoscope.com/us/tarot/tarot-gems.aspx,710,0,215
+1676066391811,1050,/us/games/divination/game-ask-genie.aspx,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,149969,316,10,10,https://dev.horoscope.com/us/games/divination/game-ask-genie.aspx,161,0,0
+1676066391811,161,/us/games/divination/game-ask-genie.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-8,,true,,324,158,10,10,http://dev.horoscope.com/us/games/divination/game-ask-genie.aspx,161,0,0
+1676066391972,889,/us/games/divination/game-ask-genie.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,149645,158,10,10,https://dev.horoscope.com/us/games/divination/game-ask-genie.aspx,738,0,238
+1676066391813,1066,/us/horoscopes/general/index-horoscope-what-to-watch.aspx,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,151173,350,10,10,https://dev.horoscope.com/us/horoscopes/general/index-horoscope-what-to-watch.aspx,162,0,1
+1676066392211,668,/us/sitemap.aspx,200,OK,Tarot Index Pages - Thread Group 1-9,text,true,,14475,268,10,10,https://dev.horoscope.com/us/sitemap.aspx,159,0,1
+1676066391813,162,/us/horoscopes/general/index-horoscope-what-to-watch.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-5,,true,,341,175,10,10,http://dev.horoscope.com/us/horoscopes/general/index-horoscope-what-to-watch.aspx,162,0,1
+1676066392211,159,/us/sitemap.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-9,,true,,300,134,10,10,http://dev.horoscope.com/us/sitemap.aspx,159,0,1
+1676066391975,904,/us/horoscopes/general/index-horoscope-what-to-watch.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,150832,175,10,10,https://dev.horoscope.com/us/horoscopes/general/index-horoscope-what-to-watch.aspx,756,0,236
+1676066392370,509,/us/sitemap.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-9,text,true,,14175,134,10,10,https://dev.horoscope.com/us/sitemap.aspx,509,0,214
+1676066391814,1096,/zodiac-signs/gemini,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,158416,276,10,10,https://dev.horoscope.com/zodiac-signs/gemini,169,0,0
+1676066391814,169,/zodiac-signs/gemini-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-3,,true,,304,138,10,10,http://dev.horoscope.com/zodiac-signs/gemini,169,0,0
+1676066391983,927,/zodiac-signs/gemini-1,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,158112,138,10,10,https://dev.horoscope.com/zodiac-signs/gemini,759,0,228
+1676066392312,648,/images-US/psychic/keen-instant-tarot-reading.jpg,200,OK,Tarot Index Pages - Thread Group 1-2,bin,true,,37797,334,10,10,https://dev.horoscope.com/images-US/psychic/keen-instant-tarot-reading.jpg,154,0,1
+1676066392312,154,/images-US/psychic/keen-instant-tarot-reading.jpg-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-2,,true,,333,167,10,10,http://dev.horoscope.com/images-US/psychic/keen-instant-tarot-reading.jpg,154,0,1
+1676066392466,494,/images-US/psychic/keen-instant-tarot-reading.jpg-1,200,OK,Tarot Index Pages - Thread Group 1-2,bin,true,,37464,167,10,10,https://dev.horoscope.com/images-US/psychic/keen-instant-tarot-reading.jpg,444,0,218
+1676066392442,638,/mercury-retrograde/,404,Not Found,Tarot Index Pages - Thread Group 1-4,text,false,Test failed: code expected not to contain /404/,1882,276,10,10,https://dev.horoscope.com/mercury-retrograde/,174,0,17
+1676066392442,174,/mercury-retrograde/-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-4,,true,,304,138,10,10,http://dev.horoscope.com/mercury-retrograde/,174,0,17
+1676066392617,463,/mercury-retrograde/-1,404,Not Found,Tarot Index Pages - Thread Group 1-4,text,false,,1578,138,10,10,https://dev.horoscope.com/mercury-retrograde/,463,0,215
+1676066392076,1049,/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,150867,354,10,10,https://dev.horoscope.com/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx,184,0,1
+1676066392076,184,/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-6,,true,,343,177,10,10,http://dev.horoscope.com/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx,184,0,1
+1676066392260,865,/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,150524,177,10,10,https://dev.horoscope.com/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx,717,0,224
+1676066392362,1002,/us/games/divination/game-luck-meter.aspx,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,151380,318,11,11,https://dev.horoscope.com/us/games/divination/game-luck-meter.aspx,154,0,1
+1676066392362,154,/us/games/divination/game-luck-meter.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-7,,true,,325,159,11,11,http://dev.horoscope.com/us/games/divination/game-luck-meter.aspx,154,0,1
+1676066392517,847,/us/games/divination/game-luck-meter.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,151055,159,11,11,https://dev.horoscope.com/us/games/divination/game-luck-meter.aspx,695,0,216
+1676066392575,1057,/us/horoscopes/numerology/index-horoscope-numerology.aspx,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,163217,350,11,11,https://dev.horoscope.com/us/horoscopes/numerology/index-horoscope-numerology.aspx,161,0,1
+1676066392575,161,/us/horoscopes/numerology/index-horoscope-numerology.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-1,,true,,341,175,11,11,http://dev.horoscope.com/us/horoscopes/numerology/index-horoscope-numerology.aspx,161,0,1
+1676066392736,896,/us/horoscopes/numerology/index-horoscope-numerology.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,162876,175,11,11,https://dev.horoscope.com/us/horoscopes/numerology/index-horoscope-numerology.aspx,746,0,225
+1676066392685,947,/tarot/tarot-yes-no.aspx,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,152970,284,11,11,https://dev.horoscope.com/tarot/tarot-yes-no.aspx,174,0,1
+1676066392685,174,/tarot/tarot-yes-no.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-10,,true,,308,142,11,11,http://dev.horoscope.com/tarot/tarot-yes-no.aspx,174,0,1
+1676066392860,772,/tarot/tarot-yes-no.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,152662,142,11,11,https://dev.horoscope.com/tarot/tarot-yes-no.aspx,626,0,217
+1676066392880,788,/celebrities/,404,Not Found,Tarot Index Pages - Thread Group 1-9,text,false,Test failed: code expected not to contain /404/,1875,262,11,11,https://dev.horoscope.com/celebrities/,186,0,1
+1676066392880,186,/celebrities/-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-9,,true,,297,131,11,11,http://dev.horoscope.com/celebrities/,186,0,1
+1676066393066,602,/celebrities/-1,404,Not Found,Tarot Index Pages - Thread Group 1-9,text,false,,1578,131,11,11,https://dev.horoscope.com/celebrities/,602,0,212
+1676066392862,948,/us/tarot/tarot-daily-career.aspx,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,154437,302,12,12,https://dev.horoscope.com/us/tarot/tarot-daily-career.aspx,161,0,1
+1676066392862,161,/us/tarot/tarot-daily-career.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-8,,true,,317,151,12,12,http://dev.horoscope.com/us/tarot/tarot-daily-career.aspx,161,0,1
+1676066393023,787,/us/tarot/tarot-daily-career.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,154120,151,12,12,https://dev.horoscope.com/us/tarot/tarot-daily-career.aspx,637,0,209
+1676066392911,926,/us/tarot/tarot-daily.aspx,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,152759,288,12,12,https://dev.horoscope.com/us/tarot/tarot-daily.aspx,159,0,1
+1676066392911,159,/us/tarot/tarot-daily.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-3,,true,,310,144,12,12,http://dev.horoscope.com/us/tarot/tarot-daily.aspx,159,0,1
+1676066393070,767,/us/tarot/tarot-daily.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,152449,144,12,12,https://dev.horoscope.com/us/tarot/tarot-daily.aspx,619,0,215
+1676066393366,544,/images-US/horoscope-logo.svg,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,4581,294,12,12,https://dev.horoscope.com/images-US/horoscope-logo.svg,160,0,0
+1676066393366,160,/images-US/horoscope-logo.svg-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-7,,true,,313,147,12,12,http://dev.horoscope.com/images-US/horoscope-logo.svg,160,0,0
+1676066393526,384,/images-US/horoscope-logo.svg-1,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,4268,147,12,12,https://dev.horoscope.com/images-US/horoscope-logo.svg,384,0,217
+1676066392961,1006,/us/tarot/tarot-inner-animal.aspx,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,159858,302,12,12,https://dev.horoscope.com/us/tarot/tarot-inner-animal.aspx,157,0,1
+1676066392961,157,/us/tarot/tarot-inner-animal.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-2,,true,,317,151,12,12,http://dev.horoscope.com/us/tarot/tarot-inner-animal.aspx,157,0,1
+1676066393118,849,/us/tarot/tarot-inner-animal.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,159541,151,12,12,https://dev.horoscope.com/us/tarot/tarot-inner-animal.aspx,698,0,211
+1676066393082,894,/psychics/tarot.html,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,139243,276,12,12,https://dev.horoscope.com/psychics/tarot.html,177,0,1
+1676066393082,177,/psychics/tarot.html-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-4,,true,,304,138,12,12,http://dev.horoscope.com/psychics/tarot.html,177,0,1
+1676066393260,716,/psychics/tarot.html-1,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,138939,138,12,12,https://dev.horoscope.com/psychics/tarot.html,615,0,211
+1676066393126,907,/us/about-us.aspx,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,141778,270,12,12,https://dev.horoscope.com/us/about-us.aspx,156,0,1
+1676066393126,156,/us/about-us.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-6,,true,,301,135,12,12,http://dev.horoscope.com/us/about-us.aspx,156,0,1
+1676066393282,751,/us/about-us.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,141477,135,12,12,https://dev.horoscope.com/us/about-us.aspx,647,0,230
+1676066392880,1235,/us/games/divination/game-love-fairy.aspx,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,153424,318,12,12,https://dev.horoscope.com/us/games/divination/game-love-fairy.aspx,159,0,1
+1676066392880,159,/us/games/divination/game-love-fairy.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-5,,true,,325,159,12,12,http://dev.horoscope.com/us/games/divination/game-love-fairy.aspx,159,0,1
+1676066393039,1076,/us/games/divination/game-love-fairy.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,153099,159,12,12,https://dev.horoscope.com/us/games/divination/game-love-fairy.aspx,924,0,232
+1676066393241,1092,/us/privacy.aspx,200,OK,Tarot Index Pages - Thread Group 1-11,text,true,,181975,268,13,13,https://dev.horoscope.com/us/privacy.aspx,180,0,1
+1676066393241,180,/us/privacy.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-11,,true,,300,134,13,13,http://dev.horoscope.com/us/privacy.aspx,180,0,1
+1676066393422,911,/us/privacy.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-11,text,true,,181675,134,13,13,https://dev.horoscope.com/us/privacy.aspx,716,0,216
+1676066393633,977,/us/tarot/tarot-today-tomorrow.aspx,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,152045,306,13,13,https://dev.horoscope.com/us/tarot/tarot-today-tomorrow.aspx,177,0,1
+1676066393633,177,/us/tarot/tarot-today-tomorrow.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-1,,true,,319,153,13,13,http://dev.horoscope.com/us/tarot/tarot-today-tomorrow.aspx,177,0,1
+1676066393810,800,/us/tarot/tarot-today-tomorrow.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,151726,153,13,13,https://dev.horoscope.com/us/tarot/tarot-today-tomorrow.aspx,650,0,216
+1676066393633,977,/us/planets/index.html,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,155552,280,13,13,https://dev.horoscope.com/us/planets/index.html,184,0,1
+1676066393633,184,/us/planets/index.html-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-10,,true,,306,140,13,13,http://dev.horoscope.com/us/planets/index.html,184,0,1
+1676066393817,793,/us/planets/index.html-1,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,155246,140,13,13,https://dev.horoscope.com/us/planets/index.html,643,0,217
+1676066393811,915,/us/tarot/index-tarot-reading-unique.aspx,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,150867,318,14,14,https://dev.horoscope.com/us/tarot/index-tarot-reading-unique.aspx,156,0,1
+1676066393811,156,/us/tarot/index-tarot-reading-unique.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-8,,true,,325,159,14,14,http://dev.horoscope.com/us/tarot/index-tarot-reading-unique.aspx,156,0,1
+1676066393967,759,/us/tarot/index-tarot-reading-unique.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,150542,159,14,14,https://dev.horoscope.com/us/tarot/index-tarot-reading-unique.aspx,613,0,212
+1676066393719,1042,/zodiac-signs/virgo,200,OK,Tarot Index Pages - Thread Group 1-12,text,true,,156976,274,14,14,https://dev.horoscope.com/zodiac-signs/virgo,156,0,1
+1676066393719,156,/zodiac-signs/virgo-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-12,,true,,303,137,14,14,http://dev.horoscope.com/zodiac-signs/virgo,156,0,1
+1676066393875,886,/zodiac-signs/virgo-1,200,OK,Tarot Index Pages - Thread Group 1-12,text,true,,156673,137,14,14,https://dev.horoscope.com/zodiac-signs/virgo,735,0,210
+1676066393670,1147,/us/tarot/index-tarot-reading-love.aspx,200,OK,Tarot Index Pages - Thread Group 1-9,text,true,,150743,314,14,14,https://dev.horoscope.com/us/tarot/index-tarot-reading-love.aspx,157,0,0
+1676066393670,157,/us/tarot/index-tarot-reading-love.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-9,,true,,323,157,14,14,http://dev.horoscope.com/us/tarot/index-tarot-reading-love.aspx,157,0,0
+1676066393827,990,/us/tarot/index-tarot-reading-love.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-9,text,true,,150420,157,14,14,https://dev.horoscope.com/us/tarot/index-tarot-reading-love.aspx,839,0,213
+1676066393838,1073,/zodiac-signs/pisces,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,157511,276,14,14,https://dev.horoscope.com/zodiac-signs/pisces,154,0,1
+1676066393838,154,/zodiac-signs/pisces-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-3,,true,,304,138,14,14,http://dev.horoscope.com/zodiac-signs/pisces,154,0,1
+1676066393993,918,/zodiac-signs/pisces-1,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,157207,138,14,14,https://dev.horoscope.com/zodiac-signs/pisces,767,0,231
+1676066393911,1106,/us/games/divination/game-love-cookie.aspx,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,150497,320,14,14,https://dev.horoscope.com/us/games/divination/game-love-cookie.aspx,156,0,0
+1676066393911,156,/us/games/divination/game-love-cookie.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-7,,true,,326,160,14,14,http://dev.horoscope.com/us/games/divination/game-love-cookie.aspx,156,0,0
+1676066394067,950,/us/games/divination/game-love-cookie.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,150171,160,14,14,https://dev.horoscope.com/us/games/divination/game-love-cookie.aspx,801,0,208
+1676066393968,1052,/us/tarot/tarot-make-a-wish.aspx,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,154192,300,14,14,https://dev.horoscope.com/us/tarot/tarot-make-a-wish.aspx,159,0,1
+1676066393968,159,/us/tarot/tarot-make-a-wish.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-2,,true,,316,150,14,14,http://dev.horoscope.com/us/tarot/tarot-make-a-wish.aspx,159,0,1
+1676066394127,893,/us/tarot/tarot-make-a-wish.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,153876,150,14,14,https://dev.horoscope.com/us/tarot/tarot-make-a-wish.aspx,741,0,211
+1676066393977,1062,/us/advertise.aspx,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,145302,272,14,14,https://dev.horoscope.com/us/advertise.aspx,162,0,0
+1676066393977,162,/us/advertise.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-4,,true,,302,136,14,14,http://dev.horoscope.com/us/advertise.aspx,162,0,0
+1676066394139,900,/us/advertise.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,145000,136,14,14,https://dev.horoscope.com/us/advertise.aspx,751,0,227
+1676066394034,1094,/us/games/divination/game-crystal-ball.aspx,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,150607,322,14,14,https://dev.horoscope.com/us/games/divination/game-crystal-ball.aspx,176,0,1
+1676066394034,176,/us/games/divination/game-crystal-ball.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-6,,true,,327,161,14,14,http://dev.horoscope.com/us/games/divination/game-crystal-ball.aspx,176,0,1
+1676066394210,918,/us/games/divination/game-crystal-ball.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,150280,161,14,14,https://dev.horoscope.com/us/games/divination/game-crystal-ball.aspx,766,0,212
+1676066394117,1106,/us/games/index-games-instant-advice.aspx,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,150110,318,15,15,https://dev.horoscope.com/us/games/index-games-instant-advice.aspx,164,0,1
+1676066394117,164,/us/games/index-games-instant-advice.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-5,,true,,325,159,15,15,http://dev.horoscope.com/us/games/index-games-instant-advice.aspx,164,0,1
+1676066394281,942,/us/games/index-games-instant-advice.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,149785,159,15,15,https://dev.horoscope.com/us/games/index-games-instant-advice.aspx,791,0,229
+1676066394335,935,/psychics/psychics.html,200,OK,Tarot Index Pages - Thread Group 1-11,text,true,,139250,282,15,15,https://dev.horoscope.com/psychics/psychics.html,175,0,1
+1676066394335,175,/psychics/psychics.html-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-11,,true,,307,141,15,15,http://dev.horoscope.com/psychics/psychics.html,175,0,1
+1676066394510,760,/psychics/psychics.html-1,200,OK,Tarot Index Pages - Thread Group 1-11,text,true,,138943,141,15,15,https://dev.horoscope.com/psychics/psychics.html,612,0,209
+1676066394210,1101,/us/tarot/tarot-white-magic.aspx,200,OK,Tarot Index Pages - Thread Group 1-13,text,true,,151622,300,15,15,https://dev.horoscope.com/us/tarot/tarot-white-magic.aspx,158,0,1
+1676066394210,158,/us/tarot/tarot-white-magic.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-13,,true,,316,150,15,15,http://dev.horoscope.com/us/tarot/tarot-white-magic.aspx,158,0,1
+1676066394369,942,/us/tarot/tarot-white-magic.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-13,text,true,,151306,150,15,15,https://dev.horoscope.com/us/tarot/tarot-white-magic.aspx,791,0,208
+1676066394611,974,/us/horoscopes/career/index-horoscope-career-daily.aspx,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,150943,346,15,15,https://dev.horoscope.com/us/horoscopes/career/index-horoscope-career-daily.aspx,157,0,1
+1676066394611,157,/us/horoscopes/career/index-horoscope-career-daily.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-1,,true,,339,173,15,15,http://dev.horoscope.com/us/horoscopes/career/index-horoscope-career-daily.aspx,157,0,1
+1676066394769,816,/us/horoscopes/career/index-horoscope-career-daily.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,150604,173,15,15,https://dev.horoscope.com/us/horoscopes/career/index-horoscope-career-daily.aspx,674,0,252
+1676066394611,1004,/us/index.aspx,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,151519,264,15,15,https://dev.horoscope.com/us/index.aspx,199,0,1
+1676066394611,199,/us/index.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-10,,true,,298,132,15,15,http://dev.horoscope.com/us/index.aspx,199,0,1
+1676066394810,805,/us/index.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,151221,132,15,15,https://dev.horoscope.com/us/index.aspx,660,0,267
+1676066394762,913,/psychics/love.html,200,OK,Tarot Index Pages - Thread Group 1-12,text,true,,139241,274,16,16,https://dev.horoscope.com/psychics/love.html,209,0,1
+1676066394762,209,/psychics/love.html-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-12,,true,,303,137,16,16,http://dev.horoscope.com/psychics/love.html,209,0,1
+1676066394972,703,/psychics/love.html-1,200,OK,Tarot Index Pages - Thread Group 1-12,text,true,,138938,137,16,16,https://dev.horoscope.com/psychics/love.html,600,0,213
+1676066395020,690,/images-US/upsell/2023-tarot-reading.jpg,200,OK,Tarot Index Pages - Thread Group 1-2,bin,true,,14894,316,16,16,https://dev.horoscope.com/images-US/upsell/2023-tarot-reading.jpg,158,0,1
+1676066395020,158,/images-US/upsell/2023-tarot-reading.jpg-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-2,,true,,324,158,16,16,http://dev.horoscope.com/images-US/upsell/2023-tarot-reading.jpg,158,0,1
+1676066395179,531,/images-US/upsell/2023-tarot-reading.jpg-1,200,OK,Tarot Index Pages - Thread Group 1-2,bin,true,,14570,158,16,16,https://dev.horoscope.com/images-US/upsell/2023-tarot-reading.jpg,531,0,212
+1676066394660,1069,/zodiac-signs/aries,200,OK,Tarot Index Pages - Thread Group 1-14,text,true,,156534,274,16,16,https://dev.horoscope.com/zodiac-signs/aries,159,0,1
+1676066394660,159,/zodiac-signs/aries-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-14,,true,,303,137,16,16,http://dev.horoscope.com/zodiac-signs/aries,159,0,1
+1676066394820,909,/zodiac-signs/aries-1,200,OK,Tarot Index Pages - Thread Group 1-14,text,true,,156231,137,16,16,https://dev.horoscope.com/zodiac-signs/aries,757,0,268
+1676066394728,1114,/us/tos.aspx,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,195530,260,16,16,https://dev.horoscope.com/us/tos.aspx,195,0,0
+1676066394728,195,/us/tos.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-8,,true,,296,130,16,16,http://dev.horoscope.com/us/tos.aspx,195,0,0
+1676066394923,919,/us/tos.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,195234,130,16,16,https://dev.horoscope.com/us/tos.aspx,737,0,212
+1676066395271,653,/astrology/,404,Not Found,Tarot Index Pages - Thread Group 1-11,text,false,Test failed: code expected not to contain /404/,1873,258,16,16,https://dev.horoscope.com/astrology/,160,0,0
+1676066395271,160,/astrology/-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-11,,true,,295,129,16,16,http://dev.horoscope.com/astrology/,160,0,0
+1676066395431,493,/astrology/-1,404,Not Found,Tarot Index Pages - Thread Group 1-11,text,false,,1578,129,16,16,https://dev.horoscope.com/astrology/,493,0,229
+1676066394912,1049,/us/horoscopes/yearly/2023-horoscope-overview.aspx,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,150280,336,16,16,https://dev.horoscope.com/us/horoscopes/yearly/2023-horoscope-overview.aspx,165,0,1
+1676066394912,165,/us/horoscopes/yearly/2023-horoscope-overview.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-3,,true,,334,168,16,16,http://dev.horoscope.com/us/horoscopes/yearly/2023-horoscope-overview.aspx,165,0,1
+1676066395077,884,/us/horoscopes/yearly/2023-horoscope-overview.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,149946,168,16,16,https://dev.horoscope.com/us/horoscopes/yearly/2023-horoscope-overview.aspx,733,0,208
+1676066394818,1194,/zodiac-signs/cancer,200,OK,Tarot Index Pages - Thread Group 1-9,text,true,,158126,276,16,16,https://dev.horoscope.com/zodiac-signs/cancer,208,0,1
+1676066394818,208,/zodiac-signs/cancer-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-9,,true,,304,138,16,16,http://dev.horoscope.com/zodiac-signs/cancer,208,0,1
+1676066395027,985,/zodiac-signs/cancer-1,200,OK,Tarot Index Pages - Thread Group 1-9,text,true,,157822,138,16,16,https://dev.horoscope.com/zodiac-signs/cancer,833,0,208
+1676066395018,1043,/us/tarot/tarot-lovers-triangle.aspx,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,153186,308,16,16,https://dev.horoscope.com/us/tarot/tarot-lovers-triangle.aspx,161,0,1
+1676066395018,161,/us/tarot/tarot-lovers-triangle.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-7,,true,,320,154,16,16,http://dev.horoscope.com/us/tarot/tarot-lovers-triangle.aspx,161,0,1
+1676066395179,882,/us/tarot/tarot-lovers-triangle.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,152866,154,16,16,https://dev.horoscope.com/us/tarot/tarot-lovers-triangle.aspx,732,0,237
+1676066395129,939,/zodiac-signs/leo,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,156861,270,16,16,https://dev.horoscope.com/zodiac-signs/leo,181,0,0
+1676066395129,181,/zodiac-signs/leo-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-6,,true,,301,135,16,16,http://dev.horoscope.com/zodiac-signs/leo,181,0,0
+1676066395310,758,/zodiac-signs/leo-1,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,156560,135,16,16,https://dev.horoscope.com/zodiac-signs/leo,613,0,210
+1676066395040,1071,/us/tarot/tarot-zen.aspx,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,151915,284,17,17,https://dev.horoscope.com/us/tarot/tarot-zen.aspx,169,0,1
+1676066395040,169,/us/tarot/tarot-zen.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-4,,true,,308,142,17,17,http://dev.horoscope.com/us/tarot/tarot-zen.aspx,169,0,1
+1676066395210,901,/us/tarot/tarot-zen.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,151607,142,17,17,https://dev.horoscope.com/us/tarot/tarot-zen.aspx,750,0,207
+1676066395225,935,/us/horoscopes/general/index-horoscope-general-daily.aspx,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,151834,350,17,17,https://dev.horoscope.com/us/horoscopes/general/index-horoscope-general-daily.aspx,155,0,0
+1676066395225,155,/us/horoscopes/general/index-horoscope-general-daily.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-5,,true,,341,175,17,17,http://dev.horoscope.com/us/horoscopes/general/index-horoscope-general-daily.aspx,155,0,0
+1676066395380,780,/us/horoscopes/general/index-horoscope-general-daily.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,151493,175,17,17,https://dev.horoscope.com/us/horoscopes/general/index-horoscope-general-daily.aspx,632,0,211
+1676066395161,1077,/us/games/index-games.aspx,200,OK,Tarot Index Pages - Thread Group 1-15,text,true,,157364,288,17,17,https://dev.horoscope.com/us/games/index-games.aspx,162,0,0
+1676066395161,162,/us/games/index-games.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-15,,true,,310,144,17,17,http://dev.horoscope.com/us/games/index-games.aspx,162,0,0
+1676066395323,915,/us/games/index-games.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-15,text,true,,157054,144,17,17,https://dev.horoscope.com/us/games/index-games.aspx,767,0,208
+1676066395311,1149,/us/tarot/tarot-love-potential.aspx,200,OK,Tarot Index Pages - Thread Group 1-13,text,true,,154418,306,17,17,https://dev.horoscope.com/us/tarot/tarot-love-potential.aspx,156,0,1
+1676066395311,156,/us/tarot/tarot-love-potential.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-13,,true,,319,153,17,17,http://dev.horoscope.com/us/tarot/tarot-love-potential.aspx,156,0,1
+1676066395467,993,/us/tarot/tarot-love-potential.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-13,text,true,,154099,153,17,17,https://dev.horoscope.com/us/tarot/tarot-love-potential.aspx,825,0,214
+1676066395587,941,/us/tarot/tarot-money-oracle.aspx,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,154033,302,17,17,https://dev.horoscope.com/us/tarot/tarot-money-oracle.aspx,172,0,1
+1676066395587,172,/us/tarot/tarot-money-oracle.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-1,,true,,317,151,17,17,http://dev.horoscope.com/us/tarot/tarot-money-oracle.aspx,172,0,1
+1676066395760,768,/us/tarot/tarot-money-oracle.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,153716,151,17,17,https://dev.horoscope.com/us/tarot/tarot-money-oracle.aspx,625,0,208
+1676066395616,944,/us/horoscopes/chinese/index-horoscope-chinese.aspx,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,155440,338,17,17,https://dev.horoscope.com/us/horoscopes/chinese/index-horoscope-chinese.aspx,159,0,1
+1676066395616,159,/us/horoscopes/chinese/index-horoscope-chinese.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-10,,true,,335,169,17,17,http://dev.horoscope.com/us/horoscopes/chinese/index-horoscope-chinese.aspx,159,0,1
+1676066395779,781,/us/horoscopes/chinese/index-horoscope-chinese.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,155105,169,17,17,https://dev.horoscope.com/us/horoscopes/chinese/index-horoscope-chinese.aspx,631,0,210
+1676066395730,938,/us/games/divination/game-magic-love-ball.aspx,200,OK,Tarot Index Pages - Thread Group 1-14,text,true,,150942,328,18,18,https://dev.horoscope.com/us/games/divination/game-magic-love-ball.aspx,155,0,0
+1676066395730,155,/us/games/divination/game-magic-love-ball.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-14,,true,,330,164,18,18,http://dev.horoscope.com/us/games/divination/game-magic-love-ball.aspx,155,0,0
+1676066395885,783,/us/games/divination/game-magic-love-ball.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-14,text,true,,150612,164,18,18,https://dev.horoscope.com/us/games/divination/game-magic-love-ball.aspx,639,0,225
+1676066395619,1091,/us/horoscopes/love/index-horoscope-love-daily.aspx,200,OK,Tarot Index Pages - Thread Group 1-16,text,true,,150907,338,18,18,https://dev.horoscope.com/us/horoscopes/love/index-horoscope-love-daily.aspx,160,0,1
+1676066395619,160,/us/horoscopes/love/index-horoscope-love-daily.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-16,,true,,335,169,18,18,http://dev.horoscope.com/us/horoscopes/love/index-horoscope-love-daily.aspx,160,0,1
+1676066395780,930,/us/horoscopes/love/index-horoscope-love-daily.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-16,text,true,,150572,169,18,18,https://dev.horoscope.com/us/horoscopes/love/index-horoscope-love-daily.aspx,780,0,230
+1676066395711,1016,/zodiac-signs/capricorn,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,157603,282,18,18,https://dev.horoscope.com/zodiac-signs/capricorn,155,0,0
+1676066395711,155,/zodiac-signs/capricorn-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-2,,true,,307,141,18,18,http://dev.horoscope.com/zodiac-signs/capricorn,155,0,0
+1676066395866,861,/zodiac-signs/capricorn-1,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,157296,141,18,18,https://dev.horoscope.com/zodiac-signs/capricorn,710,0,208
+1676066395860,882,/us/emails/email-subscription.aspx,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,139474,304,18,18,https://dev.horoscope.com/us/emails/email-subscription.aspx,157,0,1
+1676066395860,157,/us/emails/email-subscription.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-8,,true,,318,152,18,18,http://dev.horoscope.com/us/emails/email-subscription.aspx,157,0,1
+1676066396018,724,/us/emails/email-subscription.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,139156,152,18,18,https://dev.horoscope.com/us/emails/email-subscription.aspx,620,0,214
+1676066395925,854,/psychics,200,OK,Tarot Index Pages - Thread Group 1-11,text,true,,139221,254,18,18,https://dev.horoscope.com/psychics,156,0,1
+1676066395925,156,/psychics-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-11,,true,,293,127,18,18,http://dev.horoscope.com/psychics,156,0,1
+1676066396081,698,/psychics-1,200,OK,Tarot Index Pages - Thread Group 1-11,text,true,,138928,127,18,18,https://dev.horoscope.com/psychics,596,0,209
+1676066395676,1157,/us/tarot/tarot-power.aspx,200,OK,Tarot Index Pages - Thread Group 1-12,text,true,,154552,288,18,18,https://dev.horoscope.com/us/tarot/tarot-power.aspx,189,0,1
+1676066395676,189,/us/tarot/tarot-power.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-12,,true,,310,144,18,18,http://dev.horoscope.com/us/tarot/tarot-power.aspx,189,0,1
+1676066395865,968,/us/tarot/tarot-power.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-12,text,true,,154242,144,18,18,https://dev.horoscope.com/us/tarot/tarot-power.aspx,817,0,209
+1676066396013,916,/us/tarot/tarot-breakup.aspx,200,OK,Tarot Index Pages - Thread Group 1-9,text,true,,152375,292,18,18,https://dev.horoscope.com/us/tarot/tarot-breakup.aspx,157,0,1
+1676066396013,157,/us/tarot/tarot-breakup.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-9,,true,,312,146,18,18,http://dev.horoscope.com/us/tarot/tarot-breakup.aspx,157,0,1
+1676066396170,759,/us/tarot/tarot-breakup.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-9,text,true,,152063,146,18,18,https://dev.horoscope.com/us/tarot/tarot-breakup.aspx,610,0,213
+1676066396062,880,/us/team.aspx,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,141179,262,18,18,https://dev.horoscope.com/us/team.aspx,158,0,1
+1676066396062,158,/us/team.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-7,,true,,297,131,18,18,http://dev.horoscope.com/us/team.aspx,158,0,1
+1676066396220,722,/us/team.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,140882,131,18,18,https://dev.horoscope.com/us/team.aspx,618,0,212
+1676066395962,999,/us/tarot/tarot-weekly.aspx,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,154391,290,18,18,https://dev.horoscope.com/us/tarot/tarot-weekly.aspx,157,0,1
+1676066395962,157,/us/tarot/tarot-weekly.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-3,,true,,311,145,18,18,http://dev.horoscope.com/us/tarot/tarot-weekly.aspx,157,0,1
+1676066396119,842,/us/tarot/tarot-weekly.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,154080,145,18,18,https://dev.horoscope.com/us/tarot/tarot-weekly.aspx,691,0,207
+1676066396112,911,/us/games/index-games-fortune-teller.aspx,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,148860,318,19,19,https://dev.horoscope.com/us/games/index-games-fortune-teller.aspx,155,0,1
+1676066396112,155,/us/games/index-games-fortune-teller.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-4,,true,,325,159,19,19,http://dev.horoscope.com/us/games/index-games-fortune-teller.aspx,155,0,1
+1676066396267,756,/us/games/index-games-fortune-teller.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,148535,159,19,19,https://dev.horoscope.com/us/games/index-games-fortune-teller.aspx,608,0,211
+1676066396161,1030,/us/tarot/tarot-monthly.aspx,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,152776,292,19,19,https://dev.horoscope.com/us/tarot/tarot-monthly.aspx,157,0,1
+1676066396161,157,/us/tarot/tarot-monthly.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-5,,true,,312,146,19,19,http://dev.horoscope.com/us/tarot/tarot-monthly.aspx,157,0,1
+1676066396318,873,/us/tarot/tarot-monthly.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,152464,146,19,19,https://dev.horoscope.com/us/tarot/tarot-monthly.aspx,742,0,209
+1676066396581,629,/horoscope-dates/,404,Not Found,Tarot Index Pages - Thread Group 1-18,text,false,Test failed: code expected not to contain /404/,1879,270,19,19,https://dev.horoscope.com/horoscope-dates/,155,0,1
+1676066396581,155,/horoscope-dates/-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-18,,true,,301,135,19,19,http://dev.horoscope.com/horoscope-dates/,155,0,1
+1676066396737,473,/horoscope-dates/-1,404,Not Found,Tarot Index Pages - Thread Group 1-18,text,false,,1578,135,19,19,https://dev.horoscope.com/horoscope-dates/,473,0,224
+1676066396069,1213,/us/tarot/tarot-erotic.aspx,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,154226,290,19,19,https://dev.horoscope.com/us/tarot/tarot-erotic.aspx,158,0,0
+1676066396069,158,/us/tarot/tarot-erotic.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-6,,true,,311,145,19,19,http://dev.horoscope.com/us/tarot/tarot-erotic.aspx,158,0,0
+1676066396227,1055,/us/tarot/tarot-erotic.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,153915,145,19,19,https://dev.horoscope.com/us/tarot/tarot-erotic.aspx,902,0,233
+1676066396110,1201,/us/tarot/tarot-hot-topic.aspx,200,OK,Tarot Index Pages - Thread Group 1-17,text,true,,154543,296,19,19,https://dev.horoscope.com/us/tarot/tarot-hot-topic.aspx,160,0,1
+1676066396110,160,/us/tarot/tarot-hot-topic.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-17,,true,,314,148,19,19,http://dev.horoscope.com/us/tarot/tarot-hot-topic.aspx,160,0,1
+1676066396270,1041,/us/tarot/tarot-hot-topic.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-17,text,true,,154229,148,19,19,https://dev.horoscope.com/us/tarot/tarot-hot-topic.aspx,890,0,207
+1676066396239,1072,/us/games/compatibility/game-name-compatibility.aspx,200,OK,Tarot Index Pages - Thread Group 1-15,text,true,,154926,340,19,19,https://dev.horoscope.com/us/games/compatibility/game-name-compatibility.aspx,170,0,1
+1676066396239,170,/us/games/compatibility/game-name-compatibility.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-15,,true,,336,170,19,19,http://dev.horoscope.com/us/games/compatibility/game-name-compatibility.aspx,170,0,1
+1676066396410,901,/us/games/compatibility/game-name-compatibility.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-15,text,true,,154590,170,19,19,https://dev.horoscope.com/us/games/compatibility/game-name-compatibility.aspx,750,0,215
+1676066396461,928,/articles,200,OK,Tarot Index Pages - Thread Group 1-13,text,true,,158035,254,19,19,https://dev.horoscope.com/articles,163,0,1
+1676066396461,163,/articles-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-13,,true,,293,127,19,19,http://dev.horoscope.com/articles,163,0,1
+1676066396624,765,/articles-1,200,OK,Tarot Index Pages - Thread Group 1-13,text,true,,157742,127,19,19,https://dev.horoscope.com/articles,636,0,211
+1676066396561,925,/us/tarot/tarot-true-love.aspx,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,151967,296,19,19,https://dev.horoscope.com/us/tarot/tarot-true-love.aspx,158,0,1
+1676066396561,158,/us/tarot/tarot-true-love.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-10,,true,,314,148,19,19,http://dev.horoscope.com/us/tarot/tarot-true-love.aspx,158,0,1
+1676066396719,767,/us/tarot/tarot-true-love.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,151653,148,19,19,https://dev.horoscope.com/us/tarot/tarot-true-love.aspx,621,0,213
+1676066396711,929,/zodiac-signs/libra,200,OK,Tarot Index Pages - Thread Group 1-16,text,true,,157854,274,20,20,https://dev.horoscope.com/zodiac-signs/libra,160,0,1
+1676066396711,160,/zodiac-signs/libra-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-16,,true,,303,137,20,20,http://dev.horoscope.com/zodiac-signs/libra,160,0,1
+1676066396871,769,/zodiac-signs/libra-1,200,OK,Tarot Index Pages - Thread Group 1-16,text,true,,157551,137,20,20,https://dev.horoscope.com/zodiac-signs/libra,639,0,211
+1676066396670,1056,/us/games/divination/game-fortune-cookie.aspx,200,OK,Tarot Index Pages - Thread Group 1-14,text,true,,149878,326,20,20,https://dev.horoscope.com/us/games/divination/game-fortune-cookie.aspx,163,0,0
+1676066396670,163,/us/games/divination/game-fortune-cookie.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-14,,true,,329,163,20,20,http://dev.horoscope.com/us/games/divination/game-fortune-cookie.aspx,163,0,0
+1676066396833,893,/us/games/divination/game-fortune-cookie.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-14,text,true,,149549,163,20,20,https://dev.horoscope.com/us/games/divination/game-fortune-cookie.aspx,740,0,227
+1676066396529,1206,/us/tarot/tarot-former-flame.aspx,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,154099,302,20,20,https://dev.horoscope.com/us/tarot/tarot-former-flame.aspx,161,0,1
+1676066396529,161,/us/tarot/tarot-former-flame.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-1,,true,,317,151,20,20,http://dev.horoscope.com/us/tarot/tarot-former-flame.aspx,161,0,1
+1676066396690,1045,/us/tarot/tarot-former-flame.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-1,text,true,,153782,151,20,20,https://dev.horoscope.com/us/tarot/tarot-former-flame.aspx,899,0,226
+1676066396834,940,/us/horoscopes/money/index-horoscope-money-weekly.aspx,200,OK,Tarot Index Pages - Thread Group 1-12,text,true,,150927,344,20,20,https://dev.horoscope.com/us/horoscopes/money/index-horoscope-money-weekly.aspx,155,0,1
+1676066396834,155,/us/horoscopes/money/index-horoscope-money-weekly.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-12,,true,,338,172,20,20,http://dev.horoscope.com/us/horoscopes/money/index-horoscope-money-weekly.aspx,155,0,1
+1676066396989,785,/us/horoscopes/money/index-horoscope-money-weekly.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-12,text,true,,150589,172,20,20,https://dev.horoscope.com/us/horoscopes/money/index-horoscope-money-weekly.aspx,638,0,227
+1676066396962,903,/us/tarot/tarot-daily-flirt.aspx,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,154464,300,20,20,https://dev.horoscope.com/us/tarot/tarot-daily-flirt.aspx,157,0,0
+1676066396962,157,/us/tarot/tarot-daily-flirt.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-3,,true,,316,150,20,20,http://dev.horoscope.com/us/tarot/tarot-daily-flirt.aspx,157,0,0
+1676066397119,746,/us/tarot/tarot-daily-flirt.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-3,text,true,,154148,150,20,20,https://dev.horoscope.com/us/tarot/tarot-daily-flirt.aspx,597,0,215
+1676066396728,1159,/love/compatibility,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,152678,274,20,20,https://dev.horoscope.com/love/compatibility,161,0,1
+1676066396728,161,/love/compatibility-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-2,,true,,303,137,20,20,http://dev.horoscope.com/love/compatibility,161,0,1
+1676066396889,998,/love/compatibility-1,200,OK,Tarot Index Pages - Thread Group 1-2,text,true,,152375,137,20,20,https://dev.horoscope.com/love/compatibility,848,0,227
+1676066396742,1145,/us/games/compatibility/game-friendship-compatibility.aspx,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,151648,352,20,20,https://dev.horoscope.com/us/games/compatibility/game-friendship-compatibility.aspx,173,0,17
+1676066396742,173,/us/games/compatibility/game-friendship-compatibility.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-8,,true,,342,176,20,20,http://dev.horoscope.com/us/games/compatibility/game-friendship-compatibility.aspx,173,0,17
+1676066396915,972,/us/games/compatibility/game-friendship-compatibility.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-8,text,true,,151306,176,20,20,https://dev.horoscope.com/us/games/compatibility/game-friendship-compatibility.aspx,822,0,209
+1676066396930,1081,/zodiac-signs/scorpio,200,OK,Tarot Index Pages - Thread Group 1-9,text,true,,157062,278,20,20,https://dev.horoscope.com/zodiac-signs/scorpio,157,0,1
+1676066396930,157,/zodiac-signs/scorpio-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-9,,true,,305,139,20,20,http://dev.horoscope.com/zodiac-signs/scorpio,157,0,1
+1676066397088,923,/zodiac-signs/scorpio-1,200,OK,Tarot Index Pages - Thread Group 1-9,text,true,,156757,139,20,20,https://dev.horoscope.com/zodiac-signs/scorpio,772,0,222
+1676066396780,1336,/zodiac-signs,200,OK,Tarot Index Pages - Thread Group 1-11,text,true,,186194,262,21,21,https://dev.horoscope.com/zodiac-signs,158,0,1
+1676066396780,158,/zodiac-signs-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-11,,true,,297,131,21,21,http://dev.horoscope.com/zodiac-signs,158,0,1
+1676066396938,1178,/zodiac-signs-1,200,OK,Tarot Index Pages - Thread Group 1-11,text,true,,185897,131,21,21,https://dev.horoscope.com/zodiac-signs,985,0,227
+1676066396942,1186,/us/tarot/tarot-egyptian.aspx,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,154270,294,21,21,https://dev.horoscope.com/us/tarot/tarot-egyptian.aspx,174,0,17
+1676066396942,174,/us/tarot/tarot-egyptian.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-7,,true,,313,147,21,21,http://dev.horoscope.com/us/tarot/tarot-egyptian.aspx,174,0,17
+1676066397116,1012,/us/tarot/tarot-egyptian.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-7,text,true,,153957,147,21,21,https://dev.horoscope.com/us/tarot/tarot-egyptian.aspx,862,0,218
+1676066397312,823,/saturn-return/,404,Not Found,Tarot Index Pages - Thread Group 1-17,text,false,Test failed: code expected not to contain /404/,1877,266,21,21,https://dev.horoscope.com/saturn-return/,155,0,0
+1676066397312,155,/saturn-return/-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-17,,true,,299,133,21,21,http://dev.horoscope.com/saturn-return/,155,0,0
+1676066397467,668,/saturn-return/-1,404,Not Found,Tarot Index Pages - Thread Group 1-17,text,false,,1578,133,21,21,https://dev.horoscope.com/saturn-return/,668,0,213
+1676066397191,969,/birthday-horoscope.aspx,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,152939,284,21,21,https://dev.horoscope.com/birthday-horoscope.aspx,172,0,1
+1676066397191,172,/birthday-horoscope.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-5,,true,,308,142,21,21,http://dev.horoscope.com/birthday-horoscope.aspx,172,0,1
+1676066397363,797,/birthday-horoscope.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-5,text,true,,152631,142,21,21,https://dev.horoscope.com/birthday-horoscope.aspx,647,0,225
+1676066397210,961,/us/tarot/tarot-daily-love.aspx,200,OK,Tarot Index Pages - Thread Group 1-18,text,true,,154179,298,21,21,https://dev.horoscope.com/us/tarot/tarot-daily-love.aspx,159,0,1
+1676066397210,159,/us/tarot/tarot-daily-love.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-18,,true,,315,149,21,21,http://dev.horoscope.com/us/tarot/tarot-daily-love.aspx,159,0,1
+1676066397369,802,/us/tarot/tarot-daily-love.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-18,text,true,,153864,149,21,21,https://dev.horoscope.com/us/tarot/tarot-daily-love.aspx,654,0,221
+1676066397024,1216,/us/horoscopes/general/index-retail-therapy-horoscope.aspx,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,150708,352,21,21,https://dev.horoscope.com/us/horoscopes/general/index-retail-therapy-horoscope.aspx,156,0,1
+1676066397024,156,/us/horoscopes/general/index-retail-therapy-horoscope.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-4,,true,,342,176,21,21,http://dev.horoscope.com/us/horoscopes/general/index-retail-therapy-horoscope.aspx,156,0,1
+1676066397180,1060,/us/horoscopes/general/index-retail-therapy-horoscope.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-4,text,true,,150366,176,21,21,https://dev.horoscope.com/us/horoscopes/general/index-retail-therapy-horoscope.aspx,912,0,229
+1676066397641,693,/images-US/tarot/back/lovers-triangle-you.png,200,OK,Tarot Index Pages - Thread Group 1-16,bin,true,,17306,326,21,21,https://dev.horoscope.com/images-US/tarot/back/lovers-triangle-you.png,173,0,1
+1676066397641,173,/images-US/tarot/back/lovers-triangle-you.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-16,,true,,329,163,21,21,http://dev.horoscope.com/images-US/tarot/back/lovers-triangle-you.png,173,0,1
+1676066397814,520,/images-US/tarot/back/lovers-triangle-you.png-1,200,OK,Tarot Index Pages - Thread Group 1-16,bin,true,,16977,163,21,21,https://dev.horoscope.com/images-US/tarot/back/lovers-triangle-you.png,520,0,214
+1676066396986,1375,/us/games/index-games-compatibility.aspx,200,OK,Tarot Index Pages - Thread Group 1-19,text,true,,149712,316,21,21,https://dev.horoscope.com/us/games/index-games-compatibility.aspx,173,0,1
+1676066396986,173,/us/games/index-games-compatibility.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-19,,true,,324,158,21,21,http://dev.horoscope.com/us/games/index-games-compatibility.aspx,173,0,1
+1676066397160,1201,/us/games/index-games-compatibility.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-19,text,true,,149388,158,21,21,https://dev.horoscope.com/us/games/index-games-compatibility.aspx,1050,0,208
+1676066397312,1049,/us/tarot/index-tarot-reading-forecast.aspx,200,OK,Tarot Index Pages - Thread Group 1-15,text,true,,148651,322,21,21,https://dev.horoscope.com/us/tarot/index-tarot-reading-forecast.aspx,165,0,0
+1676066397312,165,/us/tarot/index-tarot-reading-forecast.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-15,,true,,327,161,21,21,http://dev.horoscope.com/us/tarot/index-tarot-reading-forecast.aspx,165,0,0
+1676066397477,884,/us/tarot/index-tarot-reading-forecast.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-15,text,true,,148324,161,21,21,https://dev.horoscope.com/us/tarot/index-tarot-reading-forecast.aspx,733,0,212
+1676066397736,674,/images-US/tarot/back/gems-oracle-love.png,200,OK,Tarot Index Pages - Thread Group 1-1,bin,true,,20338,320,21,21,https://dev.horoscope.com/images-US/tarot/back/gems-oracle-love.png,173,0,1
+1676066397736,173,/images-US/tarot/back/gems-oracle-love.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-1,,true,,326,160,21,21,http://dev.horoscope.com/images-US/tarot/back/gems-oracle-love.png,173,0,1
+1676066397910,500,/images-US/tarot/back/gems-oracle-love.png-1,200,OK,Tarot Index Pages - Thread Group 1-1,bin,true,,20012,160,21,21,https://dev.horoscope.com/images-US/tarot/back/gems-oracle-love.png,500,0,211
+1676066397489,924,/us/tarot/tarot-past-lives.aspx,200,OK,Tarot Index Pages - Thread Group 1-20,text,true,,154775,298,21,21,https://dev.horoscope.com/us/tarot/tarot-past-lives.aspx,170,0,0
+1676066397489,170,/us/tarot/tarot-past-lives.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-20,,true,,315,149,21,21,http://dev.horoscope.com/us/tarot/tarot-past-lives.aspx,170,0,0
+1676066397660,753,/us/tarot/tarot-past-lives.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-20,text,true,,154460,149,21,21,https://dev.horoscope.com/us/tarot/tarot-past-lives.aspx,610,0,210
+1676066397865,566,/images-US/tarot/back/monthly-wellness.png,200,OK,Tarot Index Pages - Thread Group 1-3,bin,true,,29530,320,21,21,https://dev.horoscope.com/images-US/tarot/back/monthly-wellness.png,158,0,1
+1676066397865,158,/images-US/tarot/back/monthly-wellness.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-3,,true,,326,160,21,21,http://dev.horoscope.com/images-US/tarot/back/monthly-wellness.png,158,0,1
+1676066398023,408,/images-US/tarot/back/monthly-wellness.png-1,200,OK,Tarot Index Pages - Thread Group 1-3,bin,true,,29204,160,21,21,https://dev.horoscope.com/images-US/tarot/back/monthly-wellness.png,407,0,210
+1676066397774,686,/images-US/tarot/back/weekly-monday.png,200,OK,Tarot Index Pages - Thread Group 1-12,bin,true,,22224,314,21,21,https://dev.horoscope.com/images-US/tarot/back/weekly-monday.png,160,0,1
+1676066397774,160,/images-US/tarot/back/weekly-monday.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-12,,true,,323,157,21,21,http://dev.horoscope.com/images-US/tarot/back/weekly-monday.png,160,0,1
+1676066397934,526,/images-US/tarot/back/weekly-monday.png-1,200,OK,Tarot Index Pages - Thread Group 1-12,bin,true,,21901,157,21,21,https://dev.horoscope.com/images-US/tarot/back/weekly-monday.png,526,0,226
+1676066397887,581,/images-US/tarot/back/tomorrow.png,200,OK,Tarot Index Pages - Thread Group 1-2,bin,true,,24650,304,21,21,https://dev.horoscope.com/images-US/tarot/back/tomorrow.png,173,0,1
+1676066397887,173,/images-US/tarot/back/tomorrow.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-2,,true,,318,152,21,21,http://dev.horoscope.com/images-US/tarot/back/tomorrow.png,173,0,1
+1676066398060,408,/images-US/tarot/back/tomorrow.png-1,200,OK,Tarot Index Pages - Thread Group 1-2,bin,true,,24332,152,21,21,https://dev.horoscope.com/images-US/tarot/back/tomorrow.png,406,0,212
+1676066397283,1204,/zodiac-signs/sagittarius,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,157384,286,21,21,https://dev.horoscope.com/zodiac-signs/sagittarius,176,0,1
+1676066397283,176,/zodiac-signs/sagittarius-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-6,,true,,309,143,21,21,http://dev.horoscope.com/zodiac-signs/sagittarius,176,0,1
+1676066397460,1027,/zodiac-signs/sagittarius-1,200,OK,Tarot Index Pages - Thread Group 1-6,text,true,,157075,143,21,21,https://dev.horoscope.com/zodiac-signs/sagittarius,877,0,208
+1676066397487,1043,/us/feedback.aspx,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,144081,270,22,22,https://dev.horoscope.com/us/feedback.aspx,156,0,1
+1676066397487,156,/us/feedback.aspx-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-10,,true,,301,135,22,22,http://dev.horoscope.com/us/feedback.aspx,156,0,1
+1676066397659,871,/us/feedback.aspx-1,200,OK,Tarot Index Pages - Thread Group 1-10,text,true,,143780,135,22,22,https://dev.horoscope.com/us/feedback.aspx,719,0,216
+1676066397888,672,/images-US/upsell/true-love-tarot-reading.jpg,200,OK,Tarot Index Pages - Thread Group 1-8,bin,true,,20335,326,22,22,https://dev.horoscope.com/images-US/upsell/true-love-tarot-reading.jpg,181,0,1
+1676066397888,181,/images-US/upsell/true-love-tarot-reading.jpg-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-8,,true,,329,163,22,22,http://dev.horoscope.com/images-US/upsell/true-love-tarot-reading.jpg,181,0,1
+1676066398069,491,/images-US/upsell/true-love-tarot-reading.jpg-1,200,OK,Tarot Index Pages - Thread Group 1-8,bin,true,,20006,163,22,22,https://dev.horoscope.com/images-US/upsell/true-love-tarot-reading.jpg,491,0,209
+1676066398012,567,/images-US/tarot/back/lovers-triangle-lover1.png,200,OK,Tarot Index Pages - Thread Group 1-9,bin,true,,16705,332,22,22,https://dev.horoscope.com/images-US/tarot/back/lovers-triangle-lover1.png,154,0,0
+1676066398012,154,/images-US/tarot/back/lovers-triangle-lover1.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-9,,true,,332,166,22,22,http://dev.horoscope.com/images-US/tarot/back/lovers-triangle-lover1.png,154,0,0
+1676066398166,413,/images-US/tarot/back/lovers-triangle-lover1.png-1,200,OK,Tarot Index Pages - Thread Group 1-9,bin,true,,16373,166,22,22,https://dev.horoscope.com/images-US/tarot/back/lovers-triangle-lover1.png,413,0,213
+1676066398014,646,/images-US/tarot/back/yinyang-yin.png,200,OK,Tarot Index Pages - Thread Group 1-21,bin,true,,15256,310,22,22,https://dev.horoscope.com/images-US/tarot/back/yinyang-yin.png,156,0,1
+1676066398014,156,/images-US/tarot/back/yinyang-yin.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-21,,true,,321,155,22,22,http://dev.horoscope.com/images-US/tarot/back/yinyang-yin.png,156,0,1
+1676066398170,490,/images-US/tarot/back/yinyang-yin.png-1,200,OK,Tarot Index Pages - Thread Group 1-21,bin,true,,14935,155,22,22,https://dev.horoscope.com/images-US/tarot/back/yinyang-yin.png,490,0,212
+1676066397390,1294,/tarot/tarot-card-meaning/the-hanged-man,200,OK,Tarot Index Pages - Thread Group 1-13,text,true,,155664,316,22,22,https://dev.horoscope.com/tarot/tarot-card-meaning/the-hanged-man,169,0,0
+1676066397390,169,/tarot/tarot-card-meaning/the-hanged-man-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-13,,true,,324,158,22,22,http://dev.horoscope.com/tarot/tarot-card-meaning/the-hanged-man,169,0,0
+1676066397560,1124,/tarot/tarot-card-meaning/the-hanged-man-1,200,OK,Tarot Index Pages - Thread Group 1-13,text,true,,155340,158,22,22,https://dev.horoscope.com/tarot/tarot-card-meaning/the-hanged-man,976,0,207
+1676066398161,573,/images-US/tarot/back/breakup-cause.png,200,OK,Tarot Index Pages - Thread Group 1-5,bin,true,,20670,314,22,22,https://dev.horoscope.com/images-US/tarot/back/breakup-cause.png,158,0,0
+1676066398161,158,/images-US/tarot/back/breakup-cause.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-5,,true,,323,157,22,22,http://dev.horoscope.com/images-US/tarot/back/breakup-cause.png,158,0,0
+1676066398319,415,/images-US/tarot/back/breakup-cause.png-1,200,OK,Tarot Index Pages - Thread Group 1-5,bin,true,,20347,157,22,22,https://dev.horoscope.com/images-US/tarot/back/breakup-cause.png,413,0,209
+1676066398172,588,/images-US/upsell/compatibility-score.jpg,200,OK,Tarot Index Pages - Thread Group 1-18,bin,true,,14279,318,22,22,https://dev.horoscope.com/images-US/upsell/compatibility-score.jpg,165,0,0
+1676066398172,165,/images-US/upsell/compatibility-score.jpg-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-18,,true,,325,159,22,22,http://dev.horoscope.com/images-US/upsell/compatibility-score.jpg,165,0,0
+1676066398337,423,/images-US/upsell/compatibility-score.jpg-1,200,OK,Tarot Index Pages - Thread Group 1-18,bin,true,,13954,159,22,22,https://dev.horoscope.com/images-US/upsell/compatibility-score.jpg,373,0,223
+1676066398117,648,/images-US/tarot/back/weekly-saturday.png,200,OK,Tarot Index Pages - Thread Group 1-11,bin,true,,22292,318,22,22,https://dev.horoscope.com/images-US/tarot/back/weekly-saturday.png,155,0,0
+1676066398117,155,/images-US/tarot/back/weekly-saturday.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-11,,true,,325,159,22,22,http://dev.horoscope.com/images-US/tarot/back/weekly-saturday.png,155,0,0
+1676066398272,493,/images-US/tarot/back/weekly-saturday.png-1,200,OK,Tarot Index Pages - Thread Group 1-11,bin,true,,21967,159,22,22,https://dev.horoscope.com/images-US/tarot/back/weekly-saturday.png,493,0,215
+1676066398129,681,/images-US/tarot/back/today.png,200,OK,Tarot Index Pages - Thread Group 1-7,bin,true,,25076,298,22,22,https://dev.horoscope.com/images-US/tarot/back/today.png,181,0,1
+1676066398129,181,/images-US/tarot/back/today.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-7,,true,,315,149,22,22,http://dev.horoscope.com/images-US/tarot/back/today.png,181,0,1
+1676066398310,500,/images-US/tarot/back/today.png-1,200,OK,Tarot Index Pages - Thread Group 1-7,bin,true,,24761,149,22,22,https://dev.horoscope.com/images-US/tarot/back/today.png,500,0,210
+1676066398136,725,/images-US/tarot/back/true-love-your-card.png,200,OK,Tarot Index Pages - Thread Group 1-17,bin,true,,118603,326,22,22,https://dev.horoscope.com/images-US/tarot/back/true-love-your-card.png,174,0,1
+1676066398136,174,/images-US/tarot/back/true-love-your-card.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-17,,true,,329,163,22,22,http://dev.horoscope.com/images-US/tarot/back/true-love-your-card.png,174,0,1
+1676066398310,551,/images-US/tarot/back/true-love-your-card.png-1,200,OK,Tarot Index Pages - Thread Group 1-17,bin,true,,118274,163,22,22,https://dev.horoscope.com/images-US/tarot/back/true-love-your-card.png,450,0,250
+1676066398362,563,/images-US/tarot/back/white-magic-cause.png,200,OK,Tarot Index Pages - Thread Group 1-19,bin,true,,19121,322,21,21,https://dev.horoscope.com/images-US/tarot/back/white-magic-cause.png,156,0,1
+1676066398362,156,/images-US/tarot/back/white-magic-cause.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-19,,true,,327,161,21,21,http://dev.horoscope.com/images-US/tarot/back/white-magic-cause.png,156,0,1
+1676066398518,407,/images-US/tarot/back/white-magic-cause.png-1,200,OK,Tarot Index Pages - Thread Group 1-19,bin,true,,18794,161,21,21,https://dev.horoscope.com/images-US/tarot/back/white-magic-cause.png,407,0,205
+1676066398241,699,/images-US/tarot/back/daily-tarot-love.png,200,OK,Tarot Index Pages - Thread Group 1-4,bin,true,,30141,320,20,20,https://dev.horoscope.com/images-US/tarot/back/daily-tarot-love.png,174,0,1
+1676066398241,174,/images-US/tarot/back/daily-tarot-love.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-4,,true,,326,160,20,20,http://dev.horoscope.com/images-US/tarot/back/daily-tarot-love.png,174,0,1
+1676066398415,525,/images-US/tarot/back/daily-tarot-love.png-1,200,OK,Tarot Index Pages - Thread Group 1-4,bin,true,,29815,160,20,20,https://dev.horoscope.com/images-US/tarot/back/daily-tarot-love.png,495,0,207
+1676066397727,1239,/zodiac-signs/aquarius,200,OK,Tarot Index Pages - Thread Group 1-14,text,true,,156320,280,19,19,https://dev.horoscope.com/zodiac-signs/aquarius,160,0,0
+1676066397727,160,/zodiac-signs/aquarius-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-14,,true,,306,140,19,19,http://dev.horoscope.com/zodiac-signs/aquarius,160,0,0
+1676066397887,1079,/zodiac-signs/aquarius-1,200,OK,Tarot Index Pages - Thread Group 1-14,text,true,,156014,140,19,19,https://dev.horoscope.com/zodiac-signs/aquarius,925,0,223
+1676066398414,567,/images-US/tarot/back/weekly-sunday.png,200,OK,Tarot Index Pages - Thread Group 1-20,bin,true,,20940,314,18,18,https://dev.horoscope.com/images-US/tarot/back/weekly-sunday.png,160,0,1
+1676066398414,160,/images-US/tarot/back/weekly-sunday.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-20,,true,,323,157,18,18,http://dev.horoscope.com/images-US/tarot/back/weekly-sunday.png,160,0,1
+1676066398574,407,/images-US/tarot/back/weekly-sunday.png-1,200,OK,Tarot Index Pages - Thread Group 1-20,bin,true,,20617,157,18,18,https://dev.horoscope.com/images-US/tarot/back/weekly-sunday.png,407,0,206
+1676066398335,675,/images-US/tarot/back/weekly-tuesday.png,200,OK,Tarot Index Pages - Thread Group 1-16,bin,true,,22111,316,17,17,https://dev.horoscope.com/images-US/tarot/back/weekly-tuesday.png,157,0,1
+1676066398335,157,/images-US/tarot/back/weekly-tuesday.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-16,,true,,324,158,17,17,http://dev.horoscope.com/images-US/tarot/back/weekly-tuesday.png,157,0,1
+1676066398493,517,/images-US/tarot/back/weekly-tuesday.png-1,200,OK,Tarot Index Pages - Thread Group 1-16,bin,true,,21787,158,17,17,https://dev.horoscope.com/images-US/tarot/back/weekly-tuesday.png,517,0,229
+1676066398432,585,/images-US/tarot/back/daily-tarot-career.png,200,OK,Tarot Index Pages - Thread Group 1-3,bin,true,,26613,324,16,16,https://dev.horoscope.com/images-US/tarot/back/daily-tarot-career.png,177,0,1
+1676066398432,177,/images-US/tarot/back/daily-tarot-career.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-3,,true,,328,162,16,16,http://dev.horoscope.com/images-US/tarot/back/daily-tarot-career.png,177,0,1
+1676066398610,407,/images-US/tarot/back/daily-tarot-career.png-1,200,OK,Tarot Index Pages - Thread Group 1-3,bin,true,,26285,162,16,16,https://dev.horoscope.com/images-US/tarot/back/daily-tarot-career.png,406,0,208
+1676066398460,560,/images-US/upsell/crystal-ball-tarot.jpg,200,OK,Tarot Index Pages - Thread Group 1-12,bin,true,,11489,316,15,15,https://dev.horoscope.com/images-US/upsell/crystal-ball-tarot.jpg,156,0,1
+1676066398460,156,/images-US/upsell/crystal-ball-tarot.jpg-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-12,,true,,324,158,15,15,http://dev.horoscope.com/images-US/upsell/crystal-ball-tarot.jpg,156,0,1
+1676066398617,403,/images-US/upsell/crystal-ball-tarot.jpg-1,200,OK,Tarot Index Pages - Thread Group 1-12,bin,true,,11165,158,15,15,https://dev.horoscope.com/images-US/upsell/crystal-ball-tarot.jpg,403,0,206
+1676066398411,649,/images-US/tarot/back/lovers-triangle-lover2.png,200,OK,Tarot Index Pages - Thread Group 1-1,bin,true,,17807,332,14,14,https://dev.horoscope.com/images-US/tarot/back/lovers-triangle-lover2.png,158,0,0
+1676066398411,158,/images-US/tarot/back/lovers-triangle-lover2.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-1,,true,,332,166,14,14,http://dev.horoscope.com/images-US/tarot/back/lovers-triangle-lover2.png,158,0,0
+1676066398569,491,/images-US/tarot/back/lovers-triangle-lover2.png-1,200,OK,Tarot Index Pages - Thread Group 1-1,bin,true,,17475,166,14,14,https://dev.horoscope.com/images-US/tarot/back/lovers-triangle-lover2.png,441,0,215
+1676066398469,593,/images-US/tarot/back/gems-oracle-health.png,200,OK,Tarot Index Pages - Thread Group 1-2,bin,true,,20415,324,13,13,https://dev.horoscope.com/images-US/tarot/back/gems-oracle-health.png,158,0,0
+1676066398469,158,/images-US/tarot/back/gems-oracle-health.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-2,,true,,328,162,13,13,http://dev.horoscope.com/images-US/tarot/back/gems-oracle-health.png,158,0,0
+1676066398627,435,/images-US/tarot/back/gems-oracle-health.png-1,200,OK,Tarot Index Pages - Thread Group 1-2,bin,true,,20087,162,13,13,https://dev.horoscope.com/images-US/tarot/back/gems-oracle-health.png,435,0,215
+1676066398510,570,/images-US/tarot/back/white-magic-remedy.png,200,OK,Tarot Index Pages - Thread Group 1-22,bin,true,,19147,324,12,12,https://dev.horoscope.com/images-US/tarot/back/white-magic-remedy.png,157,0,1
+1676066398510,157,/images-US/tarot/back/white-magic-remedy.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-22,,true,,328,162,12,12,http://dev.horoscope.com/images-US/tarot/back/white-magic-remedy.png,157,0,1
+1676066398667,413,/images-US/tarot/back/white-magic-remedy.png-1,200,OK,Tarot Index Pages - Thread Group 1-22,bin,true,,18819,162,12,12,https://dev.horoscope.com/images-US/tarot/back/white-magic-remedy.png,412,0,213
+1676066398531,581,/images-US/tarot/back/weekly-wednesday.png,200,OK,Tarot Index Pages - Thread Group 1-10,bin,true,,21311,320,11,11,https://dev.horoscope.com/images-US/tarot/back/weekly-wednesday.png,158,0,0
+1676066398531,158,/images-US/tarot/back/weekly-wednesday.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-10,,true,,326,160,11,11,http://dev.horoscope.com/images-US/tarot/back/weekly-wednesday.png,158,0,0
+1676066398689,423,/images-US/tarot/back/weekly-wednesday.png-1,200,OK,Tarot Index Pages - Thread Group 1-10,bin,true,,20985,160,11,11,https://dev.horoscope.com/images-US/tarot/back/weekly-wednesday.png,423,0,227
+1676066398487,656,/images-US/tarot/back/gems-oracle-career.png,200,OK,Tarot Index Pages - Thread Group 1-6,bin,true,,21647,324,10,10,https://dev.horoscope.com/images-US/tarot/back/gems-oracle-career.png,172,0,1
+1676066398487,172,/images-US/tarot/back/gems-oracle-career.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-6,,true,,328,162,10,10,http://dev.horoscope.com/images-US/tarot/back/gems-oracle-career.png,172,0,1
+1676066398660,483,/images-US/tarot/back/gems-oracle-career.png-1,200,OK,Tarot Index Pages - Thread Group 1-6,bin,true,,21319,162,10,10,https://dev.horoscope.com/images-US/tarot/back/gems-oracle-career.png,450,0,210
+1676066398561,652,/images-US/tarot/back/breakup-advice.png,200,OK,Tarot Index Pages - Thread Group 1-8,bin,true,,21614,316,9,9,https://dev.horoscope.com/images-US/tarot/back/breakup-advice.png,156,0,0
+1676066398561,156,/images-US/tarot/back/breakup-advice.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-8,,true,,324,158,9,9,http://dev.horoscope.com/images-US/tarot/back/breakup-advice.png,156,0,0
+1676066398718,495,/images-US/tarot/back/breakup-advice.png-1,200,OK,Tarot Index Pages - Thread Group 1-8,bin,true,,21290,158,9,9,https://dev.horoscope.com/images-US/tarot/back/breakup-advice.png,494,0,209
+1676066398580,661,/images-US/upsell/guardian-angel-tarot.jpg,200,OK,Tarot Index Pages - Thread Group 1-9,bin,true,,13075,320,8,8,https://dev.horoscope.com/images-US/upsell/guardian-angel-tarot.jpg,157,0,0
+1676066398580,157,/images-US/upsell/guardian-angel-tarot.jpg-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-9,,true,,326,160,8,8,http://dev.horoscope.com/images-US/upsell/guardian-angel-tarot.jpg,157,0,0
+1676066398739,502,/images-US/upsell/guardian-angel-tarot.jpg-1,200,OK,Tarot Index Pages - Thread Group 1-9,bin,true,,12749,160,8,8,https://dev.horoscope.com/images-US/upsell/guardian-angel-tarot.jpg,502,0,230
+1676066398660,659,/images-US/upsell/2023-love-tarot.jpg,200,OK,Tarot Index Pages - Thread Group 1-21,bin,true,,78642,310,7,7,https://dev.horoscope.com/images-US/upsell/2023-love-tarot.jpg,155,0,1
+1676066398660,155,/images-US/upsell/2023-love-tarot.jpg-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-21,,true,,321,155,7,7,http://dev.horoscope.com/images-US/upsell/2023-love-tarot.jpg,155,0,1
+1676066398816,503,/images-US/upsell/2023-love-tarot.jpg-1,200,OK,Tarot Index Pages - Thread Group 1-21,bin,true,,78321,155,7,7,https://dev.horoscope.com/images-US/upsell/2023-love-tarot.jpg,407,0,209
+1676066398362,961,/article/sagittarius-rising-celebrities/,200,OK,Tarot Index Pages - Thread Group 1-15,text,true,,154711,316,6,6,https://dev.horoscope.com/article/sagittarius-rising-celebrities/,198,0,1
+1676066398362,198,/article/sagittarius-rising-celebrities/-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-15,,true,,324,158,6,6,http://dev.horoscope.com/article/sagittarius-rising-celebrities/,198,0,1
+1676066398560,763,/article/sagittarius-rising-celebrities/-1,200,OK,Tarot Index Pages - Thread Group 1-15,text,true,,154387,158,6,6,https://dev.horoscope.com/article/sagittarius-rising-celebrities/,619,0,207
+1676066398762,571,/images-US/tarot/back/weekly-thursday.png,200,OK,Tarot Index Pages - Thread Group 1-18,bin,true,,20969,318,5,5,https://dev.horoscope.com/images-US/tarot/back/weekly-thursday.png,159,0,0
+1676066398762,159,/images-US/tarot/back/weekly-thursday.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-18,,true,,325,159,5,5,http://dev.horoscope.com/images-US/tarot/back/weekly-thursday.png,159,0,0
+1676066398921,412,/images-US/tarot/back/weekly-thursday.png-1,200,OK,Tarot Index Pages - Thread Group 1-18,bin,true,,20644,159,5,5,https://dev.horoscope.com/images-US/tarot/back/weekly-thursday.png,412,0,209
+1676066398685,676,/images-US/tarot/back/daily-tarot-mood.png,200,OK,Tarot Index Pages - Thread Group 1-13,bin,true,,26934,320,4,4,https://dev.horoscope.com/images-US/tarot/back/daily-tarot-mood.png,175,0,1
+1676066398685,175,/images-US/tarot/back/daily-tarot-mood.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-13,,true,,326,160,4,4,http://dev.horoscope.com/images-US/tarot/back/daily-tarot-mood.png,175,0,1
+1676066398861,500,/images-US/tarot/back/daily-tarot-mood.png-1,200,OK,Tarot Index Pages - Thread Group 1-13,bin,true,,26608,160,4,4,https://dev.horoscope.com/images-US/tarot/back/daily-tarot-mood.png,500,0,213
+1676066398812,581,/images-US/tarot/back/yinyang-yang.png,200,OK,Tarot Index Pages - Thread Group 1-7,bin,true,,14688,312,3,3,https://dev.horoscope.com/images-US/tarot/back/yinyang-yang.png,160,0,1
+1676066398812,160,/images-US/tarot/back/yinyang-yang.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-7,,true,,322,156,3,3,http://dev.horoscope.com/images-US/tarot/back/yinyang-yang.png,160,0,1
+1676066398972,421,/images-US/tarot/back/yinyang-yang.png-1,200,OK,Tarot Index Pages - Thread Group 1-7,bin,true,,14366,156,3,3,https://dev.horoscope.com/images-US/tarot/back/yinyang-yang.png,421,0,211
+1676066398767,652,/images-US/tarot/back/weekly-friday.png,200,OK,Tarot Index Pages - Thread Group 1-11,bin,true,,21887,314,2,2,https://dev.horoscope.com/images-US/tarot/back/weekly-friday.png,159,0,1
+1676066398767,159,/images-US/tarot/back/weekly-friday.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-11,,true,,323,157,2,2,http://dev.horoscope.com/images-US/tarot/back/weekly-friday.png,159,0,1
+1676066398926,493,/images-US/tarot/back/weekly-friday.png-1,200,OK,Tarot Index Pages - Thread Group 1-11,bin,true,,21564,157,2,2,https://dev.horoscope.com/images-US/tarot/back/weekly-friday.png,491,0,212
+1676066398736,685,/images-US/tarot/back/true-love-partners-card.png,200,OK,Tarot Index Pages - Thread Group 1-5,bin,true,,114399,334,1,1,https://dev.horoscope.com/images-US/tarot/back/true-love-partners-card.png,157,0,1
+1676066398736,157,/images-US/tarot/back/true-love-partners-card.png-0,301,Moved Permanently,Tarot Index Pages - Thread Group 1-5,,true,,333,167,1,1,http://dev.horoscope.com/images-US/tarot/back/true-love-partners-card.png,157,0,1
+1676066398894,527,/images-US/tarot/back/true-love-partners-card.png-1,200,OK,Tarot Index Pages - Thread Group 1-5,bin,true,,114066,167,1,1,https://dev.horoscope.com/images-US/tarot/back/true-love-partners-card.png,428,0,226

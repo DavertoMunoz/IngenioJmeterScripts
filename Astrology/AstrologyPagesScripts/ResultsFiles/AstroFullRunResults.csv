@@ -1,0 +1,925 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1677001413284,837,/zodiac-man,200,OK,Astrology - Full run 1-2,text,true,,61118,258,2,2,https://dev.astrology.com/zodiac-man,178,0,1
+1677001413284,178,/zodiac-man-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,295,129,2,2,http://dev.astrology.com/zodiac-man,178,0,1
+1677001413462,659,/zodiac-man-1,200,OK,Astrology - Full run 1-2,text,true,,60823,129,2,2,https://dev.astrology.com/zodiac-man,610,0,223
+1677001414124,1976,/compatibility/daily-karmic-number.html,200,OK,Astrology - Full run 1-2,text,true,,60572,314,3,3,https://dev.astrology.com/compatibility/daily-karmic-number.html,159,0,0
+1677001414124,159,/compatibility/daily-karmic-number.html-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,323,157,3,3,http://dev.astrology.com/compatibility/daily-karmic-number.html,159,0,0
+1677001414283,1817,/compatibility/daily-karmic-number.html-1,200,OK,Astrology - Full run 1-2,text,true,,60249,157,3,3,https://dev.astrology.com/compatibility/daily-karmic-number.html,1718,0,206
+1677001411335,4773,/compatibility/zodiac-signs/career.html,200,OK,Astrology - Full run 1-1,text,false,"The operation lasted too long: It took 4,773 milliseconds, but should not have lasted longer than 2,500 milliseconds.",62056,314,3,3,https://dev.astrology.com/compatibility/zodiac-signs/career.html,379,0,150
+1677001411335,379,/compatibility/zodiac-signs/career.html-0,301,Moved Permanently,Astrology - Full run 1-1,,true,,323,157,3,3,http://dev.astrology.com/compatibility/zodiac-signs/career.html,379,0,150
+1677001411715,4393,/compatibility/zodiac-signs/career.html-1,200,OK,Astrology - Full run 1-1,text,true,,61733,157,3,3,https://dev.astrology.com/compatibility/zodiac-signs/career.html,4294,0,241
+1677001417283,4238,/tarot/love-potential.html,200,OK,Astrology - Full run 1-4,text,false,"The operation lasted too long: It took 4,238 milliseconds, but should not have lasted longer than 2,500 milliseconds.",61901,288,6,6,https://dev.astrology.com/tarot/love-potential.html,160,0,1
+1677001417283,160,/tarot/love-potential.html-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,310,144,6,6,http://dev.astrology.com/tarot/love-potential.html,160,0,1
+1677001417443,4078,/tarot/love-potential.html-1,200,OK,Astrology - Full run 1-4,text,true,,61591,144,6,6,https://dev.astrology.com/tarot/love-potential.html,3979,0,224
+1677001415284,6260,/tarot/card-meanings,200,OK,Astrology - Full run 1-3,text,false,"The operation lasted too long: It took 6,260 milliseconds, but should not have lasted longer than 2,500 milliseconds.",74326,276,6,6,https://dev.astrology.com/tarot/card-meanings,168,0,1
+1677001415284,168,/tarot/card-meanings-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,304,138,6,6,http://dev.astrology.com/tarot/card-meanings,168,0,1
+1677001415452,6092,/tarot/card-meanings-1,200,OK,Astrology - Full run 1-3,text,true,,74022,138,6,6,https://dev.astrology.com/tarot/card-meanings,5992,0,224
+1677001419282,2300,/tarot/daily-love.html,200,OK,Astrology - Full run 1-5,text,true,,61764,280,6,6,https://dev.astrology.com/tarot/daily-love.html,163,0,1
+1677001419282,163,/tarot/daily-love.html-0,301,Moved Permanently,Astrology - Full run 1-5,,true,,306,140,6,6,http://dev.astrology.com/tarot/daily-love.html,163,0,1
+1677001419446,2136,/tarot/daily-love.html-1,200,OK,Astrology - Full run 1-5,text,true,,61458,140,6,6,https://dev.astrology.com/tarot/daily-love.html,2029,0,239
+1677001421282,977,/us/horoscope/index-daily-love.aspx,200,OK,Astrology - Full run 1-6,text,true,,71834,306,6,6,https://dev.astrology.com/us/horoscope/index-daily-love.aspx,161,0,1
+1677001421282,161,/us/horoscope/index-daily-love.aspx-0,301,Moved Permanently,Astrology - Full run 1-6,,true,,319,153,6,6,http://dev.astrology.com/us/horoscope/index-daily-love.aspx,161,0,1
+1677001421444,815,/us/horoscope/index-daily-love.aspx-1,200,OK,Astrology - Full run 1-6,text,true,,71515,153,6,6,https://dev.astrology.com/us/horoscope/index-daily-love.aspx,714,0,206
+1677001421583,693,/js/jquery.lazyload.extended.js?v=1600123116,200,OK,Astrology - Full run 1-5,text,true,,16547,324,6,6,https://dev.astrology.com/js/jquery.lazyload.extended.js?v=1600123116,153,0,0
+1677001421583,153,/js/jquery.lazyload.extended.js?v=1600123116-0,301,Moved Permanently,Astrology - Full run 1-5,,true,,328,162,6,6,http://dev.astrology.com/js/jquery.lazyload.extended.js?v=1600123116,153,0,0
+1677001421736,540,/js/jquery.lazyload.extended.js?v=1600123116-1,200,OK,Astrology - Full run 1-5,text,true,,16219,162,6,6,https://dev.astrology.com/js/jquery.lazyload.extended.js?v=1600123116,540,0,219
+1677001421522,868,/tarot/how-to-tarot,200,OK,Astrology - Full run 1-4,text,true,,72599,274,6,6,https://dev.astrology.com/tarot/how-to-tarot,158,0,1
+1677001421522,158,/tarot/how-to-tarot-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,303,137,6,6,http://dev.astrology.com/tarot/how-to-tarot,158,0,1
+1677001421680,710,/tarot/how-to-tarot-1,200,OK,Astrology - Full run 1-4,text,true,,72296,137,6,6,https://dev.astrology.com/tarot/how-to-tarot,607,0,204
+1677001422260,815,/tarot/daily-flirt.html,200,OK,Astrology - Full run 1-6,text,true,,61850,282,6,6,https://dev.astrology.com/tarot/daily-flirt.html,157,0,0
+1677001422260,157,/tarot/daily-flirt.html-0,301,Moved Permanently,Astrology - Full run 1-6,,true,,307,141,6,6,http://dev.astrology.com/tarot/daily-flirt.html,157,0,0
+1677001422417,658,/tarot/daily-flirt.html-1,200,OK,Astrology - Full run 1-6,text,true,,61543,141,6,6,https://dev.astrology.com/tarot/daily-flirt.html,597,0,211
+1677001422277,1124,/us/horoscope/index-yearly-2023.aspx,200,OK,Astrology - Full run 1-5,text,true,,62102,308,7,7,https://dev.astrology.com/us/horoscope/index-yearly-2023.aspx,155,0,1
+1677001422277,155,/us/horoscope/index-yearly-2023.aspx-0,301,Moved Permanently,Astrology - Full run 1-5,,true,,320,154,7,7,http://dev.astrology.com/us/horoscope/index-yearly-2023.aspx,155,0,1
+1677001422432,969,/us/horoscope/index-yearly-2023.aspx-1,200,OK,Astrology - Full run 1-5,text,true,,61782,154,7,7,https://dev.astrology.com/us/horoscope/index-yearly-2023.aspx,868,0,217
+1677001416101,7337,/zodiac-signs/aquarius,200,OK,Astrology - Full run 1-2,text,false,"The operation lasted too long: It took 7,337 milliseconds, but should not have lasted longer than 2,500 milliseconds.",101014,280,7,7,https://dev.astrology.com/zodiac-signs/aquarius,159,0,1
+1677001416101,159,/zodiac-signs/aquarius-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,306,140,7,7,http://dev.astrology.com/zodiac-signs/aquarius,159,0,1
+1677001416260,7178,/zodiac-signs/aquarius-1,200,OK,Astrology - Full run 1-2,text,true,,100708,140,7,7,https://dev.astrology.com/zodiac-signs/aquarius,7023,0,216
+1677001422391,1160,/modalities,200,OK,Astrology - Full run 1-4,text,true,,64612,258,7,7,https://dev.astrology.com/modalities,164,0,1
+1677001422391,164,/modalities-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,295,129,7,7,http://dev.astrology.com/modalities,164,0,1
+1677001422555,996,/modalities-1,200,OK,Astrology - Full run 1-4,text,true,,64317,129,7,7,https://dev.astrology.com/modalities,892,0,213
+1677001423076,836,/compatibility/secret-crush.html,200,OK,Astrology - Full run 1-6,text,true,,59340,300,7,7,https://dev.astrology.com/compatibility/secret-crush.html,157,0,0
+1677001423076,157,/compatibility/secret-crush.html-0,301,Moved Permanently,Astrology - Full run 1-6,,true,,316,150,7,7,http://dev.astrology.com/compatibility/secret-crush.html,157,0,0
+1677001423233,679,/compatibility/secret-crush.html-1,200,OK,Astrology - Full run 1-6,text,true,,59024,150,7,7,https://dev.astrology.com/compatibility/secret-crush.html,627,0,211
+1677001423283,1023,/horoscope/weekly-overview.html,200,OK,Astrology - Full run 1-7,text,true,,66477,298,7,7,https://dev.astrology.com/horoscope/weekly-overview.html,167,0,0
+1677001423283,167,/horoscope/weekly-overview.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,315,149,7,7,http://dev.astrology.com/horoscope/weekly-overview.html,167,0,0
+1677001423451,855,/horoscope/weekly-overview.html-1,200,OK,Astrology - Full run 1-7,text,true,,66162,149,7,7,https://dev.astrology.com/horoscope/weekly-overview.html,754,0,204
+1677001423402,990,/houses,200,OK,Astrology - Full run 1-5,text,true,,68407,250,7,7,https://dev.astrology.com/houses,158,0,1
+1677001423402,158,/houses-0,301,Moved Permanently,Astrology - Full run 1-5,,true,,291,125,7,7,http://dev.astrology.com/houses,158,0,1
+1677001423560,832,/houses-1,200,OK,Astrology - Full run 1-5,text,true,,68116,125,7,7,https://dev.astrology.com/houses,728,0,217
+1677001423439,972,/elements,200,OK,Astrology - Full run 1-2,text,true,,64936,254,7,7,https://dev.astrology.com/elements,161,0,0
+1677001423439,161,/elements-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,293,127,7,7,http://dev.astrology.com/elements,161,0,0
+1677001423600,811,/elements-1,200,OK,Astrology - Full run 1-2,text,true,,64643,127,7,7,https://dev.astrology.com/elements,707,0,206
+1677001423552,1088,/horoscope/monthly-overview.html,200,OK,Astrology - Full run 1-4,text,true,,68549,300,7,7,https://dev.astrology.com/horoscope/monthly-overview.html,150,0,0
+1677001423552,150,/horoscope/monthly-overview.html-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,316,150,7,7,http://dev.astrology.com/horoscope/monthly-overview.html,150,0,0
+1677001423702,938,/horoscope/monthly-overview.html-1,200,OK,Astrology - Full run 1-4,text,true,,68233,150,7,7,https://dev.astrology.com/horoscope/monthly-overview.html,838,0,209
+1677001423913,1070,/compatibility,200,OK,Astrology - Full run 1-6,text,true,,59025,264,7,7,https://dev.astrology.com/compatibility,148,0,0
+1677001423913,148,/compatibility-0,301,Moved Permanently,Astrology - Full run 1-6,,true,,298,132,7,7,http://dev.astrology.com/compatibility,148,0,0
+1677001424061,922,/compatibility-1,200,OK,Astrology - Full run 1-6,text,true,,58727,132,7,7,https://dev.astrology.com/compatibility,817,0,209
+1677001424306,733,/img/logo-white.svg,200,OK,Astrology - Full run 1-7,text,true,,4431,274,7,7,https://dev.astrology.com/img/logo-white.svg,168,0,1
+1677001424306,168,/img/logo-white.svg-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,303,137,7,7,http://dev.astrology.com/img/logo-white.svg,168,0,1
+1677001424474,565,/img/logo-white.svg-1,200,OK,Astrology - Full run 1-7,text,true,,4128,137,7,7,https://dev.astrology.com/img/logo-white.svg,565,0,211
+1677001421545,3498,/zodiac-signs/pisces,200,OK,Astrology - Full run 1-3,text,false,"The operation lasted too long: It took 3,498 milliseconds, but should not have lasted longer than 2,500 milliseconds.",107240,276,7,7,https://dev.astrology.com/zodiac-signs/pisces,158,0,0
+1677001421545,158,/zodiac-signs/pisces-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,304,138,7,7,http://dev.astrology.com/zodiac-signs/pisces,158,0,0
+1677001421703,3340,/zodiac-signs/pisces-1,200,OK,Astrology - Full run 1-3,text,true,,106936,138,7,7,https://dev.astrology.com/zodiac-signs/pisces,3180,0,216
+1677001424393,801,/compatibility/fortune-cookie.html,200,OK,Astrology - Full run 1-5,text,true,,62670,304,7,7,https://dev.astrology.com/compatibility/fortune-cookie.html,159,0,0
+1677001424393,159,/compatibility/fortune-cookie.html-0,301,Moved Permanently,Astrology - Full run 1-5,,true,,318,152,7,7,http://dev.astrology.com/compatibility/fortune-cookie.html,159,0,0
+1677001424552,642,/compatibility/fortune-cookie.html-1,200,OK,Astrology - Full run 1-5,text,true,,62352,152,7,7,https://dev.astrology.com/compatibility/fortune-cookie.html,592,0,201
+1677001424412,1027,/tarot.html,200,OK,Astrology - Full run 1-2,text,true,,63354,258,8,8,https://dev.astrology.com/tarot.html,165,0,0
+1677001424412,165,/tarot.html-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,295,129,8,8,http://dev.astrology.com/tarot.html,165,0,0
+1677001424577,862,/tarot.html-1,200,OK,Astrology - Full run 1-2,text,true,,63059,129,8,8,https://dev.astrology.com/tarot.html,763,0,206
+1677001424641,980,/us/horoscope/index-chinese.aspx,200,OK,Astrology - Full run 1-4,text,true,,73221,300,8,8,https://dev.astrology.com/us/horoscope/index-chinese.aspx,165,0,1
+1677001424641,165,/us/horoscope/index-chinese.aspx-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,316,150,8,8,http://dev.astrology.com/us/horoscope/index-chinese.aspx,165,0,1
+1677001424806,815,/us/horoscope/index-chinese.aspx-1,200,OK,Astrology - Full run 1-4,text,true,,72905,150,8,8,https://dev.astrology.com/us/horoscope/index-chinese.aspx,709,0,216
+1677001424984,832,/chinese-zodiac,200,OK,Astrology - Full run 1-6,text,true,,63565,266,8,8,https://dev.astrology.com/chinese-zodiac,173,0,0
+1677001424984,173,/chinese-zodiac-0,301,Moved Permanently,Astrology - Full run 1-6,,true,,299,133,8,8,http://dev.astrology.com/chinese-zodiac,173,0,0
+1677001425157,659,/chinese-zodiac-1,200,OK,Astrology - Full run 1-6,text,true,,63266,133,8,8,https://dev.astrology.com/chinese-zodiac,604,0,201
+1677001425040,790,/asteroids,200,OK,Astrology - Full run 1-7,text,true,,65926,256,8,8,https://dev.astrology.com/asteroids,154,0,0
+1677001425040,154,/asteroids-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,294,128,8,8,http://dev.astrology.com/asteroids,154,0,0
+1677001425194,636,/asteroids-1,200,OK,Astrology - Full run 1-7,text,true,,65632,128,8,8,https://dev.astrology.com/asteroids,584,0,199
+1677001425044,840,/zodiac-signs/leo,200,OK,Astrology - Full run 1-3,text,true,,96281,270,8,8,https://dev.astrology.com/zodiac-signs/leo,162,0,1
+1677001425044,162,/zodiac-signs/leo-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,301,135,8,8,http://dev.astrology.com/zodiac-signs/leo,162,0,1
+1677001425206,678,/zodiac-signs/leo-1,200,OK,Astrology - Full run 1-3,text,true,,95980,135,8,8,https://dev.astrology.com/zodiac-signs/leo,558,0,211
+1677001425195,823,/compatibility/magic-8-ball-love.html,200,OK,Astrology - Full run 1-5,text,true,,62697,310,8,8,https://dev.astrology.com/compatibility/magic-8-ball-love.html,153,0,0
+1677001425195,153,/compatibility/magic-8-ball-love.html-0,301,Moved Permanently,Astrology - Full run 1-5,,true,,321,155,8,8,http://dev.astrology.com/compatibility/magic-8-ball-love.html,153,0,0
+1677001425348,670,/compatibility/magic-8-ball-love.html-1,200,OK,Astrology - Full run 1-5,text,true,,62376,155,8,8,https://dev.astrology.com/compatibility/magic-8-ball-love.html,615,0,221
+1677001425283,787,/tarot/daily.html,200,OK,Astrology - Full run 1-8,text,true,,65330,270,8,8,https://dev.astrology.com/tarot/daily.html,162,0,0
+1677001425283,162,/tarot/daily.html-0,301,Moved Permanently,Astrology - Full run 1-8,,true,,301,135,8,8,http://dev.astrology.com/tarot/daily.html,162,0,0
+1677001425446,624,/tarot/daily.html-1,200,OK,Astrology - Full run 1-8,text,true,,65029,135,8,8,https://dev.astrology.com/tarot/daily.html,563,0,204
+1677001425440,906,/zodiac-signs/virgo,200,OK,Astrology - Full run 1-2,text,true,,105999,274,8,8,https://dev.astrology.com/zodiac-signs/virgo,160,0,0
+1677001425440,160,/zodiac-signs/virgo-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,303,137,8,8,http://dev.astrology.com/zodiac-signs/virgo,160,0,0
+1677001425600,746,/zodiac-signs/virgo-1,200,OK,Astrology - Full run 1-2,text,true,,105696,137,8,8,https://dev.astrology.com/zodiac-signs/virgo,636,0,232
+1677001425622,789,/compatibility/zodiac-signs/love.html,200,OK,Astrology - Full run 1-4,text,true,,62179,310,8,8,https://dev.astrology.com/compatibility/zodiac-signs/love.html,154,0,0
+1677001425622,154,/compatibility/zodiac-signs/love.html-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,321,155,8,8,http://dev.astrology.com/compatibility/zodiac-signs/love.html,154,0,0
+1677001425776,635,/compatibility/zodiac-signs/love.html-1,200,OK,Astrology - Full run 1-4,text,true,,61858,155,8,8,https://dev.astrology.com/compatibility/zodiac-signs/love.html,582,0,214
+1677001425885,873,/zodiac-signs/taurus,200,OK,Astrology - Full run 1-3,text,true,,103049,276,8,8,https://dev.astrology.com/zodiac-signs/taurus,163,0,1
+1677001425885,163,/zodiac-signs/taurus-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,304,138,8,8,http://dev.astrology.com/zodiac-signs/taurus,163,0,1
+1677001426049,709,/zodiac-signs/taurus-1,200,OK,Astrology - Full run 1-3,text,true,,102745,138,8,8,https://dev.astrology.com/zodiac-signs/taurus,607,0,243
+1677001426019,837,/us/horoscope/index-daily-dating.aspx,200,OK,Astrology - Full run 1-5,text,true,,72273,310,8,8,https://dev.astrology.com/us/horoscope/index-daily-dating.aspx,170,0,0
+1677001426019,170,/us/horoscope/index-daily-dating.aspx-0,301,Moved Permanently,Astrology - Full run 1-5,,true,,321,155,8,8,http://dev.astrology.com/us/horoscope/index-daily-dating.aspx,170,0,0
+1677001426189,667,/us/horoscope/index-daily-dating.aspx-1,200,OK,Astrology - Full run 1-5,text,true,,71952,155,8,8,https://dev.astrology.com/us/horoscope/index-daily-dating.aspx,575,0,206
+1677001426071,855,/zodiac-signs,200,OK,Astrology - Full run 1-8,text,true,,77962,262,8,8,https://dev.astrology.com/zodiac-signs,168,0,0
+1677001426071,168,/zodiac-signs-0,301,Moved Permanently,Astrology - Full run 1-8,,true,,297,131,8,8,http://dev.astrology.com/zodiac-signs,168,0,0
+1677001426239,687,/zodiac-signs-1,200,OK,Astrology - Full run 1-8,text,true,,77665,131,8,8,https://dev.astrology.com/zodiac-signs,586,0,224
+1677001426347,789,/us/feedback.aspx,200,OK,Astrology - Full run 1-2,text,true,,48359,270,8,8,https://dev.astrology.com/us/feedback.aspx,162,0,0
+1677001426347,162,/us/feedback.aspx-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,301,135,8,8,http://dev.astrology.com/us/feedback.aspx,162,0,0
+1677001426509,627,/us/feedback.aspx-1,200,OK,Astrology - Full run 1-2,text,true,,48058,135,8,8,https://dev.astrology.com/us/feedback.aspx,576,0,211
+1677001426411,820,/us/aboutus.aspx,200,OK,Astrology - Full run 1-4,text,true,,45888,268,8,8,https://dev.astrology.com/us/aboutus.aspx,150,0,1
+1677001426411,150,/us/aboutus.aspx-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,300,134,8,8,http://dev.astrology.com/us/aboutus.aspx,150,0,1
+1677001426561,670,/us/aboutus.aspx-1,200,OK,Astrology - Full run 1-4,text,true,,45588,134,8,8,https://dev.astrology.com/us/aboutus.aspx,621,0,205
+1677001426759,906,/img/games/icon-compat-zodiac-1.png,200,OK,Astrology - Full run 1-3,bin,true,,25558,306,9,9,https://dev.astrology.com/img/games/icon-compat-zodiac-1.png,172,0,0
+1677001426759,172,/img/games/icon-compat-zodiac-1.png-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,319,153,9,9,http://dev.astrology.com/img/games/icon-compat-zodiac-1.png,172,0,0
+1677001426931,734,/img/games/icon-compat-zodiac-1.png-1,200,OK,Astrology - Full run 1-3,bin,true,,25239,153,9,9,https://dev.astrology.com/img/games/icon-compat-zodiac-1.png,686,0,206
+1677001425817,2129,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-6,text,true,,61187,582,9,9,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,179,0,0
+1677001425817,179,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-0,301,Moved Permanently,Astrology - Full run 1-6,,true,,360,194,9,9,http://dev.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,179,0,0
+1677001425996,451,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-1,301,Moved Permanently,Astrology - Full run 1-6,text,true,,716,194,9,9,https://dev.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,451,0,238
+1677001426448,1498,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-2,200,OK,Astrology - Full run 1-6,text,true,,60111,194,9,9,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1395,0,314
+1677001426927,1086,/tos.html,200,OK,Astrology - Full run 1-8,text,true,,100194,254,9,9,https://dev.astrology.com/tos.html,154,0,0
+1677001426927,154,/tos.html-0,301,Moved Permanently,Astrology - Full run 1-8,,true,,293,127,9,9,http://dev.astrology.com/tos.html,154,0,0
+1677001427081,932,/tos.html-1,200,OK,Astrology - Full run 1-8,text,true,,99901,127,9,9,https://dev.astrology.com/tos.html,774,0,218
+1677001427232,843,/zodiac-signs/gemini,200,OK,Astrology - Full run 1-4,text,true,,100707,276,9,9,https://dev.astrology.com/zodiac-signs/gemini,148,0,0
+1677001427232,148,/zodiac-signs/gemini-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,304,138,9,9,http://dev.astrology.com/zodiac-signs/gemini,148,0,0
+1677001427380,695,/zodiac-signs/gemini-1,200,OK,Astrology - Full run 1-4,text,true,,100403,138,9,9,https://dev.astrology.com/zodiac-signs/gemini,582,0,222
+1677001427283,1028,/zodiac-signs/sagittarius,200,OK,Astrology - Full run 1-9,text,true,,101640,286,9,9,https://dev.astrology.com/zodiac-signs/sagittarius,159,0,1
+1677001427283,159,/zodiac-signs/sagittarius-0,301,Moved Permanently,Astrology - Full run 1-9,,true,,309,143,9,9,http://dev.astrology.com/zodiac-signs/sagittarius,159,0,1
+1677001427443,868,/zodiac-signs/sagittarius-1,200,OK,Astrology - Full run 1-9,text,true,,101331,143,9,9,https://dev.astrology.com/zodiac-signs/sagittarius,717,0,205
+1677001427137,1352,/psychic-readings,200,OK,Astrology - Full run 1-2,text,true,,68609,270,9,9,https://dev.astrology.com/psychic-readings,157,0,1
+1677001427137,157,/psychic-readings-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,301,135,9,9,http://dev.astrology.com/psychic-readings,157,0,1
+1677001427294,1195,/psychic-readings-1,200,OK,Astrology - Full run 1-2,text,true,,68308,135,9,9,https://dev.astrology.com/psychic-readings,1089,0,221
+1677001428014,855,/planets,200,OK,Astrology - Full run 1-8,text,true,,67364,252,9,9,https://dev.astrology.com/planets,167,0,0
+1677001428014,167,/planets-0,301,Moved Permanently,Astrology - Full run 1-8,,true,,292,126,9,9,http://dev.astrology.com/planets,167,0,0
+1677001428181,688,/planets-1,200,OK,Astrology - Full run 1-8,text,true,,67072,126,9,9,https://dev.astrology.com/planets,633,0,219
+1677001428076,1003,/compatibility/book-of-love.html,200,OK,Astrology - Full run 1-4,text,true,,62449,300,9,9,https://dev.astrology.com/compatibility/book-of-love.html,189,0,1
+1677001428076,189,/compatibility/book-of-love.html-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,316,150,9,9,http://dev.astrology.com/compatibility/book-of-love.html,189,0,1
+1677001428265,814,/compatibility/book-of-love.html-1,200,OK,Astrology - Full run 1-4,text,true,,62133,150,9,9,https://dev.astrology.com/compatibility/book-of-love.html,709,0,204
+1677001428312,847,/tarot/yes-no.html,200,OK,Astrology - Full run 1-9,text,true,,61146,272,9,9,https://dev.astrology.com/tarot/yes-no.html,149,0,0
+1677001428312,149,/tarot/yes-no.html-0,301,Moved Permanently,Astrology - Full run 1-9,,true,,302,136,9,9,http://dev.astrology.com/tarot/yes-no.html,149,0,0
+1677001428461,698,/tarot/yes-no.html-1,200,OK,Astrology - Full run 1-9,text,true,,60844,136,9,9,https://dev.astrology.com/tarot/yes-no.html,640,0,236
+1677001428490,806,/tarot/breakup.html,200,OK,Astrology - Full run 1-2,text,true,,62108,274,10,10,https://dev.astrology.com/tarot/breakup.html,161,0,0
+1677001428490,161,/tarot/breakup.html-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,303,137,10,10,http://dev.astrology.com/tarot/breakup.html,161,0,0
+1677001428651,645,/tarot/breakup.html-1,200,OK,Astrology - Full run 1-2,text,true,,61805,137,10,10,https://dev.astrology.com/tarot/breakup.html,590,0,218
+1677001428869,792,/compatibility/game-ask-the-genie.html,200,OK,Astrology - Full run 1-8,text,true,,62603,312,10,10,https://dev.astrology.com/compatibility/game-ask-the-genie.html,159,0,1
+1677001428869,159,/compatibility/game-ask-the-genie.html-0,301,Moved Permanently,Astrology - Full run 1-8,,true,,322,156,10,10,http://dev.astrology.com/compatibility/game-ask-the-genie.html,159,0,1
+1677001429028,633,/compatibility/game-ask-the-genie.html-1,200,OK,Astrology - Full run 1-8,text,true,,62281,156,10,10,https://dev.astrology.com/compatibility/game-ask-the-genie.html,576,0,212
+1677001429080,798,/us/tarot/tarot-yin-yang.aspx,200,OK,Astrology - Full run 1-4,text,true,,61543,294,10,10,https://dev.astrology.com/us/tarot/tarot-yin-yang.aspx,150,0,0
+1677001429080,150,/us/tarot/tarot-yin-yang.aspx-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,313,147,10,10,http://dev.astrology.com/us/tarot/tarot-yin-yang.aspx,150,0,0
+1677001429230,648,/us/tarot/tarot-yin-yang.aspx-1,200,OK,Astrology - Full run 1-4,text,true,,61230,147,10,10,https://dev.astrology.com/us/tarot/tarot-yin-yang.aspx,591,0,209
+1677001429160,817,/syndicate,200,OK,Astrology - Full run 1-9,text,true,,59615,256,10,10,https://dev.astrology.com/syndicate,162,0,0
+1677001429160,162,/syndicate-0,301,Moved Permanently,Astrology - Full run 1-9,,true,,294,128,10,10,http://dev.astrology.com/syndicate,162,0,0
+1677001429322,655,/syndicate-1,200,OK,Astrology - Full run 1-9,text,true,,59321,128,10,10,https://dev.astrology.com/syndicate,603,0,206
+1677001429283,757,/newsletters.html?utm_source=site&utm_medium=email-widget,200,OK,Astrology - Full run 1-10,text,true,,53055,350,10,10,https://dev.astrology.com/newsletters.html?utm_source=site&utm_medium=email-widget,154,0,1
+1677001429283,154,/newsletters.html?utm_source=site&utm_medium=email-widget-0,301,Moved Permanently,Astrology - Full run 1-10,,true,,341,175,10,10,http://dev.astrology.com/newsletters.html?utm_source=site&utm_medium=email-widget,154,0,1
+1677001429438,602,/newsletters.html?utm_source=site&utm_medium=email-widget-1,200,OK,Astrology - Full run 1-10,text,true,,52714,175,10,10,https://dev.astrology.com/newsletters.html?utm_source=site&utm_medium=email-widget,549,0,207
+1677001429661,842,/privacy.html,200,OK,Astrology - Full run 1-8,text,true,,84344,262,10,10,https://dev.astrology.com/privacy.html,149,0,1
+1677001429661,149,/privacy.html-0,301,Moved Permanently,Astrology - Full run 1-8,,true,,297,131,10,10,http://dev.astrology.com/privacy.html,149,0,1
+1677001429810,693,/privacy.html-1,200,OK,Astrology - Full run 1-8,text,true,,84047,131,10,10,https://dev.astrology.com/privacy.html,587,0,218
+1677001429297,1218,/articles,200,OK,Astrology - Full run 1-2,text,true,,82511,254,10,10,https://dev.astrology.com/articles,152,0,1
+1677001429297,152,/articles-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,293,127,10,10,http://dev.astrology.com/articles,152,0,1
+1677001429449,1066,/articles-1,200,OK,Astrology - Full run 1-2,text,true,,82218,127,10,10,https://dev.astrology.com/articles,962,0,199
+1677001429878,856,/zodiac-signs/aries,200,OK,Astrology - Full run 1-4,text,true,,94853,274,10,10,https://dev.astrology.com/zodiac-signs/aries,179,0,1
+1677001429878,179,/zodiac-signs/aries-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,303,137,10,10,http://dev.astrology.com/zodiac-signs/aries,179,0,1
+1677001430058,676,/zodiac-signs/aries-1,200,OK,Astrology - Full run 1-4,text,true,,94550,137,10,10,https://dev.astrology.com/zodiac-signs/aries,564,0,214
+1677001429978,828,/learn,200,OK,Astrology - Full run 1-9,text,true,,67529,248,10,10,https://dev.astrology.com/learn,183,0,0
+1677001429978,183,/learn-0,301,Moved Permanently,Astrology - Full run 1-9,,true,,290,124,10,10,http://dev.astrology.com/learn,183,0,0
+1677001430161,645,/learn-1,200,OK,Astrology - Full run 1-9,text,true,,67239,124,10,10,https://dev.astrology.com/learn,534,0,207
+1677001430041,967,/zodiac-woman,200,OK,Astrology - Full run 1-10,text,true,,61158,262,10,10,https://dev.astrology.com/zodiac-woman,162,0,1
+1677001430041,162,/zodiac-woman-0,301,Moved Permanently,Astrology - Full run 1-10,,true,,297,131,10,10,http://dev.astrology.com/zodiac-woman,162,0,1
+1677001430203,805,/zodiac-woman-1,200,OK,Astrology - Full run 1-10,text,true,,60861,131,10,10,https://dev.astrology.com/zodiac-woman,702,0,213
+1677001426856,4516,/retrograde,200,OK,Astrology - Full run 1-5,text,false,"The operation lasted too long: It took 4,516 milliseconds, but should not have lasted longer than 2,500 milliseconds.",78813,258,11,11,https://dev.astrology.com/retrograde,156,0,1
+1677001426856,156,/retrograde-0,301,Moved Permanently,Astrology - Full run 1-5,,true,,295,129,11,11,http://dev.astrology.com/retrograde,156,0,1
+1677001427012,4360,/retrograde-1,200,OK,Astrology - Full run 1-5,text,true,,78518,129,11,11,https://dev.astrology.com/retrograde,4257,0,215
+1677001430504,887,/us/horoscope/index-daily-work.aspx,200,OK,Astrology - Full run 1-8,text,true,,72965,306,11,11,https://dev.astrology.com/us/horoscope/index-daily-work.aspx,153,0,0
+1677001430504,153,/us/horoscope/index-daily-work.aspx-0,301,Moved Permanently,Astrology - Full run 1-8,,true,,319,153,11,11,http://dev.astrology.com/us/horoscope/index-daily-work.aspx,153,0,0
+1677001430657,734,/us/horoscope/index-daily-work.aspx-1,200,OK,Astrology - Full run 1-8,text,true,,72646,153,11,11,https://dev.astrology.com/us/horoscope/index-daily-work.aspx,631,0,213
+1677001430516,885,/zodiac-signs/scorpio,200,OK,Astrology - Full run 1-2,text,true,,108077,278,11,11,https://dev.astrology.com/zodiac-signs/scorpio,164,0,0
+1677001430516,164,/zodiac-signs/scorpio-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,305,139,11,11,http://dev.astrology.com/zodiac-signs/scorpio,164,0,0
+1677001430680,721,/zodiac-signs/scorpio-1,200,OK,Astrology - Full run 1-2,text,true,,107772,139,11,11,https://dev.astrology.com/zodiac-signs/scorpio,615,0,227
+1677001430735,855,/zodiac-signs/libra,200,OK,Astrology - Full run 1-4,text,true,,101449,274,11,11,https://dev.astrology.com/zodiac-signs/libra,173,0,1
+1677001430735,173,/zodiac-signs/libra-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,303,137,11,11,http://dev.astrology.com/zodiac-signs/libra,173,0,1
+1677001430908,682,/zodiac-signs/libra-1,200,OK,Astrology - Full run 1-4,text,true,,101146,137,11,11,https://dev.astrology.com/zodiac-signs/libra,576,0,209
+1677001430807,825,/compatibility/chinese-signs/love.html,200,OK,Astrology - Full run 1-9,text,true,,61820,312,11,11,https://dev.astrology.com/compatibility/chinese-signs/love.html,153,0,1
+1677001430807,153,/compatibility/chinese-signs/love.html-0,301,Moved Permanently,Astrology - Full run 1-9,,true,,322,156,11,11,http://dev.astrology.com/compatibility/chinese-signs/love.html,153,0,1
+1677001430960,672,/compatibility/chinese-signs/love.html-1,200,OK,Astrology - Full run 1-9,text,true,,61498,156,11,11,https://dev.astrology.com/compatibility/chinese-signs/love.html,617,0,216
+1677001431008,786,/tarot/daily-career.html,200,OK,Astrology - Full run 1-10,text,true,,61271,284,11,11,https://dev.astrology.com/tarot/daily-career.html,162,0,1
+1677001431008,162,/tarot/daily-career.html-0,301,Moved Permanently,Astrology - Full run 1-10,,true,,308,142,11,11,http://dev.astrology.com/tarot/daily-career.html,162,0,1
+1677001431170,624,/tarot/daily-career.html-1,200,OK,Astrology - Full run 1-10,text,true,,60963,142,11,11,https://dev.astrology.com/tarot/daily-career.html,572,0,202
+1677001431284,784,/us/do-not-sell-my-info.aspx,200,OK,Astrology - Full run 1-11,text,true,,50255,292,11,11,https://dev.astrology.com/us/do-not-sell-my-info.aspx,161,0,1
+1677001431284,161,/us/do-not-sell-my-info.aspx-0,301,Moved Permanently,Astrology - Full run 1-11,,true,,312,146,11,11,http://dev.astrology.com/us/do-not-sell-my-info.aspx,161,0,1
+1677001431446,622,/us/do-not-sell-my-info.aspx-1,200,OK,Astrology - Full run 1-11,text,true,,49943,146,11,11,https://dev.astrology.com/us/do-not-sell-my-info.aspx,553,0,204
+1677001431373,805,/us/advertising-inquiry.aspx,200,OK,Astrology - Full run 1-5,text,true,,53707,292,11,11,https://dev.astrology.com/us/advertising-inquiry.aspx,157,0,1
+1677001431373,157,/us/advertising-inquiry.aspx-0,301,Moved Permanently,Astrology - Full run 1-5,,true,,312,146,11,11,http://dev.astrology.com/us/advertising-inquiry.aspx,157,0,1
+1677001431530,648,/us/advertising-inquiry.aspx-1,200,OK,Astrology - Full run 1-5,text,true,,53395,146,11,11,https://dev.astrology.com/us/advertising-inquiry.aspx,593,0,214
+1677001431392,907,/zodiac-signs/capricorn,200,OK,Astrology - Full run 1-8,text,true,,106212,282,11,11,https://dev.astrology.com/zodiac-signs/capricorn,150,0,0
+1677001431392,150,/zodiac-signs/capricorn-0,301,Moved Permanently,Astrology - Full run 1-8,,true,,307,141,11,11,http://dev.astrology.com/zodiac-signs/capricorn,150,0,0
+1677001431542,757,/zodiac-signs/capricorn-1,200,OK,Astrology - Full run 1-8,text,true,,105905,141,11,11,https://dev.astrology.com/zodiac-signs/capricorn,628,0,214
+1677001431402,1134,/birth-chart/,200,OK,Astrology - Full run 1-2,text,true,,60996,393,11,11,https://www.astrology.com/birth-chart/,163,0,0
+1677001431402,163,/birth-chart/-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,297,131,11,11,http://dev.astrology.com/birth-chart/,163,0,0
+1677001431565,431,/birth-chart/-1,301,Moved Permanently,Astrology - Full run 1-2,text,true,,582,131,11,11,https://dev.astrology.com/birth-chart/,431,0,210
+1677001431996,540,/birth-chart/-2,200,OK,Astrology - Full run 1-2,text,true,,60117,131,11,11,https://www.astrology.com/birth-chart/,487,0,232
+1677001431795,992,/zodiac-signs/cancer,200,OK,Astrology - Full run 1-10,text,true,,108202,276,11,11,https://dev.astrology.com/zodiac-signs/cancer,242,0,1
+1677001431795,242,/zodiac-signs/cancer-0,301,Moved Permanently,Astrology - Full run 1-10,,true,,304,138,11,11,http://dev.astrology.com/zodiac-signs/cancer,242,0,1
+1677001432038,749,/zodiac-signs/cancer-1,200,OK,Astrology - Full run 1-10,text,true,,107898,138,11,11,https://dev.astrology.com/zodiac-signs/cancer,626,0,213
+1677001431633,1162,/on-the-cusp,200,OK,Astrology - Full run 1-9,text,true,,106489,260,11,11,https://dev.astrology.com/on-the-cusp,167,0,1
+1677001431633,167,/on-the-cusp-0,301,Moved Permanently,Astrology - Full run 1-9,,true,,296,130,11,11,http://dev.astrology.com/on-the-cusp,167,0,1
+1677001431800,995,/on-the-cusp-1,200,OK,Astrology - Full run 1-9,text,true,,106193,130,11,11,https://dev.astrology.com/on-the-cusp,811,0,300
+1677001427947,4906,/numerology,200,OK,Astrology - Full run 1-6,text,false,"The operation lasted too long: It took 4,906 milliseconds, but should not have lasted longer than 2,500 milliseconds.",68755,258,11,11,https://dev.astrology.com/numerology,165,0,1
+1677001427947,165,/numerology-0,301,Moved Permanently,Astrology - Full run 1-6,,true,,295,129,11,11,http://dev.astrology.com/numerology,165,0,1
+1677001428112,4741,/numerology-1,200,OK,Astrology - Full run 1-6,text,true,,68460,129,11,11,https://dev.astrology.com/numerology,4617,0,221
+1677001432069,858,/us/home.aspx,200,OK,Astrology - Full run 1-11,text,true,,68372,262,11,11,https://dev.astrology.com/us/home.aspx,167,0,1
+1677001432069,167,/us/home.aspx-0,301,Moved Permanently,Astrology - Full run 1-11,,true,,297,131,11,11,http://dev.astrology.com/us/home.aspx,167,0,1
+1677001432236,691,/us/home.aspx-1,200,OK,Astrology - Full run 1-11,text,true,,68075,131,11,11,https://dev.astrology.com/us/home.aspx,590,0,225
+1677001431591,2426,/aspects-and-transits,200,OK,Astrology - Full run 1-4,text,true,,65027,278,12,12,https://dev.astrology.com/aspects-and-transits,154,0,1
+1677001431591,154,/aspects-and-transits-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,305,139,12,12,http://dev.astrology.com/aspects-and-transits,154,0,1
+1677001431745,2272,/aspects-and-transits-1,200,OK,Astrology - Full run 1-4,text,true,,64722,139,12,12,https://dev.astrology.com/aspects-and-transits,2162,0,246
+1677001432300,2022,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer,200,OK,Astrology - Full run 1-8,text,true,,61196,591,12,12,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer,162,0,1
+1677001432300,162,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer-0,301,Moved Permanently,Astrology - Full run 1-8,,true,,363,197,12,12,http://dev.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer,162,0,1
+1677001432463,421,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer-1,301,Moved Permanently,Astrology - Full run 1-8,text,true,,722,197,12,12,https://dev.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer,420,0,206
+1677001432884,1438,/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer-2,200,OK,Astrology - Full run 1-8,text,true,,60111,197,12,12,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer,1337,0,204
+1677001439278,1020,/love/compatibility/pisces.html,200,OK,Astrology - Full run 1-15,text,true,,63236,298,15,15,https://dev.astrology.com/love/compatibility/pisces.html,158,0,1
+1677001439278,158,/love/compatibility/pisces.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,315,149,15,15,http://dev.astrology.com/love/compatibility/pisces.html,158,0,1
+1677001439436,862,/love/compatibility/pisces.html-1,200,OK,Astrology - Full run 1-15,text,true,,62921,149,15,15,https://dev.astrology.com/love/compatibility/pisces.html,758,0,241
+1677001440298,1093,/work/compatibility/gemini-aries.html,200,OK,Astrology - Full run 1-15,text,true,,68041,310,16,16,https://dev.astrology.com/work/compatibility/gemini-aries.html,167,0,1
+1677001440298,167,/work/compatibility/gemini-aries.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,321,155,16,16,http://dev.astrology.com/work/compatibility/gemini-aries.html,167,0,1
+1677001440465,926,/work/compatibility/gemini-aries.html-1,200,OK,Astrology - Full run 1-15,text,true,,67720,155,16,16,https://dev.astrology.com/work/compatibility/gemini-aries.html,823,0,210
+1677001441283,875,/work/compatibility/aries-pisces.html,200,OK,Astrology - Full run 1-16,text,true,,67835,310,16,16,https://dev.astrology.com/work/compatibility/aries-pisces.html,165,0,1
+1677001441283,165,/work/compatibility/aries-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,321,155,16,16,http://dev.astrology.com/work/compatibility/aries-pisces.html,165,0,1
+1677001441449,709,/work/compatibility/aries-pisces.html-1,200,OK,Astrology - Full run 1-16,text,true,,67514,155,16,16,https://dev.astrology.com/work/compatibility/aries-pisces.html,610,0,199
+1677001441392,854,/work/compatibility/gemini-libra.html,200,OK,Astrology - Full run 1-15,text,true,,67958,310,16,16,https://dev.astrology.com/work/compatibility/gemini-libra.html,156,0,1
+1677001441392,156,/work/compatibility/gemini-libra.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,321,155,16,16,http://dev.astrology.com/work/compatibility/gemini-libra.html,156,0,1
+1677001441548,698,/work/compatibility/gemini-libra.html-1,200,OK,Astrology - Full run 1-15,text,true,,67637,155,16,16,https://dev.astrology.com/work/compatibility/gemini-libra.html,597,0,205
+1677001442159,777,/work/compatibility/aries-aries.html,200,OK,Astrology - Full run 1-16,text,true,,67827,308,16,16,https://dev.astrology.com/work/compatibility/aries-aries.html,159,0,1
+1677001442159,159,/work/compatibility/aries-aries.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,320,154,16,16,http://dev.astrology.com/work/compatibility/aries-aries.html,159,0,1
+1677001442318,618,/work/compatibility/aries-aries.html-1,200,OK,Astrology - Full run 1-16,text,true,,67507,154,16,16,https://dev.astrology.com/work/compatibility/aries-aries.html,562,0,209
+1677001442248,774,/work/compatibility/aries-caprcorn.html,200,OK,Astrology - Full run 1-15,text,true,,62056,314,16,16,https://dev.astrology.com/work/compatibility/aries-caprcorn.html,155,0,0
+1677001442248,155,/work/compatibility/aries-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,323,157,16,16,http://dev.astrology.com/work/compatibility/aries-caprcorn.html,155,0,0
+1677001442403,619,/work/compatibility/aries-caprcorn.html-1,200,OK,Astrology - Full run 1-15,text,true,,61733,157,16,16,https://dev.astrology.com/work/compatibility/aries-caprcorn.html,564,0,216
+1677001442937,766,/work/compatibility/gemini-virgo.html,200,OK,Astrology - Full run 1-16,text,true,,67929,310,17,17,https://dev.astrology.com/work/compatibility/gemini-virgo.html,160,0,0
+1677001442937,160,/work/compatibility/gemini-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,321,155,17,17,http://dev.astrology.com/work/compatibility/gemini-virgo.html,160,0,0
+1677001443097,606,/work/compatibility/gemini-virgo.html-1,200,OK,Astrology - Full run 1-16,text,true,,67608,155,17,17,https://dev.astrology.com/work/compatibility/gemini-virgo.html,554,0,205
+1677001443023,810,/work/compatibility/gemini-gemini.html,200,OK,Astrology - Full run 1-15,text,true,,67972,312,17,17,https://dev.astrology.com/work/compatibility/gemini-gemini.html,153,0,0
+1677001443023,153,/work/compatibility/gemini-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,322,156,17,17,http://dev.astrology.com/work/compatibility/gemini-gemini.html,153,0,0
+1677001443176,657,/work/compatibility/gemini-gemini.html-1,200,OK,Astrology - Full run 1-15,text,true,,67650,156,17,17,https://dev.astrology.com/work/compatibility/gemini-gemini.html,556,0,205
+1677001443281,836,/work/compatibility/aries-virgo.html,200,OK,Astrology - Full run 1-17,text,true,,67862,308,17,17,https://dev.astrology.com/work/compatibility/aries-virgo.html,151,0,0
+1677001443281,151,/work/compatibility/aries-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,320,154,17,17,http://dev.astrology.com/work/compatibility/aries-virgo.html,151,0,0
+1677001443433,684,/work/compatibility/aries-virgo.html-1,200,OK,Astrology - Full run 1-17,text,true,,67542,154,17,17,https://dev.astrology.com/work/compatibility/aries-virgo.html,584,0,210
+1677001443834,590,/img/icons/icon-widgets-compatibility-love.svg,200,OK,Astrology - Full run 1-15,text,true,,3140,328,17,17,https://dev.astrology.com/img/icons/icon-widgets-compatibility-love.svg,158,0,1
+1677001443834,158,/img/icons/icon-widgets-compatibility-love.svg-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,330,164,17,17,http://dev.astrology.com/img/icons/icon-widgets-compatibility-love.svg,158,0,1
+1677001443992,432,/img/icons/icon-widgets-compatibility-love.svg-1,200,OK,Astrology - Full run 1-15,text,true,,2810,164,17,17,https://dev.astrology.com/img/icons/icon-widgets-compatibility-love.svg,432,0,207
+1677001443703,1129,/work/compatibility/aries-leo.html,200,OK,Astrology - Full run 1-16,text,true,,67750,304,17,17,https://dev.astrology.com/work/compatibility/aries-leo.html,160,0,1
+1677001443703,160,/work/compatibility/aries-leo.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,318,152,17,17,http://dev.astrology.com/work/compatibility/aries-leo.html,160,0,1
+1677001443863,969,/work/compatibility/aries-leo.html-1,200,OK,Astrology - Full run 1-16,text,true,,67432,152,17,17,https://dev.astrology.com/work/compatibility/aries-leo.html,863,0,218
+1677001444118,770,/work/compatibility/gemini-caprcorn.html,200,OK,Astrology - Full run 1-17,text,true,,62059,316,17,17,https://dev.astrology.com/work/compatibility/gemini-caprcorn.html,154,0,0
+1677001444118,154,/work/compatibility/gemini-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,324,158,17,17,http://dev.astrology.com/work/compatibility/gemini-caprcorn.html,154,0,0
+1677001444272,616,/work/compatibility/gemini-caprcorn.html-1,200,OK,Astrology - Full run 1-17,text,true,,61735,158,17,17,https://dev.astrology.com/work/compatibility/gemini-caprcorn.html,562,0,227
+1677001444425,606,/img/icons/icon-widgets-compatibility-work.svg,200,OK,Astrology - Full run 1-15,text,true,,3519,328,17,17,https://dev.astrology.com/img/icons/icon-widgets-compatibility-work.svg,155,0,0
+1677001444425,155,/img/icons/icon-widgets-compatibility-work.svg-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,330,164,17,17,http://dev.astrology.com/img/icons/icon-widgets-compatibility-work.svg,155,0,0
+1677001444581,450,/img/icons/icon-widgets-compatibility-work.svg-1,200,OK,Astrology - Full run 1-15,text,true,,3189,164,17,17,https://dev.astrology.com/img/icons/icon-widgets-compatibility-work.svg,450,0,203
+1677001444833,617,/img/icons/icon-widgets-compatibility-chinese.svg,200,OK,Astrology - Full run 1-16,text,true,,2867,334,18,18,https://dev.astrology.com/img/icons/icon-widgets-compatibility-chinese.svg,160,0,0
+1677001444833,160,/img/icons/icon-widgets-compatibility-chinese.svg-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,333,167,18,18,http://dev.astrology.com/img/icons/icon-widgets-compatibility-chinese.svg,160,0,0
+1677001444992,458,/img/icons/icon-widgets-compatibility-chinese.svg-1,200,OK,Astrology - Full run 1-16,text,true,,2534,167,18,18,https://dev.astrology.com/img/icons/icon-widgets-compatibility-chinese.svg,458,0,213
+1677001445030,879,/work/compatibility/gemini-sagittarius.html,200,OK,Astrology - Full run 1-15,text,true,,68226,322,18,18,https://dev.astrology.com/work/compatibility/gemini-sagittarius.html,159,0,1
+1677001445030,159,/work/compatibility/gemini-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,327,161,18,18,http://dev.astrology.com/work/compatibility/gemini-sagittarius.html,159,0,1
+1677001445189,720,/work/compatibility/gemini-sagittarius.html-1,200,OK,Astrology - Full run 1-15,text,true,,67899,161,18,18,https://dev.astrology.com/work/compatibility/gemini-sagittarius.html,621,0,209
+1677001444889,1114,/work/compatibility/aries-taurus.html,200,OK,Astrology - Full run 1-17,text,true,,67851,310,18,18,https://dev.astrology.com/work/compatibility/aries-taurus.html,159,0,0
+1677001444889,159,/work/compatibility/aries-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,321,155,18,18,http://dev.astrology.com/work/compatibility/aries-taurus.html,159,0,0
+1677001445047,956,/work/compatibility/aries-taurus.html-1,200,OK,Astrology - Full run 1-17,text,true,,67530,155,18,18,https://dev.astrology.com/work/compatibility/aries-taurus.html,851,0,219
+1677001445450,796,/work/compatibility/gemini-aquarius.html,200,OK,Astrology - Full run 1-16,text,true,,68080,316,18,18,https://dev.astrology.com/work/compatibility/gemini-aquarius.html,153,0,1
+1677001445450,153,/work/compatibility/gemini-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,324,158,18,18,http://dev.astrology.com/work/compatibility/gemini-aquarius.html,153,0,1
+1677001445603,643,/work/compatibility/gemini-aquarius.html-1,200,OK,Astrology - Full run 1-16,text,true,,67756,158,18,18,https://dev.astrology.com/work/compatibility/gemini-aquarius.html,586,0,217
+1677001445281,1058,/work/compatibility/aries-cancer.html,200,OK,Astrology - Full run 1-18,text,true,,67994,310,18,18,https://dev.astrology.com/work/compatibility/aries-cancer.html,154,0,0
+1677001445281,154,/work/compatibility/aries-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,321,155,18,18,http://dev.astrology.com/work/compatibility/aries-cancer.html,154,0,0
+1677001445436,903,/work/compatibility/aries-cancer.html-1,200,OK,Astrology - Full run 1-18,text,true,,67673,155,18,18,https://dev.astrology.com/work/compatibility/aries-cancer.html,802,0,205
+1677001445910,848,/work/compatibility/aries-scorpio.html,200,OK,Astrology - Full run 1-15,text,true,,67977,312,18,18,https://dev.astrology.com/work/compatibility/aries-scorpio.html,154,0,0
+1677001445910,154,/work/compatibility/aries-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,322,156,18,18,http://dev.astrology.com/work/compatibility/aries-scorpio.html,154,0,0
+1677001446064,694,/work/compatibility/aries-scorpio.html-1,200,OK,Astrology - Full run 1-15,text,true,,67655,156,18,18,https://dev.astrology.com/work/compatibility/aries-scorpio.html,588,0,213
+1677001446004,806,/work/compatibility/aries-gemini.html,200,OK,Astrology - Full run 1-17,text,true,,67990,310,18,18,https://dev.astrology.com/work/compatibility/aries-gemini.html,151,0,0
+1677001446004,151,/work/compatibility/aries-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,321,155,18,18,http://dev.astrology.com/work/compatibility/aries-gemini.html,151,0,0
+1677001446155,655,/work/compatibility/aries-gemini.html-1,200,OK,Astrology - Full run 1-17,text,true,,67669,155,18,18,https://dev.astrology.com/work/compatibility/aries-gemini.html,601,0,206
+1677001446339,685,/img/compatibility/graphic-love-compatibility.png,200,OK,Astrology - Full run 1-18,bin,true,,27108,334,18,18,https://dev.astrology.com/img/compatibility/graphic-love-compatibility.png,157,0,1
+1677001446339,157,/img/compatibility/graphic-love-compatibility.png-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,333,167,18,18,http://dev.astrology.com/img/compatibility/graphic-love-compatibility.png,157,0,1
+1677001446496,528,/img/compatibility/graphic-love-compatibility.png-1,200,OK,Astrology - Full run 1-18,bin,true,,26775,167,18,18,https://dev.astrology.com/img/compatibility/graphic-love-compatibility.png,477,0,211
+1677001446247,832,/work/compatibility/gemini-leo.html,200,OK,Astrology - Full run 1-16,text,true,,67816,306,18,18,https://dev.astrology.com/work/compatibility/gemini-leo.html,166,0,0
+1677001446247,166,/work/compatibility/gemini-leo.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,319,153,18,18,http://dev.astrology.com/work/compatibility/gemini-leo.html,166,0,0
+1677001446413,666,/work/compatibility/gemini-leo.html-1,200,OK,Astrology - Full run 1-16,text,true,,67497,153,18,18,https://dev.astrology.com/work/compatibility/gemini-leo.html,607,0,230
+1677001446810,790,/work/compatibility/aries-libra.html,200,OK,Astrology - Full run 1-17,text,true,,67833,308,19,19,https://dev.astrology.com/work/compatibility/aries-libra.html,163,0,1
+1677001446810,163,/work/compatibility/aries-libra.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,320,154,19,19,http://dev.astrology.com/work/compatibility/aries-libra.html,163,0,1
+1677001446973,627,/work/compatibility/aries-libra.html-1,200,OK,Astrology - Full run 1-17,text,true,,67513,154,19,19,https://dev.astrology.com/work/compatibility/aries-libra.html,571,0,213
+1677001446758,846,/work/compatibility/gemini-pisces.html,200,OK,Astrology - Full run 1-15,text,true,,68035,312,19,19,https://dev.astrology.com/work/compatibility/gemini-pisces.html,156,0,1
+1677001446758,156,/work/compatibility/gemini-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,322,156,19,19,http://dev.astrology.com/work/compatibility/gemini-pisces.html,156,0,1
+1677001446914,690,/work/compatibility/gemini-pisces.html-1,200,OK,Astrology - Full run 1-15,text,true,,67713,156,19,19,https://dev.astrology.com/work/compatibility/gemini-pisces.html,594,0,220
+1677001425830,21997,/horoscope/daily.html,500,Internal Server Error,Astrology - Full run 1-7,text,false,"The operation lasted too long: It took 21,997 milliseconds, but should not have lasted longer than 2,500 milliseconds.",46578,278,19,19,https://dev.astrology.com/horoscope/daily.html,167,0,1
+1677001425830,167,/horoscope/daily.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,305,139,19,19,http://dev.astrology.com/horoscope/daily.html,167,0,1
+1677001425997,21830,/horoscope/daily.html-1,500,Internal Server Error,Astrology - Full run 1-7,text,false,,46273,139,19,19,https://dev.astrology.com/horoscope/daily.html,21732,0,242
+1677001447080,826,/work/compatibility/aries-aquarius.html,200,OK,Astrology - Full run 1-16,text,true,,68066,314,19,19,https://dev.astrology.com/work/compatibility/aries-aquarius.html,163,0,1
+1677001447080,163,/work/compatibility/aries-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,323,157,19,19,http://dev.astrology.com/work/compatibility/aries-aquarius.html,163,0,1
+1677001447243,663,/work/compatibility/aries-aquarius.html-1,200,OK,Astrology - Full run 1-16,text,true,,67743,157,19,19,https://dev.astrology.com/work/compatibility/aries-aquarius.html,571,0,202
+1677001447025,914,/work/compatibility/gemini-taurus.html,200,OK,Astrology - Full run 1-18,text,true,,68013,312,19,19,https://dev.astrology.com/work/compatibility/gemini-taurus.html,165,0,1
+1677001447025,165,/work/compatibility/gemini-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,322,156,19,19,http://dev.astrology.com/work/compatibility/gemini-taurus.html,165,0,1
+1677001447190,749,/work/compatibility/gemini-taurus.html-1,200,OK,Astrology - Full run 1-18,text,true,,67691,156,19,19,https://dev.astrology.com/work/compatibility/gemini-taurus.html,651,0,221
+1677001447279,799,/work/compatibility/aries-sagittarius.html,200,OK,Astrology - Full run 1-19,text,true,,68189,320,19,19,https://dev.astrology.com/work/compatibility/aries-sagittarius.html,156,0,1
+1677001447279,156,/work/compatibility/aries-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,326,160,19,19,http://dev.astrology.com/work/compatibility/aries-sagittarius.html,156,0,1
+1677001447435,643,/work/compatibility/aries-sagittarius.html-1,200,OK,Astrology - Full run 1-19,text,true,,67863,160,19,19,https://dev.astrology.com/work/compatibility/aries-sagittarius.html,586,0,216
+1677001447605,677,/img/games/icon-compat-zodiac-3.png,200,OK,Astrology - Full run 1-15,bin,true,,28420,306,19,19,https://dev.astrology.com/img/games/icon-compat-zodiac-3.png,172,0,1
+1677001447605,172,/img/games/icon-compat-zodiac-3.png-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,319,153,19,19,http://dev.astrology.com/img/games/icon-compat-zodiac-3.png,172,0,1
+1677001447777,505,/img/games/icon-compat-zodiac-3.png-1,200,OK,Astrology - Full run 1-15,bin,true,,28101,153,19,19,https://dev.astrology.com/img/games/icon-compat-zodiac-3.png,501,0,211
+1677001447600,822,/work/compatibility/gemini-cancer.html,200,OK,Astrology - Full run 1-17,text,true,,68013,312,19,19,https://dev.astrology.com/work/compatibility/gemini-cancer.html,154,0,1
+1677001447600,154,/work/compatibility/gemini-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,322,156,19,19,http://dev.astrology.com/work/compatibility/gemini-cancer.html,154,0,1
+1677001447754,668,/work/compatibility/gemini-cancer.html-1,200,OK,Astrology - Full run 1-17,text,true,,67691,156,19,19,https://dev.astrology.com/work/compatibility/gemini-cancer.html,561,0,217
+1677001447829,768,/work/compatibility/gemini-scorpio.html,200,OK,Astrology - Full run 1-7,text,true,,68118,314,19,19,https://dev.astrology.com/work/compatibility/gemini-scorpio.html,158,0,0
+1677001447829,158,/work/compatibility/gemini-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,323,157,19,19,http://dev.astrology.com/work/compatibility/gemini-scorpio.html,158,0,0
+1677001447987,610,/work/compatibility/gemini-scorpio.html-1,200,OK,Astrology - Full run 1-7,text,true,,67795,157,19,19,https://dev.astrology.com/work/compatibility/gemini-scorpio.html,556,0,202
+1677001447907,842,/work/compatibility/leo-scorpio.html,200,OK,Astrology - Full run 1-16,text,true,,67898,308,19,19,https://dev.astrology.com/work/compatibility/leo-scorpio.html,157,0,0
+1677001447907,157,/work/compatibility/leo-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,320,154,19,19,http://dev.astrology.com/work/compatibility/leo-scorpio.html,157,0,0
+1677001448064,685,/work/compatibility/leo-scorpio.html-1,200,OK,Astrology - Full run 1-16,text,true,,67578,154,19,19,https://dev.astrology.com/work/compatibility/leo-scorpio.html,583,0,201
+1677001447940,812,/work/compatibility/taurus-leo.html,200,OK,Astrology - Full run 1-18,text,true,,67832,306,19,19,https://dev.astrology.com/work/compatibility/taurus-leo.html,160,0,0
+1677001447940,160,/work/compatibility/taurus-leo.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,319,153,19,19,http://dev.astrology.com/work/compatibility/taurus-leo.html,160,0,0
+1677001448100,652,/work/compatibility/taurus-leo.html-1,200,OK,Astrology - Full run 1-18,text,true,,67513,153,19,19,https://dev.astrology.com/work/compatibility/taurus-leo.html,596,0,207
+1677001448422,674,/img/games/icon-compat-zodiac-2.png,200,OK,Astrology - Full run 1-17,bin,true,,23871,306,19,19,https://dev.astrology.com/img/games/icon-compat-zodiac-2.png,165,0,1
+1677001448422,165,/img/games/icon-compat-zodiac-2.png-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,319,153,19,19,http://dev.astrology.com/img/games/icon-compat-zodiac-2.png,165,0,1
+1677001448587,509,/img/games/icon-compat-zodiac-2.png-1,200,OK,Astrology - Full run 1-17,bin,true,,23552,153,19,19,https://dev.astrology.com/img/games/icon-compat-zodiac-2.png,503,0,219
+1677001448078,1022,/work/compatibility/pisces-aquarius.html,200,OK,Astrology - Full run 1-19,text,true,,68095,316,19,19,https://dev.astrology.com/work/compatibility/pisces-aquarius.html,155,0,1
+1677001448078,155,/work/compatibility/pisces-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,324,158,19,19,http://dev.astrology.com/work/compatibility/pisces-aquarius.html,155,0,1
+1677001448233,867,/work/compatibility/pisces-aquarius.html-1,200,OK,Astrology - Full run 1-19,text,true,,67771,158,19,19,https://dev.astrology.com/work/compatibility/pisces-aquarius.html,761,0,214
+1677001448283,858,/work/compatibility/pisces-libra.html,200,OK,Astrology - Full run 1-15,text,true,,67907,310,19,19,https://dev.astrology.com/work/compatibility/pisces-libra.html,156,0,1
+1677001448283,156,/work/compatibility/pisces-libra.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,321,155,19,19,http://dev.astrology.com/work/compatibility/pisces-libra.html,156,0,1
+1677001448439,702,/work/compatibility/pisces-libra.html-1,200,OK,Astrology - Full run 1-15,text,true,,67586,155,19,19,https://dev.astrology.com/work/compatibility/pisces-libra.html,646,0,212
+1677001448598,849,/work/compatibility/aquarius-aquarius.html,200,OK,Astrology - Full run 1-7,text,true,,68294,320,20,20,https://dev.astrology.com/work/compatibility/aquarius-aquarius.html,159,0,1
+1677001448598,159,/work/compatibility/aquarius-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,326,160,20,20,http://dev.astrology.com/work/compatibility/aquarius-aquarius.html,159,0,1
+1677001448757,690,/work/compatibility/aquarius-aquarius.html-1,200,OK,Astrology - Full run 1-7,text,true,,67968,160,20,20,https://dev.astrology.com/work/compatibility/aquarius-aquarius.html,576,0,219
+1677001448750,799,/work/compatibility/virgo-caprcorn.html,200,OK,Astrology - Full run 1-16,text,true,,62057,314,20,20,https://dev.astrology.com/work/compatibility/virgo-caprcorn.html,155,0,0
+1677001448750,155,/work/compatibility/virgo-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,323,157,20,20,http://dev.astrology.com/work/compatibility/virgo-caprcorn.html,155,0,0
+1677001448905,644,/work/compatibility/virgo-caprcorn.html-1,200,OK,Astrology - Full run 1-16,text,true,,61734,157,20,20,https://dev.astrology.com/work/compatibility/virgo-caprcorn.html,589,0,244
+1677001448753,807,/work/compatibility/capricorn-pisces.html,200,OK,Astrology - Full run 1-18,text,true,,68189,318,20,20,https://dev.astrology.com/work/compatibility/capricorn-pisces.html,152,0,0
+1677001448753,152,/work/compatibility/capricorn-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,325,159,20,20,http://dev.astrology.com/work/compatibility/capricorn-pisces.html,152,0,0
+1677001448905,655,/work/compatibility/capricorn-pisces.html-1,200,OK,Astrology - Full run 1-18,text,true,,67864,159,20,20,https://dev.astrology.com/work/compatibility/capricorn-pisces.html,555,0,208
+1677001427666,22025,/us/astrology-calendar-2023.aspx,500,Internal Server Error,Astrology - Full run 1-3,text,false,"The operation lasted too long: It took 22,025 milliseconds, but should not have lasted longer than 2,500 milliseconds.",46589,300,20,20,https://dev.astrology.com/us/astrology-calendar-2023.aspx,164,0,0
+1677001427666,164,/us/astrology-calendar-2023.aspx-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,316,150,20,20,http://dev.astrology.com/us/astrology-calendar-2023.aspx,164,0,0
+1677001427830,21861,/us/astrology-calendar-2023.aspx-1,500,Internal Server Error,Astrology - Full run 1-3,text,false,,46273,150,20,20,https://dev.astrology.com/us/astrology-calendar-2023.aspx,21758,0,221
+1677001449097,691,/img/games/icon-compat-zodiac-10.png,200,OK,Astrology - Full run 1-17,bin,true,,28388,308,20,20,https://dev.astrology.com/img/games/icon-compat-zodiac-10.png,169,0,1
+1677001449097,169,/img/games/icon-compat-zodiac-10.png-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,320,154,20,20,http://dev.astrology.com/img/games/icon-compat-zodiac-10.png,169,0,1
+1677001449266,522,/img/games/icon-compat-zodiac-10.png-1,200,OK,Astrology - Full run 1-17,bin,true,,28068,154,20,20,https://dev.astrology.com/img/games/icon-compat-zodiac-10.png,520,0,220
+1677001449101,795,/work/compatibility/libra-taurus.html,200,OK,Astrology - Full run 1-19,text,true,,67897,310,20,20,https://dev.astrology.com/work/compatibility/libra-taurus.html,157,0,0
+1677001449101,157,/work/compatibility/libra-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,321,155,20,20,http://dev.astrology.com/work/compatibility/libra-taurus.html,157,0,0
+1677001449258,638,/work/compatibility/libra-taurus.html-1,200,OK,Astrology - Full run 1-19,text,true,,67576,155,20,20,https://dev.astrology.com/work/compatibility/libra-taurus.html,583,0,208
+1677001449142,812,/work/compatibility/virgo-gemini.html,200,OK,Astrology - Full run 1-15,text,true,,67994,310,20,20,https://dev.astrology.com/work/compatibility/virgo-gemini.html,150,0,0
+1677001449142,150,/work/compatibility/virgo-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,321,155,20,20,http://dev.astrology.com/work/compatibility/virgo-gemini.html,150,0,0
+1677001449292,662,/work/compatibility/virgo-gemini.html-1,200,OK,Astrology - Full run 1-15,text,true,,67673,155,20,20,https://dev.astrology.com/work/compatibility/virgo-gemini.html,559,0,208
+1677001449278,816,/work/compatibility/sagittarius-sagittarius.html,200,OK,Astrology - Full run 1-20,text,true,,68711,332,20,20,https://dev.astrology.com/work/compatibility/sagittarius-sagittarius.html,169,0,1
+1677001449278,169,/work/compatibility/sagittarius-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,332,166,20,20,http://dev.astrology.com/work/compatibility/sagittarius-sagittarius.html,169,0,1
+1677001449448,646,/work/compatibility/sagittarius-sagittarius.html-1,200,OK,Astrology - Full run 1-20,text,true,,68379,166,20,20,https://dev.astrology.com/work/compatibility/sagittarius-sagittarius.html,545,0,208
+1677001449448,663,/img/games/icon-compat-zodiac-12.png,200,OK,Astrology - Full run 1-7,bin,true,,22183,308,20,20,https://dev.astrology.com/img/games/icon-compat-zodiac-12.png,161,0,1
+1677001449448,161,/img/games/icon-compat-zodiac-12.png-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,320,154,20,20,http://dev.astrology.com/img/games/icon-compat-zodiac-12.png,161,0,1
+1677001449609,502,/img/games/icon-compat-zodiac-12.png-1,200,OK,Astrology - Full run 1-7,bin,true,,21863,154,20,20,https://dev.astrology.com/img/games/icon-compat-zodiac-12.png,499,0,224
+1677001449561,755,/work/compatibility/libra-virgo.html,200,OK,Astrology - Full run 1-18,text,true,,67826,308,20,20,https://dev.astrology.com/work/compatibility/libra-virgo.html,158,0,0
+1677001449561,158,/work/compatibility/libra-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,320,154,20,20,http://dev.astrology.com/work/compatibility/libra-virgo.html,158,0,0
+1677001449719,597,/work/compatibility/libra-virgo.html-1,200,OK,Astrology - Full run 1-18,text,true,,67506,154,20,20,https://dev.astrology.com/work/compatibility/libra-virgo.html,545,0,226
+1677001449549,859,/work/compatibility/leo-sagittarius.html,200,OK,Astrology - Full run 1-16,text,true,,68187,316,20,20,https://dev.astrology.com/work/compatibility/leo-sagittarius.html,150,0,1
+1677001449549,150,/work/compatibility/leo-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,324,158,20,20,http://dev.astrology.com/work/compatibility/leo-sagittarius.html,150,0,1
+1677001449700,708,/work/compatibility/leo-sagittarius.html-1,200,OK,Astrology - Full run 1-16,text,true,,67863,158,20,20,https://dev.astrology.com/work/compatibility/leo-sagittarius.html,602,0,258
+1677001449691,774,/work/compatibility/libra-libra.html,200,OK,Astrology - Full run 1-3,text,true,,67825,308,20,20,https://dev.astrology.com/work/compatibility/libra-libra.html,172,0,1
+1677001449691,172,/work/compatibility/libra-libra.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,320,154,20,20,http://dev.astrology.com/work/compatibility/libra-libra.html,172,0,1
+1677001449863,602,/work/compatibility/libra-libra.html-1,200,OK,Astrology - Full run 1-3,text,true,,67505,154,20,20,https://dev.astrology.com/work/compatibility/libra-libra.html,548,0,210
+1677001449789,815,/work/compatibility/taurus-cancer.html,200,OK,Astrology - Full run 1-17,text,true,,67945,312,20,20,https://dev.astrology.com/work/compatibility/taurus-cancer.html,166,0,1
+1677001449789,166,/work/compatibility/taurus-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,322,156,20,20,http://dev.astrology.com/work/compatibility/taurus-cancer.html,166,0,1
+1677001449955,649,/work/compatibility/taurus-cancer.html-1,200,OK,Astrology - Full run 1-17,text,true,,67623,156,20,20,https://dev.astrology.com/work/compatibility/taurus-cancer.html,557,0,207
+1677001449897,755,/work/compatibility/sagittarius-caprcorn.html,200,OK,Astrology - Full run 1-19,text,true,,62062,326,20,20,https://dev.astrology.com/work/compatibility/sagittarius-caprcorn.html,166,0,0
+1677001449897,166,/work/compatibility/sagittarius-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,329,163,20,20,http://dev.astrology.com/work/compatibility/sagittarius-caprcorn.html,166,0,0
+1677001450064,588,/work/compatibility/sagittarius-caprcorn.html-1,200,OK,Astrology - Full run 1-19,text,true,,61733,163,20,20,https://dev.astrology.com/work/compatibility/sagittarius-caprcorn.html,533,0,208
+1677001449955,777,/work/compatibility/scorpio-gemini.html,200,OK,Astrology - Full run 1-15,text,true,,68002,314,20,20,https://dev.astrology.com/work/compatibility/scorpio-gemini.html,164,0,1
+1677001449955,164,/work/compatibility/scorpio-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,323,157,20,20,http://dev.astrology.com/work/compatibility/scorpio-gemini.html,164,0,1
+1677001450121,611,/work/compatibility/scorpio-gemini.html-1,200,OK,Astrology - Full run 1-15,text,true,,67679,157,20,20,https://dev.astrology.com/work/compatibility/scorpio-gemini.html,559,0,199
+1677001450096,765,/work/compatibility/leo-caprcorn.html,200,OK,Astrology - Full run 1-20,text,true,,62053,310,20,20,https://dev.astrology.com/work/compatibility/leo-caprcorn.html,161,0,1
+1677001450096,161,/work/compatibility/leo-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,321,155,20,20,http://dev.astrology.com/work/compatibility/leo-caprcorn.html,161,0,1
+1677001450257,604,/work/compatibility/leo-caprcorn.html-1,200,OK,Astrology - Full run 1-20,text,true,,61732,155,20,20,https://dev.astrology.com/work/compatibility/leo-caprcorn.html,545,0,210
+1677001450113,963,/work/compatibility/sagittarius-gemini.html,200,OK,Astrology - Full run 1-7,text,true,,68287,322,20,20,https://dev.astrology.com/work/compatibility/sagittarius-gemini.html,154,0,0
+1677001450113,154,/work/compatibility/sagittarius-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,327,161,20,20,http://dev.astrology.com/work/compatibility/sagittarius-gemini.html,154,0,0
+1677001450268,808,/work/compatibility/sagittarius-gemini.html-1,200,OK,Astrology - Full run 1-7,text,true,,67960,161,20,20,https://dev.astrology.com/work/compatibility/sagittarius-gemini.html,708,0,206
+1677001450318,820,/work/compatibility/capricorn-aquarius.html,200,OK,Astrology - Full run 1-18,text,true,,68407,322,20,20,https://dev.astrology.com/work/compatibility/capricorn-aquarius.html,159,0,1
+1677001450318,159,/work/compatibility/capricorn-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,327,161,20,20,http://dev.astrology.com/work/compatibility/capricorn-aquarius.html,159,0,1
+1677001450477,661,/work/compatibility/capricorn-aquarius.html-1,200,OK,Astrology - Full run 1-18,text,true,,68080,161,20,20,https://dev.astrology.com/work/compatibility/capricorn-aquarius.html,555,0,205
+1677001450410,793,/work/compatibility/sagittarius-aries.html,200,OK,Astrology - Full run 1-16,text,true,,68202,320,20,20,https://dev.astrology.com/work/compatibility/sagittarius-aries.html,163,0,0
+1677001450410,163,/work/compatibility/sagittarius-aries.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,326,160,20,20,http://dev.astrology.com/work/compatibility/sagittarius-aries.html,163,0,0
+1677001450573,630,/work/compatibility/sagittarius-aries.html-1,200,OK,Astrology - Full run 1-16,text,true,,67876,160,20,20,https://dev.astrology.com/work/compatibility/sagittarius-aries.html,530,0,209
+1677001450467,806,/work/compatibility/pisces-virgo.html,200,OK,Astrology - Full run 1-3,text,true,,67858,310,20,20,https://dev.astrology.com/work/compatibility/pisces-virgo.html,156,0,0
+1677001450467,156,/work/compatibility/pisces-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,321,155,20,20,http://dev.astrology.com/work/compatibility/pisces-virgo.html,156,0,0
+1677001450623,650,/work/compatibility/pisces-virgo.html-1,200,OK,Astrology - Full run 1-3,text,true,,67537,155,20,20,https://dev.astrology.com/work/compatibility/pisces-virgo.html,551,0,205
+1677001450606,790,/work/compatibility/taurus-gemini.html,200,OK,Astrology - Full run 1-17,text,true,,68002,312,21,21,https://dev.astrology.com/work/compatibility/taurus-gemini.html,154,0,0
+1677001450606,154,/work/compatibility/taurus-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,322,156,21,21,http://dev.astrology.com/work/compatibility/taurus-gemini.html,154,0,0
+1677001450760,636,/work/compatibility/taurus-gemini.html-1,200,OK,Astrology - Full run 1-17,text,true,,67680,156,21,21,https://dev.astrology.com/work/compatibility/taurus-gemini.html,581,0,206
+1677001450652,839,/work/compatibility/virgo-aries.html,200,OK,Astrology - Full run 1-19,text,true,,67852,308,21,21,https://dev.astrology.com/work/compatibility/virgo-aries.html,177,0,1
+1677001450652,177,/work/compatibility/virgo-aries.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,320,154,21,21,http://dev.astrology.com/work/compatibility/virgo-aries.html,177,0,1
+1677001450829,662,/work/compatibility/virgo-aries.html-1,200,OK,Astrology - Full run 1-19,text,true,,67532,154,21,21,https://dev.astrology.com/work/compatibility/virgo-aries.html,551,0,209
+1677001450733,790,/work/compatibility/aquarius-gemini.html,200,OK,Astrology - Full run 1-15,text,true,,68088,316,21,21,https://dev.astrology.com/work/compatibility/aquarius-gemini.html,162,0,1
+1677001450733,162,/work/compatibility/aquarius-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,324,158,21,21,http://dev.astrology.com/work/compatibility/aquarius-gemini.html,162,0,1
+1677001450895,628,/work/compatibility/aquarius-gemini.html-1,200,OK,Astrology - Full run 1-15,text,true,,67764,158,21,21,https://dev.astrology.com/work/compatibility/aquarius-gemini.html,536,0,201
+1677001451077,803,/work/compatibility/sagittarius-scorpio.html,200,OK,Astrology - Full run 1-7,text,true,,68315,324,21,21,https://dev.astrology.com/work/compatibility/sagittarius-scorpio.html,166,0,0
+1677001451077,166,/work/compatibility/sagittarius-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,328,162,21,21,http://dev.astrology.com/work/compatibility/sagittarius-scorpio.html,166,0,0
+1677001451243,637,/work/compatibility/sagittarius-scorpio.html-1,200,OK,Astrology - Full run 1-7,text,true,,67987,162,21,21,https://dev.astrology.com/work/compatibility/sagittarius-scorpio.html,538,0,203
+1677001450861,1039,/work/compatibility/taurus-virgo.html,200,OK,Astrology - Full run 1-20,text,true,,67882,310,21,21,https://dev.astrology.com/work/compatibility/taurus-virgo.html,147,0,1
+1677001450861,147,/work/compatibility/taurus-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,321,155,21,21,http://dev.astrology.com/work/compatibility/taurus-virgo.html,147,0,1
+1677001451008,892,/work/compatibility/taurus-virgo.html-1,200,OK,Astrology - Full run 1-20,text,true,,67561,155,21,21,https://dev.astrology.com/work/compatibility/taurus-virgo.html,791,0,208
+1677001451204,792,/work/compatibility/libra-aries.html,200,OK,Astrology - Full run 1-16,text,true,,67873,308,21,21,https://dev.astrology.com/work/compatibility/libra-aries.html,154,0,0
+1677001451204,154,/work/compatibility/libra-aries.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,320,154,21,21,http://dev.astrology.com/work/compatibility/libra-aries.html,154,0,0
+1677001451358,638,/work/compatibility/libra-aries.html-1,200,OK,Astrology - Full run 1-16,text,true,,67553,154,21,21,https://dev.astrology.com/work/compatibility/libra-aries.html,578,0,215
+1677001451281,878,/work/compatibility/pisces-scorpio.html,200,OK,Astrology - Full run 1-21,text,true,,67990,314,21,21,https://dev.astrology.com/work/compatibility/pisces-scorpio.html,159,0,0
+1677001451281,159,/work/compatibility/pisces-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-21,,true,,323,157,21,21,http://dev.astrology.com/work/compatibility/pisces-scorpio.html,159,0,0
+1677001451440,719,/work/compatibility/pisces-scorpio.html-1,200,OK,Astrology - Full run 1-21,text,true,,67667,157,21,21,https://dev.astrology.com/work/compatibility/pisces-scorpio.html,617,0,213
+1677001451139,1105,/work/compatibility/sagittarius-virgo.html,200,OK,Astrology - Full run 1-18,text,true,,68280,320,21,21,https://dev.astrology.com/work/compatibility/sagittarius-virgo.html,153,0,1
+1677001451139,153,/work/compatibility/sagittarius-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,326,160,21,21,http://dev.astrology.com/work/compatibility/sagittarius-virgo.html,153,0,1
+1677001451293,951,/work/compatibility/sagittarius-virgo.html-1,200,OK,Astrology - Full run 1-18,text,true,,67954,160,21,21,https://dev.astrology.com/work/compatibility/sagittarius-virgo.html,850,0,206
+1677001451274,981,/work/compatibility/taurus-taurus.html,200,OK,Astrology - Full run 1-3,text,true,,67961,312,21,21,https://dev.astrology.com/work/compatibility/taurus-taurus.html,159,0,1
+1677001451274,159,/work/compatibility/taurus-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,322,156,21,21,http://dev.astrology.com/work/compatibility/taurus-taurus.html,159,0,1
+1677001451434,821,/work/compatibility/taurus-taurus.html-1,200,OK,Astrology - Full run 1-3,text,true,,67639,156,21,21,https://dev.astrology.com/work/compatibility/taurus-taurus.html,710,0,213
+1677001451397,861,/work/compatibility/taurus-libra.html,200,OK,Astrology - Full run 1-17,text,true,,67901,310,21,21,https://dev.astrology.com/work/compatibility/taurus-libra.html,151,0,0
+1677001451397,151,/work/compatibility/taurus-libra.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,321,155,21,21,http://dev.astrology.com/work/compatibility/taurus-libra.html,151,0,0
+1677001451548,710,/work/compatibility/taurus-libra.html-1,200,OK,Astrology - Full run 1-17,text,true,,67580,155,21,21,https://dev.astrology.com/work/compatibility/taurus-libra.html,600,0,211
+1677001451492,871,/work/compatibility/virgo-scorpio.html,200,OK,Astrology - Full run 1-19,text,true,,68069,312,21,21,https://dev.astrology.com/work/compatibility/virgo-scorpio.html,155,0,0
+1677001451492,155,/work/compatibility/virgo-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,322,156,21,21,http://dev.astrology.com/work/compatibility/virgo-scorpio.html,155,0,0
+1677001451647,716,/work/compatibility/virgo-scorpio.html-1,200,OK,Astrology - Full run 1-19,text,true,,67747,156,21,21,https://dev.astrology.com/work/compatibility/virgo-scorpio.html,609,0,233
+1677001451524,1091,/work/compatibility/capricorn-taurus.html,200,OK,Astrology - Full run 1-15,text,true,,68144,318,21,21,https://dev.astrology.com/work/compatibility/capricorn-taurus.html,148,0,0
+1677001451524,148,/work/compatibility/capricorn-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,325,159,21,21,http://dev.astrology.com/work/compatibility/capricorn-taurus.html,148,0,0
+1677001451672,943,/work/compatibility/capricorn-taurus.html-1,200,OK,Astrology - Full run 1-15,text,true,,67819,159,21,21,https://dev.astrology.com/work/compatibility/capricorn-taurus.html,839,0,208
+1677001451881,814,/work/compatibility/capricorn-aries.html,200,OK,Astrology - Full run 1-7,text,true,,68181,316,21,21,https://dev.astrology.com/work/compatibility/capricorn-aries.html,186,0,0
+1677001451881,186,/work/compatibility/capricorn-aries.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,324,158,21,21,http://dev.astrology.com/work/compatibility/capricorn-aries.html,186,0,0
+1677001452068,627,/work/compatibility/capricorn-aries.html-1,200,OK,Astrology - Full run 1-7,text,true,,67857,158,21,21,https://dev.astrology.com/work/compatibility/capricorn-aries.html,572,0,216
+1677001451900,871,/work/compatibility/capricorn-leo.html,200,OK,Astrology - Full run 1-20,text,true,,68001,312,21,21,https://dev.astrology.com/work/compatibility/capricorn-leo.html,208,0,1
+1677001451900,208,/work/compatibility/capricorn-leo.html-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,322,156,21,21,http://dev.astrology.com/work/compatibility/capricorn-leo.html,208,0,1
+1677001452109,662,/work/compatibility/capricorn-leo.html-1,200,OK,Astrology - Full run 1-20,text,true,,67679,156,21,21,https://dev.astrology.com/work/compatibility/capricorn-leo.html,565,0,207
+1677001451997,804,/work/compatibility/pisces-gemini.html,200,OK,Astrology - Full run 1-16,text,true,,67917,312,21,21,https://dev.astrology.com/work/compatibility/pisces-gemini.html,188,0,1
+1677001451997,188,/work/compatibility/pisces-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,322,156,21,21,http://dev.astrology.com/work/compatibility/pisces-gemini.html,188,0,1
+1677001452185,616,/work/compatibility/pisces-gemini.html-1,200,OK,Astrology - Full run 1-16,text,true,,67595,156,21,21,https://dev.astrology.com/work/compatibility/pisces-gemini.html,562,0,208
+1677001452160,653,/img/games/icon-compat-zodiac-7.png,200,OK,Astrology - Full run 1-21,bin,true,,18174,306,21,21,https://dev.astrology.com/img/games/icon-compat-zodiac-7.png,170,0,1
+1677001452160,170,/img/games/icon-compat-zodiac-7.png-0,301,Moved Permanently,Astrology - Full run 1-21,,true,,319,153,21,21,http://dev.astrology.com/img/games/icon-compat-zodiac-7.png,170,0,1
+1677001452330,483,/img/games/icon-compat-zodiac-7.png-1,200,OK,Astrology - Full run 1-21,bin,true,,17855,153,21,21,https://dev.astrology.com/img/games/icon-compat-zodiac-7.png,482,0,204
+1677001452244,679,/img/games/icon-compat-zodiac-6.png,200,OK,Astrology - Full run 1-18,bin,true,,16840,306,21,21,https://dev.astrology.com/img/games/icon-compat-zodiac-6.png,153,0,1
+1677001452244,153,/img/games/icon-compat-zodiac-6.png-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,319,153,21,21,http://dev.astrology.com/img/games/icon-compat-zodiac-6.png,153,0,1
+1677001452397,526,/img/games/icon-compat-zodiac-6.png-1,200,OK,Astrology - Full run 1-18,bin,true,,16521,153,21,21,https://dev.astrology.com/img/games/icon-compat-zodiac-6.png,526,0,231
+1677001452255,790,/work/compatibility/virgo-sagittarius.html,200,OK,Astrology - Full run 1-3,text,true,,68202,320,21,21,https://dev.astrology.com/work/compatibility/virgo-sagittarius.html,156,0,1
+1677001452255,156,/work/compatibility/virgo-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,326,160,21,21,http://dev.astrology.com/work/compatibility/virgo-sagittarius.html,156,0,1
+1677001452411,634,/work/compatibility/virgo-sagittarius.html-1,200,OK,Astrology - Full run 1-3,text,true,,67876,160,21,21,https://dev.astrology.com/work/compatibility/virgo-sagittarius.html,574,0,228
+1677001452258,838,/work/compatibility/aquarius-scorpio.html,200,OK,Astrology - Full run 1-17,text,true,,68110,318,21,21,https://dev.astrology.com/work/compatibility/aquarius-scorpio.html,163,0,1
+1677001452258,163,/work/compatibility/aquarius-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,325,159,21,21,http://dev.astrology.com/work/compatibility/aquarius-scorpio.html,163,0,1
+1677001452421,675,/work/compatibility/aquarius-scorpio.html-1,200,OK,Astrology - Full run 1-17,text,true,,67785,159,21,21,https://dev.astrology.com/work/compatibility/aquarius-scorpio.html,566,0,218
+1677001452616,745,/work/compatibility/pisces-caprcorn.html,200,OK,Astrology - Full run 1-15,text,true,,62056,316,22,22,https://dev.astrology.com/work/compatibility/pisces-caprcorn.html,149,0,0
+1677001452616,149,/work/compatibility/pisces-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,324,158,22,22,http://dev.astrology.com/work/compatibility/pisces-caprcorn.html,149,0,0
+1677001452765,596,/work/compatibility/pisces-caprcorn.html-1,200,OK,Astrology - Full run 1-15,text,true,,61732,158,22,22,https://dev.astrology.com/work/compatibility/pisces-caprcorn.html,545,0,202
+1677001452364,1025,/work/compatibility/scorpio-taurus.html,200,OK,Astrology - Full run 1-19,text,true,,68003,314,22,22,https://dev.astrology.com/work/compatibility/scorpio-taurus.html,169,0,0
+1677001452364,169,/work/compatibility/scorpio-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,323,157,22,22,http://dev.astrology.com/work/compatibility/scorpio-taurus.html,169,0,0
+1677001452533,856,/work/compatibility/scorpio-taurus.html-1,200,OK,Astrology - Full run 1-19,text,true,,67680,157,22,22,https://dev.astrology.com/work/compatibility/scorpio-taurus.html,758,0,200
+1677001452696,763,/work/compatibility/libra-aquarius.html,200,OK,Astrology - Full run 1-7,text,true,,67983,314,22,22,https://dev.astrology.com/work/compatibility/libra-aquarius.html,160,0,1
+1677001452696,160,/work/compatibility/libra-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,323,157,22,22,http://dev.astrology.com/work/compatibility/libra-aquarius.html,160,0,1
+1677001452856,603,/work/compatibility/libra-aquarius.html-1,200,OK,Astrology - Full run 1-7,text,true,,67660,157,22,22,https://dev.astrology.com/work/compatibility/libra-aquarius.html,546,0,216
+1677001452772,755,/work/compatibility/pisces-cancer.html,200,OK,Astrology - Full run 1-20,text,true,,67931,312,22,22,https://dev.astrology.com/work/compatibility/pisces-cancer.html,158,0,1
+1677001452772,158,/work/compatibility/pisces-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,322,156,22,22,http://dev.astrology.com/work/compatibility/pisces-cancer.html,158,0,1
+1677001452931,596,/work/compatibility/pisces-cancer.html-1,200,OK,Astrology - Full run 1-20,text,true,,67609,156,22,22,https://dev.astrology.com/work/compatibility/pisces-cancer.html,541,0,200
+1677001452813,799,/work/compatibility/virgo-virgo.html,200,OK,Astrology - Full run 1-21,text,true,,67866,308,22,22,https://dev.astrology.com/work/compatibility/virgo-virgo.html,160,0,1
+1677001452813,160,/work/compatibility/virgo-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-21,,true,,320,154,22,22,http://dev.astrology.com/work/compatibility/virgo-virgo.html,160,0,1
+1677001452973,639,/work/compatibility/virgo-virgo.html-1,200,OK,Astrology - Full run 1-21,text,true,,67546,154,22,22,https://dev.astrology.com/work/compatibility/virgo-virgo.html,536,0,205
+1677001452802,835,/work/compatibility/taurus-scorpio.html,200,OK,Astrology - Full run 1-16,text,true,,68045,314,22,22,https://dev.astrology.com/work/compatibility/taurus-scorpio.html,168,0,0
+1677001452802,168,/work/compatibility/taurus-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,323,157,22,22,http://dev.astrology.com/work/compatibility/taurus-scorpio.html,168,0,0
+1677001452971,666,/work/compatibility/taurus-scorpio.html-1,200,OK,Astrology - Full run 1-16,text,true,,67722,157,22,22,https://dev.astrology.com/work/compatibility/taurus-scorpio.html,610,0,212
+1677001452923,775,/work/compatibility/scorpio-scorpio.html,200,OK,Astrology - Full run 1-18,text,true,,68110,316,22,22,https://dev.astrology.com/work/compatibility/scorpio-scorpio.html,158,0,1
+1677001452923,158,/work/compatibility/scorpio-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,324,158,22,22,http://dev.astrology.com/work/compatibility/scorpio-scorpio.html,158,0,1
+1677001453082,616,/work/compatibility/scorpio-scorpio.html-1,200,OK,Astrology - Full run 1-18,text,true,,67786,158,22,22,https://dev.astrology.com/work/compatibility/scorpio-scorpio.html,561,0,204
+1677001453045,766,/work/compatibility/cancer-caprcorn.html,200,OK,Astrology - Full run 1-3,text,true,,62058,316,22,22,https://dev.astrology.com/work/compatibility/cancer-caprcorn.html,154,0,1
+1677001453045,154,/work/compatibility/cancer-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,324,158,22,22,http://dev.astrology.com/work/compatibility/cancer-caprcorn.html,154,0,1
+1677001453199,612,/work/compatibility/cancer-caprcorn.html-1,200,OK,Astrology - Full run 1-3,text,true,,61734,158,22,22,https://dev.astrology.com/work/compatibility/cancer-caprcorn.html,552,0,214
+1677001453097,768,/work/compatibility/leo-pisces.html,200,OK,Astrology - Full run 1-17,text,true,,67745,306,22,22,https://dev.astrology.com/work/compatibility/leo-pisces.html,160,0,1
+1677001453097,160,/work/compatibility/leo-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,319,153,22,22,http://dev.astrology.com/work/compatibility/leo-pisces.html,160,0,1
+1677001453257,608,/work/compatibility/leo-pisces.html-1,200,OK,Astrology - Full run 1-17,text,true,,67426,153,22,22,https://dev.astrology.com/work/compatibility/leo-pisces.html,546,0,213
+1677001453280,767,/work/compatibility/leo-aquarius.html,200,OK,Astrology - Full run 1-22,text,true,,67988,310,22,22,https://dev.astrology.com/work/compatibility/leo-aquarius.html,156,0,0
+1677001453280,156,/work/compatibility/leo-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-22,,true,,321,155,22,22,http://dev.astrology.com/work/compatibility/leo-aquarius.html,156,0,0
+1677001453436,611,/work/compatibility/leo-aquarius.html-1,200,OK,Astrology - Full run 1-22,text,true,,67667,155,22,22,https://dev.astrology.com/work/compatibility/leo-aquarius.html,556,0,211
+1677001453362,801,/work/compatibility/virgo-leo.html,200,OK,Astrology - Full run 1-15,text,true,,67805,304,22,22,https://dev.astrology.com/work/compatibility/virgo-leo.html,154,0,1
+1677001453362,154,/work/compatibility/virgo-leo.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,318,152,22,22,http://dev.astrology.com/work/compatibility/virgo-leo.html,154,0,1
+1677001453516,647,/work/compatibility/virgo-leo.html-1,200,OK,Astrology - Full run 1-15,text,true,,67487,152,22,22,https://dev.astrology.com/work/compatibility/virgo-leo.html,591,0,213
+1677001453528,647,/img/games/icon-compat-zodiac-9.png,200,OK,Astrology - Full run 1-20,bin,true,,24398,306,22,22,https://dev.astrology.com/img/games/icon-compat-zodiac-9.png,154,0,0
+1677001453528,154,/img/games/icon-compat-zodiac-9.png-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,319,153,22,22,http://dev.astrology.com/img/games/icon-compat-zodiac-9.png,154,0,0
+1677001453682,493,/img/games/icon-compat-zodiac-9.png-1,200,OK,Astrology - Full run 1-20,bin,true,,24079,153,22,22,https://dev.astrology.com/img/games/icon-compat-zodiac-9.png,492,0,209
+1677001453459,739,/work/compatibility/virgo-taurus.html,200,OK,Astrology - Full run 1-7,text,true,,67918,310,22,22,https://dev.astrology.com/work/compatibility/virgo-taurus.html,152,0,1
+1677001453459,152,/work/compatibility/virgo-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,321,155,22,22,http://dev.astrology.com/work/compatibility/virgo-taurus.html,152,0,1
+1677001453611,587,/work/compatibility/virgo-taurus.html-1,200,OK,Astrology - Full run 1-7,text,true,,67597,155,22,22,https://dev.astrology.com/work/compatibility/virgo-taurus.html,534,0,211
+1677001453389,818,/work/compatibility/taurus-aquarius.html,200,OK,Astrology - Full run 1-19,text,true,,68147,316,22,22,https://dev.astrology.com/work/compatibility/taurus-aquarius.html,154,0,1
+1677001453389,154,/work/compatibility/taurus-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,324,158,22,22,http://dev.astrology.com/work/compatibility/taurus-aquarius.html,154,0,1
+1677001453543,664,/work/compatibility/taurus-aquarius.html-1,200,OK,Astrology - Full run 1-19,text,true,,67823,158,22,22,https://dev.astrology.com/work/compatibility/taurus-aquarius.html,610,0,210
+1677001453613,774,/work/compatibility/aquarius-sagittarius.html,200,OK,Astrology - Full run 1-21,text,true,,68419,326,22,22,https://dev.astrology.com/work/compatibility/aquarius-sagittarius.html,154,0,0
+1677001453613,154,/work/compatibility/aquarius-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-21,,true,,329,163,22,22,http://dev.astrology.com/work/compatibility/aquarius-sagittarius.html,154,0,0
+1677001453767,620,/work/compatibility/aquarius-sagittarius.html-1,200,OK,Astrology - Full run 1-21,text,true,,68090,163,22,22,https://dev.astrology.com/work/compatibility/aquarius-sagittarius.html,524,0,202
+1677001453638,758,/img/games/icon-compat-zodiac-4.png,200,OK,Astrology - Full run 1-16,bin,true,,20618,306,22,22,https://dev.astrology.com/img/games/icon-compat-zodiac-4.png,175,0,0
+1677001453638,175,/img/games/icon-compat-zodiac-4.png-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,319,153,22,22,http://dev.astrology.com/img/games/icon-compat-zodiac-4.png,175,0,0
+1677001453813,583,/img/games/icon-compat-zodiac-4.png-1,200,OK,Astrology - Full run 1-16,bin,true,,20299,153,22,22,https://dev.astrology.com/img/games/icon-compat-zodiac-4.png,582,0,203
+1677001453699,755,/work/compatibility/cancer-pisces.html,200,OK,Astrology - Full run 1-18,text,true,,67983,312,22,22,https://dev.astrology.com/work/compatibility/cancer-pisces.html,156,0,0
+1677001453699,156,/work/compatibility/cancer-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,322,156,22,22,http://dev.astrology.com/work/compatibility/cancer-pisces.html,156,0,0
+1677001453855,599,/work/compatibility/cancer-pisces.html-1,200,OK,Astrology - Full run 1-18,text,true,,67661,156,22,22,https://dev.astrology.com/work/compatibility/cancer-pisces.html,543,0,210
+1677001453812,741,/work/compatibility/capricorn-caprcorn.html,200,OK,Astrology - Full run 1-3,text,true,,62059,322,22,22,https://dev.astrology.com/work/compatibility/capricorn-caprcorn.html,154,0,1
+1677001453812,154,/work/compatibility/capricorn-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,327,161,22,22,http://dev.astrology.com/work/compatibility/capricorn-caprcorn.html,154,0,1
+1677001453966,587,/work/compatibility/capricorn-caprcorn.html-1,200,OK,Astrology - Full run 1-3,text,true,,61732,161,22,22,https://dev.astrology.com/work/compatibility/capricorn-caprcorn.html,532,0,213
+1677001453865,818,/work/compatibility/aquarius-cancer.html,200,OK,Astrology - Full run 1-17,text,true,,68073,316,22,22,https://dev.astrology.com/work/compatibility/aquarius-cancer.html,148,0,1
+1677001453865,148,/work/compatibility/aquarius-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,324,158,22,22,http://dev.astrology.com/work/compatibility/aquarius-cancer.html,148,0,1
+1677001454013,670,/work/compatibility/aquarius-cancer.html-1,200,OK,Astrology - Full run 1-17,text,true,,67749,158,22,22,https://dev.astrology.com/work/compatibility/aquarius-cancer.html,569,0,206
+1677001454047,786,/work/compatibility/virgo-cancer.html,200,OK,Astrology - Full run 1-22,text,true,,67878,310,22,22,https://dev.astrology.com/work/compatibility/virgo-cancer.html,165,0,1
+1677001454047,165,/work/compatibility/virgo-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-22,,true,,321,155,22,22,http://dev.astrology.com/work/compatibility/virgo-cancer.html,165,0,1
+1677001454212,621,/work/compatibility/virgo-cancer.html-1,200,OK,Astrology - Full run 1-22,text,true,,67557,155,22,22,https://dev.astrology.com/work/compatibility/virgo-cancer.html,567,0,200
+1677001454396,641,/img/games/icon-compat-zodiac-11.png,200,OK,Astrology - Full run 1-16,bin,true,,15310,308,22,22,https://dev.astrology.com/img/games/icon-compat-zodiac-11.png,162,0,1
+1677001454396,162,/img/games/icon-compat-zodiac-11.png-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,320,154,22,22,http://dev.astrology.com/img/games/icon-compat-zodiac-11.png,162,0,1
+1677001454558,479,/img/games/icon-compat-zodiac-11.png-1,200,OK,Astrology - Full run 1-16,bin,true,,14990,154,22,22,https://dev.astrology.com/img/games/icon-compat-zodiac-11.png,479,0,205
+1677001454175,863,/work/compatibility/capricorn-sagittarius.html,200,OK,Astrology - Full run 1-20,text,true,,68519,328,22,22,https://dev.astrology.com/work/compatibility/capricorn-sagittarius.html,158,0,1
+1677001454175,158,/work/compatibility/capricorn-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,330,164,22,22,http://dev.astrology.com/work/compatibility/capricorn-sagittarius.html,158,0,1
+1677001454333,705,/work/compatibility/capricorn-sagittarius.html-1,200,OK,Astrology - Full run 1-20,text,true,,68189,164,22,22,https://dev.astrology.com/work/compatibility/capricorn-sagittarius.html,603,0,204
+1677001454163,889,/work/compatibility/pisces-taurus.html,200,OK,Astrology - Full run 1-15,text,true,,68036,312,22,22,https://dev.astrology.com/work/compatibility/pisces-taurus.html,161,0,1
+1677001454163,161,/work/compatibility/pisces-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,322,156,22,22,http://dev.astrology.com/work/compatibility/pisces-taurus.html,161,0,1
+1677001454324,728,/work/compatibility/pisces-taurus.html-1,200,OK,Astrology - Full run 1-15,text,true,,67714,156,22,22,https://dev.astrology.com/work/compatibility/pisces-taurus.html,616,0,207
+1677001454199,855,/work/compatibility/taurus-sagittarius.html,200,OK,Astrology - Full run 1-7,text,true,,68336,322,22,22,https://dev.astrology.com/work/compatibility/taurus-sagittarius.html,166,0,0
+1677001454199,166,/work/compatibility/taurus-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,327,161,22,22,http://dev.astrology.com/work/compatibility/taurus-sagittarius.html,166,0,0
+1677001454366,688,/work/compatibility/taurus-sagittarius.html-1,200,OK,Astrology - Full run 1-7,text,true,,68009,161,22,22,https://dev.astrology.com/work/compatibility/taurus-sagittarius.html,568,0,218
+1677001454208,914,/work/compatibility/scorpio-cancer.html,200,OK,Astrology - Full run 1-19,text,true,,68079,314,22,22,https://dev.astrology.com/work/compatibility/scorpio-cancer.html,154,0,0
+1677001454208,154,/work/compatibility/scorpio-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,323,157,22,22,http://dev.astrology.com/work/compatibility/scorpio-cancer.html,154,0,0
+1677001454362,760,/work/compatibility/scorpio-cancer.html-1,200,OK,Astrology - Full run 1-19,text,true,,67756,157,22,22,https://dev.astrology.com/work/compatibility/scorpio-cancer.html,648,0,213
+1677001454387,824,/work/compatibility/libra-pisces.html,200,OK,Astrology - Full run 1-21,text,true,,67867,310,22,22,https://dev.astrology.com/work/compatibility/libra-pisces.html,151,0,1
+1677001454387,151,/work/compatibility/libra-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-21,,true,,321,155,22,22,http://dev.astrology.com/work/compatibility/libra-pisces.html,151,0,1
+1677001454538,673,/work/compatibility/libra-pisces.html-1,200,OK,Astrology - Full run 1-21,text,true,,67546,155,22,22,https://dev.astrology.com/work/compatibility/libra-pisces.html,580,0,201
+1677001454455,826,/work/compatibility/sagittarius-pisces.html,200,OK,Astrology - Full run 1-18,text,true,,68360,322,23,23,https://dev.astrology.com/work/compatibility/sagittarius-pisces.html,155,0,0
+1677001454455,155,/work/compatibility/sagittarius-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,327,161,23,23,http://dev.astrology.com/work/compatibility/sagittarius-pisces.html,155,0,0
+1677001454610,671,/work/compatibility/sagittarius-pisces.html-1,200,OK,Astrology - Full run 1-18,text,true,,68033,161,23,23,https://dev.astrology.com/work/compatibility/sagittarius-pisces.html,612,0,204
+1677001454554,797,/work/compatibility/scorpio-pisces.html,200,OK,Astrology - Full run 1-3,text,true,,68107,314,23,23,https://dev.astrology.com/work/compatibility/scorpio-pisces.html,159,0,0
+1677001454554,159,/work/compatibility/scorpio-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,323,157,23,23,http://dev.astrology.com/work/compatibility/scorpio-pisces.html,159,0,0
+1677001454713,638,/work/compatibility/scorpio-pisces.html-1,200,OK,Astrology - Full run 1-3,text,true,,67784,157,23,23,https://dev.astrology.com/work/compatibility/scorpio-pisces.html,579,0,213
+1677001454684,781,/work/compatibility/capricorn-gemini.html,200,OK,Astrology - Full run 1-17,text,true,,68192,318,23,23,https://dev.astrology.com/work/compatibility/capricorn-gemini.html,158,0,0
+1677001454684,158,/work/compatibility/capricorn-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,325,159,23,23,http://dev.astrology.com/work/compatibility/capricorn-gemini.html,158,0,0
+1677001454842,623,/work/compatibility/capricorn-gemini.html-1,200,OK,Astrology - Full run 1-17,text,true,,67867,159,23,23,https://dev.astrology.com/work/compatibility/capricorn-gemini.html,575,0,224
+1677001454833,771,/work/compatibility/libra-caprcorn.html,200,OK,Astrology - Full run 1-22,text,true,,62057,314,23,23,https://dev.astrology.com/work/compatibility/libra-caprcorn.html,179,0,1
+1677001454833,179,/work/compatibility/libra-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-22,,true,,323,157,23,23,http://dev.astrology.com/work/compatibility/libra-caprcorn.html,179,0,1
+1677001455012,592,/work/compatibility/libra-caprcorn.html-1,200,OK,Astrology - Full run 1-22,text,true,,61734,157,23,23,https://dev.astrology.com/work/compatibility/libra-caprcorn.html,537,0,207
+1677001455053,755,/work/compatibility/aquarius-leo.html,200,OK,Astrology - Full run 1-15,text,true,,67914,310,23,23,https://dev.astrology.com/work/compatibility/aquarius-leo.html,155,0,0
+1677001455053,155,/work/compatibility/aquarius-leo.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,321,155,23,23,http://dev.astrology.com/work/compatibility/aquarius-leo.html,155,0,0
+1677001455208,600,/work/compatibility/aquarius-leo.html-1,200,OK,Astrology - Full run 1-15,text,true,,67593,155,23,23,https://dev.astrology.com/work/compatibility/aquarius-leo.html,547,0,209
+1677001455039,827,/work/compatibility/pisces-leo.html,200,OK,Astrology - Full run 1-20,text,true,,67782,306,23,23,https://dev.astrology.com/work/compatibility/pisces-leo.html,159,0,0
+1677001455039,159,/work/compatibility/pisces-leo.html-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,319,153,23,23,http://dev.astrology.com/work/compatibility/pisces-leo.html,159,0,0
+1677001455198,668,/work/compatibility/pisces-leo.html-1,200,OK,Astrology - Full run 1-20,text,true,,67463,153,23,23,https://dev.astrology.com/work/compatibility/pisces-leo.html,611,0,219
+1677001455038,848,/work/compatibility/capricorn-cancer.html,200,OK,Astrology - Full run 1-16,text,true,,68220,318,23,23,https://dev.astrology.com/work/compatibility/capricorn-cancer.html,157,0,0
+1677001455038,157,/work/compatibility/capricorn-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,325,159,23,23,http://dev.astrology.com/work/compatibility/capricorn-cancer.html,157,0,0
+1677001455195,691,/work/compatibility/capricorn-cancer.html-1,200,OK,Astrology - Full run 1-16,text,true,,67895,159,23,23,https://dev.astrology.com/work/compatibility/capricorn-cancer.html,583,0,222
+1677001455055,871,/work/compatibility/leo-virgo.html,200,OK,Astrology - Full run 1-7,text,true,,67791,304,23,23,https://dev.astrology.com/work/compatibility/leo-virgo.html,162,0,0
+1677001455055,162,/work/compatibility/leo-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,318,152,23,23,http://dev.astrology.com/work/compatibility/leo-virgo.html,162,0,0
+1677001455217,709,/work/compatibility/leo-virgo.html-1,200,OK,Astrology - Full run 1-7,text,true,,67473,152,23,23,https://dev.astrology.com/work/compatibility/leo-virgo.html,652,0,220
+1677001455122,819,/work/compatibility/libra-scorpio.html,200,OK,Astrology - Full run 1-19,text,true,,68019,312,23,23,https://dev.astrology.com/work/compatibility/libra-scorpio.html,150,0,1
+1677001455122,150,/work/compatibility/libra-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,322,156,23,23,http://dev.astrology.com/work/compatibility/libra-scorpio.html,150,0,1
+1677001455272,669,/work/compatibility/libra-scorpio.html-1,200,OK,Astrology - Full run 1-19,text,true,,67697,156,23,23,https://dev.astrology.com/work/compatibility/libra-scorpio.html,612,0,214
+1677001455281,791,/work/compatibility/taurus-caprcorn.html,200,OK,Astrology - Full run 1-18,text,true,,62057,316,23,23,https://dev.astrology.com/work/compatibility/taurus-caprcorn.html,155,0,1
+1677001455281,155,/work/compatibility/taurus-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,324,158,23,23,http://dev.astrology.com/work/compatibility/taurus-caprcorn.html,155,0,1
+1677001455437,635,/work/compatibility/taurus-caprcorn.html-1,200,OK,Astrology - Full run 1-18,text,true,,61733,158,23,23,https://dev.astrology.com/work/compatibility/taurus-caprcorn.html,580,0,250
+1677001455212,885,/work/compatibility/cancer-aquarius.html,200,OK,Astrology - Full run 1-21,text,true,,68068,316,23,23,https://dev.astrology.com/work/compatibility/cancer-aquarius.html,159,0,0
+1677001455212,159,/work/compatibility/cancer-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-21,,true,,324,158,23,23,http://dev.astrology.com/work/compatibility/cancer-aquarius.html,159,0,0
+1677001455371,726,/work/compatibility/cancer-aquarius.html-1,200,OK,Astrology - Full run 1-21,text,true,,67744,158,23,23,https://dev.astrology.com/work/compatibility/cancer-aquarius.html,626,0,218
+1677001455279,840,/work/compatibility/leo-libra.html,200,OK,Astrology - Full run 1-23,text,true,,67705,304,23,23,https://dev.astrology.com/work/compatibility/leo-libra.html,170,0,1
+1677001455279,170,/work/compatibility/leo-libra.html-0,301,Moved Permanently,Astrology - Full run 1-23,,true,,318,152,23,23,http://dev.astrology.com/work/compatibility/leo-libra.html,170,0,1
+1677001455449,670,/work/compatibility/leo-libra.html-1,200,OK,Astrology - Full run 1-23,text,true,,67387,152,23,23,https://dev.astrology.com/work/compatibility/leo-libra.html,605,0,241
+1677001455352,878,/work/compatibility/aquarius-taurus.html,200,OK,Astrology - Full run 1-3,text,true,,68080,316,23,23,https://dev.astrology.com/work/compatibility/aquarius-taurus.html,171,0,1
+1677001455352,171,/work/compatibility/aquarius-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,324,158,23,23,http://dev.astrology.com/work/compatibility/aquarius-taurus.html,171,0,1
+1677001455523,707,/work/compatibility/aquarius-taurus.html-1,200,OK,Astrology - Full run 1-3,text,true,,67756,158,23,23,https://dev.astrology.com/work/compatibility/aquarius-taurus.html,602,0,207
+1677001455466,853,/work/compatibility/virgo-libra.html,200,OK,Astrology - Full run 1-17,text,true,,67887,308,23,23,https://dev.astrology.com/work/compatibility/virgo-libra.html,164,0,1
+1677001455466,164,/work/compatibility/virgo-libra.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,320,154,23,23,http://dev.astrology.com/work/compatibility/virgo-libra.html,164,0,1
+1677001455630,689,/work/compatibility/virgo-libra.html-1,200,OK,Astrology - Full run 1-17,text,true,,67567,154,23,23,https://dev.astrology.com/work/compatibility/virgo-libra.html,597,0,206
+1677001455604,744,/work/compatibility/scorpio-virgo.html,200,OK,Astrology - Full run 1-22,text,true,,68006,312,23,23,https://dev.astrology.com/work/compatibility/scorpio-virgo.html,152,0,1
+1677001455604,152,/work/compatibility/scorpio-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-22,,true,,322,156,23,23,http://dev.astrology.com/work/compatibility/scorpio-virgo.html,152,0,1
+1677001455756,592,/work/compatibility/scorpio-virgo.html-1,200,OK,Astrology - Full run 1-22,text,true,,67684,156,23,23,https://dev.astrology.com/work/compatibility/scorpio-virgo.html,540,0,204
+1677001455809,795,/work/compatibility/sagittarius-leo.html,200,OK,Astrology - Full run 1-15,text,true,,68113,316,23,23,https://dev.astrology.com/work/compatibility/sagittarius-leo.html,165,0,1
+1677001455809,165,/work/compatibility/sagittarius-leo.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,324,158,23,23,http://dev.astrology.com/work/compatibility/sagittarius-leo.html,165,0,1
+1677001455974,630,/work/compatibility/sagittarius-leo.html-1,200,OK,Astrology - Full run 1-15,text,true,,67789,158,23,23,https://dev.astrology.com/work/compatibility/sagittarius-leo.html,573,0,206
+1677001455867,799,/work/compatibility/capricorn-scorpio.html,200,OK,Astrology - Full run 1-20,text,true,,68345,320,23,23,https://dev.astrology.com/work/compatibility/capricorn-scorpio.html,154,0,0
+1677001455867,154,/work/compatibility/capricorn-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,326,160,23,23,http://dev.astrology.com/work/compatibility/capricorn-scorpio.html,154,0,0
+1677001456021,645,/work/compatibility/capricorn-scorpio.html-1,200,OK,Astrology - Full run 1-20,text,true,,68019,160,23,23,https://dev.astrology.com/work/compatibility/capricorn-scorpio.html,584,0,219
+1677001455942,794,/work/compatibility/aquarius-virgo.html,200,OK,Astrology - Full run 1-19,text,true,,68124,314,23,23,https://dev.astrology.com/work/compatibility/aquarius-virgo.html,150,0,0
+1677001455942,150,/work/compatibility/aquarius-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,323,157,23,23,http://dev.astrology.com/work/compatibility/aquarius-virgo.html,150,0,0
+1677001456092,644,/work/compatibility/aquarius-virgo.html-1,200,OK,Astrology - Full run 1-19,text,true,,67801,157,23,23,https://dev.astrology.com/work/compatibility/aquarius-virgo.html,545,0,202
+1677001455926,811,/work/compatibility/taurus-pisces.html,200,OK,Astrology - Full run 1-7,text,true,,67974,312,23,23,https://dev.astrology.com/work/compatibility/taurus-pisces.html,150,0,1
+1677001455926,150,/work/compatibility/taurus-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,322,156,23,23,http://dev.astrology.com/work/compatibility/taurus-pisces.html,150,0,1
+1677001456076,661,/work/compatibility/taurus-pisces.html-1,200,OK,Astrology - Full run 1-7,text,true,,67652,156,23,23,https://dev.astrology.com/work/compatibility/taurus-pisces.html,571,0,208
+1677001455888,919,/work/compatibility/leo-cancer.html,200,OK,Astrology - Full run 1-16,text,true,,67787,306,23,23,https://dev.astrology.com/work/compatibility/leo-cancer.html,172,0,0
+1677001455888,172,/work/compatibility/leo-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,319,153,23,23,http://dev.astrology.com/work/compatibility/leo-cancer.html,172,0,0
+1677001456060,747,/work/compatibility/leo-cancer.html-1,200,OK,Astrology - Full run 1-16,text,true,,67468,153,23,23,https://dev.astrology.com/work/compatibility/leo-cancer.html,640,0,221
+1677001456073,794,/work/compatibility/aquarius-pisces.html,200,OK,Astrology - Full run 1-18,text,true,,68144,316,23,23,https://dev.astrology.com/work/compatibility/aquarius-pisces.html,151,0,0
+1677001456073,151,/work/compatibility/aquarius-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,324,158,23,23,http://dev.astrology.com/work/compatibility/aquarius-pisces.html,151,0,0
+1677001456224,643,/work/compatibility/aquarius-pisces.html-1,200,OK,Astrology - Full run 1-18,text,true,,67820,158,23,23,https://dev.astrology.com/work/compatibility/aquarius-pisces.html,542,0,259
+1677001456119,851,/work/compatibility/cancer-sagittarius.html,200,OK,Astrology - Full run 1-23,text,true,,68308,322,23,23,https://dev.astrology.com/work/compatibility/cancer-sagittarius.html,174,0,1
+1677001456119,174,/work/compatibility/cancer-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-23,,true,,327,161,23,23,http://dev.astrology.com/work/compatibility/cancer-sagittarius.html,174,0,1
+1677001456293,677,/work/compatibility/cancer-sagittarius.html-1,200,OK,Astrology - Full run 1-23,text,true,,67981,161,23,23,https://dev.astrology.com/work/compatibility/cancer-sagittarius.html,577,0,252
+1677001456098,889,/work/compatibility/virgo-pisces.html,200,OK,Astrology - Full run 1-21,text,true,,67895,310,23,23,https://dev.astrology.com/work/compatibility/virgo-pisces.html,159,0,1
+1677001456098,159,/work/compatibility/virgo-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-21,,true,,321,155,23,23,http://dev.astrology.com/work/compatibility/virgo-pisces.html,159,0,1
+1677001456257,730,/work/compatibility/virgo-pisces.html-1,200,OK,Astrology - Full run 1-21,text,true,,67574,155,23,23,https://dev.astrology.com/work/compatibility/virgo-pisces.html,629,0,228
+1677001456230,871,/work/compatibility/cancer-leo.html,200,OK,Astrology - Full run 1-3,text,true,,67796,306,23,23,https://dev.astrology.com/work/compatibility/cancer-leo.html,153,0,1
+1677001456230,153,/work/compatibility/cancer-leo.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,319,153,23,23,http://dev.astrology.com/work/compatibility/cancer-leo.html,153,0,1
+1677001456383,718,/work/compatibility/cancer-leo.html-1,200,OK,Astrology - Full run 1-3,text,true,,67477,153,23,23,https://dev.astrology.com/work/compatibility/cancer-leo.html,619,0,275
+1677001456320,987,/work/compatibility/sagittarius-libra.html,200,OK,Astrology - Full run 1-17,text,true,,68240,320,24,24,https://dev.astrology.com/work/compatibility/sagittarius-libra.html,224,0,1
+1677001456320,224,/work/compatibility/sagittarius-libra.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,326,160,24,24,http://dev.astrology.com/work/compatibility/sagittarius-libra.html,224,0,1
+1677001456544,763,/work/compatibility/sagittarius-libra.html-1,200,OK,Astrology - Full run 1-17,text,true,,67914,160,24,24,https://dev.astrology.com/work/compatibility/sagittarius-libra.html,550,0,214
+1677001456349,1038,/work/compatibility/aquarius-caprcorn.html,200,OK,Astrology - Full run 1-22,text,true,,62060,320,24,24,https://dev.astrology.com/work/compatibility/aquarius-caprcorn.html,195,0,1
+1677001456349,195,/work/compatibility/aquarius-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-22,,true,,326,160,24,24,http://dev.astrology.com/work/compatibility/aquarius-caprcorn.html,195,0,1
+1677001456544,843,/work/compatibility/aquarius-caprcorn.html-1,200,OK,Astrology - Full run 1-22,text,true,,61734,160,24,24,https://dev.astrology.com/work/compatibility/aquarius-caprcorn.html,841,0,233
+1677001456604,783,/work/compatibility/libra-sagittarius.html,200,OK,Astrology - Full run 1-15,text,true,,68319,320,24,24,https://dev.astrology.com/work/compatibility/libra-sagittarius.html,154,0,1
+1677001456604,154,/work/compatibility/libra-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,326,160,24,24,http://dev.astrology.com/work/compatibility/libra-sagittarius.html,154,0,1
+1677001456758,629,/work/compatibility/libra-sagittarius.html-1,200,OK,Astrology - Full run 1-15,text,true,,67993,160,24,24,https://dev.astrology.com/work/compatibility/libra-sagittarius.html,627,0,224
+1677001456738,799,/work/compatibility/capricorn-libra.html,200,OK,Astrology - Full run 1-7,text,true,,68217,316,24,24,https://dev.astrology.com/work/compatibility/capricorn-libra.html,151,0,1
+1677001456738,151,/work/compatibility/capricorn-libra.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,324,158,24,24,http://dev.astrology.com/work/compatibility/capricorn-libra.html,151,0,1
+1677001456889,648,/work/compatibility/capricorn-libra.html-1,200,OK,Astrology - Full run 1-7,text,true,,67893,158,24,24,https://dev.astrology.com/work/compatibility/capricorn-libra.html,541,0,209
+1677001456808,748,/work/compatibility/scorpio-sagittarius.html,200,OK,Astrology - Full run 1-16,text,true,,68393,324,24,24,https://dev.astrology.com/work/compatibility/scorpio-sagittarius.html,156,0,0
+1677001456808,156,/work/compatibility/scorpio-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,328,162,24,24,http://dev.astrology.com/work/compatibility/scorpio-sagittarius.html,156,0,0
+1677001456964,592,/work/compatibility/scorpio-sagittarius.html-1,200,OK,Astrology - Full run 1-16,text,true,,68065,162,24,24,https://dev.astrology.com/work/compatibility/scorpio-sagittarius.html,538,0,204
+1677001456667,905,/work/compatibility/scorpio-leo.html,200,OK,Astrology - Full run 1-20,text,true,,67854,308,24,24,https://dev.astrology.com/work/compatibility/scorpio-leo.html,159,0,0
+1677001456667,159,/work/compatibility/scorpio-leo.html-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,320,154,24,24,http://dev.astrology.com/work/compatibility/scorpio-leo.html,159,0,0
+1677001456826,746,/work/compatibility/scorpio-leo.html-1,200,OK,Astrology - Full run 1-20,text,true,,67534,154,24,24,https://dev.astrology.com/work/compatibility/scorpio-leo.html,638,0,215
+1677001456737,859,/work/compatibility/leo-taurus.html,200,OK,Astrology - Full run 1-19,text,true,,67827,306,24,24,https://dev.astrology.com/work/compatibility/leo-taurus.html,157,0,0
+1677001456737,157,/work/compatibility/leo-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,319,153,24,24,http://dev.astrology.com/work/compatibility/leo-taurus.html,157,0,0
+1677001456894,702,/work/compatibility/leo-taurus.html-1,200,OK,Astrology - Full run 1-19,text,true,,67508,153,24,24,https://dev.astrology.com/work/compatibility/leo-taurus.html,593,0,220
+1677001456868,862,/work/compatibility/virgo-aquarius.html,200,OK,Astrology - Full run 1-18,text,true,,68057,314,24,24,https://dev.astrology.com/work/compatibility/virgo-aquarius.html,161,0,0
+1677001456868,161,/work/compatibility/virgo-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,323,157,24,24,http://dev.astrology.com/work/compatibility/virgo-aquarius.html,161,0,0
+1677001457029,701,/work/compatibility/virgo-aquarius.html-1,200,OK,Astrology - Full run 1-18,text,true,,67734,157,24,24,https://dev.astrology.com/work/compatibility/virgo-aquarius.html,648,0,278
+1677001456988,927,/work/compatibility/pisces-pisces.html,200,OK,Astrology - Full run 1-21,text,true,,68039,312,24,24,https://dev.astrology.com/work/compatibility/pisces-pisces.html,151,0,0
+1677001456988,151,/work/compatibility/pisces-pisces.html-0,301,Moved Permanently,Astrology - Full run 1-21,,true,,322,156,24,24,http://dev.astrology.com/work/compatibility/pisces-pisces.html,151,0,0
+1677001457139,776,/work/compatibility/pisces-pisces.html-1,200,OK,Astrology - Full run 1-21,text,true,,67717,156,24,24,https://dev.astrology.com/work/compatibility/pisces-pisces.html,718,0,360
+1677001457388,747,/img/games/icon-compat-zodiac-8.png,200,OK,Astrology - Full run 1-22,bin,true,,18171,306,24,24,https://dev.astrology.com/img/games/icon-compat-zodiac-8.png,186,0,4
+1677001457388,186,/img/games/icon-compat-zodiac-8.png-0,301,Moved Permanently,Astrology - Full run 1-22,,true,,319,153,24,24,http://dev.astrology.com/img/games/icon-compat-zodiac-8.png,186,0,4
+1677001457574,561,/img/games/icon-compat-zodiac-8.png-1,200,OK,Astrology - Full run 1-22,bin,true,,17852,153,24,24,https://dev.astrology.com/img/games/icon-compat-zodiac-8.png,561,0,216
+1677001457101,1036,/work/compatibility/sagittarius-taurus.html,200,OK,Astrology - Full run 1-3,text,true,,68331,322,24,24,https://dev.astrology.com/work/compatibility/sagittarius-taurus.html,261,0,1
+1677001457101,261,/work/compatibility/sagittarius-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,327,161,24,24,http://dev.astrology.com/work/compatibility/sagittarius-taurus.html,261,0,1
+1677001457363,774,/work/compatibility/sagittarius-taurus.html-1,200,OK,Astrology - Full run 1-3,text,true,,68004,161,24,24,https://dev.astrology.com/work/compatibility/sagittarius-taurus.html,605,0,245
+1677001456971,1192,/work/compatibility/pisces-aries.html,200,OK,Astrology - Full run 1-23,text,true,,67955,310,24,24,https://dev.astrology.com/work/compatibility/pisces-aries.html,158,0,0
+1677001456971,158,/work/compatibility/pisces-aries.html-0,301,Moved Permanently,Astrology - Full run 1-23,,true,,321,155,24,24,http://dev.astrology.com/work/compatibility/pisces-aries.html,158,0,0
+1677001457129,1034,/work/compatibility/pisces-aries.html-1,200,OK,Astrology - Full run 1-23,text,true,,67634,155,24,24,https://dev.astrology.com/work/compatibility/pisces-aries.html,1005,0,317
+1677001457279,895,/work/compatibility/aquarius-libra.html,200,OK,Astrology - Full run 1-24,text,true,,68101,314,24,24,https://dev.astrology.com/work/compatibility/aquarius-libra.html,243,0,26
+1677001457279,243,/work/compatibility/aquarius-libra.html-0,301,Moved Permanently,Astrology - Full run 1-24,,true,,323,157,24,24,http://dev.astrology.com/work/compatibility/aquarius-libra.html,243,0,26
+1677001457522,652,/work/compatibility/aquarius-libra.html-1,200,OK,Astrology - Full run 1-24,text,true,,67778,157,24,24,https://dev.astrology.com/work/compatibility/aquarius-libra.html,613,0,230
+1677001457308,866,/work/compatibility/leo-gemini.html,200,OK,Astrology - Full run 1-17,text,true,,67864,306,24,24,https://dev.astrology.com/work/compatibility/leo-gemini.html,214,0,55
+1677001457308,214,/work/compatibility/leo-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,319,153,24,24,http://dev.astrology.com/work/compatibility/leo-gemini.html,214,0,55
+1677001457522,652,/work/compatibility/leo-gemini.html-1,200,OK,Astrology - Full run 1-17,text,true,,67545,153,24,24,https://dev.astrology.com/work/compatibility/leo-gemini.html,613,0,207
+1677001457388,913,/img/games/icon-compat-zodiac-5.png,200,OK,Astrology - Full run 1-15,bin,true,,24274,306,24,24,https://dev.astrology.com/img/games/icon-compat-zodiac-5.png,168,0,4
+1677001457388,168,/img/games/icon-compat-zodiac-5.png-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,319,153,24,24,http://dev.astrology.com/img/games/icon-compat-zodiac-5.png,168,0,4
+1677001457556,745,/img/games/icon-compat-zodiac-5.png-1,200,OK,Astrology - Full run 1-15,bin,true,,23955,153,24,24,https://dev.astrology.com/img/games/icon-compat-zodiac-5.png,690,0,204
+1677001457572,786,/work/compatibility/scorpio-libra.html,200,OK,Astrology - Full run 1-20,text,true,,68010,312,24,24,https://dev.astrology.com/work/compatibility/scorpio-libra.html,158,0,1
+1677001457572,158,/work/compatibility/scorpio-libra.html-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,322,156,24,24,http://dev.astrology.com/work/compatibility/scorpio-libra.html,158,0,1
+1677001457730,628,/work/compatibility/scorpio-libra.html-1,200,OK,Astrology - Full run 1-20,text,true,,67688,156,24,24,https://dev.astrology.com/work/compatibility/scorpio-libra.html,568,0,202
+1677001457538,821,/work/compatibility/sagittarius-aquarius.html,200,OK,Astrology - Full run 1-7,text,true,,68401,326,24,24,https://dev.astrology.com/work/compatibility/sagittarius-aquarius.html,160,0,0
+1677001457538,160,/work/compatibility/sagittarius-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,329,163,24,24,http://dev.astrology.com/work/compatibility/sagittarius-aquarius.html,160,0,0
+1677001457698,661,/work/compatibility/sagittarius-aquarius.html-1,200,OK,Astrology - Full run 1-7,text,true,,68072,163,24,24,https://dev.astrology.com/work/compatibility/sagittarius-aquarius.html,550,0,217
+1677001457556,810,/work/compatibility/libra-leo.html,200,OK,Astrology - Full run 1-16,text,true,,67715,304,24,24,https://dev.astrology.com/work/compatibility/libra-leo.html,153,0,1
+1677001457556,153,/work/compatibility/libra-leo.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,318,152,24,24,http://dev.astrology.com/work/compatibility/libra-leo.html,153,0,1
+1677001457709,657,/work/compatibility/libra-leo.html-1,200,OK,Astrology - Full run 1-16,text,true,,67397,152,24,24,https://dev.astrology.com/work/compatibility/libra-leo.html,556,0,209
+1677001457597,793,/work/compatibility/pisces-sagittarius.html,200,OK,Astrology - Full run 1-19,text,true,,68365,322,24,24,https://dev.astrology.com/work/compatibility/pisces-sagittarius.html,159,0,0
+1677001457597,159,/work/compatibility/pisces-sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,327,161,24,24,http://dev.astrology.com/work/compatibility/pisces-sagittarius.html,159,0,0
+1677001457756,634,/work/compatibility/pisces-sagittarius.html-1,200,OK,Astrology - Full run 1-19,text,true,,68038,161,24,24,https://dev.astrology.com/work/compatibility/pisces-sagittarius.html,532,0,210
+1677001457731,931,/work/compatibility/leo-leo.html,200,OK,Astrology - Full run 1-18,text,true,,67577,300,24,24,https://dev.astrology.com/work/compatibility/leo-leo.html,152,0,1
+1677001457731,152,/work/compatibility/leo-leo.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,316,150,24,24,http://dev.astrology.com/work/compatibility/leo-leo.html,152,0,1
+1677001457884,778,/work/compatibility/leo-leo.html-1,200,OK,Astrology - Full run 1-18,text,true,,67261,150,24,24,https://dev.astrology.com/work/compatibility/leo-leo.html,671,0,291
+1677001457915,848,/work/compatibility/libra-cancer.html,200,OK,Astrology - Full run 1-21,text,true,,67934,310,24,24,https://dev.astrology.com/work/compatibility/libra-cancer.html,190,0,1
+1677001457915,190,/work/compatibility/libra-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-21,,true,,321,155,24,24,http://dev.astrology.com/work/compatibility/libra-cancer.html,190,0,1
+1677001458105,658,/work/compatibility/libra-cancer.html-1,200,OK,Astrology - Full run 1-21,text,true,,67613,155,24,24,https://dev.astrology.com/work/compatibility/libra-cancer.html,601,0,245
+1677001458137,771,/work/compatibility/taurus-aries.html,200,OK,Astrology - Full run 1-3,text,true,,67907,310,24,24,https://dev.astrology.com/work/compatibility/taurus-aries.html,162,0,1
+1677001458137,162,/work/compatibility/taurus-aries.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,321,155,24,24,http://dev.astrology.com/work/compatibility/taurus-aries.html,162,0,1
+1677001458299,609,/work/compatibility/taurus-aries.html-1,200,OK,Astrology - Full run 1-3,text,true,,67586,155,24,24,https://dev.astrology.com/work/compatibility/taurus-aries.html,554,0,221
+1677001458175,805,/work/compatibility/cancer-gemini.html,200,OK,Astrology - Full run 1-17,text,true,,68013,312,24,24,https://dev.astrology.com/work/compatibility/cancer-gemini.html,151,0,1
+1677001458175,151,/work/compatibility/cancer-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,322,156,24,24,http://dev.astrology.com/work/compatibility/cancer-gemini.html,151,0,1
+1677001458327,653,/work/compatibility/cancer-gemini.html-1,200,OK,Astrology - Full run 1-17,text,true,,67691,156,24,24,https://dev.astrology.com/work/compatibility/cancer-gemini.html,547,0,207
+1677001458174,848,/work/compatibility/cancer-virgo.html,200,OK,Astrology - Full run 1-24,text,true,,67955,310,24,24,https://dev.astrology.com/work/compatibility/cancer-virgo.html,153,0,2
+1677001458174,153,/work/compatibility/cancer-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-24,,true,,321,155,24,24,http://dev.astrology.com/work/compatibility/cancer-virgo.html,153,0,2
+1677001458327,695,/work/compatibility/cancer-virgo.html-1,200,OK,Astrology - Full run 1-24,text,true,,67634,155,24,24,https://dev.astrology.com/work/compatibility/cancer-virgo.html,589,0,245
+1677001458136,922,/work/compatibility/capricorn-virgo.html,200,OK,Astrology - Full run 1-22,text,true,,68081,316,24,24,https://dev.astrology.com/work/compatibility/capricorn-virgo.html,159,0,1
+1677001458136,159,/work/compatibility/capricorn-virgo.html-0,301,Moved Permanently,Astrology - Full run 1-22,,true,,324,158,24,24,http://dev.astrology.com/work/compatibility/capricorn-virgo.html,159,0,1
+1677001458295,763,/work/compatibility/capricorn-virgo.html-1,200,OK,Astrology - Full run 1-22,text,true,,67757,158,24,24,https://dev.astrology.com/work/compatibility/capricorn-virgo.html,666,0,223
+1677001458164,894,/work/compatibility/cancer-aries.html,200,OK,Astrology - Full run 1-23,text,true,,67876,310,24,24,https://dev.astrology.com/work/compatibility/cancer-aries.html,187,0,1
+1677001458164,187,/work/compatibility/cancer-aries.html-0,301,Moved Permanently,Astrology - Full run 1-23,,true,,321,155,24,24,http://dev.astrology.com/work/compatibility/cancer-aries.html,187,0,1
+1677001458351,707,/work/compatibility/cancer-aries.html-1,200,OK,Astrology - Full run 1-23,text,true,,67555,155,24,24,https://dev.astrology.com/work/compatibility/cancer-aries.html,608,0,214
+1677001458301,798,/work/compatibility/scorpio-aquarius.html,200,OK,Astrology - Full run 1-15,text,true,,68146,318,24,24,https://dev.astrology.com/work/compatibility/scorpio-aquarius.html,163,0,1
+1677001458301,163,/work/compatibility/scorpio-aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,325,159,24,24,http://dev.astrology.com/work/compatibility/scorpio-aquarius.html,163,0,1
+1677001458464,635,/work/compatibility/scorpio-aquarius.html-1,200,OK,Astrology - Full run 1-15,text,true,,67821,159,24,24,https://dev.astrology.com/work/compatibility/scorpio-aquarius.html,536,0,211
+1677001458358,787,/work/compatibility/aquarius-aries.html,200,OK,Astrology - Full run 1-20,text,true,,68127,314,24,24,https://dev.astrology.com/work/compatibility/aquarius-aries.html,154,0,1
+1677001458358,154,/work/compatibility/aquarius-aries.html-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,323,157,24,24,http://dev.astrology.com/work/compatibility/aquarius-aries.html,154,0,1
+1677001458512,633,/work/compatibility/aquarius-aries.html-1,200,OK,Astrology - Full run 1-20,text,true,,67804,157,24,24,https://dev.astrology.com/work/compatibility/aquarius-aries.html,573,0,210
+1677001458359,786,/work/compatibility/cancer-taurus.html,200,OK,Astrology - Full run 1-7,text,true,,67984,312,24,24,https://dev.astrology.com/work/compatibility/cancer-taurus.html,168,0,0
+1677001458359,168,/work/compatibility/cancer-taurus.html-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,322,156,24,24,http://dev.astrology.com/work/compatibility/cancer-taurus.html,168,0,0
+1677001458527,618,/work/compatibility/cancer-taurus.html-1,200,OK,Astrology - Full run 1-7,text,true,,67662,156,24,24,https://dev.astrology.com/work/compatibility/cancer-taurus.html,518,0,199
+1677001458367,815,/work/compatibility/cancer-cancer.html,200,OK,Astrology - Full run 1-16,text,true,,67930,312,24,24,https://dev.astrology.com/work/compatibility/cancer-cancer.html,156,0,0
+1677001458367,156,/work/compatibility/cancer-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,322,156,24,24,http://dev.astrology.com/work/compatibility/cancer-cancer.html,156,0,0
+1677001458523,659,/work/compatibility/cancer-cancer.html-1,200,OK,Astrology - Full run 1-16,text,true,,67608,156,24,24,https://dev.astrology.com/work/compatibility/cancer-cancer.html,557,0,208
+1677001458391,807,/work/compatibility/sagittarius-cancer.html,200,OK,Astrology - Full run 1-19,text,true,,68250,322,24,24,https://dev.astrology.com/work/compatibility/sagittarius-cancer.html,164,0,0
+1677001458391,164,/work/compatibility/sagittarius-cancer.html-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,327,161,24,24,http://dev.astrology.com/work/compatibility/sagittarius-cancer.html,164,0,0
+1677001458555,643,/work/compatibility/sagittarius-cancer.html-1,200,OK,Astrology - Full run 1-19,text,true,,67923,161,24,24,https://dev.astrology.com/work/compatibility/sagittarius-cancer.html,543,0,209
+1677001458662,852,/work/compatibility/cancer-scorpio.html,200,OK,Astrology - Full run 1-18,text,true,,68025,314,25,25,https://dev.astrology.com/work/compatibility/cancer-scorpio.html,190,0,1
+1677001458662,190,/work/compatibility/cancer-scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,323,157,25,25,http://dev.astrology.com/work/compatibility/cancer-scorpio.html,190,0,1
+1677001458852,662,/work/compatibility/cancer-scorpio.html-1,200,OK,Astrology - Full run 1-18,text,true,,67702,157,25,25,https://dev.astrology.com/work/compatibility/cancer-scorpio.html,553,0,218
+1677001458764,821,/work/compatibility/libra-gemini.html,200,OK,Astrology - Full run 1-21,text,true,,67944,310,25,25,https://dev.astrology.com/work/compatibility/libra-gemini.html,178,0,0
+1677001458764,178,/work/compatibility/libra-gemini.html-0,301,Moved Permanently,Astrology - Full run 1-21,,true,,321,155,25,25,http://dev.astrology.com/work/compatibility/libra-gemini.html,178,0,0
+1677001458942,643,/work/compatibility/libra-gemini.html-1,200,OK,Astrology - Full run 1-21,text,true,,67623,155,25,25,https://dev.astrology.com/work/compatibility/libra-gemini.html,547,0,216
+1677001458909,764,/work/compatibility/scorpio-aries.html,200,OK,Astrology - Full run 1-3,text,true,,68013,312,25,25,https://dev.astrology.com/work/compatibility/scorpio-aries.html,167,0,0
+1677001458909,167,/work/compatibility/scorpio-aries.html-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,322,156,25,25,http://dev.astrology.com/work/compatibility/scorpio-aries.html,167,0,0
+1677001459076,597,/work/compatibility/scorpio-aries.html-1,200,OK,Astrology - Full run 1-3,text,true,,67691,156,25,25,https://dev.astrology.com/work/compatibility/scorpio-aries.html,542,0,215
+1677001459283,399,https://www.googletagmanager.com/ns.html?id=GTM-W5JL5NG,200,OK,Astrology - Full run 1-25,text,true,,1117,148,25,25,https://www.googletagmanager.com/ns.html?id=GTM-W5JL5NG,399,0,241
+1677001459100,600,/img/apple-touch-icon.png,200,OK,Astrology - Full run 1-15,bin,true,,2761,286,25,25,https://dev.astrology.com/img/apple-touch-icon.png,162,0,0
+1677001459100,162,/img/apple-touch-icon.png-0,301,Moved Permanently,Astrology - Full run 1-15,,true,,309,143,25,25,http://dev.astrology.com/img/apple-touch-icon.png,162,0,0
+1677001459262,438,/img/apple-touch-icon.png-1,200,OK,Astrology - Full run 1-15,bin,true,,2452,143,25,25,https://dev.astrology.com/img/apple-touch-icon.png,438,0,214
+1677001458981,771,/work/compatibility/scorpio-caprcorn.html,200,OK,Astrology - Full run 1-17,text,true,,62059,318,25,25,https://dev.astrology.com/work/compatibility/scorpio-caprcorn.html,164,0,0
+1677001458981,164,/work/compatibility/scorpio-caprcorn.html-0,301,Moved Permanently,Astrology - Full run 1-17,,true,,325,159,25,25,http://dev.astrology.com/work/compatibility/scorpio-caprcorn.html,164,0,0
+1677001459145,607,/work/compatibility/scorpio-caprcorn.html-1,200,OK,Astrology - Full run 1-17,text,true,,61734,159,25,25,https://dev.astrology.com/work/compatibility/scorpio-caprcorn.html,553,0,209
+1677001459146,607,/img/favicon-16x16.png,200,OK,Astrology - Full run 1-7,bin,true,,1284,280,25,25,https://dev.astrology.com/img/favicon-16x16.png,167,0,0
+1677001459146,167,/img/favicon-16x16.png-0,301,Moved Permanently,Astrology - Full run 1-7,,true,,306,140,25,25,http://dev.astrology.com/img/favicon-16x16.png,167,0,0
+1677001459313,440,/img/favicon-16x16.png-1,200,OK,Astrology - Full run 1-7,bin,true,,978,140,25,25,https://dev.astrology.com/img/favicon-16x16.png,439,0,214
+1677001459145,612,/img/favicon-32x32.png,200,OK,Astrology - Full run 1-20,bin,true,,1515,280,25,25,https://dev.astrology.com/img/favicon-32x32.png,162,0,1
+1677001459145,162,/img/favicon-32x32.png-0,301,Moved Permanently,Astrology - Full run 1-20,,true,,306,140,25,25,http://dev.astrology.com/img/favicon-32x32.png,162,0,1
+1677001459307,450,/img/favicon-32x32.png-1,200,OK,Astrology - Full run 1-20,bin,true,,1209,140,25,25,https://dev.astrology.com/img/favicon-32x32.png,450,0,220
+1677001459059,720,/img/favicon.ico,200,OK,Astrology - Full run 1-23,bin,true,,8223,268,25,25,https://dev.astrology.com/img/favicon.ico,180,0,1
+1677001459059,180,/img/favicon.ico-0,301,Moved Permanently,Astrology - Full run 1-23,,true,,300,134,25,25,http://dev.astrology.com/img/favicon.ico,180,0,1
+1677001459239,540,/img/favicon.ico-1,200,OK,Astrology - Full run 1-23,bin,true,,7923,134,25,25,https://dev.astrology.com/img/favicon.ico,540,0,207
+1677001459198,615,/img/safari-pinned-tab.svg,200,OK,Astrology - Full run 1-19,text,true,,1363,288,25,25,https://dev.astrology.com/img/safari-pinned-tab.svg,158,0,1
+1677001459198,158,/img/safari-pinned-tab.svg-0,301,Moved Permanently,Astrology - Full run 1-19,,true,,310,144,25,25,http://dev.astrology.com/img/safari-pinned-tab.svg,158,0,1
+1677001459356,457,/img/safari-pinned-tab.svg-1,200,OK,Astrology - Full run 1-19,text,true,,1053,144,25,25,https://dev.astrology.com/img/safari-pinned-tab.svg,457,0,216
+1677001459023,814,/work/compatibility/cancer-libra.html,200,OK,Astrology - Full run 1-24,text,true,,67879,310,25,25,https://dev.astrology.com/work/compatibility/cancer-libra.html,162,0,1
+1677001459023,162,/work/compatibility/cancer-libra.html-0,301,Moved Permanently,Astrology - Full run 1-24,,true,,321,155,25,25,http://dev.astrology.com/work/compatibility/cancer-libra.html,162,0,1
+1677001459185,652,/work/compatibility/cancer-libra.html-1,200,OK,Astrology - Full run 1-24,text,true,,67558,155,25,25,https://dev.astrology.com/work/compatibility/cancer-libra.html,550,0,212
+1677001459182,705,/img/site.webmanifest,200,OK,Astrology - Full run 1-16,text,true,,1233,278,25,25,https://dev.astrology.com/img/site.webmanifest,159,0,1
+1677001459182,159,/img/site.webmanifest-0,301,Moved Permanently,Astrology - Full run 1-16,,true,,305,139,25,25,http://dev.astrology.com/img/site.webmanifest,159,0,1
+1677001459341,546,/img/site.webmanifest-1,200,OK,Astrology - Full run 1-16,text,true,,928,139,25,25,https://dev.astrology.com/img/site.webmanifest,546,0,206
+1677001459059,847,/work/compatibility/leo-aries.html,200,OK,Astrology - Full run 1-22,text,true,,67758,304,25,25,https://dev.astrology.com/work/compatibility/leo-aries.html,166,0,1
+1677001459059,166,/work/compatibility/leo-aries.html-0,301,Moved Permanently,Astrology - Full run 1-22,,true,,318,152,25,25,http://dev.astrology.com/work/compatibility/leo-aries.html,166,0,1
+1677001459225,681,/work/compatibility/leo-aries.html-1,200,OK,Astrology - Full run 1-22,text,true,,67440,152,25,25,https://dev.astrology.com/work/compatibility/leo-aries.html,626,0,215
+1677001459683,545,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-25,text,true,,60116,194,25,25,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,491,0,233
+1677001459515,1265,https://www.keen.com/psychic-readings/195?tid=SCNMDKCP&HLT=0&Hero=generic,200,OK,Astrology - Full run 1-18,text,true,,125946,166,25,25,https://www.keen.com/psychic-readings/195?tid=SCNMDKCP&HLT=0&Hero=generic,1108,0,316
+1677001459585,2007,https://shop.astrology.com/plus/dash/?utm_source=direct&utm_medium=acquisition&utm_campaign=-sign-in-button,200,OK,Astrology - Full run 1-21,text,true,,29206,200,26,26,https://shop.astrology.com/plus/dash/?utm_source=direct&utm_medium=acquisition&utm_campaign=-sign-in-button,1956,0,288
+1677001459702,1933,https://shop.astrology.com/?utm_source=direct&utm_medium=acquisition&utm_campaign=index-page,200,OK,Astrology - Full run 1-15,text,true,,151700,185,26,26,https://shop.astrology.com/?utm_source=direct&utm_medium=acquisition&utm_campaign=index-page,1781,0,205
+1677001459888,2037,https://shop.astrology.com/product/yearly-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-16,text,true,,102213,212,26,26,https://shop.astrology.com/product/yearly-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1876,0,232
+1677001459838,2546,https://shop.astrology.com/product/yearly-love-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-24,text,false,"The operation lasted too long: It took 2,546 milliseconds, but should not have lasted longer than 2,500 milliseconds.",102638,217,26,26,https://shop.astrology.com/product/yearly-love-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,2394,0,216
+1677001459674,6886,https://shop.astrology.com/product/astrology-plus/?utm_source=direct&utm_medium=acquisition&utm_campaign=top-nav,200,OK,Astrology - Full run 1-3,text,false,"The operation lasted too long: It took 6,886 milliseconds, but should not have lasted longer than 2,500 milliseconds.",98458,205,28,28,https://shop.astrology.com/product/astrology-plus/?utm_source=direct&utm_medium=acquisition&utm_campaign=top-nav,6731,0,215
+1677001459753,7451,https://shop.astrology.com/product/astrology-plus/?utm_source=direct&utm_medium=acquisition&utm_campaign=store-sub-nav,200,OK,Astrology - Full run 1-17,text,false,"The operation lasted too long: It took 7,451 milliseconds, but should not have lasted longer than 2,500 milliseconds.",98457,211,28,28,https://shop.astrology.com/product/astrology-plus/?utm_source=direct&utm_medium=acquisition&utm_campaign=store-sub-nav,7295,0,211
+1677001460781,6731,https://shop.astrology.com/product/yes-no-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-18,text,false,"The operation lasted too long: It took 6,731 milliseconds, but should not have lasted longer than 2,500 milliseconds.",78431,212,29,29,https://shop.astrology.com/product/yes-no-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,6627,0,223
+1677001467280,1220,https://www.keen.com/psychic-readings/195?tid=UOV35EES&HLT=0&Hero=generic,200,OK,Astrology - Full run 1-29,text,true,,137084,166,29,29,https://www.keen.com/psychic-readings/195?tid=UOV35EES&HLT=0&Hero=generic,1048,0,210
+1677001467512,992,/psychic-readings/psychic-abilities,200,OK,Astrology - Full run 1-18,text,true,,67734,306,29,29,https://dev.astrology.com/psychic-readings/psychic-abilities,160,0,1
+1677001467512,160,/psychic-readings/psychic-abilities-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,319,153,29,29,http://dev.astrology.com/psychic-readings/psychic-abilities,160,0,1
+1677001467672,832,/psychic-readings/psychic-abilities-1,200,OK,Astrology - Full run 1-18,text,true,,67415,153,29,29,https://dev.astrology.com/psychic-readings/psychic-abilities,728,0,203
+1677001460228,8386,https://shop.astrology.com/product/yearly-chinese-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-25,text,false,"The operation lasted too long: It took 8,386 milliseconds, but should not have lasted longer than 2,500 milliseconds.",93519,216,29,29,https://shop.astrology.com/product/yearly-chinese-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,8219,0,227
+1677001461280,7432,https://shop.astrology.com/product/love-score?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-26,text,false,"The operation lasted too long: It took 7,432 milliseconds, but should not have lasted longer than 2,500 milliseconds.",99895,403,29,29,https://shop.astrology.com/product/love-score/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1014,0,209
+1677001461280,1014,https://shop.astrology.com/product/love-score?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-0,301,Moved Permanently,Astrology - Full run 1-26,text,true,,520,201,29,29,https://shop.astrology.com/product/love-score?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1014,0,209
+1677001462294,6418,https://shop.astrology.com/product/love-score?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-1,200,OK,Astrology - Full run 1-26,text,true,,99375,202,29,29,https://shop.astrology.com/product/love-score/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,6262,0,0
+1677001466560,2608,https://shop.astrology.com/product/12-month-personal-transits?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-3,text,false,"The operation lasted too long: It took 2,608 milliseconds, but should not have lasted longer than 2,500 milliseconds.",95988,435,29,29,https://shop.astrology.com/product/12-month-personal-transits/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1059,0,204
+1677001466560,1059,https://shop.astrology.com/product/12-month-personal-transits?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-0,301,Moved Permanently,Astrology - Full run 1-3,text,true,,536,217,29,29,https://shop.astrology.com/product/12-month-personal-transits?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1059,0,204
+1677001467619,1549,https://shop.astrology.com/product/12-month-personal-transits?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-1,200,OK,Astrology - Full run 1-3,text,true,,95452,218,29,29,https://shop.astrology.com/product/12-month-personal-transits/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1402,0,0
+1677001468501,726,/img/hubs/psychics/crystal-ball-with-hands.svg,200,OK,Astrology - Full run 1-29,text,true,,4344,328,29,29,https://dev.astrology.com/img/hubs/psychics/crystal-ball-with-hands.svg,172,0,0
+1677001468501,172,/img/hubs/psychics/crystal-ball-with-hands.svg-0,301,Moved Permanently,Astrology - Full run 1-29,,true,,330,164,29,29,http://dev.astrology.com/img/hubs/psychics/crystal-ball-with-hands.svg,172,0,0
+1677001468674,553,/img/hubs/psychics/crystal-ball-with-hands.svg-1,200,OK,Astrology - Full run 1-29,text,true,,4014,164,29,29,https://dev.astrology.com/img/hubs/psychics/crystal-ball-with-hands.svg,553,0,200
+1677001468616,612,/img/hubs/psychics/book.svg,200,OK,Astrology - Full run 1-25,text,true,,2545,290,29,29,https://dev.astrology.com/img/hubs/psychics/book.svg,153,0,0
+1677001468616,153,/img/hubs/psychics/book.svg-0,301,Moved Permanently,Astrology - Full run 1-25,,true,,311,145,29,29,http://dev.astrology.com/img/hubs/psychics/book.svg,153,0,0
+1677001468770,458,/img/hubs/psychics/book.svg-1,200,OK,Astrology - Full run 1-25,text,true,,2234,145,29,29,https://dev.astrology.com/img/hubs/psychics/book.svg,458,0,209
+1677001468504,781,/psychic-readings/psychic-meaning,200,OK,Astrology - Full run 1-18,text,true,,61843,302,30,30,https://dev.astrology.com/psychic-readings/psychic-meaning,165,0,1
+1677001468504,165,/psychic-readings/psychic-meaning-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,317,151,30,30,http://dev.astrology.com/psychic-readings/psychic-meaning,165,0,1
+1677001468669,616,/psychic-readings/psychic-meaning-1,200,OK,Astrology - Full run 1-18,text,true,,61526,151,30,30,https://dev.astrology.com/psychic-readings/psychic-meaning,556,0,215
+1677001461592,7862,https://shop.astrology.com/product/natal-moon-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-21,text,false,"The operation lasted too long: It took 7,862 milliseconds, but should not have lasted longer than 2,500 milliseconds.",83842,417,30,30,https://shop.astrology.com/product/natal-moon-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1035,0,205
+1677001461592,1035,https://shop.astrology.com/product/natal-moon-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-0,301,Moved Permanently,Astrology - Full run 1-21,text,true,,527,208,30,30,https://shop.astrology.com/product/natal-moon-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1035,0,205
+1677001462627,6827,https://shop.astrology.com/product/natal-moon-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-1,200,OK,Astrology - Full run 1-21,text,true,,83315,209,30,30,https://shop.astrology.com/product/natal-moon-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,6693,0,0
+1677001468713,1004,/psychic-readings/love-readings,200,OK,Astrology - Full run 1-26,text,true,,60988,298,30,30,https://dev.astrology.com/psychic-readings/love-readings,155,0,0
+1677001468713,155,/psychic-readings/love-readings-0,301,Moved Permanently,Astrology - Full run 1-26,,true,,315,149,30,30,http://dev.astrology.com/psychic-readings/love-readings,155,0,0
+1677001468869,848,/psychic-readings/love-readings-1,200,OK,Astrology - Full run 1-26,text,true,,60673,149,30,30,https://dev.astrology.com/psychic-readings/love-readings,746,0,210
+1677001469169,664,/img/hubs/psychics/love-cards.svg,200,OK,Astrology - Full run 1-3,text,true,,5672,302,30,30,https://dev.astrology.com/img/hubs/psychics/love-cards.svg,220,0,0
+1677001469169,220,/img/hubs/psychics/love-cards.svg-0,301,Moved Permanently,Astrology - Full run 1-3,,true,,317,151,30,30,http://dev.astrology.com/img/hubs/psychics/love-cards.svg,220,0,0
+1677001469390,443,/img/hubs/psychics/love-cards.svg-1,200,OK,Astrology - Full run 1-3,text,true,,5355,151,30,30,https://dev.astrology.com/img/hubs/psychics/love-cards.svg,443,0,223
+1677001469228,802,/img/hubs/psychics/palm.svg,200,OK,Astrology - Full run 1-25,text,true,,2969,290,30,30,https://dev.astrology.com/img/hubs/psychics/palm.svg,226,0,1
+1677001469228,226,/img/hubs/psychics/palm.svg-0,301,Moved Permanently,Astrology - Full run 1-25,,true,,311,145,30,30,http://dev.astrology.com/img/hubs/psychics/palm.svg,226,0,1
+1677001469454,576,/img/hubs/psychics/palm.svg-1,200,OK,Astrology - Full run 1-25,text,true,,2658,145,30,30,https://dev.astrology.com/img/hubs/psychics/palm.svg,576,0,213
+1677001469285,804,/img/hubs/psychics/medium.svg,200,OK,Astrology - Full run 1-18,text,true,,2344,294,30,30,https://dev.astrology.com/img/hubs/psychics/medium.svg,239,0,1
+1677001469285,239,/img/hubs/psychics/medium.svg-0,301,Moved Permanently,Astrology - Full run 1-18,,true,,313,147,30,30,http://dev.astrology.com/img/hubs/psychics/medium.svg,239,0,1
+1677001469524,565,/img/hubs/psychics/medium.svg-1,200,OK,Astrology - Full run 1-18,text,true,,2031,147,30,30,https://dev.astrology.com/img/hubs/psychics/medium.svg,565,0,206
+1677001469283,811,/psychic-readings/medium,200,OK,Astrology - Full run 1-30,text,true,,64465,284,30,30,https://dev.astrology.com/psychic-readings/medium,195,0,1
+1677001469283,195,/psychic-readings/medium-0,301,Moved Permanently,Astrology - Full run 1-30,,true,,308,142,30,30,http://dev.astrology.com/psychic-readings/medium,195,0,1
+1677001469478,616,/psychic-readings/medium-1,200,OK,Astrology - Full run 1-30,text,true,,64157,142,30,30,https://dev.astrology.com/psychic-readings/medium,559,0,209
+1677001469228,868,/psychic-readings/empath,200,OK,Astrology - Full run 1-29,text,true,,73497,284,30,30,https://dev.astrology.com/psychic-readings/empath,198,0,1
+1677001469228,198,/psychic-readings/empath-0,301,Moved Permanently,Astrology - Full run 1-29,,true,,308,142,30,30,http://dev.astrology.com/psychic-readings/empath,198,0,1
+1677001469426,670,/psychic-readings/empath-1,200,OK,Astrology - Full run 1-29,text,true,,73189,142,30,30,https://dev.astrology.com/psychic-readings/empath,560,0,214
+1677001469455,824,/psychic-readings/spiritual-readings,200,OK,Astrology - Full run 1-21,text,true,,64725,308,30,30,https://dev.astrology.com/psychic-readings/spiritual-readings,157,0,0
+1677001469455,157,/psychic-readings/spiritual-readings-0,301,Moved Permanently,Astrology - Full run 1-21,,true,,320,154,30,30,http://dev.astrology.com/psychic-readings/spiritual-readings,157,0,0
+1677001469612,667,/psychic-readings/spiritual-readings-1,200,OK,Astrology - Full run 1-21,text,true,,64405,154,30,30,https://dev.astrology.com/psychic-readings/spiritual-readings,607,0,209
+1677001469718,579,/img/hubs/psychics/spiritual-cards.svg,200,OK,Astrology - Full run 1-26,text,true,,5253,312,30,30,https://dev.astrology.com/img/hubs/psychics/spiritual-cards.svg,154,0,0
+1677001469718,154,/img/hubs/psychics/spiritual-cards.svg-0,301,Moved Permanently,Astrology - Full run 1-26,,true,,322,156,30,30,http://dev.astrology.com/img/hubs/psychics/spiritual-cards.svg,154,0,0
+1677001469872,425,/img/hubs/psychics/spiritual-cards.svg-1,200,OK,Astrology - Full run 1-26,text,true,,4931,156,30,30,https://dev.astrology.com/img/hubs/psychics/spiritual-cards.svg,425,0,200
+1677001462385,7938,https://shop.astrology.com/product/chakra-tarot-reading?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-24,text,false,"The operation lasted too long: It took 7,938 milliseconds, but should not have lasted longer than 2,500 milliseconds.",79388,423,30,30,https://shop.astrology.com/product/chakra-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1024,0,224
+1677001462385,1024,https://shop.astrology.com/product/chakra-tarot-reading?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-0,301,Moved Permanently,Astrology - Full run 1-24,text,true,,530,211,30,30,https://shop.astrology.com/product/chakra-tarot-reading?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1024,0,224
+1677001463409,6914,https://shop.astrology.com/product/chakra-tarot-reading?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-1,200,OK,Astrology - Full run 1-24,text,true,,78858,212,30,30,https://shop.astrology.com/product/chakra-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,6814,0,0
+1677001469834,1190,https://www.keen.com/psychic-readings/future-predictor-elisa/5260594?category=635&TID=OPJLNY2L,200,OK,Astrology - Full run 1-3,text,true,,233981,187,30,30,https://www.keen.com/psychic-readings/future-predictor-elisa/5260594?category=635&TID=OPJLNY2L,967,0,203
+1677001470096,935,https://www.keen.com/psychic-readings/scott-angel/8014448?category=705&TID=OPJLNY2L,200,OK,Astrology - Full run 1-30,text,true,,73468,176,30,30,https://www.keen.com/psychic-readings/scott-angel/8014448?category=705&TID=OPJLNY2L,818,0,200
+1677001470091,1004,https://www.keen.com/psychic-readings/rexfrederick/2917442?category=635&TID=OPJLNY2L,200,OK,Astrology - Full run 1-18,text,true,,69514,177,30,30,https://www.keen.com/psychic-readings/rexfrederick/2917442?category=635&TID=OPJLNY2L,883,0,215
+1677001470098,1064,https://www.keen.com/psychic-readings/spiritualist-julie/5315644?category=635&TID=OPJLNY2L,200,OK,Astrology - Full run 1-29,text,true,,158287,183,30,30,https://www.keen.com/psychic-readings/spiritualist-julie/5315644?category=635&TID=OPJLNY2L,889,0,208
+1677001463283,8010,https://shop.astrology.com/product/karma-love-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-27,text,false,"The operation lasted too long: It took 8,010 milliseconds, but should not have lasted longer than 2,500 milliseconds.",87964,417,31,31,https://shop.astrology.com/product/karma-love-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1053,0,209
+1677001463283,1053,https://shop.astrology.com/product/karma-love-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-0,301,Moved Permanently,Astrology - Full run 1-27,text,true,,527,208,31,31,https://shop.astrology.com/product/karma-love-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1053,0,209
+1677001464336,6957,https://shop.astrology.com/product/karma-love-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-1,200,OK,Astrology - Full run 1-27,text,true,,87437,209,31,31,https://shop.astrology.com/product/karma-love-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,6777,0,0
+1677001470031,1305,https://www.keen.com/psychic-readings/carmen-miro/5304505?category=635&TID=OPJLNY2L,200,OK,Astrology - Full run 1-25,text,true,,246314,176,30,30,https://www.keen.com/psychic-readings/carmen-miro/5304505?category=635&TID=OPJLNY2L,1076,0,220
+1677001470298,1075,https://www.keen.com/psychic-readings/nadi-astrologer/12457424?category=635&TID=OPJLNY2L,200,OK,Astrology - Full run 1-26,text,true,,121685,181,29,29,https://www.keen.com/psychic-readings/nadi-astrologer/12457424?category=635&TID=OPJLNY2L,876,0,229
+1677001470325,1103,https://www.keen.com/psychic-readings/visionary-psychic-roxaana/12458536?category=198&TID=OPJLNY2L,200,OK,Astrology - Full run 1-24,text,true,,142882,191,28,28,https://www.keen.com/psychic-readings/visionary-psychic-roxaana/12458536?category=198&TID=OPJLNY2L,915,0,201
+1677001470281,1227,https://www.keen.com/psychic-readings/bear-sage/12467696?category=588&TID=OPJLNY2L,200,OK,Astrology - Full run 1-21,text,true,,211839,175,27,27,https://www.keen.com/psychic-readings/bear-sage/12467696?category=588&TID=OPJLNY2L,1012,0,222
+1677001471284,539,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer,200,OK,Astrology - Full run 1-31,text,true,,60116,197,26,26,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-footer,483,0,236
+1677001471095,888,https://www.keen.com/,200,OK,Astrology - Full run 1-18,text,true,,118896,114,25,25,https://www.keen.com/,729,0,211
+1677001459753,12255,https://shop.astrology.com/product/birth-horoscope-natal-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-7,text,false,"The operation lasted too long: It took 12,255 milliseconds, but should not have lasted longer than 2,500 milliseconds.",92635,219,24,24,https://shop.astrology.com/product/birth-horoscope-natal-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,12095,0,246
+1677001471032,1136,https://www.keen.com/psychic-readings/gabriel-the-messenger/8418200?category=635&TID=OPJLNY2L,200,OK,Astrology - Full run 1-30,text,true,,167059,186,23,23,https://www.keen.com/psychic-readings/gabriel-the-messenger/8418200?category=635&TID=OPJLNY2L,938,0,213
+1677001459814,12410,https://shop.astrology.com/product/yearly-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-19,text,false,"The operation lasted too long: It took 12,410 milliseconds, but should not have lasted longer than 2,500 milliseconds.",108419,208,22,22,https://shop.astrology.com/product/yearly-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,12246,0,203
+1677001471026,1262,https://www.keen.com/psychic-readings/soulmatesolutions/5283050?category=635&TID=OPJLNY2L,200,OK,Astrology - Full run 1-3,text,true,,238954,182,21,21,https://www.keen.com/psychic-readings/soulmatesolutions/5283050?category=635&TID=OPJLNY2L,1026,0,219
+1677001459780,12781,https://shop.astrology.com/product/monthly-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-23,text,false,"The operation lasted too long: It took 12,781 milliseconds, but should not have lasted longer than 2,500 milliseconds.",85281,209,20,20,https://shop.astrology.com/product/monthly-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,12624,0,221
+1677001461635,12349,https://shop.astrology.com/product/numerology-forecast/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-15,text,false,"The operation lasted too long: It took 12,349 milliseconds, but should not have lasted longer than 2,500 milliseconds.",82588,211,20,20,https://shop.astrology.com/product/numerology-forecast/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,12247,0,207
+1677001461925,12732,https://shop.astrology.com/product/career-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-16,text,false,"The operation lasted too long: It took 12,732 milliseconds, but should not have lasted longer than 2,500 milliseconds.",95815,205,19,19,https://shop.astrology.com/product/career-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,12583,0,204
+1677001471162,3809,https://www.keen.com/Registration/login.aspx,Non HTTP response code: java.io.IOException,Non HTTP response message: Exceeded maximum number of redirects: 20,Astrology - Full run 1-29,text,false,"The operation lasted too long: It took 3,809 milliseconds, but should not have lasted longer than 2,500 milliseconds.",63918,3161,18,18,https://www.keen.com/registration/registration.aspx,509,0,267
+1677001471162,509,https://www.keen.com/Registration/login.aspx-0,302,Found,Astrology - Full run 1-29,text,true,,2766,137,18,18,https://www.keen.com/Registration/login.aspx,509,0,267
+1677001471671,424,https://www.keen.com/Registration/login.aspx-1,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,424,0,0
+1677001472095,145,https://www.keen.com/Registration/login.aspx-2,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,145,0,0
+1677001472240,159,https://www.keen.com/Registration/login.aspx-3,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,159,0,0
+1677001472399,156,https://www.keen.com/Registration/login.aspx-4,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,156,0,0
+1677001472555,156,https://www.keen.com/Registration/login.aspx-5,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,156,0,0
+1677001472711,154,https://www.keen.com/Registration/login.aspx-6,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,154,0,0
+1677001472865,149,https://www.keen.com/Registration/login.aspx-7,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,149,0,0
+1677001473014,142,https://www.keen.com/Registration/login.aspx-8,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,141,0,0
+1677001473156,145,https://www.keen.com/Registration/login.aspx-9,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,145,0,0
+1677001473301,148,https://www.keen.com/Registration/login.aspx-10,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,148,0,0
+1677001473449,151,https://www.keen.com/Registration/login.aspx-11,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,150,0,0
+1677001473600,142,https://www.keen.com/Registration/login.aspx-12,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,142,0,0
+1677001473742,155,https://www.keen.com/Registration/login.aspx-13,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,155,0,0
+1677001473897,153,https://www.keen.com/Registration/login.aspx-14,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,153,0,0
+1677001474050,153,https://www.keen.com/Registration/login.aspx-15,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,153,0,0
+1677001474203,157,https://www.keen.com/Registration/login.aspx-16,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,157,0,0
+1677001474360,142,https://www.keen.com/Registration/login.aspx-17,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,142,0,0
+1677001474502,148,https://www.keen.com/Registration/login.aspx-18,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,148,0,0
+1677001474650,160,https://www.keen.com/Registration/login.aspx-19,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,160,0,0
+1677001474811,160,https://www.keen.com/Registration/login.aspx-20,302,Found,Astrology - Full run 1-29,text,true,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,160,0,0
+1677001474811,160,https://www.keen.com/Registration/login.aspx-21,Non HTTP response code: java.io.IOException,Non HTTP response message: Exceeded maximum number of redirects: 20,Astrology - Full run 1-29,text,false,,2912,144,18,18,https://www.keen.com/registration/registration.aspx,160,0,0
+1677001467205,8387,https://shop.astrology.com/product/love-tarot-reading?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-17,text,false,"The operation lasted too long: It took 8,387 milliseconds, but should not have lasted longer than 2,500 milliseconds.",81520,419,18,18,https://shop.astrology.com/product/love-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1131,0,204
+1677001467205,1131,https://shop.astrology.com/product/love-tarot-reading?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-0,301,Moved Permanently,Astrology - Full run 1-17,text,true,,528,209,18,18,https://shop.astrology.com/product/love-tarot-reading?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1131,0,204
+1677001468336,7256,https://shop.astrology.com/product/love-tarot-reading?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-1,200,OK,Astrology - Full run 1-17,text,true,,80992,210,18,18,https://shop.astrology.com/product/love-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,7108,0,0
+1677001416109,60690,/psychic-readings/tarot.html,504,Gateway Timeout,Astrology - Full run 1-1,text,false,"The operation lasted too long: It took 60,690 milliseconds, but should not have lasted longer than 2,500 milliseconds.",731,292,17,17,https://dev.astrology.com/psychic-readings/tarot.html,161,0,1
+1677001416109,161,/psychic-readings/tarot.html-0,301,Moved Permanently,Astrology - Full run 1-1,,true,,312,146,17,17,http://dev.astrology.com/psychic-readings/tarot.html,161,0,1
+1677001416270,60529,/psychic-readings/tarot.html-1,504,Gateway Timeout,Astrology - Full run 1-1,text,false,,419,146,17,17,https://dev.astrology.com/psychic-readings/tarot.html,60529,0,212
+1677001459758,17809,https://shop.astrology.com/product/love-compatibility-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-20,text,false,"The operation lasted too long: It took 17,809 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96306,217,17,17,https://shop.astrology.com/product/love-compatibility-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,17656,0,210
+1677001459907,18166,https://shop.astrology.com/product/annual-vedic-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-22,text,false,"The operation lasted too long: It took 18,166 milliseconds, but should not have lasted longer than 2,500 milliseconds.",103661,214,16,16,https://shop.astrology.com/product/annual-vedic-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,18009,0,225
+1677001465284,13545,https://shop.astrology.com/product/karma-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Astrology - Full run 1-28,text,false,"The operation lasted too long: It took 13,545 milliseconds, but should not have lasted longer than 2,500 milliseconds.",84566,407,15,15,https://shop.astrology.com/product/karma-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1060,0,246
+1677001465284,1060,https://shop.astrology.com/product/karma-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-0,301,Moved Permanently,Astrology - Full run 1-28,text,true,,522,203,15,15,https://shop.astrology.com/product/karma-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1060,0,246
+1677001466344,12485,https://shop.astrology.com/product/karma-report?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map-1,200,OK,Astrology - Full run 1-28,text,true,,84044,204,15,15,https://shop.astrology.com/product/karma-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,12341,0,0
+1677001477283,1648,/article/2023-astrology-predictions/,200,OK,Astrology - Full run 1-34,text,true,,75332,308,14,14,https://dev.astrology.com/article/2023-astrology-predictions/,167,0,1
+1677001477283,167,/article/2023-astrology-predictions/-0,301,Moved Permanently,Astrology - Full run 1-34,,true,,320,154,14,14,http://dev.astrology.com/article/2023-astrology-predictions/,167,0,1
+1677001477450,1481,/article/2023-astrology-predictions/-1,200,OK,Astrology - Full run 1-34,text,true,,75012,154,14,14,https://dev.astrology.com/article/2023-astrology-predictions/,1368,0,217
+1677001479280,994,/us/horoscope/index-yearly-love.aspx,200,OK,Astrology - Full run 1-35,text,true,,65888,308,14,14,https://dev.astrology.com/us/horoscope/index-yearly-love.aspx,164,0,1
+1677001479280,164,/us/horoscope/index-yearly-love.aspx-0,301,Moved Permanently,Astrology - Full run 1-35,,true,,320,154,14,14,http://dev.astrology.com/us/horoscope/index-yearly-love.aspx,164,0,1
+1677001479444,830,/us/horoscope/index-yearly-love.aspx-1,200,OK,Astrology - Full run 1-35,text,true,,65568,154,14,14,https://dev.astrology.com/us/horoscope/index-yearly-love.aspx,705,0,205
+1677001481281,1277,/horoscope/yearly-love/aries.html,200,OK,Astrology - Full run 1-36,text,true,,63305,302,14,14,https://dev.astrology.com/horoscope/yearly-love/aries.html,202,0,0
+1677001481281,202,/horoscope/yearly-love/aries.html-0,301,Moved Permanently,Astrology - Full run 1-36,,true,,317,151,14,14,http://dev.astrology.com/horoscope/yearly-love/aries.html,202,0,0
+1677001481484,1074,/horoscope/yearly-love/aries.html-1,200,OK,Astrology - Full run 1-36,text,true,,62988,151,14,14,https://dev.astrology.com/horoscope/yearly-love/aries.html,977,0,211
+1677001483282,1381,/horoscope/yearly-love/gemini.html,200,OK,Astrology - Full run 1-37,text,true,,63468,304,14,14,https://dev.astrology.com/horoscope/yearly-love/gemini.html,170,0,1
+1677001483282,170,/horoscope/yearly-love/gemini.html-0,301,Moved Permanently,Astrology - Full run 1-37,,true,,318,152,14,14,http://dev.astrology.com/horoscope/yearly-love/gemini.html,170,0,1
+1677001483452,1211,/horoscope/yearly-love/gemini.html-1,200,OK,Astrology - Full run 1-37,text,true,,63150,152,14,14,https://dev.astrology.com/horoscope/yearly-love/gemini.html,1106,0,216
+1677001485284,1069,/horoscope/yearly-love/leo.html,200,OK,Astrology - Full run 1-38,text,true,,63191,298,14,14,https://dev.astrology.com/horoscope/yearly-love/leo.html,154,0,0
+1677001485284,154,/horoscope/yearly-love/leo.html-0,301,Moved Permanently,Astrology - Full run 1-38,,true,,315,149,14,14,http://dev.astrology.com/horoscope/yearly-love/leo.html,154,0,0
+1677001485438,915,/horoscope/yearly-love/leo.html-1,200,OK,Astrology - Full run 1-38,text,true,,62876,149,14,14,https://dev.astrology.com/horoscope/yearly-love/leo.html,815,0,211
+1677001487280,1180,/horoscope/yearly-love/libra.html,200,OK,Astrology - Full run 1-39,text,true,,63269,302,14,14,https://dev.astrology.com/horoscope/yearly-love/libra.html,151,0,1
+1677001487280,152,/horoscope/yearly-love/libra.html-0,301,Moved Permanently,Astrology - Full run 1-39,,true,,317,151,14,14,http://dev.astrology.com/horoscope/yearly-love/libra.html,151,0,1
+1677001487432,1028,/horoscope/yearly-love/libra.html-1,200,OK,Astrology - Full run 1-39,text,true,,62952,151,14,14,https://dev.astrology.com/horoscope/yearly-love/libra.html,934,0,201
+1677001489285,1396,/horoscope/yearly-love/sagittarius.html,200,OK,Astrology - Full run 1-40,text,true,,63668,314,14,14,https://dev.astrology.com/horoscope/yearly-love/sagittarius.html,181,0,2
+1677001489285,181,/horoscope/yearly-love/sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-40,,true,,323,157,14,14,http://dev.astrology.com/horoscope/yearly-love/sagittarius.html,181,0,2
+1677001489466,1215,/horoscope/yearly-love/sagittarius.html-1,200,OK,Astrology - Full run 1-40,text,true,,63345,157,14,14,https://dev.astrology.com/horoscope/yearly-love/sagittarius.html,1111,0,218
+1677001491279,1125,/horoscope/yearly-love/aquarius.html,200,OK,Astrology - Full run 1-41,text,true,,63383,308,14,14,https://dev.astrology.com/horoscope/yearly-love/aquarius.html,160,0,1
+1677001491279,160,/horoscope/yearly-love/aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-41,,true,,320,154,14,14,http://dev.astrology.com/horoscope/yearly-love/aquarius.html,160,0,1
+1677001491439,965,/horoscope/yearly-love/aquarius.html-1,200,OK,Astrology - Full run 1-41,text,true,,63063,154,14,14,https://dev.astrology.com/horoscope/yearly-love/aquarius.html,860,0,239
+1677001432179,60594,/love/compatibility/taurus.html,504,Gateway Timeout,Astrology - Full run 1-5,text,false,"The operation lasted too long: It took 60,594 milliseconds, but should not have lasted longer than 2,500 milliseconds.",734,298,13,13,https://dev.astrology.com/love/compatibility/taurus.html,181,0,1
+1677001432179,181,/love/compatibility/taurus.html-0,301,Moved Permanently,Astrology - Full run 1-5,,true,,315,149,13,13,http://dev.astrology.com/love/compatibility/taurus.html,181,0,1
+1677001432361,60412,/love/compatibility/taurus.html-1,504,Gateway Timeout,Astrology - Full run 1-5,text,false,,419,149,13,13,https://dev.astrology.com/love/compatibility/taurus.html,60412,0,218
+1677001432537,60564,/love/compatibility/libra.html,504,Gateway Timeout,Astrology - Full run 1-2,text,false,"The operation lasted too long: It took 60,564 milliseconds, but should not have lasted longer than 2,500 milliseconds.",733,296,12,12,https://dev.astrology.com/love/compatibility/libra.html,156,0,1
+1677001432537,156,/love/compatibility/libra.html-0,301,Moved Permanently,Astrology - Full run 1-2,,true,,314,148,12,12,http://dev.astrology.com/love/compatibility/libra.html,156,0,1
+1677001432693,60408,/love/compatibility/libra.html-1,504,Gateway Timeout,Astrology - Full run 1-2,text,false,,419,148,12,12,https://dev.astrology.com/love/compatibility/libra.html,60408,0,214
+1677001432795,60576,/love/compatibility/virgo.html,504,Gateway Timeout,Astrology - Full run 1-9,text,false,"The operation lasted too long: It took 60,576 milliseconds, but should not have lasted longer than 2,500 milliseconds.",733,296,12,12,https://dev.astrology.com/love/compatibility/virgo.html,163,0,1
+1677001432795,163,/love/compatibility/virgo.html-0,301,Moved Permanently,Astrology - Full run 1-9,,true,,314,148,12,12,http://dev.astrology.com/love/compatibility/virgo.html,163,0,1
+1677001432958,60413,/love/compatibility/virgo.html-1,504,Gateway Timeout,Astrology - Full run 1-9,text,false,,419,148,12,12,https://dev.astrology.com/love/compatibility/virgo.html,60413,0,207
+1677001432787,60611,/love/compatibility/aries.html,504,Gateway Timeout,Astrology - Full run 1-10,text,false,"The operation lasted too long: It took 60,611 milliseconds, but should not have lasted longer than 2,500 milliseconds.",733,296,11,11,https://dev.astrology.com/love/compatibility/aries.html,168,0,1
+1677001432787,168,/love/compatibility/aries.html-0,301,Moved Permanently,Astrology - Full run 1-10,,true,,314,148,11,11,http://dev.astrology.com/love/compatibility/aries.html,168,0,1
+1677001432955,60443,/love/compatibility/aries.html-1,504,Gateway Timeout,Astrology - Full run 1-10,text,false,,419,148,11,11,https://dev.astrology.com/love/compatibility/aries.html,60443,0,217
+1677001432854,60607,/love/compatibility/sagittarius.html,504,Gateway Timeout,Astrology - Full run 1-6,text,false,"The operation lasted too long: It took 60,607 milliseconds, but should not have lasted longer than 2,500 milliseconds.",739,308,10,10,https://dev.astrology.com/love/compatibility/sagittarius.html,158,0,1
+1677001432854,158,/love/compatibility/sagittarius.html-0,301,Moved Permanently,Astrology - Full run 1-6,,true,,320,154,10,10,http://dev.astrology.com/love/compatibility/sagittarius.html,158,0,1
+1677001433012,60449,/love/compatibility/sagittarius.html-1,504,Gateway Timeout,Astrology - Full run 1-6,text,false,,419,154,10,10,https://dev.astrology.com/love/compatibility/sagittarius.html,60449,0,219
+1677001432928,60609,/love/compatibility/leo.html,504,Gateway Timeout,Astrology - Full run 1-11,text,false,"The operation lasted too long: It took 60,609 milliseconds, but should not have lasted longer than 2,500 milliseconds.",731,292,9,9,https://dev.astrology.com/love/compatibility/leo.html,159,0,1
+1677001432928,159,/love/compatibility/leo.html-0,301,Moved Permanently,Astrology - Full run 1-11,,true,,312,146,9,9,http://dev.astrology.com/love/compatibility/leo.html,159,0,1
+1677001433087,60450,/love/compatibility/leo.html-1,504,Gateway Timeout,Astrology - Full run 1-11,text,false,,419,146,9,9,https://dev.astrology.com/love/compatibility/leo.html,60450,0,216
+1677001437281,56842,/love/compatibility/cancer.html,200,OK,Astrology - Full run 1-14,text,false,"The operation lasted too long: It took 56,842 milliseconds, but should not have lasted longer than 2,500 milliseconds.",63242,298,8,8,https://dev.astrology.com/love/compatibility/cancer.html,161,0,1
+1677001437281,161,/love/compatibility/cancer.html-0,301,Moved Permanently,Astrology - Full run 1-14,,true,,315,149,8,8,http://dev.astrology.com/love/compatibility/cancer.html,161,0,1
+1677001437442,56681,/love/compatibility/cancer.html-1,200,OK,Astrology - Full run 1-14,text,true,,62927,149,8,8,https://dev.astrology.com/love/compatibility/cancer.html,56506,0,235
+1677001433282,60844,/love/compatibility/scorpio.html,200,OK,Astrology - Full run 1-12,text,false,"The operation lasted too long: It took 60,844 milliseconds, but should not have lasted longer than 2,500 milliseconds.",63191,300,7,7,https://dev.astrology.com/love/compatibility/scorpio.html,165,0,1
+1677001433282,165,/love/compatibility/scorpio.html-0,301,Moved Permanently,Astrology - Full run 1-12,,true,,316,150,7,7,http://dev.astrology.com/love/compatibility/scorpio.html,165,0,1
+1677001433448,60678,/love/compatibility/scorpio.html-1,200,OK,Astrology - Full run 1-12,text,true,,62875,150,7,7,https://dev.astrology.com/love/compatibility/scorpio.html,60531,0,223
+1677001434019,60116,/love/compatibility/aquarius.html,200,OK,Astrology - Full run 1-4,text,false,"The operation lasted too long: It took 60,116 milliseconds, but should not have lasted longer than 2,500 milliseconds.",63263,302,6,6,https://dev.astrology.com/love/compatibility/aquarius.html,162,0,1
+1677001434019,162,/love/compatibility/aquarius.html-0,301,Moved Permanently,Astrology - Full run 1-4,,true,,317,151,6,6,http://dev.astrology.com/love/compatibility/aquarius.html,162,0,1
+1677001434181,59954,/love/compatibility/aquarius.html-1,200,OK,Astrology - Full run 1-4,text,true,,62946,151,6,6,https://dev.astrology.com/love/compatibility/aquarius.html,59802,0,218
+1677001434323,59870,/love/compatibility/gemini.html,200,OK,Astrology - Full run 1-8,text,false,"The operation lasted too long: It took 59,870 milliseconds, but should not have lasted longer than 2,500 milliseconds.",63095,298,5,5,https://dev.astrology.com/love/compatibility/gemini.html,155,0,1
+1677001434323,155,/love/compatibility/gemini.html-0,301,Moved Permanently,Astrology - Full run 1-8,,true,,315,149,5,5,http://dev.astrology.com/love/compatibility/gemini.html,155,0,1
+1677001434478,59715,/love/compatibility/gemini.html-1,200,OK,Astrology - Full run 1-8,text,true,,62780,149,5,5,https://dev.astrology.com/love/compatibility/gemini.html,59585,0,222
+1677001435281,58914,/love/compatibility/capricorn.html,200,OK,Astrology - Full run 1-13,text,false,"The operation lasted too long: It took 58,914 milliseconds, but should not have lasted longer than 2,500 milliseconds.",63252,304,5,5,https://dev.astrology.com/love/compatibility/capricorn.html,156,0,1
+1677001435281,156,/love/compatibility/capricorn.html-0,301,Moved Permanently,Astrology - Full run 1-13,,true,,318,152,5,5,http://dev.astrology.com/love/compatibility/capricorn.html,156,0,1
+1677001435438,58757,/love/compatibility/capricorn.html-1,200,OK,Astrology - Full run 1-13,text,true,,62934,152,5,5,https://dev.astrology.com/love/compatibility/capricorn.html,58627,0,225
+1677001493280,1020,/horoscope/yearly-work/gemini.html,200,OK,Astrology - Full run 1-42,text,true,,63292,304,3,3,https://dev.astrology.com/horoscope/yearly-work/gemini.html,150,0,0
+1677001493280,150,/horoscope/yearly-work/gemini.html-0,301,Moved Permanently,Astrology - Full run 1-42,,true,,318,152,3,3,http://dev.astrology.com/horoscope/yearly-work/gemini.html,150,0,0
+1677001493430,870,/horoscope/yearly-work/gemini.html-1,200,OK,Astrology - Full run 1-42,text,true,,62974,152,3,3,https://dev.astrology.com/horoscope/yearly-work/gemini.html,767,0,205
+1677001495281,719,/img/icons/icon-plus.svg,200,OK,Astrology - Full run 1-43,text,true,,1614,284,3,3,https://dev.astrology.com/img/icons/icon-plus.svg,154,0,1
+1677001495281,154,/img/icons/icon-plus.svg-0,301,Moved Permanently,Astrology - Full run 1-43,,true,,308,142,3,3,http://dev.astrology.com/img/icons/icon-plus.svg,154,0,1
+1677001495435,565,/img/icons/icon-plus.svg-1,200,OK,Astrology - Full run 1-43,text,true,,1306,142,3,3,https://dev.astrology.com/img/icons/icon-plus.svg,565,0,218
+1677001497282,778,/img/icons/icon-question.svg,200,OK,Astrology - Full run 1-44,text,true,,1938,292,3,3,https://dev.astrology.com/img/icons/icon-question.svg,223,0,4
+1677001497282,223,/img/icons/icon-question.svg-0,301,Moved Permanently,Astrology - Full run 1-44,,true,,312,146,3,3,http://dev.astrology.com/img/icons/icon-question.svg,223,0,4
+1677001497505,555,/img/icons/icon-question.svg-1,200,OK,Astrology - Full run 1-44,text,true,,1626,146,3,3,https://dev.astrology.com/img/icons/icon-question.svg,555,0,217
+1677001499283,912,/img/backgrounds/bg-white-speckles-banner.jpg,200,OK,Astrology - Full run 1-45,bin,true,,17990,326,3,3,https://dev.astrology.com/img/backgrounds/bg-white-speckles-banner.jpg,183,0,9
+1677001499283,183,/img/backgrounds/bg-white-speckles-banner.jpg-0,301,Moved Permanently,Astrology - Full run 1-45,,true,,329,163,3,3,http://dev.astrology.com/img/backgrounds/bg-white-speckles-banner.jpg,183,0,9
+1677001499466,729,/img/backgrounds/bg-white-speckles-banner.jpg-1,200,OK,Astrology - Full run 1-45,bin,true,,17661,163,3,3,https://dev.astrology.com/img/backgrounds/bg-white-speckles-banner.jpg,729,0,217
+1677001501284,716,/img/logo-black.svg,200,OK,Astrology - Full run 1-46,text,true,,7431,274,3,3,https://dev.astrology.com/img/logo-black.svg,172,0,9
+1677001501284,172,/img/logo-black.svg-0,301,Moved Permanently,Astrology - Full run 1-46,,true,,303,137,3,3,http://dev.astrology.com/img/logo-black.svg,172,0,9
+1677001501456,544,/img/logo-black.svg-1,200,OK,Astrology - Full run 1-46,text,true,,7128,137,3,3,https://dev.astrology.com/img/logo-black.svg,544,0,203
+1677001503283,710,/img/backgrounds/bg-large-circles.svg,200,OK,Astrology - Full run 1-47,text,true,,1895,310,3,3,https://dev.astrology.com/img/backgrounds/bg-large-circles.svg,156,0,2
+1677001503283,156,/img/backgrounds/bg-large-circles.svg-0,301,Moved Permanently,Astrology - Full run 1-47,,true,,321,155,3,3,http://dev.astrology.com/img/backgrounds/bg-large-circles.svg,156,0,2
+1677001503440,553,/img/backgrounds/bg-large-circles.svg-1,200,OK,Astrology - Full run 1-47,text,true,,1574,155,3,3,https://dev.astrology.com/img/backgrounds/bg-large-circles.svg,553,0,199
+1677001505280,699,/img/backgrounds/bg-lilac-oval-overlay.svg,200,OK,Astrology - Full run 1-48,text,true,,2284,320,3,3,https://dev.astrology.com/img/backgrounds/bg-lilac-oval-overlay.svg,154,0,1
+1677001505280,154,/img/backgrounds/bg-lilac-oval-overlay.svg-0,301,Moved Permanently,Astrology - Full run 1-48,,true,,326,160,3,3,http://dev.astrology.com/img/backgrounds/bg-lilac-oval-overlay.svg,154,0,1
+1677001505434,545,/img/backgrounds/bg-lilac-oval-overlay.svg-1,200,OK,Astrology - Full run 1-48,text,true,,1958,160,3,3,https://dev.astrology.com/img/backgrounds/bg-lilac-oval-overlay.svg,545,0,207
+1677001507280,894,/article/ic-astrology/,200,OK,Astrology - Full run 1-49,text,true,,73404,280,3,3,https://dev.astrology.com/article/ic-astrology/,167,0,0
+1677001507280,167,/article/ic-astrology/-0,301,Moved Permanently,Astrology - Full run 1-49,,true,,306,140,3,3,http://dev.astrology.com/article/ic-astrology/,167,0,0
+1677001507447,727,/article/ic-astrology/-1,200,OK,Astrology - Full run 1-49,text,true,,73098,140,3,3,https://dev.astrology.com/article/ic-astrology/,623,0,211
+1677001509282,870,/article/weekly-horoscope-january-22/,200,OK,Astrology - Full run 1-50,text,true,,75246,310,3,3,https://dev.astrology.com/article/weekly-horoscope-january-22/,155,0,1
+1677001509282,155,/article/weekly-horoscope-january-22/-0,301,Moved Permanently,Astrology - Full run 1-50,,true,,321,155,3,3,http://dev.astrology.com/article/weekly-horoscope-january-22/,155,0,1
+1677001509437,715,/article/weekly-horoscope-january-22/-1,200,OK,Astrology - Full run 1-50,text,true,,74925,155,3,3,https://dev.astrology.com/article/weekly-horoscope-january-22/,619,0,205
+1677001473280,42964,/us/horoscope/yearly-overview-2023.aspx?sign=virgo,500,Internal Server Error,Astrology - Full run 1-32,text,false,"The operation lasted too long: It took 42,964 milliseconds, but should not have lasted longer than 2,500 milliseconds.",46607,336,2,2,https://dev.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=virgo,163,0,1
+1677001473280,163,/us/horoscope/yearly-overview-2023.aspx?sign=virgo-0,301,Moved Permanently,Astrology - Full run 1-32,,true,,334,168,2,2,http://dev.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=virgo,163,0,1
+1677001473443,42801,/us/horoscope/yearly-overview-2023.aspx?sign=virgo-1,500,Internal Server Error,Astrology - Full run 1-32,text,false,,46273,168,2,2,https://dev.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=virgo,42703,0,212
+1677001475282,42958,/us/horoscope/yearly-overview-2023.aspx?sign=capricorn,500,Internal Server Error,Astrology - Full run 1-33,text,false,"The operation lasted too long: It took 42,958 milliseconds, but should not have lasted longer than 2,500 milliseconds.",46611,344,1,1,https://dev.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=capricorn,156,0,1
+1677001475282,156,/us/horoscope/yearly-overview-2023.aspx?sign=capricorn-0,301,Moved Permanently,Astrology - Full run 1-33,,true,,338,172,1,1,http://dev.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=capricorn,156,0,1
+1677001475438,42802,/us/horoscope/yearly-overview-2023.aspx?sign=capricorn-1,500,Internal Server Error,Astrology - Full run 1-33,text,false,,46273,172,1,1,https://dev.astrology.com/us/horoscope/yearly-overview-2023.aspx?sign=capricorn,42701,0,218

@@ -20,8 +20,8 @@
         </elementProp>
         <stringProp name="ThreadGroup.num_threads">1</stringProp>
         <stringProp name="ThreadGroup.ramp_time">1</stringProp>
-        <boolProp name="ThreadGroup.scheduler">false</boolProp>
-        <stringProp name="ThreadGroup.duration"></stringProp>
+        <boolProp name="ThreadGroup.scheduler">true</boolProp>
+        <stringProp name="ThreadGroup.duration">360</stringProp>
         <stringProp name="ThreadGroup.delay"></stringProp>
         <boolProp name="ThreadGroup.same_user_on_next_iteration">false</boolProp>
       </ThreadGroup>
@@ -40,13 +40,13 @@
         <hashTree/>
         <Arguments guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
           <collectionProp name="Arguments.arguments">
-            <elementProp name="BASE_URL" elementType="Argument">
-              <stringProp name="Argument.name">BASE_URL</stringProp>
+            <elementProp name="PROD" elementType="Argument">
+              <stringProp name="Argument.name">PROD</stringProp>
               <stringProp name="Argument.value">new.astrology.com</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
-            <elementProp name="TEST_URL" elementType="Argument">
-              <stringProp name="Argument.name">TEST_URL</stringProp>
+            <elementProp name="TEST" elementType="Argument">
+              <stringProp name="Argument.name">TEST</stringProp>
               <stringProp name="Argument.value">test.astrology.com</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
@@ -62,7 +62,7 @@
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
-          <stringProp name="HTTPSampler.domain">${UAT_URL}</stringProp>
+          <stringProp name="HTTPSampler.domain">${PROD}</stringProp>
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
@@ -121,16 +121,16 @@
               <value class="SampleSaveConfiguration">
                 <time>true</time>
                 <latency>true</latency>
-                <timestamp>true</timestamp>
+                <timestamp>false</timestamp>
                 <success>true</success>
                 <label>true</label>
                 <code>true</code>
                 <message>true</message>
                 <threadName>true</threadName>
-                <dataType>true</dataType>
+                <dataType>false</dataType>
                 <encoding>false</encoding>
                 <assertions>true</assertions>
-                <subresults>true</subresults>
+                <subresults>false</subresults>
                 <responseData>false</responseData>
                 <samplerData>false</samplerData>
                 <xml>false</xml>
@@ -138,17 +138,14 @@
                 <responseHeaders>false</responseHeaders>
                 <requestHeaders>false</requestHeaders>
                 <responseDataOnError>false</responseDataOnError>
-                <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+                <saveAssertionResultsFailureMessage>false</saveAssertionResultsFailureMessage>
                 <assertionsResultsToSave>0</assertionsResultsToSave>
                 <bytes>true</bytes>
-                <sentBytes>true</sentBytes>
                 <url>true</url>
                 <threadCounts>true</threadCounts>
-                <idleTime>true</idleTime>
-                <connectTime>true</connectTime>
               </value>
             </objProp>
-            <stringProp name="filename"></stringProp>
+            <stringProp name="filename">/Users/davidmunoz/Documents/Jmeter_Scripts/IngenioJmeterScripts/Astrology/AstrologyPagesScripts/jtlFiles/AstrologyPsychicReadingResults.csv</stringProp>
           </ResultCollector>
           <hashTree/>
           <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
