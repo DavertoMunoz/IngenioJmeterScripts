@@ -1,0 +1,311 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1677112952310,1160,/psychic-readings,200,OK,Psychic Readings - Thread Group 1-1,text,true,,68318,270,1,1,https://www.astrology.com/psychic-readings,227,0,52
+1677112952310,227,/psychic-readings-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,301,135,1,1,http://www.astrology.com/psychic-readings,227,0,52
+1677112952537,933,/psychic-readings-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,68017,135,1,1,https://www.astrology.com/psychic-readings,829,0,238
+1677112953472,531,/img/favicon.ico,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,8236,268,1,1,https://www.astrology.com/img/favicon.ico,162,0,1
+1677112953472,162,/img/favicon.ico-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,300,134,1,1,http://www.astrology.com/img/favicon.ico,162,0,1
+1677112953634,369,/img/favicon.ico-1,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,7936,134,1,1,https://www.astrology.com/img/favicon.ico,369,0,216
+1677112954003,538,/img/apple-touch-icon.png,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,2738,286,1,1,https://www.astrology.com/img/apple-touch-icon.png,157,0,1
+1677112954003,157,/img/apple-touch-icon.png-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,309,143,1,1,http://www.astrology.com/img/apple-touch-icon.png,157,0,1
+1677112954160,381,/img/apple-touch-icon.png-1,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,2429,143,1,1,https://www.astrology.com/img/apple-touch-icon.png,381,0,220
+1677112954542,528,/img/favicon-32x32.png,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,1493,280,1,1,https://www.astrology.com/img/favicon-32x32.png,160,0,1
+1677112954542,160,/img/favicon-32x32.png-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,306,140,1,1,http://www.astrology.com/img/favicon-32x32.png,160,0,1
+1677112954702,368,/img/favicon-32x32.png-1,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,1187,140,1,1,https://www.astrology.com/img/favicon-32x32.png,368,0,220
+1677112955070,523,/img/favicon-16x16.png,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,1285,280,1,1,https://www.astrology.com/img/favicon-16x16.png,160,0,1
+1677112955070,160,/img/favicon-16x16.png-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,306,140,1,1,http://www.astrology.com/img/favicon-16x16.png,160,0,1
+1677112955230,363,/img/favicon-16x16.png-1,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,979,140,1,1,https://www.astrology.com/img/favicon-16x16.png,363,0,212
+1677112955594,584,/img/site.webmanifest,200,OK,Psychic Readings - Thread Group 1-1,text,true,,1234,278,1,1,https://www.astrology.com/img/site.webmanifest,161,0,1
+1677112955594,161,/img/site.webmanifest-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,305,139,1,1,http://www.astrology.com/img/site.webmanifest,161,0,1
+1677112955755,423,/img/site.webmanifest-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,929,139,1,1,https://www.astrology.com/img/site.webmanifest,423,0,217
+1677112956178,520,/img/safari-pinned-tab.svg,200,OK,Psychic Readings - Thread Group 1-1,text,true,,1375,288,1,1,https://www.astrology.com/img/safari-pinned-tab.svg,158,0,1
+1677112956178,158,/img/safari-pinned-tab.svg-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,310,144,1,1,http://www.astrology.com/img/safari-pinned-tab.svg,158,0,1
+1677112956336,362,/img/safari-pinned-tab.svg-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,1065,144,1,1,https://www.astrology.com/img/safari-pinned-tab.svg,362,0,212
+1677112956699,426,https://www.googletagmanager.com/ns.html?id=GTM-W5JL5NG,200,OK,Psychic Readings - Thread Group 1-1,text,true,,1117,148,1,1,https://www.googletagmanager.com/ns.html?id=GTM-W5JL5NG,426,0,259
+1677112957125,1309,https://www.keen.com/psychic-readings/195?tid=SCNMDKCP&HLT=0&Hero=generic,200,OK,Psychic Readings - Thread Group 1-1,text,true,,126007,166,1,1,https://www.keen.com/psychic-readings/195?tid=SCNMDKCP&HLT=0&Hero=generic,1150,0,282
+1677112958435,1031,/us/home.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71197,262,1,1,https://www.astrology.com/us/home.aspx,157,0,0
+1677112958435,157,/us/home.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/us/home.aspx,157,0,0
+1677112958592,874,/us/home.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,70900,131,1,1,https://www.astrology.com/us/home.aspx,767,0,224
+1677112959467,1346,https://shop.astrology.com/plus/dash/?utm_source=direct&utm_medium=acquisition&utm_campaign=-sign-in-button,200,OK,Psychic Readings - Thread Group 1-1,text,true,,29206,200,1,1,https://shop.astrology.com/plus/dash/?utm_source=direct&utm_medium=acquisition&utm_campaign=-sign-in-button,1292,0,293
+1677112960813,1773,https://shop.astrology.com/product/astrology-plus/?utm_source=direct&utm_medium=acquisition&utm_campaign=top-nav,200,OK,Psychic Readings - Thread Group 1-1,text,true,,98458,205,1,1,https://shop.astrology.com/product/astrology-plus/?utm_source=direct&utm_medium=acquisition&utm_campaign=top-nav,1626,0,211
+1677112962587,812,/horoscope/daily.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,77056,278,1,1,https://www.astrology.com/horoscope/daily.html,156,0,0
+1677112962587,156,/horoscope/daily.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,305,139,1,1,http://www.astrology.com/horoscope/daily.html,156,0,0
+1677112962743,656,/horoscope/daily.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,76751,139,1,1,https://www.astrology.com/horoscope/daily.html,555,0,216
+1677112963400,789,/horoscope/weekly-overview.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,69298,298,1,1,https://www.astrology.com/horoscope/weekly-overview.html,157,0,0
+1677112963400,157,/horoscope/weekly-overview.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,315,149,1,1,http://www.astrology.com/horoscope/weekly-overview.html,157,0,0
+1677112963557,632,/horoscope/weekly-overview.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,68983,149,1,1,https://www.astrology.com/horoscope/weekly-overview.html,534,0,213
+1677112964189,798,/horoscope/monthly-overview.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71370,300,1,1,https://www.astrology.com/horoscope/monthly-overview.html,168,0,1
+1677112964189,168,/horoscope/monthly-overview.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/horoscope/monthly-overview.html,168,0,1
+1677112964357,630,/horoscope/monthly-overview.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71054,150,1,1,https://www.astrology.com/horoscope/monthly-overview.html,530,0,215
+1677112964988,744,/us/horoscope/index-yearly-2023.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64923,308,1,1,https://www.astrology.com/us/horoscope/index-yearly-2023.aspx,166,0,1
+1677112964988,166,/us/horoscope/index-yearly-2023.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/us/horoscope/index-yearly-2023.aspx,166,0,1
+1677112965154,578,/us/horoscope/index-yearly-2023.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64603,154,1,1,https://www.astrology.com/us/horoscope/index-yearly-2023.aspx,527,0,211
+1677112965733,828,/us/horoscope/index-daily-love.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,74600,306,1,1,https://www.astrology.com/us/horoscope/index-daily-love.aspx,162,0,1
+1677112965733,162,/us/horoscope/index-daily-love.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/us/horoscope/index-daily-love.aspx,162,0,1
+1677112965895,666,/us/horoscope/index-daily-love.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,74281,153,1,1,https://www.astrology.com/us/horoscope/index-daily-love.aspx,561,0,226
+1677112966562,777,/us/horoscope/index-daily-work.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,75791,306,1,1,https://www.astrology.com/us/horoscope/index-daily-work.aspx,156,0,0
+1677112966562,156,/us/horoscope/index-daily-work.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/us/horoscope/index-daily-work.aspx,156,0,0
+1677112966718,621,/us/horoscope/index-daily-work.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,75472,153,1,1,https://www.astrology.com/us/horoscope/index-daily-work.aspx,523,0,211
+1677112967340,814,/us/horoscope/index-daily-dating.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,75094,310,1,1,https://www.astrology.com/us/horoscope/index-daily-dating.aspx,160,0,0
+1677112967340,160,/us/horoscope/index-daily-dating.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/us/horoscope/index-daily-dating.aspx,160,0,0
+1677112967500,654,/us/horoscope/index-daily-dating.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,74773,155,1,1,https://www.astrology.com/us/horoscope/index-daily-dating.aspx,549,0,225
+1677112968154,819,/us/horoscope/index-chinese.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,76044,300,1,1,https://www.astrology.com/us/horoscope/index-chinese.aspx,158,0,1
+1677112968154,158,/us/horoscope/index-chinese.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/us/horoscope/index-chinese.aspx,158,0,1
+1677112968312,661,/us/horoscope/index-chinese.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,75728,150,1,1,https://www.astrology.com/us/horoscope/index-chinese.aspx,559,0,223
+1677112968974,792,/learn,200,OK,Psychic Readings - Thread Group 1-1,text,true,,70285,248,1,1,https://www.astrology.com/learn,160,0,0
+1677112968974,160,/learn-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,290,124,1,1,http://www.astrology.com/learn,160,0,0
+1677112969134,632,/learn-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,69995,124,1,1,https://www.astrology.com/learn,530,0,220
+1677112969767,819,/zodiac-signs,200,OK,Psychic Readings - Thread Group 1-1,text,true,,80781,262,1,1,https://www.astrology.com/zodiac-signs,164,0,0
+1677112969767,164,/zodiac-signs-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/zodiac-signs,164,0,0
+1677112969931,655,/zodiac-signs-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,80484,131,1,1,https://www.astrology.com/zodiac-signs,554,0,219
+1677112970586,6924,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Psychic Readings - Thread Group 1-1,text,false,"The operation lasted too long: It took 6,924 milliseconds, but should not have lasted longer than 5,000 milliseconds.",60111,194,1,1,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,6817,0,228
+1677112977511,741,/chinese-zodiac,200,OK,Psychic Readings - Thread Group 1-1,text,true,,66388,266,1,1,https://www.astrology.com/chinese-zodiac,167,0,1
+1677112977511,167,/chinese-zodiac-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,299,133,1,1,http://www.astrology.com/chinese-zodiac,167,0,1
+1677112977678,574,/chinese-zodiac-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,66089,133,1,1,https://www.astrology.com/chinese-zodiac,523,0,212
+1677112978253,799,/planets,200,OK,Psychic Readings - Thread Group 1-1,text,true,,70186,252,1,1,https://www.astrology.com/planets,161,0,0
+1677112978253,161,/planets-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,292,126,1,1,http://www.astrology.com/planets,161,0,0
+1677112978415,637,/planets-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,69894,126,1,1,https://www.astrology.com/planets,538,0,216
+1677112979053,741,/asteroids,200,OK,Psychic Readings - Thread Group 1-1,text,true,,68751,256,1,1,https://www.astrology.com/asteroids,160,0,0
+1677112979053,160,/asteroids-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,294,128,1,1,http://www.astrology.com/asteroids,160,0,0
+1677112979213,581,/asteroids-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,68457,128,1,1,https://www.astrology.com/asteroids,529,0,217
+1677112979794,734,/elements,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67759,254,1,1,https://www.astrology.com/elements,157,0,1
+1677112979794,157,/elements-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,293,127,1,1,http://www.astrology.com/elements,157,0,1
+1677112979951,577,/elements-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67466,127,1,1,https://www.astrology.com/elements,526,0,214
+1677112980528,757,/modalities,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67432,258,1,1,https://www.astrology.com/modalities,161,0,1
+1677112980528,161,/modalities-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/modalities,161,0,1
+1677112980689,596,/modalities-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67137,129,1,1,https://www.astrology.com/modalities,542,0,226
+1677112981285,790,/houses,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71232,250,1,1,https://www.astrology.com/houses,157,0,1
+1677112981285,157,/houses-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,291,125,1,1,http://www.astrology.com/houses,157,0,1
+1677112981442,633,/houses-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,70941,125,1,1,https://www.astrology.com/houses,531,0,219
+1677112982075,735,/aspects-and-transits,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67853,278,1,1,https://www.astrology.com/aspects-and-transits,157,0,1
+1677112982075,157,/aspects-and-transits-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,305,139,1,1,http://www.astrology.com/aspects-and-transits,157,0,1
+1677112982232,578,/aspects-and-transits-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67548,139,1,1,https://www.astrology.com/aspects-and-transits,525,0,215
+1677112982810,823,/on-the-cusp,200,OK,Psychic Readings - Thread Group 1-1,text,true,,109307,260,1,1,https://www.astrology.com/on-the-cusp,164,0,1
+1677112982810,164,/on-the-cusp-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,296,130,1,1,http://www.astrology.com/on-the-cusp,164,0,1
+1677112982974,659,/on-the-cusp-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,109011,130,1,1,https://www.astrology.com/on-the-cusp,556,0,213
+1677112983633,824,/retrograde,200,OK,Psychic Readings - Thread Group 1-1,text,true,,81693,258,1,1,https://www.astrology.com/retrograde,162,0,1
+1677112983633,162,/retrograde-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/retrograde,162,0,1
+1677112983796,661,/retrograde-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,81398,129,1,1,https://www.astrology.com/retrograde,559,0,218
+1677112984458,800,/us/astrology-calendar-2023.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,74108,300,1,1,https://www.astrology.com/us/astrology-calendar-2023.aspx,160,0,1
+1677112984458,160,/us/astrology-calendar-2023.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/us/astrology-calendar-2023.aspx,160,0,1
+1677112984618,640,/us/astrology-calendar-2023.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,73792,150,1,1,https://www.astrology.com/us/astrology-calendar-2023.aspx,536,0,220
+1677112985259,809,/numerology,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71522,258,1,1,https://www.astrology.com/numerology,166,0,0
+1677112985259,166,/numerology-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/numerology,166,0,0
+1677112985425,643,/numerology-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71227,129,1,1,https://www.astrology.com/numerology,540,0,221
+1677112986068,807,/articles,200,OK,Psychic Readings - Thread Group 1-1,text,true,,85345,254,1,1,https://www.astrology.com/articles,164,0,1
+1677112986068,164,/articles-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,293,127,1,1,http://www.astrology.com/articles,164,0,1
+1677112986232,643,/articles-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,85052,127,1,1,https://www.astrology.com/articles,543,0,224
+1677112986875,760,/compatibility,200,OK,Psychic Readings - Thread Group 1-1,text,true,,61854,264,1,1,https://www.astrology.com/compatibility,167,0,1
+1677112986875,167,/compatibility-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,298,132,1,1,http://www.astrology.com/compatibility,167,0,1
+1677112987042,593,/compatibility-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,61556,132,1,1,https://www.astrology.com/compatibility,539,0,235
+1677112987635,736,/compatibility/zodiac-signs/love.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64998,310,1,1,https://www.astrology.com/compatibility/zodiac-signs/love.html,165,0,1
+1677112987635,165,/compatibility/zodiac-signs/love.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/compatibility/zodiac-signs/love.html,165,0,1
+1677112987800,571,/compatibility/zodiac-signs/love.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64677,155,1,1,https://www.astrology.com/compatibility/zodiac-signs/love.html,519,0,213
+1677112988372,767,/compatibility/zodiac-signs/career.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64880,314,1,1,https://www.astrology.com/compatibility/zodiac-signs/career.html,160,0,0
+1677112988372,160,/compatibility/zodiac-signs/career.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/compatibility/zodiac-signs/career.html,160,0,0
+1677112988532,607,/compatibility/zodiac-signs/career.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64557,157,1,1,https://www.astrology.com/compatibility/zodiac-signs/career.html,554,0,233
+1677112989139,760,/compatibility/chinese-signs/love.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64644,312,1,1,https://www.astrology.com/compatibility/chinese-signs/love.html,183,0,1
+1677112989139,183,/compatibility/chinese-signs/love.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/compatibility/chinese-signs/love.html,183,0,1
+1677112989322,577,/compatibility/chinese-signs/love.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64322,156,1,1,https://www.astrology.com/compatibility/chinese-signs/love.html,526,0,210
+1677112989900,752,/zodiac-man,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63939,258,1,1,https://www.astrology.com/zodiac-man,166,0,0
+1677112989900,166,/zodiac-man-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/zodiac-man,166,0,0
+1677112990066,586,/zodiac-man-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63644,129,1,1,https://www.astrology.com/zodiac-man,532,0,219
+1677112990652,736,/zodiac-woman,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63984,262,1,1,https://www.astrology.com/zodiac-woman,163,0,1
+1677112990652,163,/zodiac-woman-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/zodiac-woman,163,0,1
+1677112990815,573,/zodiac-woman-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63687,131,1,1,https://www.astrology.com/zodiac-woman,523,0,213
+1677112991389,740,/compatibility/magic-8-ball-love.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65525,310,1,1,https://www.astrology.com/compatibility/magic-8-ball-love.html,163,0,1
+1677112991389,163,/compatibility/magic-8-ball-love.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/compatibility/magic-8-ball-love.html,163,0,1
+1677112991552,577,/compatibility/magic-8-ball-love.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65204,155,1,1,https://www.astrology.com/compatibility/magic-8-ball-love.html,525,0,214
+1677112992130,828,/compatibility/secret-crush.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,62165,300,1,1,https://www.astrology.com/compatibility/secret-crush.html,166,0,0
+1677112992130,166,/compatibility/secret-crush.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/compatibility/secret-crush.html,166,0,0
+1677112992297,661,/compatibility/secret-crush.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,61849,150,1,1,https://www.astrology.com/compatibility/secret-crush.html,610,0,211
+1677112992958,741,/compatibility/game-ask-the-genie.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65449,312,1,1,https://www.astrology.com/compatibility/game-ask-the-genie.html,161,0,1
+1677112992958,161,/compatibility/game-ask-the-genie.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/compatibility/game-ask-the-genie.html,161,0,1
+1677112993119,580,/compatibility/game-ask-the-genie.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65127,156,1,1,https://www.astrology.com/compatibility/game-ask-the-genie.html,529,0,214
+1677112993699,760,/compatibility/fortune-cookie.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65435,304,1,1,https://www.astrology.com/compatibility/fortune-cookie.html,171,0,0
+1677112993699,171,/compatibility/fortune-cookie.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/compatibility/fortune-cookie.html,171,0,0
+1677112993870,589,/compatibility/fortune-cookie.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65117,152,1,1,https://www.astrology.com/compatibility/fortune-cookie.html,535,0,239
+1677112994459,759,/compatibility/book-of-love.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65293,300,1,1,https://www.astrology.com/compatibility/book-of-love.html,184,0,1
+1677112994459,184,/compatibility/book-of-love.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/compatibility/book-of-love.html,184,0,1
+1677112994643,575,/compatibility/book-of-love.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64977,150,1,1,https://www.astrology.com/compatibility/book-of-love.html,523,0,215
+1677112995219,750,/compatibility/daily-karmic-number.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63394,314,1,1,https://www.astrology.com/compatibility/daily-karmic-number.html,164,0,0
+1677112995219,164,/compatibility/daily-karmic-number.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/compatibility/daily-karmic-number.html,164,0,0
+1677112995383,586,/compatibility/daily-karmic-number.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63071,157,1,1,https://www.astrology.com/compatibility/daily-karmic-number.html,532,0,219
+1677112995970,776,/tarot.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,66177,258,1,1,https://www.astrology.com/tarot.html,167,0,1
+1677112995970,167,/tarot.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/tarot.html,167,0,1
+1677112996137,609,/tarot.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65882,129,1,1,https://www.astrology.com/tarot.html,555,0,223
+1677112996746,751,/tarot/daily.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,68154,270,1,1,https://www.astrology.com/tarot/daily.html,175,0,1
+1677112996746,175,/tarot/daily.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,301,135,1,1,http://www.astrology.com/tarot/daily.html,175,0,1
+1677112996922,575,/tarot/daily.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67853,135,1,1,https://www.astrology.com/tarot/daily.html,523,0,211
+1677112997498,758,/tarot/yes-no.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63972,272,1,1,https://www.astrology.com/tarot/yes-no.html,166,0,0
+1677112997498,166,/tarot/yes-no.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,302,136,1,1,http://www.astrology.com/tarot/yes-no.html,166,0,0
+1677112997664,592,/tarot/yes-no.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63670,136,1,1,https://www.astrology.com/tarot/yes-no.html,539,0,221
+1677112998257,752,/tarot/daily-love.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64591,280,1,1,https://www.astrology.com/tarot/daily-love.html,164,0,0
+1677112998257,164,/tarot/daily-love.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,306,140,1,1,http://www.astrology.com/tarot/daily-love.html,164,0,0
+1677112998421,588,/tarot/daily-love.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64285,140,1,1,https://www.astrology.com/tarot/daily-love.html,533,0,222
+1677112999010,752,/tarot/daily-career.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64097,284,1,1,https://www.astrology.com/tarot/daily-career.html,168,0,0
+1677112999010,168,/tarot/daily-career.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,308,142,1,1,http://www.astrology.com/tarot/daily-career.html,168,0,0
+1677112999178,584,/tarot/daily-career.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63789,142,1,1,https://www.astrology.com/tarot/daily-career.html,531,0,220
+1677112999763,977,/tarot/love-potential.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64717,288,1,1,https://www.astrology.com/tarot/love-potential.html,156,0,0
+1677112999763,156,/tarot/love-potential.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,310,144,1,1,http://www.astrology.com/tarot/love-potential.html,156,0,0
+1677112999919,821,/tarot/love-potential.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64407,144,1,1,https://www.astrology.com/tarot/love-potential.html,714,0,227
+1677113000740,759,/tarot/breakup.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64933,274,1,1,https://www.astrology.com/tarot/breakup.html,164,0,1
+1677113000740,164,/tarot/breakup.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,303,137,1,1,http://www.astrology.com/tarot/breakup.html,164,0,1
+1677113000904,595,/tarot/breakup.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64630,137,1,1,https://www.astrology.com/tarot/breakup.html,541,0,220
+1677113001499,768,/tarot/daily-flirt.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64674,282,1,1,https://www.astrology.com/tarot/daily-flirt.html,166,0,1
+1677113001499,166,/tarot/daily-flirt.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,307,141,1,1,http://www.astrology.com/tarot/daily-flirt.html,166,0,1
+1677113001665,602,/tarot/daily-flirt.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64367,141,1,1,https://www.astrology.com/tarot/daily-flirt.html,547,0,224
+1677113002268,752,/us/tarot/tarot-yin-yang.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64371,294,1,1,https://www.astrology.com/us/tarot/tarot-yin-yang.aspx,179,0,0
+1677113002268,179,/us/tarot/tarot-yin-yang.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,313,147,1,1,http://www.astrology.com/us/tarot/tarot-yin-yang.aspx,179,0,0
+1677113002447,573,/us/tarot/tarot-yin-yang.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64058,147,1,1,https://www.astrology.com/us/tarot/tarot-yin-yang.aspx,522,0,217
+1677113003021,816,/tarot/how-to-tarot,200,OK,Psychic Readings - Thread Group 1-1,text,true,,75539,274,1,1,https://www.astrology.com/tarot/how-to-tarot,174,0,0
+1677113003021,174,/tarot/how-to-tarot-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,303,137,1,1,http://www.astrology.com/tarot/how-to-tarot,174,0,0
+1677113003195,642,/tarot/how-to-tarot-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,75236,137,1,1,https://www.astrology.com/tarot/how-to-tarot,540,0,217
+1677113003838,802,/tarot/card-meanings,200,OK,Psychic Readings - Thread Group 1-1,text,true,,77150,276,1,1,https://www.astrology.com/tarot/card-meanings,156,0,1
+1677113003838,156,/tarot/card-meanings-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,304,138,1,1,http://www.astrology.com/tarot/card-meanings,156,0,1
+1677113003994,646,/tarot/card-meanings-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,76846,138,1,1,https://www.astrology.com/tarot/card-meanings,545,0,221
+1677113004641,1023,/psychic-readings/tarot.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67350,292,1,1,https://www.astrology.com/psychic-readings/tarot.html,165,0,0
+1677113004641,165,/psychic-readings/tarot.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,312,146,1,1,http://www.astrology.com/psychic-readings/tarot.html,165,0,0
+1677113004807,857,/psychic-readings/tarot.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67038,146,1,1,https://www.astrology.com/psychic-readings/tarot.html,757,0,210
+1677113005664,1911,https://shop.astrology.com/?utm_source=direct&utm_medium=acquisition&utm_campaign=index-page,200,OK,Psychic Readings - Thread Group 1-1,text,true,,151702,185,1,1,https://shop.astrology.com/?utm_source=direct&utm_medium=acquisition&utm_campaign=index-page,1753,0,220
+1677113007575,12251,https://shop.astrology.com/product/astrology-plus/?utm_source=direct&utm_medium=acquisition&utm_campaign=store-sub-nav,200,OK,Psychic Readings - Thread Group 1-1,text,false,"The operation lasted too long: It took 12,251 milliseconds, but should not have lasted longer than 5,000 milliseconds.",98457,211,1,1,https://shop.astrology.com/product/astrology-plus/?utm_source=direct&utm_medium=acquisition&utm_campaign=store-sub-nav,12071,0,223
+1677113019827,1685,https://shop.astrology.com/product/birth-horoscope-natal-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Psychic Readings - Thread Group 1-1,text,true,,93302,219,1,1,https://shop.astrology.com/product/birth-horoscope-natal-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1534,0,215
+1677113021512,12219,https://shop.astrology.com/product/love-compatibility-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Psychic Readings - Thread Group 1-1,text,false,"The operation lasted too long: It took 12,219 milliseconds, but should not have lasted longer than 5,000 milliseconds.",96315,217,1,1,https://shop.astrology.com/product/love-compatibility-report/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,12065,0,220
+1677113033733,7219,https://shop.astrology.com/product/monthly-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Psychic Readings - Thread Group 1-1,text,false,"The operation lasted too long: It took 7,219 milliseconds, but should not have lasted longer than 5,000 milliseconds.",85271,209,1,1,https://shop.astrology.com/product/monthly-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,7113,0,221
+1677113040951,1915,https://shop.astrology.com/product/yearly-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Psychic Readings - Thread Group 1-1,text,true,,108080,208,1,1,https://shop.astrology.com/product/yearly-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1764,0,214
+1677113042866,7290,https://shop.astrology.com/product/yearly-love-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Psychic Readings - Thread Group 1-1,text,false,"The operation lasted too long: It took 7,290 milliseconds, but should not have lasted longer than 5,000 milliseconds.",102503,217,1,1,https://shop.astrology.com/product/yearly-love-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,7138,0,215
+1677113050158,1763,https://shop.astrology.com/product/yearly-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Psychic Readings - Thread Group 1-1,text,true,,102144,212,1,1,https://shop.astrology.com/product/yearly-tarot-reading/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1610,0,214
+1677113051922,7348,https://shop.astrology.com/product/annual-vedic-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Psychic Readings - Thread Group 1-1,text,false,"The operation lasted too long: It took 7,348 milliseconds, but should not have lasted longer than 5,000 milliseconds.",103549,214,1,1,https://shop.astrology.com/product/annual-vedic-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,7196,0,216
+1677113059271,1553,https://shop.astrology.com/product/yearly-chinese-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Psychic Readings - Thread Group 1-1,text,false,,3137,0,1,1,https://shop.astrology.com/product/yearly-chinese-horoscope/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,0,0,209
+1677116001750,1452,/psychic-readings,200,OK,Psychic Readings - Thread Group 1-1,text,true,,68373,270,1,1,https://www.astrology.com/psychic-readings,244,0,67
+1677116001750,244,/psychic-readings-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,301,135,1,1,http://www.astrology.com/psychic-readings,244,0,67
+1677116001995,1207,/psychic-readings-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,68072,135,1,1,https://www.astrology.com/psychic-readings,1101,0,378
+1677116003212,520,/img/favicon.ico,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,8236,268,1,1,https://www.astrology.com/img/favicon.ico,159,0,0
+1677116003212,159,/img/favicon.ico-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,300,134,1,1,http://www.astrology.com/img/favicon.ico,159,0,0
+1677116003371,361,/img/favicon.ico-1,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,7936,134,1,1,https://www.astrology.com/img/favicon.ico,361,0,215
+1677116003733,535,/img/apple-touch-icon.png,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,2738,286,1,1,https://www.astrology.com/img/apple-touch-icon.png,162,0,2
+1677116003733,162,/img/apple-touch-icon.png-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,309,143,1,1,http://www.astrology.com/img/apple-touch-icon.png,162,0,2
+1677116003895,373,/img/apple-touch-icon.png-1,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,2429,143,1,1,https://www.astrology.com/img/apple-touch-icon.png,373,0,219
+1677116004269,550,/img/favicon-32x32.png,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,1493,280,1,1,https://www.astrology.com/img/favicon-32x32.png,170,0,2
+1677116004269,170,/img/favicon-32x32.png-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,306,140,1,1,http://www.astrology.com/img/favicon-32x32.png,170,0,2
+1677116004439,380,/img/favicon-32x32.png-1,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,1187,140,1,1,https://www.astrology.com/img/favicon-32x32.png,380,0,225
+1677116004820,535,/img/favicon-16x16.png,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,1285,280,1,1,https://www.astrology.com/img/favicon-16x16.png,157,0,1
+1677116004820,157,/img/favicon-16x16.png-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,306,140,1,1,http://www.astrology.com/img/favicon-16x16.png,157,0,1
+1677116004977,378,/img/favicon-16x16.png-1,200,OK,Psychic Readings - Thread Group 1-1,bin,true,,979,140,1,1,https://www.astrology.com/img/favicon-16x16.png,378,0,229
+1677116005356,595,/img/site.webmanifest,200,OK,Psychic Readings - Thread Group 1-1,text,true,,1234,278,1,1,https://www.astrology.com/img/site.webmanifest,169,0,1
+1677116005356,169,/img/site.webmanifest-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,305,139,1,1,http://www.astrology.com/img/site.webmanifest,169,0,1
+1677116005525,426,/img/site.webmanifest-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,929,139,1,1,https://www.astrology.com/img/site.webmanifest,426,0,220
+1677116005952,516,/img/safari-pinned-tab.svg,200,OK,Psychic Readings - Thread Group 1-1,text,true,,1375,288,1,1,https://www.astrology.com/img/safari-pinned-tab.svg,158,0,1
+1677116005952,158,/img/safari-pinned-tab.svg-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,310,144,1,1,http://www.astrology.com/img/safari-pinned-tab.svg,158,0,1
+1677116006110,358,/img/safari-pinned-tab.svg-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,1065,144,1,1,https://www.astrology.com/img/safari-pinned-tab.svg,358,0,214
+1677116006470,421,https://www.googletagmanager.com/ns.html?id=GTM-W5JL5NG,200,OK,Psychic Readings - Thread Group 1-1,text,true,,1117,148,1,1,https://www.googletagmanager.com/ns.html?id=GTM-W5JL5NG,421,0,271
+1677116006892,1229,https://www.keen.com/psychic-readings/195?tid=SCNMDKCP&HLT=0&Hero=generic,200,OK,Psychic Readings - Thread Group 1-1,text,true,,125652,166,1,1,https://www.keen.com/psychic-readings/195?tid=SCNMDKCP&HLT=0&Hero=generic,1072,0,245
+1677116008122,800,/us/home.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71198,262,1,1,https://www.astrology.com/us/home.aspx,167,0,1
+1677116008122,167,/us/home.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/us/home.aspx,167,0,1
+1677116008289,633,/us/home.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,70901,131,1,1,https://www.astrology.com/us/home.aspx,535,0,219
+1677116008924,1360,https://shop.astrology.com/plus/dash/?utm_source=direct&utm_medium=acquisition&utm_campaign=-sign-in-button,200,OK,Psychic Readings - Thread Group 1-1,text,true,,29206,200,1,1,https://shop.astrology.com/plus/dash/?utm_source=direct&utm_medium=acquisition&utm_campaign=-sign-in-button,1311,0,290
+1677116010286,6832,https://shop.astrology.com/product/astrology-plus/?utm_source=direct&utm_medium=acquisition&utm_campaign=top-nav,200,OK,Psychic Readings - Thread Group 1-1,text,false,"The operation lasted too long: It took 6,832 milliseconds, but should not have lasted longer than 5,000 milliseconds.",98457,205,1,1,https://shop.astrology.com/product/astrology-plus/?utm_source=direct&utm_medium=acquisition&utm_campaign=top-nav,6683,0,233
+1677116017119,798,/horoscope/daily.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,77054,278,1,1,https://www.astrology.com/horoscope/daily.html,166,0,2
+1677116017119,166,/horoscope/daily.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,305,139,1,1,http://www.astrology.com/horoscope/daily.html,166,0,2
+1677116017285,632,/horoscope/daily.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,76749,139,1,1,https://www.astrology.com/horoscope/daily.html,535,0,214
+1677116017918,867,/horoscope/weekly-overview.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,69298,298,1,1,https://www.astrology.com/horoscope/weekly-overview.html,160,0,0
+1677116017918,160,/horoscope/weekly-overview.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,315,149,1,1,http://www.astrology.com/horoscope/weekly-overview.html,160,0,0
+1677116018078,707,/horoscope/weekly-overview.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,68983,149,1,1,https://www.astrology.com/horoscope/weekly-overview.html,608,0,220
+1677116018786,801,/horoscope/monthly-overview.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71369,300,1,1,https://www.astrology.com/horoscope/monthly-overview.html,161,0,1
+1677116018786,161,/horoscope/monthly-overview.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/horoscope/monthly-overview.html,161,0,1
+1677116018947,640,/horoscope/monthly-overview.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71053,150,1,1,https://www.astrology.com/horoscope/monthly-overview.html,544,0,213
+1677116019588,816,/us/horoscope/index-yearly-2023.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64923,308,1,1,https://www.astrology.com/us/horoscope/index-yearly-2023.aspx,161,0,1
+1677116019588,161,/us/horoscope/index-yearly-2023.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,320,154,1,1,http://www.astrology.com/us/horoscope/index-yearly-2023.aspx,161,0,1
+1677116019749,655,/us/horoscope/index-yearly-2023.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64603,154,1,1,https://www.astrology.com/us/horoscope/index-yearly-2023.aspx,602,0,224
+1677116020405,799,/us/horoscope/index-daily-love.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,74600,306,1,1,https://www.astrology.com/us/horoscope/index-daily-love.aspx,164,0,0
+1677116020405,164,/us/horoscope/index-daily-love.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/us/horoscope/index-daily-love.aspx,164,0,0
+1677116020569,635,/us/horoscope/index-daily-love.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,74281,153,1,1,https://www.astrology.com/us/horoscope/index-daily-love.aspx,537,0,213
+1677116021205,814,/us/horoscope/index-daily-work.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,75792,306,1,1,https://www.astrology.com/us/horoscope/index-daily-work.aspx,160,0,1
+1677116021205,160,/us/horoscope/index-daily-work.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,319,153,1,1,http://www.astrology.com/us/horoscope/index-daily-work.aspx,160,0,1
+1677116021365,654,/us/horoscope/index-daily-work.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,75473,153,1,1,https://www.astrology.com/us/horoscope/index-daily-work.aspx,552,0,219
+1677116022020,836,/us/horoscope/index-daily-dating.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,75094,310,1,1,https://www.astrology.com/us/horoscope/index-daily-dating.aspx,157,0,0
+1677116022020,157,/us/horoscope/index-daily-dating.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/us/horoscope/index-daily-dating.aspx,157,0,0
+1677116022178,678,/us/horoscope/index-daily-dating.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,74773,155,1,1,https://www.astrology.com/us/horoscope/index-daily-dating.aspx,578,0,217
+1677116022859,786,/us/horoscope/index-chinese.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,76045,300,1,1,https://www.astrology.com/us/horoscope/index-chinese.aspx,163,0,1
+1677116022859,163,/us/horoscope/index-chinese.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/us/horoscope/index-chinese.aspx,163,0,1
+1677116023022,623,/us/horoscope/index-chinese.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,75729,150,1,1,https://www.astrology.com/us/horoscope/index-chinese.aspx,525,0,211
+1677116023646,832,/learn,200,OK,Psychic Readings - Thread Group 1-1,text,true,,70285,248,1,1,https://www.astrology.com/learn,176,0,1
+1677116023646,176,/learn-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,290,124,1,1,http://www.astrology.com/learn,176,0,1
+1677116023822,656,/learn-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,69995,124,1,1,https://www.astrology.com/learn,552,0,235
+1677116024479,803,/zodiac-signs,200,OK,Psychic Readings - Thread Group 1-1,text,true,,80782,262,1,1,https://www.astrology.com/zodiac-signs,160,0,0
+1677116024479,160,/zodiac-signs-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/zodiac-signs,160,0,0
+1677116024639,643,/zodiac-signs-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,80485,131,1,1,https://www.astrology.com/zodiac-signs,544,0,212
+1677116025283,1382,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,200,OK,Psychic Readings - Thread Group 1-1,text,true,,60111,194,1,1,https://www.astrology.com/birth-chart/?utm_source=direct&utm_medium=acquisition&utm_campaign=site-map,1284,0,214
+1677116026665,755,/chinese-zodiac,200,OK,Psychic Readings - Thread Group 1-1,text,true,,66385,266,1,1,https://www.astrology.com/chinese-zodiac,157,0,1
+1677116026665,157,/chinese-zodiac-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,299,133,1,1,http://www.astrology.com/chinese-zodiac,157,0,1
+1677116026822,598,/chinese-zodiac-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,66086,133,1,1,https://www.astrology.com/chinese-zodiac,542,0,225
+1677116027421,869,/planets,200,OK,Psychic Readings - Thread Group 1-1,text,true,,70189,252,1,1,https://www.astrology.com/planets,167,0,1
+1677116027421,167,/planets-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,292,126,1,1,http://www.astrology.com/planets,167,0,1
+1677116027588,702,/planets-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,69897,126,1,1,https://www.astrology.com/planets,605,0,216
+1677116028291,744,/asteroids,200,OK,Psychic Readings - Thread Group 1-1,text,true,,68755,256,1,1,https://www.astrology.com/asteroids,159,0,1
+1677116028291,159,/asteroids-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,294,128,1,1,http://www.astrology.com/asteroids,159,0,1
+1677116028450,585,/asteroids-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,68461,128,1,1,https://www.astrology.com/asteroids,534,0,214
+1677116029036,792,/elements,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67759,254,1,1,https://www.astrology.com/elements,161,0,1
+1677116029036,161,/elements-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,293,127,1,1,http://www.astrology.com/elements,161,0,1
+1677116029197,631,/elements-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67466,127,1,1,https://www.astrology.com/elements,532,0,220
+1677116029829,814,/modalities,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67435,258,1,1,https://www.astrology.com/modalities,159,0,1
+1677116029829,159,/modalities-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/modalities,159,0,1
+1677116029988,655,/modalities-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67140,129,1,1,https://www.astrology.com/modalities,603,0,212
+1677116030644,800,/houses,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71232,250,1,1,https://www.astrology.com/houses,156,0,1
+1677116030644,156,/houses-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,291,125,1,1,http://www.astrology.com/houses,156,0,1
+1677116030800,644,/houses-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,70941,125,1,1,https://www.astrology.com/houses,543,0,223
+1677116031445,798,/aspects-and-transits,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67850,278,1,1,https://www.astrology.com/aspects-and-transits,167,0,1
+1677116031445,167,/aspects-and-transits-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,305,139,1,1,http://www.astrology.com/aspects-and-transits,167,0,1
+1677116031612,631,/aspects-and-transits-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,67545,139,1,1,https://www.astrology.com/aspects-and-transits,579,0,217
+1677116032245,844,/on-the-cusp,200,OK,Psychic Readings - Thread Group 1-1,text,true,,109309,260,1,1,https://www.astrology.com/on-the-cusp,180,0,1
+1677116032245,180,/on-the-cusp-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,296,130,1,1,http://www.astrology.com/on-the-cusp,180,0,1
+1677116032425,664,/on-the-cusp-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,109013,130,1,1,https://www.astrology.com/on-the-cusp,564,0,213
+1677116033090,807,/retrograde,200,OK,Psychic Readings - Thread Group 1-1,text,true,,81693,258,1,1,https://www.astrology.com/retrograde,161,0,1
+1677116033090,161,/retrograde-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/retrograde,161,0,1
+1677116033251,646,/retrograde-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,81398,129,1,1,https://www.astrology.com/retrograde,547,0,217
+1677116033898,799,/us/astrology-calendar-2023.aspx,200,OK,Psychic Readings - Thread Group 1-1,text,true,,74108,300,1,1,https://www.astrology.com/us/astrology-calendar-2023.aspx,160,0,1
+1677116033898,160,/us/astrology-calendar-2023.aspx-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/us/astrology-calendar-2023.aspx,160,0,1
+1677116034058,639,/us/astrology-calendar-2023.aspx-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,73792,150,1,1,https://www.astrology.com/us/astrology-calendar-2023.aspx,539,0,216
+1677116034699,781,/numerology,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71521,258,1,1,https://www.astrology.com/numerology,159,0,1
+1677116034699,159,/numerology-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/numerology,159,0,1
+1677116034858,622,/numerology-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,71226,129,1,1,https://www.astrology.com/numerology,520,0,212
+1677116035500,842,/articles,200,OK,Psychic Readings - Thread Group 1-1,text,true,,85345,254,1,1,https://www.astrology.com/articles,168,0,1
+1677116035500,168,/articles-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,293,127,1,1,http://www.astrology.com/articles,168,0,1
+1677116035668,674,/articles-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,85052,127,1,1,https://www.astrology.com/articles,569,0,226
+1677116036342,737,/compatibility,200,OK,Psychic Readings - Thread Group 1-1,text,true,,61852,264,1,1,https://www.astrology.com/compatibility,158,0,1
+1677116036342,158,/compatibility-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,298,132,1,1,http://www.astrology.com/compatibility,158,0,1
+1677116036500,579,/compatibility-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,61554,132,1,1,https://www.astrology.com/compatibility,525,0,223
+1677116037079,785,/compatibility/zodiac-signs/love.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65000,310,1,1,https://www.astrology.com/compatibility/zodiac-signs/love.html,159,0,1
+1677116037079,159,/compatibility/zodiac-signs/love.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/compatibility/zodiac-signs/love.html,159,0,1
+1677116037238,626,/compatibility/zodiac-signs/love.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64679,155,1,1,https://www.astrology.com/compatibility/zodiac-signs/love.html,574,0,217
+1677116037865,758,/compatibility/zodiac-signs/career.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64879,314,1,1,https://www.astrology.com/compatibility/zodiac-signs/career.html,162,0,0
+1677116037865,162,/compatibility/zodiac-signs/career.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/compatibility/zodiac-signs/career.html,162,0,0
+1677116038027,596,/compatibility/zodiac-signs/career.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64556,157,1,1,https://www.astrology.com/compatibility/zodiac-signs/career.html,543,0,224
+1677116038624,770,/compatibility/chinese-signs/love.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64640,312,1,1,https://www.astrology.com/compatibility/chinese-signs/love.html,160,0,1
+1677116038624,160,/compatibility/chinese-signs/love.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/compatibility/chinese-signs/love.html,160,0,1
+1677116038785,609,/compatibility/chinese-signs/love.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64318,156,1,1,https://www.astrology.com/compatibility/chinese-signs/love.html,554,0,227
+1677116039395,778,/zodiac-man,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63941,258,1,1,https://www.astrology.com/zodiac-man,168,0,1
+1677116039395,168,/zodiac-man-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,295,129,1,1,http://www.astrology.com/zodiac-man,168,0,1
+1677116039563,610,/zodiac-man-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63646,129,1,1,https://www.astrology.com/zodiac-man,556,0,223
+1677116040175,746,/zodiac-woman,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63980,262,1,1,https://www.astrology.com/zodiac-woman,160,0,0
+1677116040175,160,/zodiac-woman-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,297,131,1,1,http://www.astrology.com/zodiac-woman,160,0,0
+1677116040335,586,/zodiac-woman-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63683,131,1,1,https://www.astrology.com/zodiac-woman,533,0,218
+1677116040922,766,/compatibility/magic-8-ball-love.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65524,310,1,1,https://www.astrology.com/compatibility/magic-8-ball-love.html,168,0,0
+1677116040922,168,/compatibility/magic-8-ball-love.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,321,155,1,1,http://www.astrology.com/compatibility/magic-8-ball-love.html,168,0,0
+1677116041090,598,/compatibility/magic-8-ball-love.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65203,155,1,1,https://www.astrology.com/compatibility/magic-8-ball-love.html,545,0,224
+1677116041689,734,/compatibility/secret-crush.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,62164,300,1,1,https://www.astrology.com/compatibility/secret-crush.html,158,0,1
+1677116041689,158,/compatibility/secret-crush.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/compatibility/secret-crush.html,158,0,1
+1677116041847,576,/compatibility/secret-crush.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,61848,150,1,1,https://www.astrology.com/compatibility/secret-crush.html,524,0,213
+1677116042424,754,/compatibility/game-ask-the-genie.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65449,312,1,1,https://www.astrology.com/compatibility/game-ask-the-genie.html,165,0,0
+1677116042424,165,/compatibility/game-ask-the-genie.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,322,156,1,1,http://www.astrology.com/compatibility/game-ask-the-genie.html,165,0,0
+1677116042589,589,/compatibility/game-ask-the-genie.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65127,156,1,1,https://www.astrology.com/compatibility/game-ask-the-genie.html,533,0,226
+1677116043179,823,/compatibility/fortune-cookie.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65436,304,1,1,https://www.astrology.com/compatibility/fortune-cookie.html,166,0,1
+1677116043179,166,/compatibility/fortune-cookie.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,318,152,1,1,http://www.astrology.com/compatibility/fortune-cookie.html,166,0,1
+1677116043345,657,/compatibility/fortune-cookie.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65118,152,1,1,https://www.astrology.com/compatibility/fortune-cookie.html,602,0,224
+1677116044003,753,/compatibility/book-of-love.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,65290,300,1,1,https://www.astrology.com/compatibility/book-of-love.html,158,0,1
+1677116044003,158,/compatibility/book-of-love.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,316,150,1,1,http://www.astrology.com/compatibility/book-of-love.html,158,0,1
+1677116044161,595,/compatibility/book-of-love.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,64974,150,1,1,https://www.astrology.com/compatibility/book-of-love.html,542,0,216
+1677116044757,746,/compatibility/daily-karmic-number.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63396,314,1,1,https://www.astrology.com/compatibility/daily-karmic-number.html,162,0,0
+1677116044757,162,/compatibility/daily-karmic-number.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,323,157,1,1,http://www.astrology.com/compatibility/daily-karmic-number.html,162,0,0
+1677116044919,584,/compatibility/daily-karmic-number.html-1,200,OK,Psychic Readings - Thread Group 1-1,text,true,,63073,157,1,1,https://www.astrology.com/compatibility/daily-karmic-number.html,530,0,216
+1677116045503,718,/tarot.html,200,OK,Psychic Readings - Thread Group 1-1,text,true,,66175,258,1,1,https://www.astrology.com/tarot.html,159,0,1
+1677116045503,159,/tarot.html-0,301,Moved Permanently,Psychic Readings - Thread Group 1-1,,true,,295,129,1,1,
