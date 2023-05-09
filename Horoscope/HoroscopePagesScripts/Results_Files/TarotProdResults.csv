@@ -1,4 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,grpThreads,allThreads,URL,Latency,SampleCount,ErrorCount,IdleTime,Connect
-1674840958011,21533,/images-US/tarot/deck-lumina/the-empress.jpg,200,OK,Tarot - Thread Group 1-4,bin,false,"The operation lasted too long: It took 21,533 milliseconds, but should not have lasted longer than 2,500 milliseconds.",1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-empress.jpg,64,1,1,0,29
-1674840958011,64,/images-US/tarot/deck-lumina/the-empress.jpg-0,301,Moved Permanently,Tarot - Thread Group 1-4,,true,,1,1,http://www.horoscope.com/images-US/tarot/deck-lumina/the-empress.jpg,64,1,0,0,29
-1674840958075,21469,/images-US/tarot/deck-lumina/the-empress.jpg-1,200,OK,Tarot - Thread Group 1-4,bin,true,,1,1,https://www.horoscope.com/images-US/tarot/deck-lumina/the-empress.jpg,21469,1,0,0,93

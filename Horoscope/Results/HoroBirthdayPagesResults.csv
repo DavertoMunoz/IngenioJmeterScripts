@@ -1,0 +1,655 @@
+elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,sentBytes,grpThreads,allThreads,URL,Latency,Connect
+977,/birthday-horoscope/aries,200,OK,Birthday Page - Thread Group 1-1,text,true,208053,143,1,1,https://new.horoscope.com/birthday-horoscope/aries,860,414
+1637,/us/games/divination/game-magic-8-ball.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,210254,161,2,2,https://new.horoscope.com/us/games/divination/game-magic-8-ball.aspx,1507,281
+1113,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-2,text,true,227319,180,2,2,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=1,964,296
+507,/birthday-horoscope/taurus,200,OK,Birthday Page - Thread Group 1-1,text,true,208054,144,2,2,https://new.horoscope.com/birthday-horoscope/taurus,406,237
+1093,/birth-chart/,200,OK,Birthday Page - Thread Group 1-1,text,true,39383,121,3,3,https://sites.horoscope.com/,1078,673
+1498,/us/tarot/tarot-angel.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,213578,144,3,3,https://new.horoscope.com/us/tarot/tarot-angel.aspx,1368,275
+615,/birthday-horoscope/leo,200,OK,Birthday Page - Thread Group 1-1,text,true,207813,141,3,3,https://new.horoscope.com/birthday-horoscope/leo,487,263
+588,/birthday-horoscope/virgo,200,OK,Birthday Page - Thread Group 1-2,text,true,208070,143,3,3,https://new.horoscope.com/birthday-horoscope/virgo,458,287
+1677,/us/games/index-games-love.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,210471,149,3,3,https://new.horoscope.com/us/games/index-games-love.aspx,1524,289
+1071,/fr/index.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,193099,132,3,3,https://new.horoscope.com/fr/index.aspx,943,291
+553,/birthday-horoscope/aquarius,200,OK,Birthday Page - Thread Group 1-4,text,true,207985,146,4,4,https://new.horoscope.com/birthday-horoscope/aquarius,451,256
+1505,/zodiac-signs/taurus,200,OK,Birthday Page - Thread Group 1-2,text,true,216092,138,4,4,https://new.horoscope.com/zodiac-signs/taurus,1309,290
+1807,/us/horoscopes/yearly/2023-horoscope-aries.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,205198,165,4,4,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-aries.aspx,1675,282
+2510,/us/games/divination/game-cupids-oracle.aspx,200,OK,Birthday Page - Thread Group 1-1,text,false,210984,162,5,5,https://new.horoscope.com/us/games/divination/game-cupids-oracle.aspx,2411,245
+874,/birthday-horoscope/scorpio,200,OK,Birthday Page - Thread Group 1-1,text,true,207874,145,5,5,https://new.horoscope.com/birthday-horoscope/scorpio,702,289
+2764,/us/games/divination/game-ask-genie.aspx,200,OK,Birthday Page - Thread Group 1-2,text,false,209500,158,5,5,https://new.horoscope.com/us/games/divination/game-ask-genie.aspx,2634,298
+2001,/zodiac-signs/gemini,200,OK,Birthday Page - Thread Group 1-3,text,true,216836,138,5,5,https://new.horoscope.com/zodiac-signs/gemini,1861,281
+2945,/us/horoscopes/general/horoscope-overview-daily-today.aspx,200,OK,Birthday Page - Thread Group 1-4,text,false,218108,176,5,5,https://new.horoscope.com/us/horoscopes/general/horoscope-overview-daily-today.aspx,2801,327
+435,/mercury-retrograde/,404,Not Found,Birthday Page - Thread Group 1-1,text,false,1578,138,5,5,https://new.horoscope.com/mercury-retrograde/,435,281
+570,/birthday-horoscope/gemini,200,OK,Birthday Page - Thread Group 1-3,text,true,208130,144,6,6,https://new.horoscope.com/birthday-horoscope/gemini,442,275
+2377,/us/sitemap.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,67912,134,6,6,https://new.horoscope.com/us/sitemap.aspx,2318,295
+415,/celebrities/,404,Not Found,Birthday Page - Thread Group 1-3,text,false,1578,131,6,6,https://new.horoscope.com/celebrities/,415,270
+1696,/us/games/divination/game-luck-meter.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,210722,159,6,6,https://new.horoscope.com/us/games/divination/game-luck-meter.aspx,1529,278
+1681,/tarot/tarot-yes-no.aspx,200,OK,Birthday Page - Thread Group 1-4,text,true,212305,142,6,6,https://new.horoscope.com/tarot/tarot-yes-no.aspx,1505,282
+1865,/psychics/tarot.html,200,OK,Birthday Page - Thread Group 1-1,text,true,193532,138,6,6,https://new.horoscope.com/psychics/tarot.html,1736,260
+1659,/us/games/divination/game-love-fairy.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,213009,159,6,6,https://new.horoscope.com/us/games/divination/game-love-fairy.aspx,1522,282
+1335,/us/about-us.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,203405,135,6,6,https://new.horoscope.com/us/about-us.aspx,1202,249
+362,/images-US/horoscope-logo.svg,200,OK,Birthday Page - Thread Group 1-5,text,true,4270,147,7,7,https://new.horoscope.com/images-US/horoscope-logo.svg,362,298
+2125,/us/tarot/tarot-daily.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,212184,144,7,7,https://new.horoscope.com/us/tarot/tarot-daily.aspx,1992,285
+2398,/us/horoscopes/numerology/index-horoscope-numerology.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,222682,175,7,7,https://new.horoscope.com/us/horoscopes/numerology/index-horoscope-numerology.aspx,2250,290
+2862,/us/privacy.aspx,200,OK,Birthday Page - Thread Group 1-1,text,false,242213,134,8,8,https://new.horoscope.com/us/privacy.aspx,2699,268
+3358,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-4,text,false,220592,177,8,8,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=1,3222,276
+3202,/us/planets/index.html,200,OK,Birthday Page - Thread Group 1-6,text,false,214899,140,8,8,https://new.horoscope.com/us/planets/index.html,3062,292
+831,/birthday-horoscope/libra,200,OK,Birthday Page - Thread Group 1-4,text,true,207853,143,8,8,https://new.horoscope.com/birthday-horoscope/libra,672,257
+3836,/us/tarot/tarot-today-tomorrow.aspx,200,OK,Birthday Page - Thread Group 1-7,text,false,211611,153,8,8,https://new.horoscope.com/us/tarot/tarot-today-tomorrow.aspx,3701,290
+587,/psychics/psychics.html,200,OK,Birthday Page - Thread Group 1-4,text,true,193741,141,8,8,https://new.horoscope.com/psychics/psychics.html,458,293
+4567,/zodiac-signs/virgo,200,OK,Birthday Page - Thread Group 1-5,text,false,215367,137,9,9,https://new.horoscope.com/zodiac-signs/virgo,4430,261
+4085,/us/tarot/index-tarot-reading-love.aspx,200,OK,Birthday Page - Thread Group 1-3,text,false,209756,157,9,9,https://new.horoscope.com/us/tarot/index-tarot-reading-love.aspx,3947,288
+868,/us/index.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,210596,132,9,9,https://new.horoscope.com/us/index.aspx,762,230
+944,/birthday-horoscope/pisces,200,OK,Birthday Page - Thread Group 1-5,text,true,208202,144,9,9,https://new.horoscope.com/birthday-horoscope/pisces,803,305
+4023,/us/tarot/index-tarot-reading.aspx,200,OK,Birthday Page - Thread Group 1-2,text,false,222124,152,9,9,https://new.horoscope.com/us/tarot/index-tarot-reading.aspx,3907,248
+3126,/us/tarot/index-tarot-reading-unique.aspx,200,OK,Birthday Page - Thread Group 1-1,text,false,209906,159,9,9,https://new.horoscope.com/us/tarot/index-tarot-reading-unique.aspx,2987,291
+1816,/us/advertise.aspx,200,OK,Birthday Page - Thread Group 1-7,text,true,205919,136,9,9,https://new.horoscope.com/us/advertise.aspx,1684,285
+1704,/us/games/divination/game-crystal-ball.aspx,200,OK,Birthday Page - Thread Group 1-4,text,true,210047,161,9,9,https://new.horoscope.com/us/games/divination/game-crystal-ball.aspx,1571,299
+3676,/zodiac-signs/pisces,200,OK,Birthday Page - Thread Group 1-8,text,false,216043,138,9,9,https://new.horoscope.com/zodiac-signs/pisces,3536,262
+1689,/us/games/index-games-instant-advice.aspx,200,OK,Birthday Page - Thread Group 1-9,text,true,209133,159,9,9,https://new.horoscope.com/us/games/index-games-instant-advice.aspx,1551,290
+2860,/us/games/divination/game-love-cookie.aspx,200,OK,Birthday Page - Thread Group 1-6,text,false,209901,160,9,9,https://new.horoscope.com/us/games/divination/game-love-cookie.aspx,2700,282
+306,/images-US/psychic/quote.png,200,OK,Birthday Page - Thread Group 1-3,bin,true,980,146,9,9,https://new.horoscope.com/images-US/psychic/quote.png,306,223
+500,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-5,text,true,229983,182,10,10,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=1,392,247
+538,/psychics/love.html,200,OK,Birthday Page - Thread Group 1-7,text,true,193742,137,10,10,https://new.horoscope.com/psychics/love.html,418,247
+499,/birthday-horoscope/cancer,200,OK,Birthday Page - Thread Group 1-6,text,true,207869,144,10,10,https://new.horoscope.com/birthday-horoscope/cancer,395,251
+399,/astrology/,404,Not Found,Birthday Page - Thread Group 1-3,text,false,1578,129,10,10,https://new.horoscope.com/astrology/,399,245
+727,/us/tos.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,255710,130,10,10,https://new.horoscope.com/us/tos.aspx,520,258
+1519,/zodiac-signs/aries,200,OK,Birthday Page - Thread Group 1-4,text,true,214870,137,10,10,https://new.horoscope.com/zodiac-signs/aries,1387,256
+1542,/us/tarot/tarot-lovers-triangle.aspx,200,OK,Birthday Page - Thread Group 1-9,text,true,212528,154,10,10,https://new.horoscope.com/us/tarot/tarot-lovers-triangle.aspx,1406,294
+1561,/zodiac-signs/cancer,200,OK,Birthday Page - Thread Group 1-8,text,true,216592,138,10,10,https://new.horoscope.com/zodiac-signs/cancer,1422,297
+1687,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-2,text,true,230234,176,10,10,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=1,1547,296
+1331,/us/games/index-games.aspx,200,OK,Birthday Page - Thread Group 1-10,text,true,216512,144,10,10,https://new.horoscope.com/us/games/index-games.aspx,1221,234
+1213,/zodiac-signs/leo,200,OK,Birthday Page - Thread Group 1-7,text,true,215146,135,10,10,https://new.horoscope.com/zodiac-signs/leo,1080,261
+1316,/tarot/tarot-card-meaning/the-star,200,OK,Birthday Page - Thread Group 1-5,text,true,214780,152,10,10,https://new.horoscope.com/tarot/tarot-card-meaning/the-star,1163,298
+1180,/us/tarot/tarot-money-oracle.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,213465,151,10,10,https://new.horoscope.com/us/tarot/tarot-money-oracle.aspx,1047,257
+559,/psychics,200,OK,Birthday Page - Thread Group 1-2,text,true,193767,127,10,10,https://new.horoscope.com/psychics,429,287
+2232,/us/tarot/tarot-love-potential.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,213828,153,11,11,https://new.horoscope.com/us/tarot/tarot-love-potential.aspx,2074,260
+2172,/us/horoscopes/chinese/index-horoscope-chinese.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,214989,169,11,11,https://new.horoscope.com/us/horoscopes/chinese/index-horoscope-chinese.aspx,1985,251
+1282,/us/team.aspx,200,OK,Birthday Page - Thread Group 1-7,text,true,202596,131,11,11,https://new.horoscope.com/us/team.aspx,1175,248
+1495,/us/emails/email-subscription.aspx,200,OK,Birthday Page - Thread Group 1-4,text,true,200955,152,11,11,https://new.horoscope.com/us/emails/email-subscription.aspx,1367,268
+1482,/us/games/divination/game-magic-love-ball.aspx,200,OK,Birthday Page - Thread Group 1-9,text,true,210280,164,11,11,https://new.horoscope.com/us/games/divination/game-magic-love-ball.aspx,1349,292
+1472,/zodiac-signs/capricorn,200,OK,Birthday Page - Thread Group 1-8,text,true,216463,141,11,11,https://new.horoscope.com/zodiac-signs/capricorn,1328,302
+1344,/us/games/index-games-fortune-teller.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,207832,159,11,11,https://new.horoscope.com/us/games/index-games-fortune-teller.aspx,1198,282
+1517,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-10,text,true,219957,176,11,11,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=1,1369,284
+521,/articles,200,OK,Birthday Page - Thread Group 1-3,text,true,213929,127,11,11,https://new.horoscope.com/articles,415,255
+398,/horoscope-dates/,404,Not Found,Birthday Page - Thread Group 1-7,text,false,1578,135,11,11,https://new.horoscope.com/horoscope-dates/,398,255
+752,/birthday-horoscope/capricorn,200,OK,Birthday Page - Thread Group 1-10,text,true,208108,147,11,11,https://new.horoscope.com/birthday-horoscope/capricorn,614,284
+1775,/us/tarot/tarot-monthly.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,212252,146,11,11,https://new.horoscope.com/us/tarot/tarot-monthly.aspx,1643,292
+2291,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-6,text,true,229443,184,11,11,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=1,2104,271
+2041,/us/games/divination/game-fortune-cookie.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,209317,163,12,12,https://new.horoscope.com/us/games/divination/game-fortune-cookie.aspx,1938,262
+2593,/us/games/compatibility/game-name-compatibility.aspx,200,OK,Birthday Page - Thread Group 1-11,text,false,214700,170,12,12,https://new.horoscope.com/us/games/compatibility/game-name-compatibility.aspx,2454,291
+1863,/us/games/compatibility/game-friendship-compatibility.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,211230,176,12,12,https://new.horoscope.com/us/games/compatibility/game-friendship-compatibility.aspx,1757,255
+1954,/love/compatibility,200,OK,Birthday Page - Thread Group 1-9,text,true,212117,137,12,12,https://new.horoscope.com/love/compatibility,1816,288
+1967,/zodiac-signs/libra,200,OK,Birthday Page - Thread Group 1-8,text,true,216599,137,12,12,https://new.horoscope.com/zodiac-signs/libra,1821,285
+1675,/zodiac-signs,200,OK,Birthday Page - Thread Group 1-3,text,true,246141,131,12,12,https://new.horoscope.com/zodiac-signs,1524,289
+2050,/us/tarot/tarot-true-love.aspx,200,OK,Birthday Page - Thread Group 1-4,text,true,211306,148,12,12,https://new.horoscope.com/us/tarot/tarot-true-love.aspx,1877,259
+371,/saturn-return/,404,Not Found,Birthday Page - Thread Group 1-1,text,false,1578,133,12,12,https://new.horoscope.com/saturn-return/,371,228
+1345,/us/games/index-games-compatibility.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,208786,158,12,12,https://new.horoscope.com/us/games/index-games-compatibility.aspx,1234,260
+1884,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-7,text,true,220177,173,12,12,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=1,1778,254
+1408,/zodiac-signs/scorpio,200,OK,Birthday Page - Thread Group 1-10,text,true,215539,139,12,12,https://new.horoscope.com/zodiac-signs/scorpio,1266,292
+574,/birthday-horoscope/sagittarius,200,OK,Birthday Page - Thread Group 1-3,text,true,208070,149,12,12,https://new.horoscope.com/birthday-horoscope/sagittarius,437,291
+1830,/birthday-horoscope.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,212305,142,12,12,https://new.horoscope.com/birthday-horoscope.aspx,1726,256
+975,/us/tarot/index-tarot-reading-forecast.aspx,200,OK,Birthday Page - Thread Group 1-11,text,true,207679,161,12,12,https://new.horoscope.com/us/tarot/index-tarot-reading-forecast.aspx,842,300
+968,/zodiac-signs/sagittarius,200,OK,Birthday Page - Thread Group 1-5,text,true,216181,143,12,12,https://new.horoscope.com/zodiac-signs/sagittarius,833,284
+1604,/us/tarot/tarot-daily-love.aspx,200,OK,Birthday Page - Thread Group 1-12,text,true,213780,149,12,12,https://new.horoscope.com/us/tarot/tarot-daily-love.aspx,1459,298
+605,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-10,text,true,230822,176,12,12,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=6,447,295
+584,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-3,text,true,230245,176,12,12,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=7,445,292
+1187,/us/feedback.aspx,200,OK,Birthday Page - Thread Group 1-4,text,true,204274,135,12,12,https://new.horoscope.com/us/feedback.aspx,1058,285
+984,/zodiac-signs/aquarius,200,OK,Birthday Page - Thread Group 1-1,text,true,215125,140,12,12,https://new.horoscope.com/zodiac-signs/aquarius,879,260
+1316,/us/tarot/tarot-past-lives.aspx,200,OK,Birthday Page - Thread Group 1-9,text,true,214174,149,12,12,https://new.horoscope.com/us/tarot/tarot-past-lives.aspx,1173,291
+1343,/quote-of-the-day,200,OK,Birthday Page - Thread Group 1-8,text,true,209340,135,13,13,https://new.horoscope.com/quote-of-the-day,1173,281
+528,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-11,text,true,230295,176,13,13,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=9,420,276
+610,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-6,text,true,230741,176,13,13,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=8,462,290
+600,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-5,text,true,230416,176,13,13,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=2,448,288
+576,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-10,text,true,230347,176,13,13,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=3,429,261
+514,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-3,text,true,230737,176,13,13,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=5,404,256
+592,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-4,text,true,230301,176,13,13,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=4,453,294
+576,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-9,text,true,227416,180,13,13,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=8,439,266
+600,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-13,text,true,227721,180,13,13,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=9,465,297
+603,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-8,text,true,227378,180,13,13,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=6,458,290
+538,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-5,text,true,227393,180,13,13,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=5,425,258
+585,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-6,text,true,227865,180,13,13,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=4,441,291
+592,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-10,text,true,227840,180,13,13,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2,447,297
+733,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-11,text,true,227797,180,13,13,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=7,589,270
+1963,/us/horoscopes/yearly/2023-horoscope-virgo.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,205312,165,13,13,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-virgo.aspx,1830,284
+509,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-8,text,true,229774,183,13,13,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=11,400,246
+582,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-9,text,true,220192,177,13,13,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=9,472,262
+603,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-13,text,true,220484,177,13,13,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=7,495,262
+742,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-4,text,true,227793,180,13,13,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=3,599,258
+657,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-5,text,true,220469,177,13,13,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=8,519,289
+597,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-10,text,true,220533,177,13,13,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=6,489,255
+595,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-11,text,true,229713,183,13,13,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=12,457,289
+596,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-2,text,true,229681,183,13,13,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=10,450,263
+794,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-6,text,true,220511,177,13,13,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=5,650,252
+646,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-9,text,true,220659,177,13,13,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=4,513,293
+714,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-8,text,true,220135,177,13,13,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=3,577,295
+606,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-4,text,true,230343,177,13,13,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=12,467,303
+504,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-5,text,true,230273,177,13,13,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=11,395,253
+2933,/us/horoscopes/yearly/2023-horoscope-cancer.aspx,200,OK,Birthday Page - Thread Group 1-7,text,false,205317,166,13,13,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-cancer.aspx,2798,302
+773,/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-13,text,true,230316,177,13,13,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=10,628,303
+602,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-10,text,true,219967,174,13,13,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=11,462,288
+595,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-11,text,true,230075,182,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=9,452,290
+568,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-2,text,true,229608,182,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=8,429,279
+620,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-9,text,true,219956,174,14,14,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=12,483,294
+564,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-4,text,true,229624,182,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=6,425,257
+544,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-7,text,true,230180,182,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=7,398,256
+568,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-5,text,true,220526,174,14,14,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=10,434,278
+549,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-14,text,true,229577,182,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=5,404,259
+575,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-11,text,true,230013,182,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=3,434,280
+707,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-10,text,true,230025,182,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=4,515,288
+3220,/us/horoscopes/yearly/2023-horoscope-gemini.aspx,200,OK,Birthday Page - Thread Group 1-12,text,false,205281,166,14,14,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-gemini.aspx,3094,255
+461,/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-7,text,true,229518,182,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2,358,222
+562,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-9,text,true,220479,176,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=3,459,221
+619,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-4,text,true,220068,176,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=2,488,256
+534,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-14,text,true,220650,177,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=10,430,226
+578,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-11,text,true,229554,184,14,14,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=8,440,286
+609,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-10,text,true,220322,177,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=11,473,256
+648,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-12,text,true,220526,177,14,14,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=12,514,290
+571,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-7,text,true,229512,184,14,14,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=9,435,253
+577,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-4,text,true,229027,184,14,14,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=6,440,276
+664,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-9,text,true,220097,177,14,14,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=2,531,278
+569,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-14,text,true,229244,184,14,14,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=7,425,282
+620,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-11,text,true,220159,178,14,14,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=12,489,256
+3901,/us/horoscopes/yearly/2023-horoscope-aquarius.aspx,200,OK,Birthday Page - Thread Group 1-1,text,false,205220,168,14,14,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-aquarius.aspx,3773,288
+577,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-10,text,true,229638,184,14,14,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=4,439,294
+583,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-12,text,true,229250,184,15,15,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2,438,285
+624,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-7,text,true,220427,178,15,15,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=11,483,267
+497,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-4,text,true,229448,184,15,15,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=5,389,250
+603,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-14,text,true,229379,184,15,15,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=3,467,299
+637,/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-9,text,true,220720,178,15,15,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=10,501,282
+513,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-10,text,true,229351,185,15,15,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=11,406,256
+586,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-1,text,true,220491,173,15,15,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=6,450,300
+598,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-15,text,true,220459,173,15,15,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=8,458,295
+532,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-7,text,true,220078,173,15,15,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=7,388,252
+580,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-12,text,true,229111,185,15,15,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=12,435,282
+571,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-4,text,true,219951,173,15,15,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2,435,282
+4374,/us/horoscopes/yearly/2023-horoscope-libra.aspx,200,OK,Birthday Page - Thread Group 1-3,text,false,205400,165,15,15,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-libra.aspx,4239,267
+573,/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-14,text,true,229346,185,15,15,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=10,430,290
+587,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-9,text,true,219919,173,15,15,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=4,448,285
+574,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-1,text,true,220452,173,15,15,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=9,435,290
+698,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-10,text,true,219931,173,15,15,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=5,518,293
+584,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-15,text,true,227921,181,15,15,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=10,444,282
+570,/us/horoscopes/money/horoscope-money-weekly.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-7,text,true,220423,173,15,15,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=3,428,288
+583,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-12,text,true,228173,181,15,15,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=11,461,270
+558,/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-4,text,true,227392,181,15,15,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=12,417,262
+649,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-3,text,true,220373,176,15,15,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=8,507,300
+647,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-14,text,true,220298,176,15,15,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=7,506,261
+668,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-9,text,true,220774,176,15,15,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=6,525,288
+4140,/us/horoscopes/yearly/2023-horoscope-scorpio.aspx,200,OK,Birthday Page - Thread Group 1-6,text,false,205432,167,15,15,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-scorpio.aspx,4008,276
+737,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-1,text,true,219955,176,15,15,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=9,552,259
+668,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-10,text,true,220408,176,15,15,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=4,532,316
+735,/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-15,text,true,220495,176,15,15,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=5,600,290
+4705,/us/horoscopes/yearly/2023-horoscope-pisces.aspx,200,OK,Birthday Page - Thread Group 1-8,text,false,204946,166,16,16,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-pisces.aspx,4575,284
+1880,/tarot/tarot-card-meaning/the-high-priestess,200,OK,Birthday Page - Thread Group 1-14,text,true,214929,162,16,16,https://new.horoscope.com/tarot/tarot-card-meaning/the-high-priestess,1726,282
+5504,/us/horoscopes/yearly/2023-horoscope-leo.aspx,200,OK,Birthday Page - Thread Group 1-13,text,false,205181,163,16,16,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-leo.aspx,5372,278
+5412,/us/horoscopes/yearly/2023-horoscope-taurus.aspx,200,OK,Birthday Page - Thread Group 1-2,text,false,205359,166,16,16,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-taurus.aspx,5282,251
+1504,/css-US/main.css?v=2023022312,200,OK,Birthday Page - Thread Group 1-16,text,true,107742,147,16,16,https://new.horoscope.com/css-US/main.css?v=2023022312,1428,285
+5056,/us/horoscopes/yearly/2023-horoscope-sagittarius.aspx,200,OK,Birthday Page - Thread Group 1-5,text,false,205259,171,16,16,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-sagittarius.aspx,4923,287
+697,/images-FR/quizzes/imag-quiz_what-color-is-your-aura.jpg,200,OK,Birthday Page - Thread Group 1-16,bin,true,41886,174,17,17,https://new.horoscope.com/images-FR/quizzes/imag-quiz_what-color-is-your-aura.jpg,686,227
+891,/images-US/upsell/2022-premium-horoscope.jpg,200,OK,Birthday Page - Thread Group 1-14,bin,true,17968,162,17,17,https://new.horoscope.com/images-US/upsell/2022-premium-horoscope.jpg,887,281
+917,/wp-content/uploads/sites/2/2020/03/birthchartspin-300x200.gif,404,Not Found,Birthday Page - Thread Group 1-5,text,false,1653,180,17,17,https://new.horoscope.com/wp-content/uploads/sites/2/2020/03/birthchartspin-300x200.gif,917,285
+439,/celebrities/gemini/clint-eastwood/,404,Not Found,Birthday Page - Thread Group 1-17,text,false,1578,153,17,17,https://new.horoscope.com/celebrities/gemini/clint-eastwood/,439,289
+3294,/us/horoscopes/general/index-horoscope-what-to-watch.aspx,200,OK,Birthday Page - Thread Group 1-12,text,false,210484,175,17,17,https://new.horoscope.com/us/horoscopes/general/index-horoscope-what-to-watch.aspx,3184,246
+4722,/us/horoscopes/yearly/2023-horoscope-capricorn.aspx,200,OK,Birthday Page - Thread Group 1-11,text,false,205469,169,17,17,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-capricorn.aspx,4590,285
+3357,/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx,200,OK,Birthday Page - Thread Group 1-7,text,false,210320,177,17,17,https://new.horoscope.com/us/horoscopes/wellness/index-horoscope-wellness-daily.aspx,3221,287
+3033,/us/horoscopes/career/index-horoscope-career-daily.aspx,200,OK,Birthday Page - Thread Group 1-9,text,false,210224,173,17,17,https://new.horoscope.com/us/horoscopes/career/index-horoscope-career-daily.aspx,2922,244
+3309,/birthday-horoscope/pisces-gifts,200,OK,Birthday Page - Thread Group 1-4,text,false,212123,150,17,17,https://new.horoscope.com/birthday-horoscope/pisces-gifts,3199,249
+3203,/birthday-horoscope/pisces-destinations,200,OK,Birthday Page - Thread Group 1-3,text,false,209784,157,17,17,https://new.horoscope.com/birthday-horoscope/pisces-destinations,3060,261
+476,/images-FR/games/imag-game_magic-love-ball.jpg,200,OK,Birthday Page - Thread Group 1-5,bin,true,97330,164,17,17,https://new.horoscope.com/images-FR/games/imag-game_magic-love-ball.jpg,422,255
+704,/tarot/tarot-card-meaning/the-magician,200,OK,Birthday Page - Thread Group 1-9,text,true,214795,156,17,17,https://new.horoscope.com/tarot/tarot-card-meaning/the-magician,527,295
+3760,/us/horoscopes/yearly/2023-horoscope-overview.aspx,200,OK,Birthday Page - Thread Group 1-6,text,false,209522,168,17,17,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-overview.aspx,3656,226
+903,/images-US/upsell/2023-love-tarot.jpg,200,OK,Birthday Page - Thread Group 1-4,bin,true,93306,155,17,17,https://new.horoscope.com/images-US/upsell/2023-love-tarot.jpg,847,253
+1991,/birthday-horoscope/pisces-pampering,200,OK,Birthday Page - Thread Group 1-2,text,true,209526,154,17,17,https://new.horoscope.com/birthday-horoscope/pisces-pampering,1858,286
+3771,/us/horoscopes/general/index-horoscope-general-daily.aspx,200,OK,Birthday Page - Thread Group 1-1,text,false,211490,175,17,17,https://new.horoscope.com/us/horoscopes/general/index-horoscope-general-daily.aspx,3635,282
+3747,/us/horoscopes/love/index-horoscope-love-daily.aspx,200,OK,Birthday Page - Thread Group 1-10,text,false,210176,169,17,17,https://new.horoscope.com/us/horoscopes/love/index-horoscope-love-daily.aspx,3612,290
+3004,/us/horoscopes/money/index-horoscope-money-weekly.aspx,200,OK,Birthday Page - Thread Group 1-8,text,false,210199,172,17,17,https://new.horoscope.com/us/horoscopes/money/index-horoscope-money-weekly.aspx,2862,300
+1366,/us/tarot/tarot-dream.aspx,200,OK,Birthday Page - Thread Group 1-16,text,true,227101,144,17,17,https://new.horoscope.com/us/tarot/tarot-dream.aspx,1226,296
+1074,/us/games/divination/game-daily-karmic-number.aspx,200,OK,Birthday Page - Thread Group 1-11,text,true,209742,168,17,17,https://new.horoscope.com/us/games/divination/game-daily-karmic-number.aspx,933,283
+1045,/us/games/divination/game-daily-dice.aspx,200,OK,Birthday Page - Thread Group 1-7,text,true,210915,159,17,17,https://new.horoscope.com/us/games/divination/game-daily-dice.aspx,912,263
+3697,/birthday-horoscope/pisces-party,200,OK,Birthday Page - Thread Group 1-15,text,false,209520,150,17,17,https://new.horoscope.com/birthday-horoscope/pisces-party,3521,259
+1242,/us/games/compatibility/game-career-compatibility.aspx,200,OK,Birthday Page - Thread Group 1-17,text,true,211680,172,17,17,https://new.horoscope.com/us/games/compatibility/game-career-compatibility.aspx,1069,257
+447,/wp-content/themes/horoscope/dist/js/blocks.js?ver=0.1.3,404,Not Found,Birthday Page - Thread Group 1-9,text,false,1653,174,17,17,https://new.horoscope.com/wp-content/themes/horoscope/dist/js/blocks.js?ver=0.1.3,447,288
+395,/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2,404,Not Found,Birthday Page - Thread Group 1-6,text,false,1675,177,17,17,https://new.horoscope.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2,395,234
+386,/celebrities/taurus/robert-pattinson-birthday/,404,Not Found,Birthday Page - Thread Group 1-4,text,false,1578,164,17,17,https://new.horoscope.com/celebrities/taurus/robert-pattinson-birthday/,386,245
+421,/images-FR/quizzes/imag-quiz_are-you-a-good-kisser.jpg,200,OK,Birthday Page - Thread Group 1-1,bin,true,17456,172,17,17,https://new.horoscope.com/images-FR/quizzes/imag-quiz_are-you-a-good-kisser.jpg,420,254
+452,/celebrities/gemini/natalie-portman-birthday/,404,Not Found,Birthday Page - Thread Group 1-2,text,false,1578,163,17,17,https://new.horoscope.com/celebrities/gemini/natalie-portman-birthday/,451,287
+431,/celebrities/taurus/john-cena-birthday/,404,Not Found,Birthday Page - Thread Group 1-16,text,false,1578,157,17,17,https://new.horoscope.com/celebrities/taurus/john-cena-birthday/,430,288
+1498,/us/games/index-games-test-personality.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,213944,161,18,18,https://new.horoscope.com/us/games/index-games-test-personality.aspx,1363,287
+1862,/article/comment-shabiller-pour-sduire.html,200,OK,Birthday Page - Thread Group 1-14,text,true,189877,158,18,18,https://new.horoscope.com/article/comment-shabiller-pour-seduire/,1718,251
+1607,/us/tarot/tarot-egyptian-love.aspx,200,OK,Birthday Page - Thread Group 1-12,text,true,213664,152,18,18,https://new.horoscope.com/us/tarot/tarot-egyptian-love.aspx,1453,288
+308,/images-US/upsell/love-compatibility.jpg,200,OK,Birthday Page - Thread Group 1-4,bin,true,5543,158,18,18,https://new.horoscope.com/images-US/upsell/love-compatibility.jpg,308,250
+3238,/us/horoscopes/general/index-retail-therapy-horoscope.aspx,200,OK,Birthday Page - Thread Group 1-13,text,false,210170,176,18,18,https://new.horoscope.com/us/horoscopes/general/index-retail-therapy-horoscope.aspx,3103,299
+818,/celebrities/gemini/morgan-freeman-birthday/,404,Not Found,Birthday Page - Thread Group 1-1,text,false,1578,162,18,18,https://new.horoscope.com/celebrities/gemini/morgan-freeman-birthday/,818,288
+938,/zodiac-signs/taurus/love,200,OK,Birthday Page - Thread Group 1-2,text,true,218185,143,18,18,https://new.horoscope.com/zodiac-signs/taurus/love,803,289
+1978,/us/games/calculator/game-lotto-number-generator.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,210837,171,18,18,https://new.horoscope.com/us/games/calculator/game-lotto-number-generator.aspx,1838,281
+1548,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=6,200,OK,Birthday Page - Thread Group 1-10,text,true,199180,190,18,18,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=6,1428,254
+1066,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=4,200,OK,Birthday Page - Thread Group 1-18,text,true,199170,190,18,18,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=4,934,296
+1483,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=8,200,OK,Birthday Page - Thread Group 1-11,text,true,199155,190,18,18,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=8,1341,261
+1463,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=5,200,OK,Birthday Page - Thread Group 1-15,text,true,199192,190,18,18,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=5,1326,256
+1525,/us/games/calculator/game-birth-day-calculator.aspx,200,OK,Birthday Page - Thread Group 1-8,text,true,211863,169,18,18,https://new.horoscope.com/us/games/calculator/game-birth-day-calculator.aspx,1371,277
+1482,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=7,200,OK,Birthday Page - Thread Group 1-7,text,true,199162,190,18,18,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=7,1347,294
+1102,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=1,200,OK,Birthday Page - Thread Group 1-16,text,true,199036,190,18,18,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=1,967,293
+991,/article/weekly-horoscope-february-6/,200,OK,Birthday Page - Thread Group 1-12,text,true,217037,155,18,18,https://new.horoscope.com/article/weekly-horoscope-february-6/,841,286
+1071,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=2,200,OK,Birthday Page - Thread Group 1-3,text,true,199024,190,18,18,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=2,933,290
+1076,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=3,200,OK,Birthday Page - Thread Group 1-14,text,true,199195,190,18,18,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=3,935,268
+393,/celebrities/taurus/enrique-iglesias-birthday/,404,Not Found,Birthday Page - Thread Group 1-5,text,false,1578,164,18,18,https://new.horoscope.com/celebrities/taurus/enrique-iglesias-birthday/,393,254
+401,/celebrities/taurus/barbara-streisand-birthday/,404,Not Found,Birthday Page - Thread Group 1-12,text,false,1578,165,18,18,https://new.horoscope.com/celebrities/taurus/barbara-streisand-birthday/,401,258
+2210,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=9,200,OK,Birthday Page - Thread Group 1-9,text,true,199179,190,18,18,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=9,2080,269
+2274,/us/profiles/chinese/index-profile-chinese-sign.aspx,200,OK,Birthday Page - Thread Group 1-17,text,true,211785,170,18,18,https://new.horoscope.com/us/profiles/chinese/index-profile-chinese-sign.aspx,2143,292
+1027,/css-US/horoscope.css?v=2023022312,200,OK,Birthday Page - Thread Group 1-14,text,true,56262,152,19,19,https://new.horoscope.com/css-US/horoscope.css?v=2023022312,970,301
+2435,/fr/tarot/index-tirage-du-tarot.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,188730,154,19,19,https://new.horoscope.com/fr/tarot/index-tirage-du-tarot.aspx,2305,261
+2291,/us/games/divination/game-cast-a-spell.aspx,200,OK,Birthday Page - Thread Group 1-4,text,true,215932,161,19,19,https://new.horoscope.com/us/games/divination/game-cast-a-spell.aspx,2147,264
+2551,/us/editorial/faqs/editorial-faq-astrology-basics3.aspx,200,OK,Birthday Page - Thread Group 1-13,text,false,206588,173,19,19,https://new.horoscope.com/us/editorial/faqs/editorial-faq-astrology-basics3.aspx,2412,293
+1446,/celebrities/taurus/dwayne-johnson-birthday/,404,Not Found,Birthday Page - Thread Group 1-19,text,false,1578,162,19,19,https://new.horoscope.com/celebrities/taurus/dwayne-johnson-birthday/,1446,284
+2731,/fr/emails/email-subscription.aspx,200,OK,Birthday Page - Thread Group 1-1,text,false,183565,152,19,19,https://new.horoscope.com/fr/emails/email-subscription.aspx,2608,291
+2503,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-8,text,false,218003,188,19,19,https://new.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=7,2368,262
+2578,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-11,text,false,217921,188,19,19,https://new.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=6,2438,263
+2831,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-2,text,false,218409,188,19,19,https://new.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=2,2688,262
+1288,/images-FR/tarot/imag-tarot_instant-answer.jpg,200,OK,Birthday Page - Thread Group 1-4,bin,true,100995,164,19,19,https://new.horoscope.com/images-FR/tarot/imag-tarot_instant-answer.jpg,1214,287
+2696,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-15,text,false,218327,188,19,19,https://new.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=3,2555,230
+2713,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-7,text,false,217983,188,19,19,https://new.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=5,2607,230
+414,/celebrities/taurus/jerry-seinfeld-birthday/,404,Not Found,Birthday Page - Thread Group 1-4,text,false,1578,162,20,20,https://new.horoscope.com/celebrities/taurus/jerry-seinfeld-birthday/,414,222
+450,/images-US/tarot/back/daily-tarot-career.png,200,OK,Birthday Page - Thread Group 1-2,bin,true,27147,162,20,20,https://new.horoscope.com/images-US/tarot/back/daily-tarot-career.png,441,267
+3221,/us/editorial/dream-dictionary.aspx,200,OK,Birthday Page - Thread Group 1-10,text,false,215145,153,20,20,https://new.horoscope.com/us/editorial/dream-dictionary.aspx,3082,291
+2361,/us/games/divination/game-chinese-fortune-dragon.aspx,200,OK,Birthday Page - Thread Group 1-9,text,true,209729,171,20,20,https://new.horoscope.com/us/games/divination/game-chinese-fortune-dragon.aspx,2226,288
+2073,/us/tarot/tarot-power.aspx,200,OK,Birthday Page - Thread Group 1-14,text,true,213938,144,20,20,https://new.horoscope.com/us/tarot/tarot-power.aspx,1969,227
+2356,/us/horoscopes/general/index-horoscope-general-monthly.aspx,200,OK,Birthday Page - Thread Group 1-17,text,true,210298,177,20,20,https://new.horoscope.com/us/horoscopes/general/index-horoscope-general-monthly.aspx,2217,292
+3265,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-18,text,false,218263,188,20,20,https://new.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=4,3097,294
+3232,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-3,text,false,218383,188,20,20,https://new.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=9,3083,292
+2148,/us/games/divination/game-book-of-love.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,209100,161,20,20,https://new.horoscope.com/us/games/divination/game-book-of-love.aspx,1992,296
+964,/us/tarot/tarot-former-flame.aspx,200,OK,Birthday Page - Thread Group 1-19,text,true,213456,151,20,20,https://new.horoscope.com/us/tarot/tarot-former-flame.aspx,823,283
+943,/us/games/divination/game-daisy-love-oracle.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,214189,166,20,20,https://new.horoscope.com/us/games/divination/game-daisy-love-oracle.aspx,802,288
+424,/mercury-retrograde/money/,404,Not Found,Birthday Page - Thread Group 1-20,text,false,1578,144,20,20,https://new.horoscope.com/mercury-retrograde/money/,424,295
+773,/images-US/store/monthly-premium-horoscope.jpg,200,OK,Birthday Page - Thread Group 1-11,bin,true,150360,164,20,20,https://new.horoscope.com/images-US/store/monthly-premium-horoscope.jpg,681,252
+1199,/us/tarot/tarot-breakup.aspx,200,OK,Birthday Page - Thread Group 1-13,text,true,211730,146,20,20,https://new.horoscope.com/us/tarot/tarot-breakup.aspx,1030,283
+2995,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-12,text,false,218008,188,20,20,https://new.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=1,2852,291
+3419,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-16,text,false,218269,188,20,20,https://new.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=8,3275,298
+3286,/us/games/compatibility/game-celebrity-love-match.aspx,200,OK,Birthday Page - Thread Group 1-5,text,false,313808,172,20,20,https://new.horoscope.com/us/games/compatibility/game-celebrity-love-match.aspx,3072,289
+443,/celebrities/taurus/queen-elizabeth-ii-birthday/,404,Not Found,Birthday Page - Thread Group 1-9,text,false,1578,166,20,20,https://new.horoscope.com/celebrities/taurus/queen-elizabeth-ii-birthday/,443,295
+456,/celebrities/taurus/travis-scott-birthday/,404,Not Found,Birthday Page - Thread Group 1-10,text,false,1578,160,20,20,https://new.horoscope.com/celebrities/taurus/travis-scott-birthday/,456,311
+555,/zodiac-signs/gemini/parent-child,200,OK,Birthday Page - Thread Group 1-14,text,true,219376,151,20,20,https://new.horoscope.com/zodiac-signs/gemini/parent-child,446,270
+545,/celebrities/gemini/mark-wahlberg-birthday/,404,Not Found,Birthday Page - Thread Group 1-20,text,false,1578,161,20,20,https://new.horoscope.com/celebrities/gemini/mark-wahlberg-birthday/,545,281
+581,/celebrities/gemini/johnny-depp-birthday/,404,Not Found,Birthday Page - Thread Group 1-11,text,false,1578,159,20,20,https://new.horoscope.com/celebrities/gemini/johnny-depp-birthday/,581,292
+1487,/fr/tarot/signification-de-la-carte-du-tarot.aspx?TarotCardSelectorID_numericalint=2,200,OK,Birthday Page - Thread Group 1-8,text,true,189717,202,20,20,https://new.horoscope.com/fr/tarot/signification-de-la-carte-du-tarot.aspx?TarotCardSelectorID_numericalint=2,1364,293
+1328,/us/games/calculator/game-bmi-calculator.aspx,200,OK,Birthday Page - Thread Group 1-7,text,true,211587,163,20,20,https://new.horoscope.com/us/games/calculator/game-bmi-calculator.aspx,1194,282
+1388,/us/tarot/tarot-daily-flirt.aspx,200,OK,Birthday Page - Thread Group 1-15,text,true,213929,150,20,20,https://new.horoscope.com/us/tarot/tarot-daily-flirt.aspx,1243,287
+848,/celebrities/gemini/celebrity-gemini-birthdays-nicole-kidman-birthday/,404,Not Found,Birthday Page - Thread Group 1-16,text,false,1578,188,20,20,https://new.horoscope.com/celebrities/gemini/celebrity-gemini-birthdays-nicole-kidman-birthday/,848,249
+680,/mercury-retrograde/relationships/,404,Not Found,Birthday Page - Thread Group 1-10,text,false,1578,152,20,20,https://new.horoscope.com/mercury-retrograde/relationships/,680,289
+718,/css-US/main-FR.css?v=2023022312,200,OK,Birthday Page - Thread Group 1-9,text,true,54004,150,20,20,https://new.horoscope.com/css-US/main-FR.css?v=2023022312,676,264
+1323,/fr/jeux/index-jeux-quizz.aspx,200,OK,Birthday Page - Thread Group 1-4,text,true,187514,148,20,20,https://new.horoscope.com/fr/jeux/index-jeux-quizz.aspx,1224,254
+422,/celebrities/taurus/jack-nicholson-birthday/,404,Not Found,Birthday Page - Thread Group 1-8,text,false,1578,162,20,20,https://new.horoscope.com/celebrities/taurus/jack-nicholson-birthday/,422,289
+1193,/us/planets/mercury.html,200,OK,Birthday Page - Thread Group 1-18,text,true,214220,142,20,20,https://new.horoscope.com/us/planets/mercury.html,1085,260
+426,/celebrities/taurus/,404,Not Found,Birthday Page - Thread Group 1-7,text,false,1578,138,20,20,https://new.horoscope.com/celebrities/taurus/,426,282
+1393,/us/editorial/faqs/editorial-faq-house-systems.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,206378,169,20,20,https://new.horoscope.com/us/editorial/faqs/editorial-faq-house-systems.aspx,1254,302
+1182,/us/games/divination/game-lucky-lady-bug.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,209540,163,20,20,https://new.horoscope.com/us/games/divination/game-lucky-lady-bug.aspx,1075,250
+1277,/fr/psychics/KEEN-psychic-reading.aspx?cat=198,200,OK,Birthday Page - Thread Group 1-17,text,true,180021,164,20,20,https://new.horoscope.com/fr/psychics/KEEN-psychic-reading.aspx?cat=198,1155,300
+432,/wp-content/plugins/link-whisper-premium/js/frontend.min.js?ver=1675892633,404,Not Found,Birthday Page - Thread Group 1-16,text,false,1675,192,20,20,https://new.horoscope.com/wp-content/plugins/link-whisper-premium/js/frontend.min.js?ver=1675892633,432,251
+429,/images-US/tarot/back/daily-tarot-love.png,200,OK,Birthday Page - Thread Group 1-4,bin,true,29815,160,20,20,https://new.horoscope.com/images-US/tarot/back/daily-tarot-love.png,421,274
+1520,/us/games/compatibility/game-summer-love-match.aspx,200,OK,Birthday Page - Thread Group 1-19,text,true,210988,169,20,20,https://new.horoscope.com/us/games/compatibility/game-summer-love-match.aspx,1383,290
+1541,/us/horoscopes/teen/index-horoscope-teen-weekly.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,210091,170,20,20,https://new.horoscope.com/us/horoscopes/teen/index-horoscope-teen-weekly.aspx,1401,291
+1563,/us/horoscopes/general/index-horoscope-general-weekly.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,210200,176,20,20,https://new.horoscope.com/us/horoscopes/general/index-horoscope-general-weekly.aspx,1428,295
+543,/mercury-retrograde/astrology/,404,Not Found,Birthday Page - Thread Group 1-17,text,false,1578,148,21,21,https://new.horoscope.com/mercury-retrograde/astrology/,543,288
+593,/zodiac-signs/taurus/career-money,200,OK,Birthday Page - Thread Group 1-2,text,true,214377,151,21,21,https://new.horoscope.com/zodiac-signs/taurus/career-money,453,277
+428,/celebrities/gemini/shia-labeouf-birthday/,404,Not Found,Birthday Page - Thread Group 1-16,text,false,1578,160,21,21,https://new.horoscope.com/celebrities/gemini/shia-labeouf-birthday/,428,284
+1761,/us/games/index-games-unique.aspx,200,OK,Birthday Page - Thread Group 1-12,text,true,207126,151,21,21,https://new.horoscope.com/us/games/index-games-unique.aspx,1623,283
+1802,/us/horoscopes/food/index-horoscope-food-weekly.aspx,200,OK,Birthday Page - Thread Group 1-13,text,true,210095,170,21,21,https://new.horoscope.com/us/horoscopes/food/index-horoscope-food-weekly.aspx,1666,287
+1726,/us/games/index-games-quiz-love.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,210199,154,21,21,https://new.horoscope.com/us/games/index-games-quiz-love.aspx,1593,288
+1443,/fr/confidentialite.aspx,200,OK,Birthday Page - Thread Group 1-14,text,true,255693,142,21,21,https://new.horoscope.com/fr/confidentialite.aspx,1291,285
+1345,/us/tarot/tarot-make-a-wish.aspx,200,OK,Birthday Page - Thread Group 1-20,text,true,213574,150,21,21,https://new.horoscope.com/us/tarot/tarot-make-a-wish.aspx,1211,284
+410,/celebrities/?letter=z,404,Not Found,Birthday Page - Thread Group 1-1,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=z,410,260
+469,/zodiac-signs/taurus/lifestyle,200,OK,Birthday Page - Thread Group 1-19,text,true,209954,148,21,21,https://new.horoscope.com/zodiac-signs/taurus/lifestyle,366,224
+479,/css-US/responsive-FR.css?v=2023022312,200,OK,Birthday Page - Thread Group 1-3,text,true,16454,156,21,21,https://new.horoscope.com/css-US/responsive-FR.css?v=2023022312,477,244
+533,/images-FR/tarot/imag-tarot_true-love.jpg,200,OK,Birthday Page - Thread Group 1-4,bin,true,102171,159,21,21,https://new.horoscope.com/images-FR/tarot/imag-tarot_true-love.jpg,457,293
+451,/celebrities/?letter=x,404,Not Found,Birthday Page - Thread Group 1-17,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=x,451,297
+438,/celebrities/?letter=y,404,Not Found,Birthday Page - Thread Group 1-2,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=y,438,296
+435,/mercury-retrograde/dates/,404,Not Found,Birthday Page - Thread Group 1-12,text,false,1578,144,21,21,https://new.horoscope.com/mercury-retrograde/dates/,435,284
+435,/celebrities/?letter=r,404,Not Found,Birthday Page - Thread Group 1-5,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=r,435,287
+499,/article/aries-spirit-animal-2/,200,OK,Birthday Page - Thread Group 1-16,text,true,211035,149,21,21,https://new.horoscope.com/article/aries-spirit-animal-2/,401,261
+473,/celebrities/?letter=q,404,Not Found,Birthday Page - Thread Group 1-14,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=q,472,286
+448,/celebrities/?letter=s,404,Not Found,Birthday Page - Thread Group 1-20,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=s,448,294
+411,/celebrities/?letter=w,404,Not Found,Birthday Page - Thread Group 1-19,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=w,411,261
+426,/celebrities/?letter=v,404,Not Found,Birthday Page - Thread Group 1-1,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=v,426,279
+387,/celebrities/?letter=t,404,Not Found,Birthday Page - Thread Group 1-4,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=t,386,248
+569,/zodiac-signs/taurus/spirituality,200,OK,Birthday Page - Thread Group 1-13,text,true,208868,151,21,21,https://new.horoscope.com/zodiac-signs/taurus/spirituality,438,270
+468,/celebrities/?letter=u,404,Not Found,Birthday Page - Thread Group 1-3,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=u,468,287
+1960,/fr/jeux/quiz/jeu-quiz-savez-vous-embrasser.aspx,200,OK,Birthday Page - Thread Group 1-11,text,true,188525,166,21,21,https://new.horoscope.com/fr/jeux/quiz/jeu-quiz-savez-vous-embrasser.aspx,1835,291
+418,/celebrities/?letter=p,404,Not Found,Birthday Page - Thread Group 1-17,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=p,418,279
+1845,/us/games/calculator/game-dog-years-calculator.aspx,200,OK,Birthday Page - Thread Group 1-15,text,true,209708,169,21,21,https://new.horoscope.com/us/games/calculator/game-dog-years-calculator.aspx,1715,282
+468,/wp-content/plugins/link-whisper-premium/js/frontend.min.js?ver=1675892610,404,Not Found,Birthday Page - Thread Group 1-2,text,false,1675,192,21,21,https://new.horoscope.com/wp-content/plugins/link-whisper-premium/js/frontend.min.js?ver=1675892610,468,285
+1653,/us/editorial/faqs/editorial-faq-astrology-basics.aspx,200,OK,Birthday Page - Thread Group 1-10,text,true,206358,172,21,21,https://new.horoscope.com/us/editorial/faqs/editorial-faq-astrology-basics.aspx,1556,228
+1639,/fr/tarot/tarot-du-grand-amour.aspx,200,OK,Birthday Page - Thread Group 1-9,text,true,190706,153,21,21,https://new.horoscope.com/fr/tarot/tarot-du-grand-amour.aspx,1547,270
+395,/celebrities/?letter=j,404,Not Found,Birthday Page - Thread Group 1-12,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=j,395,254
+384,/celebrities/?letter=k,404,Not Found,Birthday Page - Thread Group 1-5,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=k,384,243
+345,/celebrities/?letter=o,404,Not Found,Birthday Page - Thread Group 1-14,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=o,345,213
+418,/celebrities/?letter=h,404,Not Found,Birthday Page - Thread Group 1-16,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=h,418,287
+420,/celebrities/?letter=i,404,Not Found,Birthday Page - Thread Group 1-20,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=i,420,278
+351,/celebrities/?letter=m,404,Not Found,Birthday Page - Thread Group 1-13,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=m,350,218
+1655,/us/horoscopes/iching/horoscope-iching-daily.aspx,200,OK,Birthday Page - Thread Group 1-7,text,true,204154,167,21,21,https://new.horoscope.com/us/horoscopes/iching/horoscope-iching-daily.aspx,1553,236
+411,/celebrities/?letter=b,404,Not Found,Birthday Page - Thread Group 1-1,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=b,411,249
+416,/celebrities/?letter=n,404,Not Found,Birthday Page - Thread Group 1-19,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=n,416,285
+423,/celebrities/?letter=l,404,Not Found,Birthday Page - Thread Group 1-4,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=l,423,275
+1745,/us/editorial/faqs/editorial-faq-astrological-aspects.aspx,200,OK,Birthday Page - Thread Group 1-18,text,true,206794,176,21,21,https://new.horoscope.com/us/editorial/faqs/editorial-faq-astrological-aspects.aspx,1614,296
+1776,/us/tarot/tarot-zen.aspx,200,OK,Birthday Page - Thread Group 1-8,text,true,211250,142,21,21,https://new.horoscope.com/us/tarot/tarot-zen.aspx,1641,304
+1717,/us/games/divination/game-lucky-clover.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,209767,161,21,21,https://new.horoscope.com/us/games/divination/game-lucky-clover.aspx,1581,284
+1311,/us/editorial/faqs/editorial-faq-astrology-houses.aspx,200,OK,Birthday Page - Thread Group 1-21,text,true,207084,172,21,21,https://new.horoscope.com/us/editorial/faqs/editorial-faq-astrology-houses.aspx,1182,292
+420,/celebrities/?letter=c,404,Not Found,Birthday Page - Thread Group 1-11,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=c,420,281
+415,/celebrities/?letter=a,404,Not Found,Birthday Page - Thread Group 1-17,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=a,415,282
+421,/celebrities/?letter=f,404,Not Found,Birthday Page - Thread Group 1-15,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=f,421,279
+409,/celebrities/?letter=g,404,Not Found,Birthday Page - Thread Group 1-2,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=g,409,264
+395,/celebrities/?letter=d,404,Not Found,Birthday Page - Thread Group 1-9,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=d,395,252
+431,/celebrities/?letter=e,404,Not Found,Birthday Page - Thread Group 1-10,text,false,1578,140,21,21,https://new.horoscope.com/celebrities/?letter=e,429,287
+361,/celebrities/taurus/tina-fey-birthday/,404,Not Found,Birthday Page - Thread Group 1-7,text,false,1578,156,21,21,https://new.horoscope.com/celebrities/taurus/tina-fey-birthday/,361,227
+409,/celebrities/taurus/david-beckham-birthday/,404,Not Found,Birthday Page - Thread Group 1-13,text,false,1578,161,21,21,https://new.horoscope.com/celebrities/taurus/david-beckham-birthday/,409,256
+438,/celebrities/gemini/celebrity-gemini-birthdays-paul-mccartney-birthday/,404,Not Found,Birthday Page - Thread Group 1-4,text,false,1578,189,21,21,https://new.horoscope.com/celebrities/gemini/celebrity-gemini-birthdays-paul-mccartney-birthday/,438,280
+564,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=11,200,OK,Birthday Page - Thread Group 1-16,text,true,199386,191,21,21,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=11,426,266
+435,/celebrities/gemini/russell-brand-birthday/,404,Not Found,Birthday Page - Thread Group 1-8,text,false,1578,161,21,21,https://new.horoscope.com/celebrities/gemini/russell-brand-birthday/,435,280
+467,/js-US/base-FR.js?v=2023022312,200,OK,Birthday Page - Thread Group 1-18,text,true,7376,148,21,21,https://new.horoscope.com/js-US/base-FR.js?v=2023022312,467,285
+454,/celebrities/taurus/adele-birthday/,404,Not Found,Birthday Page - Thread Group 1-21,text,false,1578,153,21,21,https://new.horoscope.com/celebrities/taurus/adele-birthday/,454,291
+543,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=12,200,OK,Birthday Page - Thread Group 1-1,text,true,199093,191,21,21,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=12,429,262
+423,/celebrities/gemini/novak-djokovia-birthday/,404,Not Found,Birthday Page - Thread Group 1-11,text,false,1578,162,21,21,https://new.horoscope.com/celebrities/gemini/novak-djokovia-birthday/,423,281
+628,/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=10,200,OK,Birthday Page - Thread Group 1-19,text,true,199224,191,21,21,https://new.horoscope.com/fr/horoscopes/general/horoscope-general-du-jour-aujourdhui.aspx?signe=10,469,250
+448,/fr/psychics/KEEN-psychic-reading.aspx?cat=588,200,OK,Birthday Page - Thread Group 1-17,text,true,180024,164,21,21,https://new.horoscope.com/fr/psychics/KEEN-psychic-reading.aspx?cat=588,356,218
+371,/celebrities/taurus/will-arnett-birthday/,404,Not Found,Birthday Page - Thread Group 1-7,text,false,1578,159,21,21,https://new.horoscope.com/celebrities/taurus/will-arnett-birthday/,370,236
+546,/zodiac-signs/gemini/love,200,OK,Birthday Page - Thread Group 1-10,text,true,222266,143,22,22,https://new.horoscope.com/zodiac-signs/gemini/love,405,259
+952,/fr/qui-sommes-nous.aspx,200,OK,Birthday Page - Thread Group 1-14,text,true,180811,142,22,22,https://new.horoscope.com/fr/qui-sommes-nous.aspx,856,246
+993,/us/editorial/faqs/editorial-faq-astrology-basics5.aspx,200,OK,Birthday Page - Thread Group 1-12,text,true,206743,173,22,22,https://new.horoscope.com/us/editorial/faqs/editorial-faq-astrology-basics5.aspx,879,256
+1216,/fr/jeux/divination/jeu-chancometre.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,186312,158,22,22,https://new.horoscope.com/fr/jeux/divination/jeu-chancometre.aspx,1082,283
+419,/celebrities/gemini/colin-farrell-birthday/,404,Not Found,Birthday Page - Thread Group 1-4,text,false,1578,161,22,22,https://new.horoscope.com/celebrities/gemini/colin-farrell-birthday/,419,282
+1027,/us/editorial/faqs/editorial-faq-advanced-astrological-topics.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,206509,184,22,22,https://new.horoscope.com/us/editorial/faqs/editorial-faq-advanced-astrological-topics.aspx,894,289
+433,/celebrities/gemini/kanye-west-birthday/,404,Not Found,Birthday Page - Thread Group 1-16,text,false,1578,158,22,22,https://new.horoscope.com/celebrities/gemini/kanye-west-birthday/,433,280
+1005,/us/games/divination/game-cosmic-crooner.aspx,200,OK,Birthday Page - Thread Group 1-20,text,true,209032,163,22,22,https://new.horoscope.com/us/games/divination/game-cosmic-crooner.aspx,865,285
+486,/images-FR/games/imag-game_luck-meter.jpg,200,OK,Birthday Page - Thread Group 1-18,bin,true,114252,159,22,22,https://new.horoscope.com/images-FR/games/imag-game_luck-meter.jpg,406,258
+393,/mercury-retrograde/mercury-retrogrades-2022/,404,Not Found,Birthday Page - Thread Group 1-17,text,false,1578,163,22,22,https://new.horoscope.com/mercury-retrograde/mercury-retrogrades-2022/,393,252
+435,/js-US/jquery.lazyload.js?v=2023022312,200,OK,Birthday Page - Thread Group 1-19,text,true,12603,156,22,22,https://new.horoscope.com/js-US/jquery.lazyload.js?v=2023022312,433,257
+367,/images-US/upsell/guardian-angel-tarot.jpg,200,OK,Birthday Page - Thread Group 1-10,bin,true,7938,160,22,22,https://new.horoscope.com/images-US/upsell/guardian-angel-tarot.jpg,366,293
+415,/celebrities/taurus/george-lucas-birthday/,404,Not Found,Birthday Page - Thread Group 1-14,text,false,1578,160,22,22,https://new.horoscope.com/celebrities/taurus/george-lucas-birthday/,415,283
+338,/images-US/upsell/true-love-tarot-reading.jpg,200,OK,Birthday Page - Thread Group 1-18,bin,true,14087,163,22,22,https://new.horoscope.com/images-US/upsell/true-love-tarot-reading.jpg,336,254
+647,/mercury-retrograde/mercury-retrogrades-2023/,404,Not Found,Birthday Page - Thread Group 1-4,text,false,1578,163,22,22,https://new.horoscope.com/mercury-retrograde/mercury-retrogrades-2023/,647,276
+581,/celebrities/gemini/,404,Not Found,Birthday Page - Thread Group 1-20,text,false,1578,138,22,22,https://new.horoscope.com/celebrities/gemini/,581,276
+360,/images-US/upsell/magic-genie-tarot.jpg,200,OK,Birthday Page - Thread Group 1-10,bin,true,8665,157,22,22,https://new.horoscope.com/images-US/upsell/magic-genie-tarot.jpg,350,278
+1524,/fr/tarot/tarot-flash.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,192795,144,22,22,https://new.horoscope.com/fr/tarot/tarot-flash.aspx,1401,283
+1402,/us/games/divination/game-lucky-cat.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,209643,158,22,22,https://new.horoscope.com/us/games/divination/game-lucky-cat.aspx,1267,286
+1298,/us/games/divination/game-buddha-belly.aspx,200,OK,Birthday Page - Thread Group 1-13,text,true,209766,161,22,22,https://new.horoscope.com/us/games/divination/game-buddha-belly.aspx,1166,285
+1138,/us/games/divination/game-shell-oracle.aspx,200,OK,Birthday Page - Thread Group 1-11,text,true,209260,161,22,22,https://new.horoscope.com/us/games/divination/game-shell-oracle.aspx,1002,281
+1485,/us/horoscopes/general/horoscope-overview-weekly.aspx,200,OK,Birthday Page - Thread Group 1-9,text,true,217089,171,22,22,https://new.horoscope.com/us/horoscopes/general/horoscope-overview-weekly.aspx,1376,251
+971,/fr/jeux/index-des-jeux.aspx,200,OK,Birthday Page - Thread Group 1-22,text,true,187616,146,22,22,https://new.horoscope.com/fr/jeux/index-des-jeux.aspx,842,261
+1224,/us/games/compatibility/game-pet-compatibility.aspx,200,OK,Birthday Page - Thread Group 1-21,text,true,211202,169,22,22,https://new.horoscope.com/us/games/compatibility/game-pet-compatibility.aspx,1087,271
+437,/celebrities/gemini/angelina-jolie-birthday/,404,Not Found,Birthday Page - Thread Group 1-18,text,false,1578,162,22,22,https://new.horoscope.com/celebrities/gemini/angelina-jolie-birthday/,437,283
+1054,/us/games/divination/game-rate-your-date.aspx,200,OK,Birthday Page - Thread Group 1-7,text,true,212443,163,22,22,https://new.horoscope.com/us/games/divination/game-rate-your-date.aspx,917,280
+539,/article/virgo-energy/,200,OK,Birthday Page - Thread Group 1-14,text,true,210653,140,22,22,https://new.horoscope.com/article/virgo-energy/,395,257
+1602,/us/horoscopes/general/horoscope-overview-daily-yesterday.aspx,200,OK,Birthday Page - Thread Group 1-15,text,true,218286,180,22,22,https://new.horoscope.com/us/horoscopes/general/horoscope-overview-daily-yesterday.aspx,1493,239
+1346,/us/horoscopes/general/horoscope-overview-monthly.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,217816,172,22,22,https://new.horoscope.com/us/horoscopes/general/horoscope-overview-monthly.aspx,1211,244
+491,/us/planets/mars.html,200,OK,Birthday Page - Thread Group 1-4,text,true,212061,139,22,22,https://new.horoscope.com/us/planets/mars.html,390,255
+334,/js-US/datepicker.min.js?v=1.4.1,200,OK,Birthday Page - Thread Group 1-9,text,true,17163,150,22,22,https://new.horoscope.com/js-US/datepicker.min.js?v=1.4.1,330,255
+749,/images-US/tarot/back/daily-tarot-mood.png,200,OK,Birthday Page - Thread Group 1-13,bin,true,26608,160,22,22,https://new.horoscope.com/images-US/tarot/back/daily-tarot-mood.png,744,255
+661,/celebrities/taurus/channing-tatum-birthday/,404,Not Found,Birthday Page - Thread Group 1-18,text,false,1578,162,22,22,https://new.horoscope.com/celebrities/taurus/channing-tatum-birthday/,661,218
+635,/celebrities/virgo/,404,Not Found,Birthday Page - Thread Group 1-15,text,false,1578,137,22,22,https://new.horoscope.com/celebrities/virgo/,635,242
+1599,/fr/horoscopes/general/index-horoscope-general-daily.aspx,200,OK,Birthday Page - Thread Group 1-12,text,true,191570,175,22,22,https://new.horoscope.com/fr/horoscopes/general/index-horoscope-general-daily.aspx,1503,240
+584,/celebrities/cancer/,404,Not Found,Birthday Page - Thread Group 1-1,text,false,1578,138,22,22,https://new.horoscope.com/celebrities/cancer/,584,275
+799,/zodiac-signs/gemini/health,200,OK,Birthday Page - Thread Group 1-11,text,true,210627,145,22,22,https://new.horoscope.com/zodiac-signs/gemini/health,695,245
+1677,/us/games/compatibility/game-mayan-compatibility.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,211715,171,22,22,https://new.horoscope.com/us/games/compatibility/game-mayan-compatibility.aspx,1542,277
+1015,/article/les-tenues-qui-changent-lhumeur.html,200,OK,Birthday Page - Thread Group 1-20,text,true,188317,159,22,22,https://new.horoscope.com/article/les-tenues-qui-changent-lhumeur/,889,286
+1644,/us/tarot/tarot-white-magic.aspx,200,OK,Birthday Page - Thread Group 1-16,text,true,210967,150,22,22,https://new.horoscope.com/us/tarot/tarot-white-magic.aspx,1536,243
+1543,/fr/jeux/divination/jeu-boule-magique-amour.aspx,200,OK,Birthday Page - Thread Group 1-17,text,true,185277,166,22,22,https://new.horoscope.com/fr/jeux/divination/jeu-boule-magique-amour.aspx,1415,285
+1669,/us/games/divination/game-origami-fortune-teller.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,214107,171,22,22,https://new.horoscope.com/us/games/divination/game-origami-fortune-teller.aspx,1535,249
+1537,/fr/articles,200,OK,Birthday Page - Thread Group 1-19,text,true,184560,130,22,22,https://new.horoscope.com/fr/articles,1409,275
+849,/zodiac-signs/gemini/friendship,200,OK,Birthday Page - Thread Group 1-21,text,true,209365,149,22,22,https://new.horoscope.com/zodiac-signs/gemini/friendship,707,287
+555,/article/sagittarius-rising-celebrities/,200,OK,Birthday Page - Thread Group 1-9,text,true,214195,158,22,22,https://new.horoscope.com/article/sagittarius-rising-celebrities/,419,249
+1002,/us/planets/venus.html,200,OK,Birthday Page - Thread Group 1-22,text,true,212267,140,22,22,https://new.horoscope.com/us/planets/venus.html,788,286
+2289,/us/editorial/editorial-faq-index.aspx,200,OK,Birthday Page - Thread Group 1-8,text,true,203503,156,23,23,https://new.horoscope.com/us/editorial/editorial-faq-index.aspx,2141,291
+436,/celebrities/gemini/celebrity-gemini-birthdays-neil-patrick-harris-birthday/,404,Not Found,Birthday Page - Thread Group 1-13,text,false,1578,194,23,23,https://new.horoscope.com/celebrities/gemini/celebrity-gemini-birthdays-neil-patrick-harris-birthday/,436,268
+432,/mercury-retrograde/articles/,404,Not Found,Birthday Page - Thread Group 1-3,text,false,1578,147,23,23,https://new.horoscope.com/mercury-retrograde/articles/,432,251
+652,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=22,200,OK,Birthday Page - Thread Group 1-12,text,true,218462,189,23,23,https://new.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=22,514,291
+690,/zodiac-signs/taurus/parent-child,200,OK,Birthday Page - Thread Group 1-18,text,true,217246,151,23,23,https://new.horoscope.com/zodiac-signs/taurus/parent-child,505,284
+806,/images-FR/logo.png,200,OK,Birthday Page - Thread Group 1-20,bin,true,8778,137,23,23,https://new.horoscope.com/images-FR/logo.png,805,290
+766,/wp-content/themes/horoscope/assets/svg/horoscope-logo.svg,404,Not Found,Birthday Page - Thread Group 1-19,text,false,1653,176,23,23,https://new.horoscope.com/wp-content/themes/horoscope/assets/svg/horoscope-logo.svg,766,286
+808,/celebrities/leo/,404,Not Found,Birthday Page - Thread Group 1-16,text,false,1578,135,23,23,https://new.horoscope.com/celebrities/leo/,808,325
+523,/celebrities/gemini/helena-bonham-carter-birthday/,404,Not Found,Birthday Page - Thread Group 1-13,text,false,1578,168,23,23,https://new.horoscope.com/celebrities/gemini/helena-bonham-carter-birthday/,523,300
+617,/celebrities/taurus/sam-smith-birthday/,404,Not Found,Birthday Page - Thread Group 1-23,text,false,1578,157,23,23,https://new.horoscope.com/celebrities/taurus/sam-smith-birthday/,617,292
+796,/css-US/games-base.css?v=2023022312,200,OK,Birthday Page - Thread Group 1-9,text,true,47980,153,23,23,https://new.horoscope.com/css-US/games-base.css?v=2023022312,753,254
+853,/fr/psychics/KEEN-psychic-reading.aspx?cat=635,200,OK,Birthday Page - Thread Group 1-21,text,true,179987,164,23,23,https://new.horoscope.com/fr/psychics/KEEN-psychic-reading.aspx?cat=635,754,222
+1948,/us/profiles/mayan/index-profile-mayan-sign.aspx,200,OK,Birthday Page - Thread Group 1-10,text,true,217843,166,23,23,https://new.horoscope.com/us/profiles/mayan/index-profile-mayan-sign.aspx,1808,279
+1918,/us/editorial/faqs/editorial-faq-astrology-basics2.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,206884,173,23,23,https://new.horoscope.com/us/editorial/faqs/editorial-faq-astrology-basics2.aspx,1777,286
+1730,/us/tarot/tarot-hot-topic.aspx,200,OK,Birthday Page - Thread Group 1-14,text,true,213940,148,23,23,https://new.horoscope.com/us/tarot/tarot-hot-topic.aspx,1606,215
+1874,/us/editorial/faqs/editorial-faq-schools-of-astrology.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,208490,176,23,23,https://new.horoscope.com/us/editorial/faqs/editorial-faq-schools-of-astrology.aspx,1732,289
+1780,/us/tarot/index-tarot-card-meaning.aspx,200,OK,Birthday Page - Thread Group 1-7,text,true,214574,157,23,23,https://new.horoscope.com/us/tarot/index-tarot-card-meaning.aspx,1643,251
+1550,/fr/tarot/tirage-tarot-du-jour.aspx,200,OK,Birthday Page - Thread Group 1-4,text,true,191701,153,23,23,https://new.horoscope.com/fr/tarot/tirage-tarot-du-jour.aspx,1410,253
+1005,/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-17,text,true,218066,189,23,23,https://new.horoscope.com/us/horoscopes/numerology/horoscope-numerology-daily-today.aspx?sign=11,859,261
+1146,/us/tarot/tarot-egyptian.aspx,200,OK,Birthday Page - Thread Group 1-15,text,true,213610,147,23,23,https://new.horoscope.com/us/tarot/tarot-egyptian.aspx,996,267
+1023,/us/games/index-games-quiz-astro.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,211847,155,23,23,https://new.horoscope.com/us/games/index-games-quiz-astro.aspx,903,251
+1139,/us/games/divination/game-psychic-test.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,212260,161,23,23,https://new.horoscope.com/us/games/divination/game-psychic-test.aspx,1000,278
+1087,/us/games/calculator/game-zodiac-sign-finder.aspx,200,OK,Birthday Page - Thread Group 1-11,text,true,214199,167,23,23,https://new.horoscope.com/us/games/calculator/game-zodiac-sign-finder.aspx,942,295
+874,/us/games/divination/game-mood-ring.aspx,200,OK,Birthday Page - Thread Group 1-8,text,true,209208,158,23,23,https://new.horoscope.com/us/games/divination/game-mood-ring.aspx,761,254
+901,/us/tarot/tarot-friend-or-foe.aspx,200,OK,Birthday Page - Thread Group 1-22,text,true,213744,152,23,23,https://new.horoscope.com/us/tarot/tarot-friend-or-foe.aspx,762,298
+541,/celebrities/taurus/george-clooney-birthday/,404,Not Found,Birthday Page - Thread Group 1-12,text,false,1578,162,23,23,https://new.horoscope.com/celebrities/taurus/george-clooney-birthday/,541,257
+575,/us/psychics/KEEN-psychic-reading.aspx,200,OK,Birthday Page - Thread Group 1-18,text,true,193584,156,23,23,https://new.horoscope.com/us/psychics/KEEN-psychic-reading.aspx,444,290
+760,/us/tarot/tarot-gems.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,211988,143,23,23,https://new.horoscope.com/us/tarot/tarot-gems.aspx,567,290
+452,/images-US/games/game-ask-genie-default.png,200,OK,Birthday Page - Thread Group 1-19,bin,true,40020,161,23,23,https://new.horoscope.com/images-US/games/game-ask-genie-default.png,438,299
+527,/css-US/numerology.css?v=2023022312,200,OK,Birthday Page - Thread Group 1-20,text,true,55112,153,23,23,https://new.horoscope.com/css-US/numerology.css?v=2023022312,474,299
+570,/article/weekly-horoscope-february-20/,200,OK,Birthday Page - Thread Group 1-13,text,true,218179,156,23,23,https://new.horoscope.com/article/weekly-horoscope-february-20/,428,266
+459,/celebrities/gemini/rafael-nadal-birthday/,404,Not Found,Birthday Page - Thread Group 1-10,text,false,1578,160,23,23,https://new.horoscope.com/celebrities/gemini/rafael-nadal-birthday/,459,302
+447,/celebrities/gemini/celebrity-gemini-birthdays-edward-snowden-birthday/,404,Not Found,Birthday Page - Thread Group 1-14,text,false,1578,189,23,23,https://new.horoscope.com/celebrities/gemini/celebrity-gemini-birthdays-edward-snowden-birthday/,447,287
+614,/us/games/divination/game-ask-psychic.aspx,200,OK,Birthday Page - Thread Group 1-16,text,true,209161,160,23,23,https://new.horoscope.com/us/games/divination/game-ask-psychic.aspx,475,297
+603,/us/tarot/tarot-daily-career.aspx,200,OK,Birthday Page - Thread Group 1-23,text,true,213735,151,23,23,https://new.horoscope.com/us/tarot/tarot-daily-career.aspx,469,277
+451,/js-US/keen-iframeResizer.min.js?v=2023022312,200,OK,Birthday Page - Thread Group 1-7,text,true,13149,163,23,23,https://new.horoscope.com/js-US/keen-iframeResizer.min.js?v=2023022312,444,266
+490,/celebrities/taurus/gigi-hadid-birthday/,404,Not Found,Birthday Page - Thread Group 1-2,text,false,1578,158,23,23,https://new.horoscope.com/celebrities/taurus/gigi-hadid-birthday/,490,287
+504,/us/horoscopes/yearly/2023-chinese-horoscope-overview.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,205047,176,23,23,https://new.horoscope.com/us/horoscopes/yearly/2023-chinese-horoscope-overview.aspx,400,231
+453,/celebrities/aries/,404,Not Found,Birthday Page - Thread Group 1-4,text,false,1578,137,23,23,https://new.horoscope.com/celebrities/aries/,453,294
+618,/us/games/index-games-calculator.aspx,200,OK,Birthday Page - Thread Group 1-21,text,true,207621,155,23,23,https://new.horoscope.com/us/games/index-games-calculator.aspx,484,300
+425,/wp-content/themes/horoscope/dist/css/style.css?ver=0.1.3,404,Not Found,Birthday Page - Thread Group 1-12,text,false,1653,175,23,23,https://new.horoscope.com/wp-content/themes/horoscope/dist/css/style.css?ver=0.1.3,425,251
+448,/wp-content/themes/horoscope/dist/js/frontend.js?ver=0.1.3,404,Not Found,Birthday Page - Thread Group 1-22,text,false,1653,176,23,23,https://new.horoscope.com/wp-content/themes/horoscope/dist/js/frontend.js?ver=0.1.3,448,286
+546,/us/editorial/faqs/editorial-faq-astrology-basics4.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,206572,173,23,23,https://new.horoscope.com/us/editorial/faqs/editorial-faq-astrology-basics4.aspx,422,254
+498,/us/editorial/faqs/editorial-faq-horoscope-signs.aspx,200,OK,Birthday Page - Thread Group 1-8,text,true,206541,171,23,23,https://new.horoscope.com/us/editorial/faqs/editorial-faq-horoscope-signs.aspx,392,227
+571,/zodiac-signs/gemini/lifestyle,200,OK,Birthday Page - Thread Group 1-15,text,true,211522,148,23,23,https://new.horoscope.com/zodiac-signs/gemini/lifestyle,430,290
+420,/css-US/profile.css?v=2023022312,200,OK,Birthday Page - Thread Group 1-3,text,true,55491,150,23,23,https://new.horoscope.com/css-US/profile.css?v=2023022312,374,224
+740,/us/tarot/tarot-inner-animal.aspx,200,OK,Birthday Page - Thread Group 1-9,text,true,219084,151,23,23,https://new.horoscope.com/us/tarot/tarot-inner-animal.aspx,556,294
+570,/zodiac-signs/gemini/career-money,200,OK,Birthday Page - Thread Group 1-1,text,true,214218,151,23,23,https://new.horoscope.com/zodiac-signs/gemini/career-money,430,292
+599,/us/games/calculator/game-calories-burned-estimator.aspx,200,OK,Birthday Page - Thread Group 1-18,text,true,211122,174,23,23,https://new.horoscope.com/us/games/calculator/game-calories-burned-estimator.aspx,467,288
+519,/us/games/divination/game-secret-crush.aspx,200,OK,Birthday Page - Thread Group 1-19,text,true,209809,161,23,23,https://new.horoscope.com/us/games/divination/game-secret-crush.aspx,415,249
+770,/fr/conditions-utilisation.aspx,200,OK,Birthday Page - Thread Group 1-17,text,true,237984,149,23,23,https://new.horoscope.com/fr/conditions-utilisation.aspx,623,291
+407,/celebrities/gemini/naomi-campbell-birthday/,404,Not Found,Birthday Page - Thread Group 1-13,text,false,1578,162,23,23,https://new.horoscope.com/celebrities/gemini/naomi-campbell-birthday/,407,265
+759,/us/horoscopes/general/horoscope-overview-daily-tomorrow.aspx,200,OK,Birthday Page - Thread Group 1-11,text,true,218868,179,23,23,https://new.horoscope.com/us/horoscopes/general/horoscope-overview-daily-tomorrow.aspx,619,295
+398,/celebrities/taurus/megan-fox-birthday/,404,Not Found,Birthday Page - Thread Group 1-16,text,false,1578,157,23,23,https://new.horoscope.com/celebrities/taurus/megan-fox-birthday/,398,263
+585,/article/weekly-horoscope-february-27/,200,OK,Birthday Page - Thread Group 1-20,text,true,217435,156,23,23,https://new.horoscope.com/article/weekly-horoscope-february-27/,451,291
+461,/css-US/tarot.css?v=2023022312,200,OK,Birthday Page - Thread Group 1-4,text,true,50840,148,23,23,https://new.horoscope.com/css-US/tarot.css?v=2023022312,418,258
+423,/celebrities/gemini/anderson-cooper-birthday/,404,Not Found,Birthday Page - Thread Group 1-12,text,false,1578,163,23,23,https://new.horoscope.com/celebrities/gemini/anderson-cooper-birthday/,423,283
+582,/zodiac-signs/taurus/friendship,200,OK,Birthday Page - Thread Group 1-14,text,true,208650,149,23,23,https://new.horoscope.com/zodiac-signs/taurus/friendship,446,297
+417,/celebrities/taurus/jessica-alba-birthday/,404,Not Found,Birthday Page - Thread Group 1-15,text,false,1578,160,23,23,https://new.horoscope.com/celebrities/taurus/jessica-alba-birthday/,417,261
+402,/celebrities/gemini/celebrity-gemini-birthdays-kendrick-lamar-birthday/,404,Not Found,Birthday Page - Thread Group 1-1,text,false,1578,189,23,23,https://new.horoscope.com/celebrities/gemini/celebrity-gemini-birthdays-kendrick-lamar-birthday/,401,257
+488,/images-US/upsell/compatibility-score.jpg,200,OK,Birthday Page - Thread Group 1-22,bin,true,21265,159,23,23,https://new.horoscope.com/images-US/upsell/compatibility-score.jpg,483,292
+594,/zodiac-signs/gemini/spirituality,200,OK,Birthday Page - Thread Group 1-7,text,true,209745,151,23,23,https://new.horoscope.com/zodiac-signs/gemini/spirituality,458,274
+610,/zodiac-signs/taurus/health,200,OK,Birthday Page - Thread Group 1-3,text,true,208758,145,23,23,https://new.horoscope.com/zodiac-signs/taurus/health,472,287
+605,birthday-horoscope/pisces-party,200,OK,Birthday Page - Thread Group 1-18,text,true,209510,150,24,24,https://new.horoscope.com/birthday-horoscope/pisces-party,465,291
+543,us/tarot/tarot-angel.aspx,200,OK,Birthday Page - Thread Group 1-16,text,true,213545,144,24,24,https://new.horoscope.com/us/tarot/tarot-angel.aspx,406,262
+578,us/games/index-games-love.aspx,200,OK,Birthday Page - Thread Group 1-17,text,true,210539,149,24,24,https://new.horoscope.com/us/games/index-games-love.aspx,442,289
+942,/us/horoscopes/pet/index-horoscope-pet-weekly.aspx,200,OK,Birthday Page - Thread Group 1-23,text,true,210069,168,24,24,https://new.horoscope.com/us/horoscopes/pet/index-horoscope-pet-weekly.aspx,769,231
+577,us/horoscopes/yearly/2023-horoscope-aquarius.aspx,200,OK,Birthday Page - Thread Group 1-13,text,true,205219,168,24,24,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-aquarius.aspx,443,291
+608,us/games/divination/game-magic-8-ball.aspx,200,OK,Birthday Page - Thread Group 1-19,text,true,210294,161,24,24,https://new.horoscope.com/us/games/divination/game-magic-8-ball.aspx,469,300
+579,birthday-horoscope/taurus,200,OK,Birthday Page - Thread Group 1-20,text,true,207937,144,24,24,https://new.horoscope.com/birthday-horoscope/taurus,441,293
+495,us/games/divination/game-cupids-oracle.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,211059,162,24,24,https://new.horoscope.com/us/games/divination/game-cupids-oracle.aspx,386,250
+601,fr/index.aspx,200,OK,Birthday Page - Thread Group 1-4,text,true,193155,132,24,24,https://new.horoscope.com/fr/index.aspx,463,321
+600,birthday-horoscope/leo,200,OK,Birthday Page - Thread Group 1-12,text,true,207840,141,24,24,https://new.horoscope.com/birthday-horoscope/leo,463,284
+574,birthday-horoscope/virgo,200,OK,Birthday Page - Thread Group 1-14,text,true,207931,143,24,24,https://new.horoscope.com/birthday-horoscope/virgo,440,282
+539,birthday-horoscope/aquarius,200,OK,Birthday Page - Thread Group 1-7,text,true,207938,146,24,24,https://new.horoscope.com/birthday-horoscope/aquarius,397,261
+633,us/horoscopes/general/horoscope-overview-daily-today.aspx,200,OK,Birthday Page - Thread Group 1-15,text,true,218359,176,24,24,https://new.horoscope.com/us/horoscopes/general/horoscope-overview-daily-today.aspx,407,248
+476,us/games/divination/game-ask-genie.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,209436,158,24,24,https://new.horoscope.com/us/games/divination/game-ask-genie.aspx,372,227
+477,birthday-horoscope/scorpio,200,OK,Birthday Page - Thread Group 1-24,text,true,207888,145,24,24,https://new.horoscope.com/birthday-horoscope/scorpio,375,226
+398,mercury-retrograde/,404,Not Found,Birthday Page - Thread Group 1-19,text,false,1578,138,24,24,https://new.horoscope.com/mercury-retrograde/,398,261
+454,us/sitemap.aspx,200,OK,Birthday Page - Thread Group 1-16,text,true,67918,134,24,24,https://new.horoscope.com/us/sitemap.aspx,391,252
+1012,birth-chart/,200,OK,Birthday Page - Thread Group 1-11,text,true,39369,121,24,24,https://sites.horoscope.com/,998,591
+524,zodiac-signs/gemini,200,OK,Birthday Page - Thread Group 1-18,text,true,216702,138,24,24,https://new.horoscope.com/zodiac-signs/gemini,420,259
+508,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-23,text,true,230398,177,24,24,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=11,393,251
+519,us/horoscopes/money/horoscope-money-weekly.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-17,text,true,219943,174,24,24,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=11,416,249
+596,birthday-horoscope/pisces-gifts,200,OK,Birthday Page - Thread Group 1-13,text,true,212084,150,24,24,https://new.horoscope.com/birthday-horoscope/pisces-gifts,461,291
+1575,/fr/jeux/quiz/jeu-quiz-de-quelle-couleur-est-votre-aura.aspx,200,OK,Birthday Page - Thread Group 1-10,text,true,188464,178,24,24,https://new.horoscope.com/fr/jeux/quiz/jeu-quiz-de-quelle-couleur-est-votre-aura.aspx,1442,299
+955,zodiac-signs/taurus,200,OK,Birthday Page - Thread Group 1-22,text,true,216092,138,24,24,https://new.horoscope.com/zodiac-signs/taurus,758,298
+436,celebrities/,404,Not Found,Birthday Page - Thread Group 1-7,text,false,1578,131,24,24,https://new.horoscope.com/celebrities/,436,287
+1556,/us/tarot/tarot-erotic.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,213544,145,24,24,https://new.horoscope.com/us/tarot/tarot-erotic.aspx,1420,294
+1571,/us/tarot/tarot-weekly.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,213577,145,24,24,https://new.horoscope.com/us/tarot/tarot-weekly.aspx,1425,284
+1504,/us/editorial/faqs/editorial-faq-what-are-zodiac-signs.aspx,200,OK,Birthday Page - Thread Group 1-21,text,true,207052,177,24,24,https://new.horoscope.com/us/editorial/faqs/editorial-faq-what-are-zodiac-signs.aspx,1368,293
+1425,/fr/horoscopes/chinois/index-horoscope-chinois.aspx,404,Not Found,Birthday Page - Thread Group 1-9,text,false,2198,169,24,24,https://new.horoscope.com/fr/horoscopes/chinois/index-horoscope-chinois.aspx,1425,298
+1473,/us/games/compatibility/game-chinese-compatibility.aspx,200,OK,Birthday Page - Thread Group 1-8,text,true,211801,173,24,24,https://new.horoscope.com/us/games/compatibility/game-chinese-compatibility.aspx,1338,273
+1480,/us/games/calculator/game-exact-age-calculator.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,214386,169,24,24,https://new.horoscope.com/us/games/calculator/game-exact-age-calculator.aspx,1346,285
+568,birthday-horoscope/gemini,200,OK,Birthday Page - Thread Group 1-20,text,true,207842,144,24,24,https://new.horoscope.com/birthday-horoscope/gemini,435,285
+585,birthday-horoscope/pisces-destinations,200,OK,Birthday Page - Thread Group 1-1,text,true,209758,157,24,24,https://new.horoscope.com/birthday-horoscope/pisces-destinations,439,294
+592,us/games/divination/game-luck-meter.aspx,200,OK,Birthday Page - Thread Group 1-4,text,true,210740,159,24,24,https://new.horoscope.com/us/games/divination/game-luck-meter.aspx,449,291
+582,tarot/tarot-yes-no.aspx,200,OK,Birthday Page - Thread Group 1-12,text,true,212294,142,24,24,https://new.horoscope.com/tarot/tarot-yes-no.aspx,444,260
+583,us/horoscopes/numerology/index-horoscope-numerology.aspx,200,OK,Birthday Page - Thread Group 1-14,text,true,222479,175,24,24,https://new.horoscope.com/us/horoscopes/numerology/index-horoscope-numerology.aspx,437,292
+579,us/games/divination/game-love-fairy.aspx,200,OK,Birthday Page - Thread Group 1-15,text,true,212782,159,24,24,https://new.horoscope.com/us/games/divination/game-love-fairy.aspx,440,287
+556,psychics/tarot.html,200,OK,Birthday Page - Thread Group 1-24,text,true,193537,138,24,24,https://new.horoscope.com/psychics/tarot.html,425,280
+565,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-3,text,true,219896,177,24,24,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=11,430,284
+475,us/tarot/tarot-today-tomorrow.aspx,200,OK,Birthday Page - Thread Group 1-11,text,true,211387,153,24,24,https://new.horoscope.com/us/tarot/tarot-today-tomorrow.aspx,371,234
+523,us/about-us.aspx,200,OK,Birthday Page - Thread Group 1-19,text,true,203393,135,24,24,https://new.horoscope.com/us/about-us.aspx,420,272
+490,us/tarot/tarot-daily.aspx,200,OK,Birthday Page - Thread Group 1-16,text,true,212090,144,24,24,https://new.horoscope.com/us/tarot/tarot-daily.aspx,389,252
+466,images-US/horoscope-logo.svg,200,OK,Birthday Page - Thread Group 1-17,text,true,4258,147,24,24,https://new.horoscope.com/images-US/horoscope-logo.svg,465,289
+573,us/planets/index.html,200,OK,Birthday Page - Thread Group 1-23,text,true,214829,140,24,24,https://new.horoscope.com/us/planets/index.html,436,293
+502,birthday-horoscope/aries,200,OK,Birthday Page - Thread Group 1-22,text,true,207860,143,24,24,https://new.horoscope.com/birthday-horoscope/aries,400,259
+621,us/privacy.aspx,200,OK,Birthday Page - Thread Group 1-18,text,true,242079,134,24,24,https://new.horoscope.com/us/privacy.aspx,474,298
+519,zodiac-signs/pisces,200,OK,Birthday Page - Thread Group 1-6,text,true,215781,138,24,24,https://new.horoscope.com/zodiac-signs/pisces,400,254
+589,us/tarot/index-tarot-reading-love.aspx,200,OK,Birthday Page - Thread Group 1-13,text,true,209719,157,24,24,https://new.horoscope.com/us/tarot/index-tarot-reading-love.aspx,446,288
+508,us/advertise.aspx,200,OK,Birthday Page - Thread Group 1-8,text,true,205746,136,24,24,https://new.horoscope.com/us/advertise.aspx,391,253
+572,us/games/divination/game-love-cookie.aspx,200,OK,Birthday Page - Thread Group 1-7,text,true,209943,160,24,24,https://new.horoscope.com/us/games/divination/game-love-cookie.aspx,429,286
+567,us/tarot/index-tarot-reading.aspx,200,OK,Birthday Page - Thread Group 1-9,text,true,222204,152,24,24,https://new.horoscope.com/us/tarot/index-tarot-reading.aspx,420,280
+487,birthday-horoscope/pisces,200,OK,Birthday Page - Thread Group 1-4,text,true,207868,144,24,24,https://new.horoscope.com/birthday-horoscope/pisces,366,230
+594,us/tarot/index-tarot-reading-unique.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,209844,159,24,24,https://new.horoscope.com/us/tarot/index-tarot-reading-unique.aspx,442,286
+599,us/games/divination/game-crystal-ball.aspx,200,OK,Birthday Page - Thread Group 1-21,text,true,209897,161,24,24,https://new.horoscope.com/us/games/divination/game-crystal-ball.aspx,438,288
+580,psychics/psychics.html,200,OK,Birthday Page - Thread Group 1-20,text,true,193557,141,24,24,https://new.horoscope.com/psychics/psychics.html,432,284
+596,birthday-horoscope/libra,200,OK,Birthday Page - Thread Group 1-5,text,true,207851,143,24,24,https://new.horoscope.com/birthday-horoscope/libra,434,293
+573,us/index.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,210506,132,24,24,https://new.horoscope.com/us/index.aspx,420,275
+553,us/games/index-games-instant-advice.aspx,200,OK,Birthday Page - Thread Group 1-12,text,true,209074,159,24,24,https://new.horoscope.com/us/games/index-games-instant-advice.aspx,400,253
+553,zodiac-signs/aries,200,OK,Birthday Page - Thread Group 1-14,text,true,215098,137,24,24,https://new.horoscope.com/zodiac-signs/aries,392,256
+725,zodiac-signs/virgo,200,OK,Birthday Page - Thread Group 1-10,text,true,215473,137,24,24,https://new.horoscope.com/zodiac-signs/virgo,565,265
+503,zodiac-signs/cancer,200,OK,Birthday Page - Thread Group 1-24,text,true,216840,138,24,24,https://new.horoscope.com/zodiac-signs/cancer,389,244
+553,birthday-horoscope/cancer,200,OK,Birthday Page - Thread Group 1-15,text,true,207867,144,24,24,https://new.horoscope.com/birthday-horoscope/cancer,408,261
+571,psychics/love.html,200,OK,Birthday Page - Thread Group 1-3,text,true,193572,137,24,24,https://new.horoscope.com/psychics/love.html,439,291
+518,us/tarot/tarot-lovers-triangle.aspx,200,OK,Birthday Page - Thread Group 1-19,text,true,212498,154,24,24,https://new.horoscope.com/us/tarot/tarot-lovers-triangle.aspx,408,264
+532,zodiac-signs/leo,200,OK,Birthday Page - Thread Group 1-16,text,true,215103,135,24,24,https://new.horoscope.com/zodiac-signs/leo,422,279
+557,us/tos.aspx,200,OK,Birthday Page - Thread Group 1-11,text,true,255683,130,24,24,https://new.horoscope.com/us/tos.aspx,410,262
+523,us/games/index-games.aspx,200,OK,Birthday Page - Thread Group 1-17,text,true,216310,144,24,24,https://new.horoscope.com/us/games/index-games.aspx,415,271
+441,astrology/,404,Not Found,Birthday Page - Thread Group 1-18,text,false,1578,129,24,24,https://new.horoscope.com/astrology/,441,302
+580,us/tarot/tarot-love-potential.aspx,200,OK,Birthday Page - Thread Group 1-23,text,true,213699,153,24,24,https://new.horoscope.com/us/tarot/tarot-love-potential.aspx,440,297
+587,us/tarot/tarot-money-oracle.aspx,200,OK,Birthday Page - Thread Group 1-22,text,true,213392,151,24,24,https://new.horoscope.com/us/tarot/tarot-money-oracle.aspx,451,308
+375,horoscope-dates/,404,Not Found,Birthday Page - Thread Group 1-14,text,false,1578,135,24,24,https://new.horoscope.com/horoscope-dates/,374,246
+601,us/horoscopes/chinese/index-horoscope-chinese.aspx,200,OK,Birthday Page - Thread Group 1-6,text,true,214971,169,24,24,https://new.horoscope.com/us/horoscopes/chinese/index-horoscope-chinese.aspx,454,309
+584,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-13,text,true,229965,183,24,24,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=11,436,280
+537,us/games/index-games-fortune-teller.aspx,200,OK,Birthday Page - Thread Group 1-21,text,true,207790,159,24,24,https://new.horoscope.com/us/games/index-games-fortune-teller.aspx,402,264
+527,css-US/main.css?v=2023022312,200,OK,Birthday Page - Thread Group 1-20,text,true,107742,147,24,24,https://new.horoscope.com/css-US/main.css?v=2023022312,447,300
+587,us/games/divination/game-magic-love-ball.aspx,200,OK,Birthday Page - Thread Group 1-9,text,true,210610,164,24,24,https://new.horoscope.com/us/games/divination/game-magic-love-ball.aspx,435,292
+582,us/team.aspx,200,OK,Birthday Page - Thread Group 1-2,text,true,202487,131,24,24,https://new.horoscope.com/us/team.aspx,437,288
+512,us/games/compatibility/game-name-compatibility.aspx,200,OK,Birthday Page - Thread Group 1-12,text,true,214292,170,24,24,https://new.horoscope.com/us/games/compatibility/game-name-compatibility.aspx,391,250
+602,psychics,200,OK,Birthday Page - Thread Group 1-4,text,true,193556,127,24,24,https://new.horoscope.com/psychics,458,296
+620,zodiac-signs/capricorn,200,OK,Birthday Page - Thread Group 1-7,text,true,215884,141,24,24,https://new.horoscope.com/zodiac-signs/capricorn,468,326
+528,articles,200,OK,Birthday Page - Thread Group 1-10,text,true,213906,127,25,25,https://new.horoscope.com/articles,409,253
+555,us/games/divination/game-fortune-cookie.aspx,200,OK,Birthday Page - Thread Group 1-1,text,true,209204,163,25,25,https://new.horoscope.com/us/games/divination/game-fortune-cookie.aspx,404,261
+581,us/tarot/tarot-monthly.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,212140,146,25,25,https://new.horoscope.com/us/tarot/tarot-monthly.aspx,436,289
+727,us/emails/email-subscription.aspx,200,OK,Birthday Page - Thread Group 1-8,text,true,200974,152,25,25,https://new.horoscope.com/us/emails/email-subscription.aspx,584,283
+492,us/games/compatibility/game-friendship-compatibility.aspx,200,OK,Birthday Page - Thread Group 1-19,text,true,211095,176,25,25,https://new.horoscope.com/us/games/compatibility/game-friendship-compatibility.aspx,384,245
+567,zodiac-signs/libra,200,OK,Birthday Page - Thread Group 1-24,text,true,216533,137,25,25,https://new.horoscope.com/zodiac-signs/libra,420,282
+544,love/compatibility,200,OK,Birthday Page - Thread Group 1-15,text,true,212108,137,25,25,https://new.horoscope.com/love/compatibility,403,255
+571,us/tarot/tarot-true-love.aspx,200,OK,Birthday Page - Thread Group 1-3,text,true,211260,148,25,25,https://new.horoscope.com/us/tarot/tarot-true-love.aspx,437,282
+573,birthday-horoscope/capricorn,200,OK,Birthday Page - Thread Group 1-16,text,true,208037,147,25,25,https://new.horoscope.com/birthday-horoscope/capricorn,440,289
+566,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-11,text,true,220199,178,25,25,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=11,454,266
+596,zodiac-signs/scorpio,200,OK,Birthday Page - Thread Group 1-17,text,true,215820,139,25,25,https://new.horoscope.com/zodiac-signs/scorpio,460,299
+603,zodiac-signs,200,OK,Birthday Page - Thread Group 1-18,text,true,246160,131,25,25,https://new.horoscope.com/zodiac-signs,454,309
+485,us/games/index-games-compatibility.aspx,200,OK,Birthday Page - Thread Group 1-14,text,true,208658,158,25,25,https://new.horoscope.com/us/games/index-games-compatibility.aspx,382,249
+430,saturn-return/,404,Not Found,Birthday Page - Thread Group 1-6,text,false,1578,133,25,25,https://new.horoscope.com/saturn-return/,430,291
+590,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-22,text,true,229352,185,25,25,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=11,449,303
+502,birthday-horoscope/pisces-pampering,200,OK,Birthday Page - Thread Group 1-25,text,true,209474,154,25,25,https://new.horoscope.com/birthday-horoscope/pisces-pampering,386,248
+584,us/tarot/index-tarot-reading-forecast.aspx,200,OK,Birthday Page - Thread Group 1-13,text,true,207636,161,25,25,https://new.horoscope.com/us/tarot/index-tarot-reading-forecast.aspx,444,287
+706,birthday-horoscope.aspx,200,OK,Birthday Page - Thread Group 1-23,text,true,212256,142,25,25,https://new.horoscope.com/birthday-horoscope.aspx,512,293
+581,us/tarot/tarot-daily-love.aspx,200,OK,Birthday Page - Thread Group 1-21,text,true,213489,149,25,25,https://new.horoscope.com/us/tarot/tarot-daily-love.aspx,444,270
+564,zodiac-signs/aquarius,200,OK,Birthday Page - Thread Group 1-7,text,true,214773,140,25,25,https://new.horoscope.com/zodiac-signs/aquarius,418,264
+576,us/feedback.aspx,200,OK,Birthday Page - Thread Group 1-12,text,true,204261,135,25,25,https://new.horoscope.com/us/feedback.aspx,433,293
+596,birthday-horoscope/sagittarius,200,OK,Birthday Page - Thread Group 1-2,text,true,207896,149,25,25,https://new.horoscope.com/birthday-horoscope/sagittarius,448,265
+588,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=11,200,OK,Birthday Page - Thread Group 1-4,text,true,228087,181,25,25,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=11,437,288
+618,us/tarot/tarot-past-lives.aspx,200,OK,Birthday Page - Thread Group 1-9,text,true,214174,149,25,25,https://new.horoscope.com/us/tarot/tarot-past-lives.aspx,467,298
+593,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-1,text,true,227323,180,25,25,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=1,441,294
+600,us/horoscopes/yearly/2023-horoscope-virgo.aspx,200,OK,Birthday Page - Thread Group 1-10,text,true,205293,165,25,25,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-virgo.aspx,456,294
+591,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-5,text,true,227428,180,25,25,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=8,440,286
+525,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-19,text,true,227330,180,25,25,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=7,406,255
+589,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-8,text,true,227910,180,25,25,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=9,439,291
+580,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-24,text,true,227792,180,25,25,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=4,428,264
+584,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-15,text,true,227341,180,25,25,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=5,464,323
+474,us/horoscopes/yearly/2023-horoscope-libra.aspx,200,OK,Birthday Page - Thread Group 1-17,text,true,205437,165,25,25,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-libra.aspx,368,230
+804,zodiac-signs/sagittarius,200,OK,Birthday Page - Thread Group 1-20,text,true,215639,143,25,25,https://new.horoscope.com/zodiac-signs/sagittarius,655,516
+593,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-16,text,true,227903,180,25,25,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=2,440,297
+610,us/horoscopes/yearly/2023-horoscope-aries.aspx,200,OK,Birthday Page - Thread Group 1-11,text,true,205172,165,25,25,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-aries.aspx,477,308
+530,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-18,text,true,230810,177,25,25,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=10,420,268
+695,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-3,text,true,227691,180,25,25,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=6,508,288
+593,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-14,text,true,227374,180,25,25,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=3,447,298
+600,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-6,text,true,230343,177,25,25,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=12,454,298
+371,images-US/psychic/quote.png,200,OK,Birthday Page - Thread Group 1-10,bin,true,989,146,25,25,https://new.horoscope.com/images-US/psychic/quote.png,371,295
+575,us/horoscopes/yearly/2023-horoscope-pisces.aspx,200,OK,Birthday Page - Thread Group 1-22,text,true,204925,166,25,25,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-pisces.aspx,441,298
+503,tarot/tarot-card-meaning/the-high-priestess,200,OK,Birthday Page - Thread Group 1-4,text,true,214837,162,25,25,https://new.horoscope.com/tarot/tarot-card-meaning/the-high-priestess,394,258
+590,us/horoscopes/money/horoscope-money-weekly.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-23,text,true,219941,174,25,25,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=12,442,294
+623,us/horoscopes/money/horoscope-money-weekly.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-25,text,true,220278,174,25,25,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=10,468,301
+614,us/horoscopes/yearly/2023-horoscope-taurus.aspx,200,OK,Birthday Page - Thread Group 1-13,text,true,205400,166,25,25,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-taurus.aspx,469,331
+567,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-2,text,true,220176,177,25,25,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=2,418,272
+593,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-7,text,true,220080,177,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=12,445,293
+566,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-1,text,true,230232,176,25,25,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=1,415,273
+623,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-12,text,true,220178,177,25,25,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=1,465,318
+602,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-9,text,true,229537,182,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=1,444,291
+564,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-19,text,true,230280,176,25,25,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=7,411,265
+598,us/horoscopes/yearly/2023-horoscope-cancer.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,205303,166,25,25,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-cancer.aspx,448,293
+519,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-17,text,true,230808,176,25,25,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=9,392,254
+582,us/horoscopes/yearly/2023-horoscope-gemini.aspx,200,OK,Birthday Page - Thread Group 1-24,text,true,205177,166,25,25,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-gemini.aspx,432,277
+606,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-8,text,true,230827,176,25,25,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=6,445,291
+757,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-21,text,true,220729,177,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=10,605,294
+594,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-20,text,true,230765,176,25,25,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=2,438,292
+586,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-16,text,true,230189,176,25,25,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=4,443,291
+584,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-11,text,true,230759,176,25,25,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=3,443,288
+715,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-15,text,true,230850,176,25,25,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=8,519,298
+585,us/horoscopes/love/horoscope-love-daily-today.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-18,text,true,230639,176,25,25,https://new.horoscope.com/us/horoscopes/love/horoscope-love-daily-today.aspx?sign=5,442,295
+602,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-3,text,true,220702,177,25,25,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=9,462,302
+615,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-14,text,true,220384,177,25,25,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=7,477,330
+587,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-10,text,true,220475,177,25,25,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=6,446,281
+649,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-6,text,true,220482,177,25,25,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=8,493,314
+597,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-22,text,true,220667,177,25,25,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=5,461,282
+539,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-25,text,true,230217,183,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=10,418,270
+580,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-23,text,true,220622,177,25,25,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=3,433,280
+595,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-13,text,true,220605,177,25,25,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=4,457,305
+603,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-2,text,true,229471,182,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=9,454,281
+606,us/horoscopes/yearly/2023-horoscope-scorpio.aspx,200,OK,Birthday Page - Thread Group 1-7,text,true,205364,167,25,25,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-scorpio.aspx,449,296
+564,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-9,text,true,229536,182,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=7,417,269
+601,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-12,text,true,229616,182,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=6,447,289
+570,us/horoscopes/yearly/2023-horoscope-leo.aspx,200,OK,Birthday Page - Thread Group 1-5,text,true,205270,163,25,25,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-leo.aspx,427,287
+608,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-19,text,true,230221,182,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=5,447,298
+722,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-4,text,true,230163,183,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=12,532,316
+594,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-17,text,true,230144,182,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=4,437,298
+587,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-8,text,true,230071,182,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=3,425,268
+591,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-21,text,true,219952,176,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=2,446,291
+728,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-1,text,true,229604,182,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=8,531,299
+566,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-20,text,true,220685,176,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=3,412,270
+588,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-16,text,true,229525,184,25,25,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=1,444,304
+576,us/horoscopes/yearly/2023-horoscope-sagittarius.aspx,200,OK,Birthday Page - Thread Group 1-15,text,true,205233,171,25,25,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-sagittarius.aspx,434,288
+585,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-11,text,true,220492,176,25,25,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=1,440,287
+736,us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-24,text,true,229840,182,26,26,https://new.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=2,585,288
+578,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-18,text,true,229449,184,26,26,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=8,436,259
+577,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-3,text,true,229360,184,26,26,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=9,434,294
+594,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-10,text,true,229043,184,26,26,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=7,451,302
+624,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-14,text,true,229005,184,26,26,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=6,482,305
+575,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-22,text,true,229492,184,26,26,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=4,431,286
+502,us/horoscopes/yearly/2023-horoscope-capricorn.aspx,200,OK,Birthday Page - Thread Group 1-7,text,true,205123,169,26,26,https://new.horoscope.com/us/horoscopes/yearly/2023-horoscope-capricorn.aspx,381,239
+603,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-25,text,true,220241,178,25,25,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=10,457,307
+569,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-23,text,true,229055,184,24,24,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=5,438,298
+521,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-5,text,true,229008,185,23,23,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=12,398,254
+587,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-13,text,true,229361,184,22,22,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=2,447,284
+720,us/horoscopes/general/retail-therapy-horoscope.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-6,text,true,220193,178,21,21,https://new.horoscope.com/us/horoscopes/general/retail-therapy-horoscope.aspx?sign=12,535,315
+608,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-2,text,true,228979,184,20,20,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=3,437,293
+677,us/horoscopes/money/horoscope-money-weekly.aspx?sign=1,200,OK,Birthday Page - Thread Group 1-9,text,true,220379,173,19,19,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=1,442,276
+571,us/horoscopes/money/horoscope-money-weekly.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-8,text,true,219964,173,19,19,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=9,397,252
+646,us/horoscopes/money/horoscope-money-weekly.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-12,text,true,220094,173,19,19,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=6,455,291
+628,us/horoscopes/money/horoscope-money-weekly.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-4,text,true,219976,173,19,19,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=8,441,296
+633,us/horoscopes/money/horoscope-money-weekly.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-19,text,true,219859,173,15,15,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=7,472,292
+561,quote-of-the-day,200,OK,Birthday Page - Thread Group 1-1,text,true,209408,135,14,14,https://new.horoscope.com/quote-of-the-day,420,261
+597,us/horoscopes/money/horoscope-money-weekly.aspx?sign=2,200,OK,Birthday Page - Thread Group 1-21,text,true,220278,173,13,13,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=2,454,287
+510,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=9,200,OK,Birthday Page - Thread Group 1-26,text,true,220005,176,12,12,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=9,436,256
+585,us/horoscopes/money/horoscope-money-weekly.aspx?sign=3,200,OK,Birthday Page - Thread Group 1-20,text,true,219941,173,11,11,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=3,509,290
+504,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-18,text,true,227962,181,10,10,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=10,416,249
+557,us/horoscopes/career/horoscope-career-daily-today.aspx?sign=12,200,OK,Birthday Page - Thread Group 1-24,text,true,227846,181,9,9,https://new.horoscope.com/us/horoscopes/career/horoscope-career-daily-today.aspx?sign=12,431,266
+577,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=8,200,OK,Birthday Page - Thread Group 1-11,text,true,220094,176,8,8,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=8,445,300
+722,us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=10,200,OK,Birthday Page - Thread Group 1-17,text,true,229501,185,7,7,https://new.horoscope.com/us/horoscopes/wellness/horoscope-wellness-daily-today.aspx?sign=10,590,293
+603,us/horoscopes/money/horoscope-money-weekly.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-16,text,true,220191,173,6,6,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=4,467,302
+648,us/horoscopes/money/horoscope-money-weekly.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-15,text,true,219933,173,5,5,https://new.horoscope.com/us/horoscopes/money/horoscope-money-weekly.aspx?sign=5,465,257
+659,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=6,200,OK,Birthday Page - Thread Group 1-3,text,true,220034,176,4,4,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=6,521,378
+557,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=7,200,OK,Birthday Page - Thread Group 1-14,text,true,220239,176,3,3,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=7,454,304
+648,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=5,200,OK,Birthday Page - Thread Group 1-22,text,true,220513,176,2,2,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=5,509,368
+737,us/horoscopes/general/horoscope-what-to-watch.aspx?sign=4,200,OK,Birthday Page - Thread Group 1-10,text,true,220483,176,1,1,https://new.horoscope.com/us/horoscopes/general/horoscope-what-to-watch.aspx?sign=4,546,327

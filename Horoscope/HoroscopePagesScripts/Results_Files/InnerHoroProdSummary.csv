@@ -1,4 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,grpThreads,allThreads,Latency,Connect
-1674850879357,8411,/us/emails/email-subscription.aspx,200,OK,Horoscope Inner Page Thread Group 1-1,false,"The operation lasted too long: It took 8,411 milliseconds, but should not have lasted longer than 2,500 milliseconds.",1,1,177,1
-1674850879357,177,/us/emails/email-subscription.aspx-0,301,Moved Permanently,Horoscope Inner Page Thread Group 1-1,true,,1,1,177,1
-1674850879534,8234,/us/emails/email-subscription.aspx-1,200,OK,Horoscope Inner Page Thread Group 1-1,true,,1,1,8064,186
